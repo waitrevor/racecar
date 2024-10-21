@@ -1,0 +1,77 @@
+<div class="main-content">
+  <h1 class="centered-content">Search for a Member - Past or Present</h1>
+
+  <p>
+    This page allows you to search for SGGEE members. You can perform partial name searches and use advanced search options.
+  </p>
+
+  <p>
+    You can also search the <a href="#/members/Volhynia_1900-18_marriage.html">Marriage</a> and <a href="#/members/Volhynia_1900-18_death.html">Death</a> databases. Back to the <a href="#/members/Volhynia_1900-18.html">Introductory Volhynian Archive page</a>.
+  </p>
+
+  <h2>Using the Search Tool</h2>
+
+  <p>
+    We encourage you to review <a href="#/members/SearchInstruct.html">instructions</a> for using our search tool, especially if this is your first time. They will provide hints and tips for optimizing your search, ensuring a better chance of getting results.
+  </p>
+
+  <form id="MemberData" action="/sggee/SGGEESearch" method="post" name="MemberData">
+    <input name="op" value="search" type="hidden">
+    <input name="searchWhat" value="SGGEEmembership" type="hidden">
+
+    <div class="form-section">
+      <input name="MemNum" type="text" placeholder="Member Number">
+      <input name="Name" type="text" placeholder="Member Name">
+      <input name="CityState" type="text" placeholder="City, State/Province, Country">
+      <input name="email" type="text" placeholder="Member Email">
+    </div>
+
+    <div class="flex-row-container">
+      <div class="form-section">
+        <label class="radio-option">
+          <input name="search_type" value="advanced" type="radio">
+          <span>Case Sensitive / Advanced Search</span>
+        </label>
+        <label class="radio-option">
+          <input name="search_type" value="exact" type="radio">
+          <span>Exact Match</span>
+        </label>
+      </div>
+
+      <div class="form-section">
+        Sort Results by:
+        <label>
+          <select name="sort_by">
+            <option value="0">Member Number</option>
+            <option value="2">Enroll Date</option>
+            <option value="3">Member Name</option>
+            <option value="4">Email Address</option>
+            <option value="6">City, State/Province</option>
+            <option value="7">Country</option>
+            <option value="11">Languages</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div class="centered-content">
+      <button name="search_and_display_db_button" type="submit">Search</button>
+    </div>
+  </form>
+
+  <p>&nbsp;</p>
+
+  <p><strong>Advanced Search Tips</strong></p>
+  <ul>
+    <li>+  after a number or letter will return all occurrences of records with  one or more of the characters preceding the +. Thus Cab+ finds Cab,  Cabby, and so on.</li>
+    <li>* after a number or letter will return  all occurrences of records with zero or more of the characters  preceding the *. Thus ab* finds sad, cab, sabbath, and so on.</li>
+    <li>?  after a number or letter indicates that the number or letter preceding  the ? is optional. Thus ou?r finds color, colour, and so on.</li>
+    <li>.  (the period) puts any character or number in its place that is found in  the records searched. Thus n.t finds not, nit, nat, and so on.</li>
+    <li>[^c]  finds any record that does not contain c (or whatever other character  is inserted after the ^ inside the brackets). Thus ar[^c] finds are,  art, but not arc. If you want to find all the names that begin with the  letter B, type ^B in the Name blank (case sensitve search only).</li>
+    <li>[0-9] puts any digit in place of the bracketed item. Thus 1234[0-9] finds 12346, 12348, 12349, and so on</li>
+    <li>^  finds all records that start with the letters following the ^. Thus  ^war finds war, ward, and wart, but not southward, eastward, forewarn  and so on.</li>
+    <li>$ matches the end of the record field. Thus happy$ would find Edith Happy, but not happy birthday.</li>
+    <li>() groups characters together. Thus (123) finds 123, 64123, 61234, etc.</li>
+    <li>You can also use multiple special characters if you are brave enough. Thus (123)+ finds 123, 123123, and 123123123, and so on.</li>
+  </ul>
+</div>

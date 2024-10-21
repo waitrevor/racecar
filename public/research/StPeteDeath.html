@@ -1,0 +1,91 @@
+<div class="main-content">
+  <h1 class="centered-content">Search the VKP Death Records</h1>
+  <p></p>
+  <div>
+    <div>
+      <h2>Volhynia, Kiev and Podolia Lutheran Parishes</h2>
+      <p>See the <a href="#/databases.html" target="_blank">Databases</a> page for explanatory information about the VKP database.</p>
+      <p>This database is an index of:</p>
+      <ul>
+        <li>Deaths for the parishes of Zhitomir, Rozyszcze, Heimtal (all in Volhynia), Kiev, and Podolia for years 1833 to 1885, with some years missing, extracted from FHL microfilms of St. Petersburg Archive records.
+          <p>Plus the following data extracted from online scans of the AGAD register books and including the link to the online scan for each entry:</p>
+        </li>
+        <li>Deaths for Rozyszcze parish for the years 1862 to 1939 (1909 is missing).</li>
+        <li>Deaths for Wladimir-Wolynsk parish for the years 1891 to 1899 and 1923 to 1939.</li>
+        <li>Deaths for Lutzk parish for the years 1904 to 1935. The years 1915 to 1919 are in progress.</li>
+        <li>Deaths for 20 kantorates for varying years. Most of the kantorates are in the Rowno and Tutschin area.</li>
+      </ul>
+      <blockquote>
+        <p><strong>Note:</strong> For the death of a married woman, the given name (if stated) of her husband is listed in the search results column Father or Husband. For the death of a married man, the name (if stated) of his wife is listed in the columns Mother's or Wife's Surname and Mother's or Wife's Given Name.</p>
+        <p><strong>Note:</strong> The spelling of names may vary due to many causes, so it is desirable to check for possible variants when searching for a surname. For example, when searching for Buelau, one should also do a search for Buelow, Bilau, Bilow, Bylow, etc. Also, in some instances in the VKP databases, the surname is “corrected” to the more common spelling when a misleading spelling occurs in the church record.</p>
+      </blockquote>
+      <p>You can also search the <a href="#/stpete/birth/search">Birth</a> and <a href="#/stpete/marriage/search">Marriage</a> databases.</p>
+      <p>&nbsp;</p>
+      <h2>Search Criteria</h2>
+      <p>1. "Normal Search" is the default. It will find all occurrences of any given sequence of letters in a given search field. Thus, whether the sequence is a complete name or only a portion of a name, no matter where you seek the sequence, it will be found. For instance, if you type in [jaeger], you will find entries that include, "Jaeger," "Lobenjaeger," and "Geiger or Jaeger".</p>
+      <p>2. "Exact Match" will only find entries that include the exact letter sequence entered and will not return any entry with additional spaces or other characters in the field searched.</p>
+      <p>3. There are no umlauts in the database (dotted vowels). Most of the umlauted letters have been replaced with ae, oe, or ue, but there are some names where the umlauted letter was changed to simply a, o, or u. You need, therefore, to do a search for both spellings of the name (i.e., search for Konig as well as Koenig, etc.).</p>
+      <p>4. You do not need to enter data in all search boxes to find data. In fact, the more data you enter into the search fields, the fewer will be the results that will be returned. It is therefore possible that you will eliminate the data you seek if you narrow the search too much.</p>
+      <p>&nbsp;</p>
+
+      <form id="StPeteDeathMembers" action="/sggee/publicSearch" method="post" name="StPeteDeathMembers">
+        <input name="op" value="search" type="hidden">
+        <input name="searchWhat" value="StPeteDeath" type="hidden">
+
+        <div class="form-section">
+          <input id="last_name" name="last_name" type="text" placeholder="Surname" size="22">
+          <input id="first_name" name="first_name" type="text" placeholder="Given Name" size="24">
+          <input id="year" name="year" type="text" placeholder="Death Year" size="17">
+          <input id="place" name="place" type="text" placeholder="Death Place" size="17">
+          <input id="parish" name="parish" type="text" placeholder="Parish" size="17">
+        </div>
+
+        <div class="form-section">
+          <input id="father" name="father" type="text" placeholder="Father's Given Name" size="22">
+          <input id="mother_givenname" name="mother_givenname" type="text" placeholder="Mother/Wife Given Name" size="30">
+          <input id="mother_surname" name="mother_surname" type="text" placeholder="Mother/Wife Surname" size="30">
+        </div>
+
+        <div class="flex-row-container">
+          <div class="form-section">
+            <p>Search Type:</p>
+            <div class="radio-option">
+              <input id="normal_search" name="search_type" value="normal" checked="checked" type="radio">
+              <label for="normal_search">Normal Search</label>
+            </div>
+            <div class="radio-option">
+              <input id="exact_match" name="search_type" value="exact" type="radio">
+              <label for="exact_match">Exact Match</label>
+            </div>
+          </div>
+
+          <div class="form-section">
+            <label for="sort_by">Sort Results by:</label>
+            <select id="sort_by" name="sort_by" size="1">
+              <option value="0">Surname</option>
+              <option value="1">Given Name</option>
+              <option value="3">Death Date</option>
+              <option value="4">Death Place</option>
+            </select>
+          </div>
+
+          <div class="form-section">
+            <label for="numToReturn">Number of Results Per Page:</label>
+            <select id="numToReturn" name="numToReturn" size="1">
+              <option value="5">5</option>
+              <option value="10">10</option>
+              <option value="15">15</option>
+              <option value="20">20</option>
+              <option value="25">25</option>
+              <option selected="selected" value="50">50</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="centered-content">
+          <button name="search_and_display_db_button" value="Search the Database" type="submit">Search</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

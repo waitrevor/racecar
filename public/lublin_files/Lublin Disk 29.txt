@@ -1,0 +1,1185 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec  / Malzonek	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki			
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater oder Ehegatte	Mutter oder Ehegatte (P)	Mutter oder Ehegatte (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Bräutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen			
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event Type	Year	Month	Father or Spouse	Mother or Spouse (P)	Mother or Spouse (D)	Village	Disk	Folder	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes			
+		Frost	Gustav Julius	B	1884	Sep	Ludwig		"Fischer, Philippine"	Rozplucie	29	Rozplucie 1884-1940	00001	16	C. Woehrmann								00001
+		Zippel	Auguste	B	1884	Sep	Gottlieb		"Konrad, Eva"	Rozplucie	29	Rozplucie 1884-1940	00002	17	C. Woehrmann								00002
+Fierus	Luise	Firus	Luise	B	1884	Oct	Wilhelm		"Frost, Mathilde"	Rozplucie	29	Rozplucie 1884-1940	00003	18 / 312	C. Woehrmann								00003
+		Janke	Wilhelmine	B	1884	Oct	Friedrich		"Benke, Pauline"	Rozplucie	29	Rozplucie 1884-1940	00004	19 / 350	C. Woehrmann								00004
+Fierus	Adolph	Firus	Adolf	B	1884	Nov	Ludwig		"Janke, Christine"	Rozplucie	29	Rozplucie 1884-1940	00005	20 / 389	C. Woehrmann								00005
+		Gitzel	Karl	B	1885	Jan	Ludwig		"Patzer, Anna"	Rozplucie	29	Rozplucie 1884-1940	00006	1 / 424	C. Woehrmann								00006
+		Klukas	Luise	B	1885	Jan	Michael		"Kissmann, Rosalie"	Rozplucie	29	Rozplucie 1884-1940	00007	2 / 126	C. Woehrmann								00007
+		Becker	Pauline	B	1885	Jan	August		"Nachtigal, Amalie"	Leczna	29	Rozplucie 1884-1940	00008	3 / 16	C. Woehrmann					triplets / Drilling			00008
+		Becker	Adolfine	B	1885	Jan	August		"Nachtigal, Amalie"	Leczna	29	Rozplucie 1884-1940	00009	4 / 14	C. Woehrmann					triplets / Drilling			00009
+Baecker	Julianna	Becker	Julianne	B	1885	Jan	August		"Nachtigal, Amalie"	Leczna	29	Rozplucie 1884-1940	00010	5 / 15	C. Woehrmann					triplets / Drilling			00010
+Litwitz	Ernstine	Litwitz	Ernestine	B	1885	Jan	Adam		"Wensel, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00011	6 / 20	C. Woehrmann								00011
+		Hennig	Otto	B	1885	Jan	Wilhelm		"Schmidt, Karoline"	Kocia Gora	29	Rozplucie 1884-1940	00012	7 / 23	C. Woehrmann								00012
+		Boettcher	Gustav	B	1885	Jan	Gottfried		"Kalo, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00013	8 / 31	C. Woehrmann								00013
+		Boroski	Wilhelmine	B	1885	Feb	August		"Breit, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00014	9 / 37	C. Woehrmann								00014
+		Buss	Luise	B	1885	Feb	Ludwig		"Tiede, Susanne"	Rozplucie	29	Rozplucie 1884-1940	00015	10 / 38	C. Woehrmann								00015
+		Bachmann	Martha	B	1885	Feb	Eduard		"Fimmel, Christine"	Rozplucie	29	Rozplucie 1884-1940	00016	11 / 56	C. Woehrmann								00016
+		Bluemke	Emilie	B	1885	Mar	Michael		"Galster, Hermine"	Rozplucie	29	Rozplucie 1884-1940	00017	12 / 101	C. Woehrmann								00017
+		Henschel	Wilhelm	B	1885	Mar	Gottlieb		"Mantik, Susanne"	Rozplucie	29	Rozplucie 1884-1940	00018	13 / 109	C. Woehrmann								00018
+		Meier	Olga Adoline	B	1885	Mar	unknown/unbekannt		"Meier, Hulda"	Rozplucie	29	Rozplucie 1884-1940	00019	1 / 111	C. Woehrmann					illegitimate / unehelich			00019
+		Roeske	Andreas	B	1885	Apr	Friedrich		"Manski, Anna"	Rozplucie	29	Rozplucie 1884-1940	00020	2 / 125	C. Woehrmann								00020
+		Wilke	Mathilde	B	1885	Apr	Gottlieb		"Winkel, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00021	3 / 167	C. Woehrmann								00021
+		Kissmann	Rosalie	B	1885	May	Johann		"Tiede, Eva"	Rozplucie	29	Rozplucie 1884-1940	00022	4 / 205	C. Woehrmann								00022
+		Janke	Wilhelm	B	1885	Jun	Johann		"Kissmann, Ernestine"	Rozplucie	29	Rozplucie 1884-1940	00023	5 / 228	C. Woehrmann								00023
+		Klimm	Gustav	B	1885	Jun	Gottlieb		"Richter, Henriette"	Rozplucie	29	Rozplucie 1884-1940	00024	6 / 229	C. Woehrmann								00024
+		Brodel	Julianne	B	1885	Jun	Gottlieb		"Lehmann, Emilie Albertine"	Kobylki	29	Rozplucie 1884-1940	00025	7 / 232	C. Woehrmann								00025
+		Brodel	Johanna	B	1885	Jun	unknown/unbekannt		"Brodel, Henriette"	Kaniwola	29	Rozplucie 1884-1940	00026	8 / 261	C. Woehrmann					illegitimate / unehelich			00026
+		Henkel	stillborn	D	1885	Jul	Gottlieb		"Eltner, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00027	9	C. Woehrmann					birth record			00027
+		Pahlke	Emma	B	1885	Jul	Ludwig		"Konrad, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00028	10 / 271	C. Woehrmann								00028
+Manthej	Wilhelmine	Mantei	Wilhelmine	B	1885	Jul	Paul		"Klimm, Auguste"	Czarny Las	29	Rozplucie 1884-1940	00029	11 / 272	C. Woehrmann								00029
+		Rahn	Ottilie	B	1885	Jul	Gottlieb		"Strohschecker, Luise"	Rozplucie	29	Rozplucie 1884-1940	00030	12 / 275	C. Woehrmann								00030
+		Zichornack	Gustav	B	1885	Jul	Otto Heinrich Christian		"Guse, Henriette Wilhelmine"	Rozplucie	29	Rozplucie 1884-1940	00031	13 / 282	C. Woehrmann								00031
+		Selig	August	B	1885	Aug	Christoph		"Juese, Eva"	Rozplucie	29	Rozplucie 1884-1940	00032	14 / 288	C. Woehrmann								00032
+		Boroski	August	B	1885	Aug	Albert Hermann		"Beg, Ottilie Marie Therese"	Rozplucie	29	Rozplucie 1884-1940	00033	15 / 302	C. Woehrmann								00033
+		Schindel	Eva	B	1885	Aug	Gottlieb		"Kissmann, Anna Marianne"	Piaseczno	29	Rozplucie 1884-1940	00034	16 / 303	C. Woehrmann								00034
+		Kluge	Julius	B	1885	Sep	Heinrich		"Braun, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00035	17 / 356	C. Woehrmann								00035
+		Winkel	Emilie	B	1885	Sep	Friedrich		"Konrad, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00036	18 / 359	C. Woehrmann								00036
+		Kropp	Adolf	B	1885	Sep	August		"Jaeger, Ottilie"	Godziembow	29	Rozplucie 1884-1940	00037	19 / 370	C. Woehrmann								00037
+		Markwart	Emilie	B	1885	Nov	August		"Kissmann, Johanna"	Piaseczno	29	Rozplucie 1884-1940	00038	20 / 416	C. Woehrmann								00038
+		Fehler	Pauline	B	1885	Nov	Gottlieb		"Markwart, Wilhelmine"	Rozplucie	29	Rozplucie 1884-1940	00039	21 / 448	C. Woehrmann								00039
+Lochstet	Gustav	Lokstaedt	Gustav	B	1885	Nov	Samuel		"Eggert, Wilhelmine"	Krasne	29	Rozplucie 1884-1940	00040	22 / 454	C. Woehrmann								00040
+		Knopf	Pauline	B	1885	Dec	Karl Friedrich		"Dopner, Ernestine"	Piaseczno	29	Rozplucie 1884-1940	00041	1 / 508	C. Woehrmann								00041
+		Radke	Gustav	B	1885	Dec	Samuel		"Winkel, Wilhelmine"	Ostrowek	29	Rozplucie 1884-1940	00042	2 / 511	C. Woehrmann								00042
+		Friedrich	Emil	B	1885	Dec	Michael		"Budzinski, Luise"	Rozplucie	29	Rozplucie 1884-1940	00043	3 / 534	C. Woehrmann								00043
+		Huff	Gottlieb	B	1885	Dec	August		"Rahn, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00044	4 / 526	C. Woehrmann								00044
+Fierus	Adolphine	Firus	Adolfine	B	1886	Jan	Ludwig		"Janke, Christine"	Czarny Las	29	Rozplucie 1884-1940	00045	5 / 11	C. Woehrmann					twin / Zwilling			00045
+Fierus	Wilhelmine	Firus	Wilhelmine	B	1886	Jan	Ludwig		"Janke, Christine"	Czarny Las	29	Rozplucie 1884-1940	00046	6 / 11	C. Woehrmann					twin / Zwilling			00046
+		Noerenberg	Emil	B	1886	Jan	Michael		"Arndt, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00047	7 / 21	C. Woehrmann								00047
+		Steinke	Alexander	B	1886	Feb	Theodor		"Duelge, Auguste"	Kaniwola	29	Rozplucie 1884-1940	00048	8 / 68	C. Woehrmann								00048
+		Buss	Michael	B	1886	May	Ludwig		"Tiede, Susanne"	Rozplucie	29	Rozplucie 1884-1940	00049	1 / 167	C. Woehrmann								00049
+		Brodel	Adelgunde	B	1886	Jun	Ludwig		"Kissmann, Auguste"	Kaniwola	29	Rozplucie 1884-1940	00050	2 / 200	C. Woehrmann								00050
+Jernatt	Emil	Gernat	Emil	B	1886	May	Andreas		"Manski, Eva"	Rozplucie	29	Rozplucie 1884-1940	00051	3 / 219	C. Woehrmann								00051
+		Radke	Gustav	B	1886	Mar	Ludwig		"Zeretzke, Karoline"	Kocia Gora	29	Rozplucie 1884-1940	00052	4 / 220	C. Woehrmann								00052
+		Kissmann	Michael	B	1886	Jun	Johann		"Tiede, Eva"	Rozplucie	29	Rozplucie 1884-1940	00053	5 / 227	C. Woehrmann								00053
+		Kinitz	Johann 	B	1886	Jun	Friedrich		"Markwart, Henriette"	Piaseczno	29	Rozplucie 1884-1940	00054	6	C. Woehrmann								00054
+		Markwart	Mathilde	B	1886	Jun	Johann		"Arndt, Mathilde"	Rozplucie	29	Rozplucie 1884-1940	00055	7 / 249	C. Woehrmann								00055
+		Boroski	Julianne	B	1886	Jul	August		"Breit, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00056	8 / 264	C. Woehrmann								00056
+		Klan	stillborn male	D	1886	Jul	Ferdinand		"Schmaltz, Emilie"	Grady	29	Rozplucie 1884-1940	00057	9 / 262	C. Woehrmann					birth record			00057
+		Goltz	Blandine Pauline	B	1886	Jun	Johann		"Reich, Emma Rosalie"	Zezulin	29	Rozplucie 1884-1940	00058	10 / 332	C. Woehrmann								00058
+		Henkel	Wilhelmine	B	1886	Sep	Gottlieb		"Eltner, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00059	11 / 387	C. Woehrmann								00059
+		Bluemke	Friedrich	B	1886	Sep	Michael		"Galster, Hermine"	Rozplucie	29	Rozplucie 1884-1940	00060	12 / 391	C. Woehrmann								00060
+		Kissmann	Emilie	B	1886	Sep	Gottlieb		"Manski, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00061	13 / 392	C. Woehrmann								00061
+		Abel	Auguste Adolfine	B	1886	Oct	Adolf		"Rode, Mathilde"	Rozplucie	29	Rozplucie 1884-1940	00062	14 / 422	C. Woehrmann								00062
+		Mantik	Emilie	B	1886	Nov	Samuel		"Schneider, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00063	1 / 485	C. Woehrmann								00063
+		Winkel	Ernestine	B	1886	Dec	Friedrich		"Konrad, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00064	2 / 504	C. Woehrmann								00064
+		Klukas	Eva	B	1886	Dec	Michael		"Kissmann, Rosalie"	Rozplucie	29	Rozplucie 1884-1940	00065	3 / 550	C. Woehrmann								00065
+		Becker	Julianne	D	1885	Feb	August		"Nachtigal, Amalie"	Leczna	29	Rozplucie 1884-1940	00067	1 / 34	C. Woehrmann					18 days/Tage			00067
+		Becker	Pauline	D	1885	Feb	August		"Nachtigal, Amalie"	Leczna	29	Rozplucie 1884-1940	00068	2 / 35	C. Woehrmann					18 days/Tage			00068
+		Huff	Ludwig	D	1885	Feb	August		"Rahn, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00069	3 / 37	C. Woehrmann					3 years/Jahre			00069
+		Boroski	Wilhelmine	D	1885	Feb	August		"Breit, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00070	4 / 44	C. Woehrmann					5 days/Tage			00070
+		Schiefelbein	Henriette	D	1885	Feb	Johann Gottlieb		"Schmidt, Christine"	Rozplucie	29	Rozplucie 1884-1940	00071	5 / 51	C. Woehrmann					38 years/Jahre			00071
+		Geisler	Ernst	D	1885	Feb	August		"Nachtigal, Susanne"	Rozplucie	29	Rozplucie 1884-1940	00072	6 / 57	C. Woehrmann					9 years/Jahre 5 month/Monate			00072
+		Knopf	Gustav	D	1885	Feb	Karl		"Depner, Ernestine"	Piaseczno	29	Rozplucie 1884-1940	00073	7 / 63	C. Woehrmann					3 years/Jahre			00073
+		Kissmann	Eva	D	1885	Feb	Gottlieb		"Manski, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00074	8 / 66	C. Woehrmann					11 month/Monate			00074
+		Geisler	Adolf	D	1885	Feb	August		"Nachtigal, Susanne"	Rozplucie	29	Rozplucie 1884-1940	00075	9 / 65	C. Woehrmann					3 years/Jahre			00075
+		Janke	Gustav	D	1885	Feb	Johann		"Kissmann, Ernestine"	Rozplucie	29	Rozplucie 1884-1940	00076	10 / 74	C. Woehrmann					2 years/Jahre			00076
+		Markwart	Wilhelmine	D	1885	Feb	August		"Kitzmann, Johanna"	Piaseczno	29	Rozplucie 1884-1940	00077	11 / 76	C. Woehrmann					1 year/Jahr 9 month/Monate			00077
+		Noerenberg	Emilie	D	1885	Mar	Michael		"Arndt, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00078	12 / 77	C. Woehrmann					7 month/Monate 2 weeks/Wochen			00078
+		Selig	Anna	D	1885	Mar	Christoph		"Juese, Eva"	Rozplucie	29	Rozplucie 1884-1940	00079	x / 89	C. Woehrmann					1 year/Jahr 6 month/Monate			00079
+		Krieger	Johann	D	1885	Mar				Rozplucie	29	Rozplucie 1884-1940	00080	13 / 113	C. Woehrmann					70 years/Jahre			00080
+		Zippel	Ottilie	D	1885	Mar	Gottlieb		"Konrad, Eva"	Rozplucie	29	Rozplucie 1884-1940	00081	1 / 122	C. Woehrmann					3 years/Jahre			00081
+		Friedrich	Rosalie	D	1885	Mar	Michael		"Budzinski, Luise"	Rozplucie	29	Rozplucie 1884-1940	00082	2 / 127	C. Woehrmann					2 days/Tage			00082
+		Steinke	Emilie	D	1885	Apr	Theodor		"Duelge, Auguste"	Kaniwola	29	Rozplucie 1884-1940	00083	3 / 131	C. Woehrmann					1 year/Jahr 3 month/Monate			00083
+		Steinke	Johanna	D	1885	May	Theodor		"Duelge, Auguste"	Kaniwola	29	Rozplucie 1884-1940	00084	5 / 170	C. Woehrmann					2 years/Jahre			00084
+		Friedrich	Emilie	D	1885	May	Michael		"Budzinski, Luise"	Rozplucie	29	Rozplucie 1884-1940	00085	6 / 176	C. Woehrmann					3 years/Jahre 9 month/Monate			00085
+		Kissmann	Rosalie	D	1885	Jun	Johann		"Tiede, Eva"	Rozplucie	29	Rozplucie 1884-1940	00086	7 / 191	C. Woehrmann					1 month/Monat			00086
+		Henkel	stillborn	D	1885	Jul	Gottlieb		"Eltner, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00087	8 / 200	C. Woehrmann					1 day/Tag			00087
+		Brodel	Johanna	D	1885	Jul	unknown/unbekannt		"Brodel, Henriette"	Kaniwola	29	Rozplucie 1884-1940	00088	9 / 210	C. Woehrmann					1 month/Monat			00088
+		Becker	Adolf	D	185	Nov	August		"Nachtigal, Amalie"	Leczna	29	Rozplucie 1884-1940	00089	10 / 280	C. Woehrmann					8 years/Jahre			00089
+Lochstet	Gustav	Lokstaedt	Gustav	D	1885	Dec	Samuel		"Eggert, Wilhelmine"	Krasne	29	Rozplucie 1884-1940	00090	1 / 289	C. Woehrmann					18 days/Tage			00090
+		Winkel	Emilie	D	1885	Dec	Friedrich		"Konrad, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00091	2 / 294	C. Woehrmann					3 month/Monate			00091
+		Knopf	Pauline	D	1885	Dec	Karl Friedrich		"Depner, Ernestine"	Piaseczno	29	Rozplucie 1884-1940	00092	3 / 300	C. Woehrmann					2 days/Tage			00092
+		Firus	Adolfine	D	1886	Mar	Ludwig		"Janke, Christine"	Czarny Las	29	Rozplucie 1884-1940	00093	4 / 50	C. Woehrmann					6 weeks/Wochen			00093
+		Labitzke	Julianne	D	1886	Mar				Rozplucie	29	Rozplucie 1884-1940	00094	5 / 68	C. Woehrmann				"Sachweh, Friedrich"	46 years/Jahre			00094
+		Schauer	Daniel	D	1886	Mar				Kijany	29	Rozplucie 1884-1940	00095	1 / 74	C. Woehrmann				"Rauch, Pauline"	34 years/Jahre			00095
+		Lambrecht (married name)	Elisabeth	D	1886	Apr				Wolka Kijanska	29	Rozplucie 1884-1940	00096	2 / 80	C. Woehrmann				Lambrecht	70 years/Jahre			00096
+		Winkel	Theophile	D	1886	May	Gottlieb		"Hoffmann, Wilhelmine"	Rozplucie	29	Rozplucie 1884-1940	00097	3 / 99	C. Woehrmann					8 years/Jahre 3 month/Monate			00097
+		Huff	Gottlieb	D	1886	May	August		"Rahn, Julianne"	Rozplucie	29	Rozplucie 1884-1940	00098	4 / 109	C. Woehrmann					5 month/Monate			00098
+		Buss	Michael	D	1886	May	Ludwig		"Tiede, Susanne"	Rozplucie	29	Rozplucie 1884-1940	00099	5 / 116	C. Woehrmann					3 weeks/Wochen			00099
+		Winkel	Auguste	D	1886	Jun	August		"Jesse, Wilhelmine"	Rozplucie	29	Rozplucie 1884-1940	00100	6 / 127	C. Woehrmann					3 1/2 years/Jahre			00100
+		Klan	stillborn male	D	1886	Jul	Ferdinand		"Schmaltz, Emilie"	Grady	29	Rozplucie 1884-1940	00101	7 / 191	C. Woehrmann					2 days/Tage			00101
+		Zippel	Ludwig	D	1886	Oct	Gottlieb	"Fredrych, Marianna"	"Friedrich, Marianne"	Rozplucie	29	Rozplucie 1884-1940	00102	8 / 195	C. Woehrmann				"Spitzer, Wilhelmine"	78 years/Jahre			00102
+		Radke	Gottlieb	D	1886	Oct	Christoph		"Kaebernik, Marianne"	Zezulin	29	Rozplucie 1884-1940	00103	9 / 197	C. Woehrmann				"Koschade, Julianne"	"68 years/Jahre, parents dead / Eltern verstorben"			00103
+		Henkel	Wilhelmine	D	1886	Nov	Gottlieb		"Eltner, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00104	1 / 243	C. Woehrmann					2 month/Monate			00104
+		Hahn	Elisabeth	B	1929	Dec	Eduard	"Milbrandt, Pauline"	"Milbrat, Pauline"	Jagodno	29	Rozplucie 1884-1940	00105	103	C. Woehrmann	R							00105
+		Geisler	Emma	B	1929	Dec	Rudolf	"Jese, Ottilje"	"Jesse, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00106	104	C. Woehrmann	R							00106
+		Wegner	Hugo	B	1930	Jan	Wilhelm		"Bujak, Wanda"	Rozplucie	29	Rozplucie 1884-1940	00107	105	C. Woehrmann	R							00107
+		Keding	Karl	B	1929	Dec	Heinrich		"Betker, Emilie"	Jagodno	29	Rozplucie 1884-1940	00108	106	C. Woehrmann	R							00108
+		Brauer	Elsa	B	1930	Jan	Hermann		"Grams, Helene"	Czarny Las	29	Rozplucie 1884-1940	00109	107	C. Woehrmann	R							00109
+Frydrych	Waldina	Friedrich	Waldine	B	1930	Jan	Adolf		"Briese, Lidia"	Dratowski Las II	29	Rozplucie 1884-1940	00110	108	C. Woehrmann	R							00110
+		Kitzmann	Leon	B	1930	Feb	Alexander		"Fitz, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00111	109	C. Woehrmann								00111
+Kozyzka	Amanda	Kosiske	Amanda	B	1930	Jan	Wilhelm		"Betker, Lidia"	Rozplucie	29	Rozplucie 1884-1940	00112	110	C. Woehrmann	R							00112
+		Klukas	Natalie	B	1930	Mar	Adolf		"Preis, Olga"	Komarowka	29	Rozplucie 1884-1940	00113	111	C. Woehrmann	R				addendum 00114			00113
+		Brauer	Leon	B	1930	Mar	Gustav		"Lehmann, Martha"	Komarowka	29	Rozplucie 1884-1940	00114	112	C. Woehrmann	R				addendum 00115			00114
+		Malzahn	Otto	B	1930	Apr	Friedrich Wilhelm		"Sich, Emilie"	Jagodno	29	Rozplucie 1884-1940	00115	113	C. Woehrmann	R				addendum 00116			00115
+		Sterk	Emma	B	1930	Mar	August		"Nikel, Hirlanda"	Ostrowek	29	Rozplucie 1884-1940	00116	114	C. Woehrmann	R				addendum 00117			00116
+		Stapel	Paul	B	1929	Sep	Adolf		"Buss, Amalie"	Rozplucie	29	Rozplucie 1884-1940	00117	115	C. Woehrmann	R				addendum 00118			00117
+		Ekert	Theodor	B	1930	Apr	Alexander		"Depner, Martha"	Rozplucie	29	Rozplucie 1884-1940	00118	116	C. Woehrmann								00118
+		Ladwig	Sigismund	B	1930	May	Johann		"Lehmann, Olga"	Jagodno	29	Rozplucie 1884-1940	00119	117	C. Woehrmann	R							00119
+		Boroski	Artur	B	1930	May	August		"Mertin, Olga"	Zalucze	29	Rozplucie 1884-1940	00120	118	C. Woehrmann								00120
+Kozyski	Robert	Kosiske	Robert	B	1930	Apr	Wilhelm		"Betker, Lidia"	Jelino	29	Rozplucie 1884-1940	00121	119	C. Woehrmann	R				addendum 00122			00121
+		Lange	Herta	B	1930	Jun	Julius		"Brodel, Marta"	Jagodno	29	Rozplucie 1884-1940	00122	120	C. Woehrmann	R				addendum 00123			00122
+		Kurz	Rosamunde	B	1930	Aug	Rudolf		"Henschel, Marta"	Rozplucie	29	Rozplucie 1884-1940	00123	121	C. Woehrmann								00123
+		Blaumann	Elsa	B	1930	Oct	Adolf		"Froehlich, Olga"	Rozplucie	29	Rozplucie 1884-1940	00124	122	C. Woehrmann					addendum 00125			00124
+		Schulz	Erich	B	1930	Nov	Alexander		"Noerenberg, Lidia"	Jagodno	29	Rozplucie 1884-1940	00125	123	C. Woehrmann	R				addendum 00126			00125
+		Badke	Sigismund	B	1930	Nov	Rudolf		"Schreiber, Hulda"	Jagodno	29	Rozplucie 1884-1940	00126	124	C. Woehrmann	R				addendum 00127			00126
+		Noerenberg	Irma	B	1930	Nov	Hermann		"Grams, Natalie"	Czarny Las	29	Rozplucie 1884-1940	00127	125	C. Woehrmann	R				addendum 00128			00127
+		Noerenberg	Lidia	B	1930	Dec	August		"Schramm, Johanna"	Rozplucie	29	Rozplucie 1884-1940	00128	126	C. Woehrmann	R				addendum 00129			00128
+		Redlich	Alexander	D	1930	Jan	Samuel	"Celmer, Wilhelmine"	"Zelmer, Wilhelmine"	Czarny Las	29	Rozplucie 1884-1940	00129	38	C. Woehrmann				"Schneider?, Justine"	"68 years/Jahre, addendum 00130"			00129
+		Briese	Wanda	D	1930	Feb	Wilhelm		"Wegner, Pauline"	Rozplucie	29	Rozplucie 1884-1940	00130	39	C. Woehrmann					"3 years/Jahre 7 days/Tage, addendum 00131"			00130
+		Bliesner	Wilhelm	D	1930	Mar	Johann		"Stroeber, Rosalie"	Rozplucie	29	Rozplucie 1884-1940	00131	40	C. Woehrmann				"Will, Ottilie"	"61 years/Jahre 5 month/Monate, addendum 00132"			00131
+		Stapel	Justine	D	1930	Jan	Andreas		Bentz	Jelino	29	Rozplucie 1884-1940	00132	41	C. Woehrmann				"Schwarz, Andreas"	"84 years/Jahre, addendum 00133"			00132
+		Jeske	Rudolf	D	1930	Mar	Adolf		"Bluemke, Anna"	Zezulin	29	Rozplucie 1884-1940	00133	42	C. Woehrmann					"17 years/Jahre 11 month/Monate, addendum 00134"			00133
+		Hirsekorn	Eduard	D	1930	Apr	Gustav		"Garn, Martha"	Jagodno	29	Rozplucie 1884-1940	00134	43	C. Woehrmann					"6years/JAhre 1 month/Monat 16 days/TAge, addendum 00135"			00134
+Kicman	Leon	Kitzmann	Leon	D	1930	Apr	Alexander		"Fitz, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00135	44	C. Woehrmann					"1 month/Monat 17 days/Tage, addendum 00136"			00135
+		Boroski	Artur	D	1930	May	August		"Mertin, Olga"	Zalucze	29	Rozplucie 1884-1940	00136	45	C. Woehrmann					"14 days/Tage, addendum 00137"			00136
+		Gernat	Ewald	D	1930	May	Emil		"Klukas, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00137	46	C. Woehrmann					"1 year/Jahr 6 days/Tage, addendum 00138"			00137
+		Ekert	Theodor	D	1930	Jun	Alexander		"Depner, Martha"	Rozplucie	29	Rozplucie 1884-1940	00138	47	C. Woehrmann					"1 month/Monat 2 weeks/Wochen 1 day/Tag, addendum 00139"			00138
+		Bliesner	Ida	D	1930	Aug	Eduard		"Froehlich, Leokadia"	Rozplucie	29	Rozplucie 1884-1940	00139	48	C. Woehrmann					"1 year/Jahr 1 month/Monat 15 days/Tage, addendum 00140"			00139
+		Manski	Julianne	D	1930	Aug	Elias		"Klatt, Katharine"	Rozplucie	29	Rozplucie 1884-1940	00140	49	C. Woehrmann				"Roeske, Friedrich"	"75 years/Jahre, addendum 00141"			00140
+		Bliesner	Karoline	D	1930	Sep	Johann		"Stroebel, Eva"	Dratowski Las II	29	Rozplucie 1884-1940	00141	50	C. Woehrmann				"Friedrich, Wilhelm"	58 years/Jahre			00141
+		Blaumann	Elsa	D	1930	Nov	Adolf		"Froehlich, Olga"	Rozplucie	29	Rozplucie 1884-1940	00142	51	C. Woehrmann					1 month/Monat 3 days/Tage			00142
+		Kurz	Rosamunde	D	1930	Oct	Rudolf		"Henschel, Marta"	Rozplucie	29	Rozplucie 1884-1940	00143	52	C. Woehrmann					2 month/Monate 28 days/Tage			00143
+		Buss	Ludwig	D	1930	Nov	Kornelius		"Krampitz, Linoria?"	Dratowski Las II	29	Rozplucie 1884-1940	00144	53	C. Woehrmann				"Betker, Wilhelmine"	"70 years/Jahre 2 month/Monate 4 days/Tage, addendum 00145"			00144
+		Briese	Ewald	D	1930	Dec	Wilhelm		"Wegner, Pauline"	Rozplucie	29	Rozplucie 1884-1940	00145	54	C. Woehrmann					"2 years/Jahre 3 month/Monate 6 days/Tage, addendum 00146"			00145
+		Bluemke	Peter	D	1930	Dec	Johann		"Rogan, Karoline"	Jagodno	29	Rozplucie 1884-1940	00146	55	C. Woehrmann				"Kwast, Christine"	"71 years/Jahre, addendum 00147"			00146
+		Badke	Natalie	B	1933	Dec	Rudolf		"Schreiber, Hulda"	Zalucze	29	Rozplucie 1884-1940	00149	205	C. Woehrmann	R							00149
+		Klukas	Edmund	B	1934	Jan	Adolf		"Preis, Olga"	Komarowka	29	Rozplucie 1884-1940	00150	206	C. Woehrmann	R				00151 is a duplicate			00150
+		Litwitz	Elsa	B	1934	Jan	Gustav		"Nikel, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00152	207	C. Woehrmann	R							00152
+		Gernat	Emma	B	1934	Jan	Wilhelm		"Matthews, Martha"	Rozplucie	29	Rozplucie 1884-1940	00153	208	C. Woehrmann	R							00153
+		Biel	Eugenie	B	1934	Feb	Eduard		"Eisenheim, Olga"	Jagodno	29	Rozplucie 1884-1940	00154	209	C. Woehrmann	R							00154
+		Schultz	Adelgunde	B	1934	Mar	Otto		"Schramm, Amanda"	Jagodno	29	Rozplucie 1884-1940	00155	210	C. Woehrmann	R							00155
+		Malzahn	Eugenie	B	1934	Feb	Friedrich Wilhelm		"Sich, Emilie"	Jagodno	29	Rozplucie 1884-1940	00156	211	C. Woehrmann	R							00156
+		Frost	Otto	B	1934	Mar	Adolf		"Frost, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00157	212	C. Woehrmann	R							00157
+		Hirsekorn	Elsa	B	1934	Apr	Gustav		"Garn, Martha"	Jagodno	29	Rozplucie 1884-1940	00158	213	C. Woehrmann								00158
+		Noerenberg	Eugenie	B	1934	May	Gustav		"Buss, Pauline"	Rozplucie	29	Rozplucie 1884-1940	00159	214	C. Woehrmann	R							00159
+		Biel	Zdzislaw	B	1934	May	Hermann		"Ekert, Eugenie"	Rozplucie	29	Rozplucie 1884-1940	00160	215	C. Woehrmann								00160
+		Koslowski	Karoline	B	1934	Apr	Stefan		"Bluemke, Karoline"	Ostrowek	29	Rozplucie 1884-1940	00161	216	C. Woehrmann	R							00161
+		Kosiske	Elsa	B	1934	May	Wilhelm		"Betker, Lidia"	Jelino	29	Rozplucie 1884-1940	00162	217	C. Woehrmann								00162
+		Ladwig	Erwin	B	1934	May	Johann		"Lehmann, Olga"	Jagodno	29	Rozplucie 1884-1940	00163	218	C. Woehrmann	R							00163
+		Kitzmann	Elsa	B	1934	May	Alexander		"Fitz, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00164	219	C. Woehrmann	R							00164
+		Kaus	Erich	B	1934	Apr	Theophil		"Fehler, Martha"	Rozplucie	29	Rozplucie 1884-1940	00165	220	C. Woehrmann								00165
+		Hahn	Paul	B	1934	Jun	Alexander		"Blank, Auguste"	Jagodno	29	Rozplucie 1884-1940	00166	221	C. Woehrmann	R							00166
+		Hahn	Walda	B	1934	Jul	Eduard	"Milbrandt, Pauline"	"Milbrat, Pauline"	Jagodno	29	Rozplucie 1884-1940	00167	222	C. Woehrmann								00167
+		Grieb	Johanna	B	1934	Jun	Ferdinand		"Radke, Theophile"	Czarny Las	29	Rozplucie 1884-1940	00168	223	C. Woehrmann	R							00168
+		Brauer	Erich	B	1934	Jul	Hermann		"Grams, Helene"	Czarny Las	29	Rozplucie 1884-1940	00169	224	C. Woehrmann	R							00169
+		Zippel	Elfriede	B	1934	Jul	August		"Ekert, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00170	225	C. Woehrmann	R							00170
+		Neumann	Edmund	B	1934	Jul	Rudolf		"Malek, Martha"	Jelino	29	Rozplucie 1884-1940	00171	226	C. Woehrmann	R							00171
+		Brauer	Gertrud	B	1934	Aug	Eduard		"Noerenberg, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00172	227	C. Woehrmann	R							00172
+		Pepke	Eduard	B	1934	Jul	Adolf		"Kitzmann, Lidia"	Rozplucie	29	Rozplucie 1884-1940	00173	228	C. Woehrmann	R							00173
+		Hineberg	Wanda	B	1934	Oct	Alexander		"Nikel, Adelgunde"	Zalucze	29	Rozplucie 1884-1940	00174	229	C. Woehrmann	R							00174
+		Sadowski	Adolf	B	1934	Nov	Eduard		"Noerenberg, Lidia"	Ostrowek	29	Rozplucie 1884-1940	00175	230	C. Woehrmann	R							00175
+		Schramm	Julius	D	1934	Jan	Wilhelm		"Schramm, Olga"	Rozplucie	29	Rozplucie 1884-1940	00177	82	C. Woehrmann					1 month/Monat			00177
+		Tischler	Erna	D	1934	Jan	Eduard		"Grams, Lidia"	Czarny Las	29	Rozplucie 1884-1940	00178	83	C. Woehrmann					5 month/Monate			00178
+		Noerenberg	August	D	1934	Feb	Michael		"Arndt, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00179	84	C. Woehrmann				"Schramm, Johanna"	40 years/Jahre			00179
+		Noerenberg	Robert	D	1934	Mar	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00180	85	C. Woehrmann					9 years/Jahre			00180
+		Noerenberg	Adele	D	1934	Mar	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00181	86	C. Woehrmann					5 years/Jahre			00181
+		Hirsekorn	Elsa	D	1934	Apr	Gustav		"Garn, Martha"	Jagodno	29	Rozplucie 1884-1940	00182	87	C. Woehrmann					18 days/Tage			00182
+Nierenberg	Ludwika	Noerenberg	Luise	D	1934	Mar	Robert		Adele	Rozplucie	29	Rozplucie 1884-1940	00183	x	C. Woehrmann								00183
+		Schultz	Ida	D	1934	Jun	Emil		"Depner, Maria"	Rozplucie	29	Rozplucie 1884-1940	00184	88	C. Woehrmann					5 month/Monate			00184
+		Kosiske	Elsa	D	1934	Jun	Wilhelm		"Betker, Lidia"	Jelino	29	Rozplucie 1884-1940	00185	89	C. Woehrmann					25 days/Tage			00185
+		Remus	Johann	D	1934	Jul	Christoph		"Mantei, Anna"	Rozplucie	29	Rozplucie 1884-1940	00186	90	C. Woehrmann				"Radke, Mathilde"	62 years/Jahre			00186
+		Hahn	Walda	D	1934	Aug	Eduard	"Milbrandt, Pauline"	"Milbrat, Pauline"	Jagodno	29	Rozplucie 1884-1940	00187	91	C. Woehrmann					1 month/Monat			00187
+		Briese	Wilhelm	D	1934	Sep	Gottlieb		"Lerke, Christine"	Rozplucie	29	Rozplucie 1884-1940	00188	92	C. Woehrmann				"Zelmer, Theophile"	61 years/Jahre			00188
+		Liebert	Eduard	D	1934	Oct	Andreas		"Fiebich, Katharine"	Czarny Las	29	Rozplucie 1884-1940	00189	93	C. Woehrmann					70 years/Jahre			00189
+		Rode	Auguste Adolfine	D	1934	Oct	Michael		"Beltz, Karoline"	Rozplucie	29	Rozplucie 1884-1940	00190	94	C. Woehrmann				"Nehring, Emil Hermann"	77 years/Jahre			00190
+		Redlich	Adolf	B	1934	Nov	Friedrich		"Sieg, Auguste"	Czarny Las	29	Rozplucie 1884-1940	00192	231	C. Woehrmann	R							00192
+		Henkel	Wanda	B	1934	Jul	Friedrich		"Riemer, Wanda"	Ostrowek	29	Rozplucie 1884-1940	00193	232	C. Woehrmann	R							00193
+		Noerenberg	Johanna	B	1934	Dec	Hermann		"Grams, Natalie"	Czarny Las	29	Rozplucie 1884-1940	00194	233	C. Woehrmann	R							00194
+		Adam	stillborn female	D	1934	Dec	Alexander		"Hubert, Emma"	Jagodno	29	Rozplucie 1884-1940	00195	234	C. Woehrmann					birth record			00195
+		Preiss	Waldina	B	1934	Dec	unknown/unbekannt		"Preiss, Martha"	Rozplucie	29	Rozplucie 1884-1940	00196	235	C. Woehrmann	R				illegitimate / unehelich			00196
+		Hennig	Rudolf	B	1935	Jan	August		"Betker, Emilie"	Jelino	29	Rozplucie 1884-1940	00197	236	C. Woehrmann	R							00197
+		Noerenberg	Adeline	B	1935	Jan	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00198	237	C. Woehrmann					twin / Zwilling			00198
+		Noerenberg	Walter	B	1935	Jan	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00199	238	C. Woehrmann					twin / Zwilling			00199
+		Blank	Artur	B	1934	May	unknown/unbekannt		"Blank, Lidia"	Jagodno	29	Rozplucie 1884-1940	00200	239	C. Woehrmann					illegitimate / unehelich			00200
+		Lange	Berthold	B	1935	Jan	Julius		"Brodel, Marta"	Jagodno	29	Rozplucie 1884-1940	00201	240	C. Woehrmann								00201
+		Noerenberg	Siegfried	B	1935	Apr	Gottlieb		"Schepke, Adelgunde"	Rozplucie	29	Rozplucie 1884-1940	00202	241	C. Woehrmann	R							00202
+		Schramm	Adelgunde	B	1935	Apr	Wilhelm		"Schramm, Olga"	Rozplucie	29	Rozplucie 1884-1940	00203	242	C. Woehrmann	R							00203
+		Noerenberg	Wilhelm	B	1935	May	Wilhelm		"Arndt, Julianne"	Ostrowek	29	Rozplucie 1884-1940	00204	243	C. Woehrmann	R							00204
+		Rindfleisch	Eugenie	B	1935	Jun	Siegmund		"Duesterhoeft, Adele"	Czarny Las	29	Rozplucie 1884-1940	00205	244	C. Woehrmann	R							00205
+		Schultz	Siegfried	B	1935	Jun	Emil		"Depner, Maria"	Rozplucie	29	Rozplucie 1884-1940	00206	245	C. Woehrmann	R							00206
+		Nehring	Gertrude	B	1935	May	Rudolf		"Jakubowski, Lydia"	Rozplucie	29	Rozplucie 1884-1940	00207	246	C. Woehrmann	R							00207
+		Priebe	Olga	B	1935	Jun	Emil		"Matthews, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00208	247	C. Woehrmann	R							00208
+		Badke	Artur	B	1935	Jul	Rudolf		"Schreiber, Hulda"	Zalucze	29	Rozplucie 1884-1940	00209	248	C. Woehrmann	R							00209
+		Tischler	Adele Lydia	B	1935	Feb	Eduard		"Grams, Lidia"	Czarny Las	29	Rozplucie 1884-1940	00210	249	C. Woehrmann								00210
+		Schulz	Emma	B	1935	Aug	Eduard		"Brauer, Mathilde"	Jelino	29	Rozplucie 1884-1940	00211	250	C. Woehrmann	R							00211
+		Hahn	Elsa	B	1935	Aug	Eduard	"Milbrandt, Pauline"	"Milbrat, Pauline"	Jagodno	29	Rozplucie 1884-1940	00212	251	C. Woehrmann	R							00212
+		Bliesner	Martha	B	1935	Apr	Eduard		"Froehlich, Leokadia"	Rozplucie	29	Rozplucie 1884-1940	00213	252	C. Woehrmann								00213
+		Kitzmann	Eduard	B	1935	Aug	unknown/unbekannt		"Kitzmann, Wanda"	Piaseczno	29	Rozplucie 1884-1940	00214	253	C. Woehrmann					illegitimate / unehelich			00214
+		Kitzmann	Reinhard	B	1933	Mar	unknown/unbekannt		"Kitzmann, Wanda"	Piaseczno	29	Rozplucie 1884-1940	00215	254	C. Woehrmann	R				illegitimate / unehelich			00215
+		Kitzmann	Lydia	B	1935	Aug	unknown/unbekannt		"Kitzmann, Wanda"	Piaseczno	29	Rozplucie 1884-1940	00216	255	C. Woehrmann					illegitimate / unehelich			00216
+		Petrich	Richard	B	1934	Nov	Alexander		"Friedrich, Martha"	Piaseczno	29	Rozplucie 1884-1940	00217	256	C. Woehrmann	R							00217
+		Majewski	Josef	D	1935	Jan	Samuel		"Wiese, Rosalie"	Rozplucie	29	Rozplucie 1884-1940	00218	95	C. Woehrmann				"Badke, Natalie"	69 years/Jahre			00218
+		Manski	Eva	D	1935	Jan	Elias		"Klatt, Katharine"	Rozplucie	29	Rozplucie 1884-1940	00219	96	C. Woehrmann				"Gernat, Andreas"	84 years/Jahre			00219
+		Blank	Artur	D	1935	Feb	unknown/unbekannt		"Blank, Lidia"	Jagodno	29	Rozplucie 1884-1940	00220	97	C. Woehrmann					"9 month/Monate, illegitimate / unehelich"			00220
+		Kaus	Erich	D	1935	Feb	Theophil		"Fehler, Martha"	Rozplucie	29	Rozplucie 1884-1940	00221	98	C. Woehrmann					10 month/Monate			00221
+		Lange	Berthold	D	1935	Mar	Julius		"Brodel, Marta"	Jagodno	29	Rozplucie 1884-1940	00222	99	C. Woehrmann					1 month/Monat			00222
+		Firus	Rudolf Robert	D	1935	Apr	Emil		"Wegner, Mathilde"	Rozplucie	29	Rozplucie 1884-1940	00223	100	C. Woehrmann					13 years/Jahre			00223
+		Biel	Zdzislaw	D	1935	Apr	Hermann		"Ekert, Eugenie"	Rozplucie	29	Rozplucie 1884-1940	00224	101	C. Woehrmann					11 month/Monate			00224
+		Brodel	Martha	D	1935	May	Ludwig		"Rismann, Auguste"	Jagodno	29	Rozplucie 1884-1940	00225	102	C. Woehrmann				"Lange, Julius"	36 years/Jahre			00225
+		Albrecht	Johanna	D	1935	Jun				Jagodno	29	Rozplucie 1884-1940	00226	103	C. Woehrmann					76 years/Jahre			00226
+		Tischler	Adele Lydia	D	1935	Aug	Eduard		"Grams, Lidia"	Czarny Las	29	Rozplucie 1884-1940	00227	104	C. Woehrmann					6 month/Monate			00227
+		Strohscher	Luise	D	1935	Aug	Ludwig		"Arndt, Henriette"	Rozplucie	29	Rozplucie 1884-1940	00228	105	C. Woehrmann				"Rahn, Gottlieb"	81 years/Jahre			00228
+		Rapp	Adam	D	1935	Sep	Andreas		Christine	Piaseczno	29	Rozplucie 1884-1940	00229	106	C. Woehrmann				"Buss, Christine"	63 years/Jahre			00229
+		Bliesner	Martha	D	1935	Sep	Eduard		"Froehlich, Leokadia"	Rozplucie	29	Rozplucie 1884-1940	00230	107	C. Woehrmann					5 month/Monate			00230
+		Kitzmann	Lydia	D	1935	Sep	unknown/unbekannt		"Kitzmann, Wanda"	Rozplucie	29	Rozplucie 1884-1940	00231	108	C. Woehrmann					1 month/Monat			00231
+		Kitzmann	Eduard	D	1935	Sep	unknown/unbekannt		"Kitzmann, Wanda"	Rozplucie	29	Rozplucie 1884-1940	00232	109	C. Woehrmann					1 month/Monat			00232
+		Becker	Wilhelmine	D	1935	Dec	Kornelius		"Lappe, Luise"	Rozplucie	29	Rozplucie 1884-1940	00233	110	C. Woehrmann				Buss	65 years/Jahre			00233
+		Hahn	Natalie	B	1935	Dec	Alexander		"Blank, Auguste"	Jagodno	29	Rozplucie 1884-1940	00235	257	C. Woehrmann								00235
+Milbrandt	Hugo	Milbrat	Hugo	B	1935	Dec	Karl		"Schramm, Johanna"	Rozplucie	29	Rozplucie 1884-1940	00236	258	C. Woehrmann	R							00236
+		Schultz	Edmund	B	1935	Dec	Otto		"Schramm, Amanda"	Jagodno	29	Rozplucie 1884-1940	00237	259	C. Woehrmann	R							00237
+		Wegner	Lydia	B	1935	Nov	Wilhelm		"Bujak, Wanda"	Rozplucie	29	Rozplucie 1884-1940	00238	261	C. Woehrmann	R							00238
+		Schramm	Waldine	B	1935	Aug	Edmund		"Priebe, Wanda"	Rozplucie	29	Rozplucie 1884-1940	00239	262	C. Woehrmann	R							00239
+		Senf	Theodor	B	1936	Jan	Eduard		"Huebner, Lydia"	Jagodno	29	Rozplucie 1884-1940	00240	263	C. Woehrmann	R							00240
+		Brauer	Waldemar	B	1936	Mar	Wilhelm		"Schramm, Martha"	Rozplucie	29	Rozplucie 1884-1940	00241	264	C. Woehrmann	R							00241
+		Schultz	Ida	B	1936	Apr	Alexander		"Noerenberg, Lydia"	Jagodno	29	Rozplucie 1884-1940	00242	265	C. Woehrmann	R							00242
+		Litwitz	Elfriede	B	1936	Mar	Gustav		"Nikel, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00243	267	C. Woehrmann	R							00243
+		Klukas	Lydia	B	1936	Mar	Adolf		"Preis, Olga"	Komarowka	29	Rozplucie 1884-1940	00244	268	C. Woehrmann	R							00244
+		Lange	Sigmund	B	1936	Mar	Alexander		"Majewski, Wanda"	Jagodno	29	Rozplucie 1884-1940	00245	269	C. Woehrmann	R							00245
+		Bluemke	Leon	B	1936	Mar	Alexander		"Betker, Olga"	Jagodno	29	Rozplucie 1884-1940	00246	270	C. Woehrmann	R							00246
+		Markwart	Else	B	1936	Mar	Daniel		"Milbrat, Helene"	Jelino	29	Rozplucie 1884-1940	00247	271	C. Woehrmann	R							00247
+		Biel	Waldine	B	1936	Mar	Hermann		"Ekert, Eugenie"	Rozplucie	29	Rozplucie 1884-1940	00248	272	C. Woehrmann	R							00248
+		Pacholke	Erich	B	1936	May	Adolf		"Redmann, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00249	273	C. Woehrmann	R							00249
+		Hahn	Waldine	B	1936	Mar	Wilhelm		"Rutsch, Leokadia"	Rozplucie	29	Rozplucie 1884-1940	00250	274	C. Woehrmann	R							00250
+		Schramm	Otto	B	1936	May	Adolf		"Gernat, Amanda"	Rozplucie	29	Rozplucie 1884-1940	00251	275	C. Woehrmann	R							00251
+		Biel	Waldine	B	1936	Jul	Eduard		"Eisenheim, Olga"	Jagodno	29	Rozplucie 1884-1940	00252	276	C. Woehrmann	R							00252
+		Froehlich	Elfriede	B	1936	Jun	Julius		"Schmidtke, Lydia"	Rozplucie	29	Rozplucie 1884-1940	00253	277	C. Woehrmann								00253
+		Winter	Ewald	B	1936	Aug	unknown/unbekannt		"Winter, Waldine"	Piaseczno	29	Rozplucie 1884-1940	00254	278	C. Woehrmann	R				illegitimate / unehelich			00254
+		Noerenberg	Emma	B	1936	Jun	Hermann		"Grams, Natalie"	Czarny Las	29	Rozplucie 1884-1940	00255	279	C. Woehrmann	R							00255
+		Noerenberg	Johanna	B	1936	Jun	Gustav		"Buss, Pauline"	Rozplucie	29	Rozplucie 1884-1940	00256	280	C. Woehrmann	R							00256
+		Hahn	Sigismund	B	1934	Feb	Wilhelm		"Rutsch, Leokadia"	Rozplucie	29	Rozplucie 1884-1940	00257	281	C. Woehrmann	R							00257
+		Sterk	Elsa	B	1936	Aug	August		"Nickel, Herlanda"	Ostrowek	29	Rozplucie 1884-1940	00258	282	C. Woehrmann	R							00258
+		Stapel	Edmund	B	1925	May	Adolf		"Buss, Amalie"	Rozplucie	29	Rozplucie 1884-1940	00259	125	C. Woehrmann	R				addendum 00260			00259
+		Noerenberg	Lucie	B	1936	Aug	Gustav Adolf		"Sadowski, Wanda"	Ostrowek	29	Rozplucie 1884-1940	00261	283	C. Woehrmann	R							00261
+		Hekel	Adolf	B	1936	Aug	Adolf		"Remus, Auguste"	Rozplucie	29	Rozplucie 1884-1940	00262	284	C. Woehrmann	R							00262
+		Brauer	Erwin	B	1936	Sep	Eduard		"Noerenberg, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00263	285	C. Woehrmann	R							00263
+		Rode	Edmund	B	1936	Sep	Adolf		"Sterk, Emilie"	Ostrowek	29	Rozplucie 1884-1940	00264	286	C. Woehrmann	R							00264
+		Wegner	Witold	B	1936	Sep	Peter		"Becker, Adolfine"	Rozplucie	29	Rozplucie 1884-1940	00265	287	C. Woehrmann	R							00265
+		Noerenberg	Gertrude	B	1936	Oct	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00266	288	C. Woehrmann	R							00266
+		Lewin	Sophie	B	1936	Nov	Rudolf Sigismund		"Briese, Emilie"	Rozplucie	29	Rozplucie 1884-1940	00267	289	C. Woehrmann	R							00267
+		Neumann	Arnhold	B	1936	Dec	Rudolf		"Malek, Martha"	Jelino	29	Rozplucie 1884-1940	00268	290	C. Woehrmann	R							00268
+		Kitzmann	Hugo	B	1936	Nov	Alexander		"Fitz, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00269	291	C. Woehrmann	R							00269
+		Zippel	Emma	B	1936	Dec	August		"Ekert, Ottilie"	Rozplucie	29	Rozplucie 1884-1940	00270	292	C. Woehrmann	R							00270
+		Biel	Emma	B	1936	Dec	Johann		"Winter, Sophie"	Jagodno	29	Rozplucie 1884-1940	00271	293	C. Woehrmann	R							00271
+		Noerenberg	Walter	D	1936	Jan	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00272	111	C. Woehrmann					1 year/Jahr			00272
+		Pohl	Marianne	D	1936	Mar	Christoph		"Zepik, Marianne"	Komarowka	29	Rozplucie 1884-1940	00273	112	C. Woehrmann				"Klukas, Gottlieb"	68 years/Jahre			00273
+		Froehlich	Leokadia	D	1936	May	Christoph		"Schilberg, Christine"	Rozplucie	29	Rozplucie 1884-1940	00274	113	C. Woehrmann				"Bliesner, Eduard"	30 years/Jahre			00274
+		Noerenberg	Adeline	D	1936	Jun	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1884-1940	00275	114	C. Woehrmann					1 year/Jahr			00275
+		Hahn	Natalie	D	1936	Aug	Alexander		"Blank, Auguste"	Jagodno	29	Rozplucie 1884-1940	00276	115	C. Woehrmann					7 month/Monate			00276
+		Steinke	Rudolf	D	1936	Oct	Christoph		"Bloch, Albertine"	Ostrowek	29	Rozplucie 1884-1940	00277	116	C. Woehrmann					3 years/Jahre			00277
+		Lehmann	Rosalie	D	1936	Nov	Wilhelm		"Hapke, Justine"	Jelino	29	Rozplucie 1884-1940	00278	117	C. Woehrmann				"Malek, Adolf"	63 years/Jahre			00278
+		Bloch	Wilhelm	D	1936	Nov	Ludwig		"Schneider, Julianne"	Jelino	29	Rozplucie 1884-1940	00279	118	C. Woehrmann				"Litwitz, Karoline"	57 years/Jahre			00279
+		Froehlich	Elfriede	D	1936	Dec	Julius		"Schmidtke, Lydia"	Rozplucie	29	Rozplucie 1884-1940	00280	119	C. Woehrmann					1/2 year/Jahr			00280
+		Wiedner	stillborn female	D	1940	Jan	Emanuel		"Marschall, Anna"	Rozplucie	29	Rozplucie 1884-1940	00282	359	C. Woehrmann					birth record			00282
+		Tischler	Artur	B	1940	Jan	Eduard		"Grams, Lidia"	Czarny Las	29	Rozplucie 1884-1940	00283	360	C. Woehrmann	R							00283
+		Markwart	Emma	B	1939	Dec	Daniel	"Milbrandt, Helene"	"Milbrat, Helene"	Jelino	29	Rozplucie 1884-1940	00284	361	C. Woehrmann	R							00284
+		Bliesner	Elfriede	B	1940	Jan	Eduard		"Schultz, Olga"	Rozplucie	29	Rozplucie 1884-1940	00285	362	C. Woehrmann								00285
+		Noerenberg	Ernst	B	1939	May	Wilhelm		"Arndt, Julianne"	Ostrowek	29	Rozplucie 1884-1940	00286	363	C. Woehrmann	R							00286
+		Sadowski	Erwin	B	1940	Jan	Eduard		"Noerenberg, Lidia"	Ostrowek	29	Rozplucie 1884-1940	00287	364	C. Woehrmann	R							00287
+		Rode	Adolf	B	1940	Mar	Adolf		"Sterk, Emilie"	Ostrowek	29	Rozplucie 1884-1940	00288	365	C. Woehrmann	R							00288
+		Wiedner	stillborn female	D	1940	Jan	Emanuel		"Marschall, Anna"	Rozplucie	29	Rozplucie 1884-1940	00289	144	C. Woehrmann								00289
+		Bliesner	Elfriede	D	1940	Feb	Eduard		"Schultz, Olga"	Rozplucie	29	Rozplucie 1884-1940	00290	145	C. Woehrmann					1 month/Monat			00290
+		Hiltscher	Christine	D	1940	Mar	August			Rozplucie	29	Rozplucie 1884-1940	00291	146	C. Woehrmann				Beier	75 years/Jahre			00291
+		Kissmann	Wanda	D	1940	Mar	unknown/unbekannt		"Kissmann, Anna"	Piaseczno	29	Rozplucie 1884-1940	00292	147	C. Woehrmann				"Rapp, Daniel"	29 years/Jahre			00292
+		Brauer	Reinhard	D	1940	Apr	Wilhelm		"Gast, Karoline"	Jagodno	29	Rozplucie 1884-1940	00293	148	C. Woehrmann				"Fehler, Johanna"	30 years/Jahre			00293
+		Kissmann	Wanda	B	1939	Feb	Edmund		"Lerch, Julianne"	Rozplucie	29	Rozplucie 1939	00002	341	C. Woehrmann	R							00002
+		Rapp	Erich	B	1939	Apr	Edmund		"Gernat, Martha"	Rozplucie	29	Rozplucie 1939	00003	342	C. Woehrmann	R							00003
+		Brauer	Rosamunde	B	1939	Apr	Hermann		"Grams, Helene"	Czarny Las	29	Rozplucie 1939	00004	343	C. Woehrmann	R							00004
+		Briese	Otto	B	1939	Feb	Wilhelm		"Wegner, Pauline"	Rozplucie	29	Rozplucie 1939	00005	344	C. Woehrmann	R							00005
+		Klukas	Leon	B	1939	May	Adolf		"Preuss, Olga"	Komarowka	29	Rozplucie 1939	00006	345	C. Woehrmann	R							00006
+		Noerenberg	Irma	B	1939	Jul	Ludwig		"Depner, Helene"	Ostrowek	29	Rozplucie 1939	00007	346	C. Woehrmann	R							00007
+		Biel	Adeline	B	1939	Jun	Johann		"Winter, Sophie"	Jagodno	29	Rozplucie 1939	00008	347	C. Woehrmann	R							00008
+		Schulz	Artur	B	1939	Jul	Eduard		"Brauer, Mathilde"	Jelino	29	Rozplucie 1939	00009	348	C. Woehrmann	R							00009
+		Milbrat	Edwin	B	1939	Aug	Karl		"Schramm, Johanna"	Rozplucie	29	Rozplucie 1939	00010	349	C. Woehrmann	R							00010
+		Hahn	Gertrude	B	1939	Aug	Alexander		"Blank, Auguste"	Jagodno	29	Rozplucie 1939	00011	350	C. Woehrmann	R							00011
+		Schramm	Edwin	B	1939	Aug	Adolf		"Gernat, Amanda"	Rozplucie	29	Rozplucie 1939	00012	351	C. Woehrmann	R							00012
+		Hirsekorn	Erna	B	1939	Jul	Gustav		"Schachtschneider, Lidia"	Jagodno	29	Rozplucie 1939	00013	352	C. Woehrmann	R							00013
+		Schreiber	Leonhard	B	1939	Sep	Hermann	"Disterheft, Emma"	"Duesterhoeft, Emma"	Jagodno	29	Rozplucie 1939	00014	353	C. Woehrmann	R							00014
+		Neumann	Ewald	B	1939	Aug	Rudolf		"Malek, Martha"	Jelino	29	Rozplucie 1939	00015	354	C. Woehrmann	R							00015
+		Biel	Rudolf	B	1939	Sep	Eduard		"Eisenheim, Olga"	Jagodno	29	Rozplucie 1939	00016	355	C. Woehrmann	R							00016
+		Brauer	Siegfried	B	1939	Oct	Eduard		"Noerenberg, Ottilie"	Rozplucie	29	Rozplucie 1939	00017	356	C. Woehrmann	R							00017
+		Litwitz	Adolf	B	1939	Nov	Gustav		"Nikel, Emilie"	Rozplucie	29	Rozplucie 1939	00018	357	C. Woehrmann	R							00018
+		Hahn	Adolf	B	1939	Oct	Eduard	"Milbrandt, Pauline"	"Milbrat, Pauline"	Jagodno	29	Rozplucie 1939	00019	358	C. Woehrmann	R							00019
+		Schram	Gottfried	D	1939	Jan	Christoph		"Muenkenberg, Wilhelmine"	Rozplucie	29	Rozplucie 1939	00020	137	C. Woehrmann				"Rapp, Amalie"	74 years/Jahre			00020
+		Lange	Leokadia	D	1939	Feb	Alexander		"Majewski, Wanda"	Jagodno	29	Rozplucie 1939	00021	138	C. Woehrmann					5 month/Monate			00021
+		Preuss	Johann	D	1939	Mar	August		"Herzog, Rosalie"	Rozplucie	29	Rozplucie 1939	00022	139	C. Woehrmann				"Kissmann, Luise"	58 years/Jahre			00022
+		Netzel	Pauline	D	1939	Mar	Julius		"Remus, Maria"	Rozplucie	29	Rozplucie 1939	00023	140	C. Woehrmann				"Fehler, Gustav"	68 years/Jahre			00023
+		Martin	Johann Friedrich	D	1939	Apr	Wilhelm			Zalucze	29	Rozplucie 1939	00024	141	C. Woehrmann				"Pepke, Pauline"	77 years/Jahre			00024
+		Fitz	August	D	1939	Jul	Karl		"Schulz, Auguste"	Rozplucie	29	Rozplucie 1939	00025	142	C. Woehrmann				"Rux, Wilhelmine"	79 years/Jahre			00025
+		Malzahn	Friedrich Wilhelm	D	1939	Dec	Gottfried		Pauline	Jagodno	29	Rozplucie 1939	00026	143	C. Woehrmann				"Sieg, Emilie"	48 years/Jahre			00026
+		Busenius	Wanda	B	1930	Jan	Julius		"Schulz, Helene"	Skorodnica	29	Skorodnica 1930-1940	00001	1	C. Woehrmann	R							00001
+		Jess	Edmund	B	1930	Jan	Johann		"Bloch, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00002	2	C. Woehrmann								00002
+		Furmanski	Adelgunde	B	1930	Jan	Rudolf		"Lehmann, Auguste"	Skorodnica	29	Skorodnica 1930-1940	00003	3	C. Woehrmann	R							00003
+		Frei	Hermann	B	1930	Feb	unknown/unbekannt		"Frei, Mathilde"	Skorodnica	29	Skorodnica 1930-1940	00004	4	C. Woehrmann					illegitimate / unehelich			00004
+		Arndt	Edmund	B	1930	Feb	Wilhelm		"Schmidt, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00005	5	C. Woehrmann								00005
+Schlejz	Eduard	Schleitz	Eduard	B	1930	Mar	Theodor		"Schmidt, Hulda"	Kamien	29	Skorodnica 1930-1940	00006	6	C. Woehrmann	R							00006
+		Busenius	August	B	1930	Mar	Rudolf		"Schmidt, Natalie"	Skorodnica	29	Skorodnica 1930-1940	00007	7	C. Woehrmann	R							00007
+		Schlipert	stillborn female	D	1930	Apr	Albert		"Kitzmann, Amalie"	Skorodnica	29	Skorodnica 1930-1940	00008	8	C. Woehrmann					birth record			00008
+		Pusch	Johanna	B	1930	Apr	Eduard		"Riewe, Julianne"	Skorodnica	29	Skorodnica 1930-1940	00009	9	C. Woehrmann	R				addendum 00010			00009
+		Schmidt	Robert	B	1930	May	Johann Christian		"Beutler, Marie"	Kamien	29	Skorodnica 1930-1940	00010	10	C. Woehrmann	R				"father died Jan 1930, addendum 00011"			00010
+		Bader	Waldine	B	1930	May	Eduard		"Frei, Emma"	Kamien	29	Skorodnica 1930-1940	00011	11	C. Woehrmann	R				addendum 00012			00011
+		Buchholz	Herta	B	1930	Jun	Ludwig	"Fiebig, Wilhelmine"	"Fiebich, Wilhelmine"	Skorodnica	29	Skorodnica 1930-1940	00012	12	C. Woehrmann	R				addendum 00013			00012
+		Teske	Ewald	B	1930	Aug	Ludwig		"Minklein, Johanna"	Kamien	29	Skorodnica 1930-1940	00013	13	C. Woehrmann	R				addendum 00014			00013
+		Schulz	Wilhelm	B	1930	Sep	Ludwig		"Betke, Ida"	Skorodnica	29	Skorodnica 1930-1940	00014	14	C. Woehrmann	R				addendum 00015			00014
+		Lentz	Ewald	B	1930	Sep	Eduard		"Krentz, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00015	15	C. Woehrmann	R				"twin / Zwilling, addendum 00016"			00015
+		Lentz	Robert	B	1930	Sep	Eduard		"Krentz, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00016	16	C. Woehrmann	R				"twin / Zwilling, addendum 00017"			00016
+		Schulz	Ewald	B	1930	Oct	Albert		"Friedrich, Julianne"	Kamien	29	Skorodnica 1930-1940	00017	17	C. Woehrmann	R				addendum 00018			00017
+		Hein	Adolf	B	1930	Nov	Eduard		"Briese, Mathilde"	Kamien	29	Skorodnica 1930-1940	00018	18	C. Woehrmann	R				addendum 00019			00018
+		Schmidt	Robert	B	1930	Dec	Friedrich		"Janke, Natalie"	Kamien	29	Skorodnica 1930-1940	00019	19	C. Woehrmann	R				addendum 00020			00019
+		Riemer	Heinrich	B	1930	Sep	August		"Pankratz, Julianne"	Wyryki	29	Skorodnica 1930-1940	00020	20	C. Woehrmann	R							00020
+		Patzer	Eugenie	D	1929	Dec	Julius		"Schmidt, Olga Julianne"	Kamien	29	Skorodnica 1930-1940	00021	12	C. Woehrmann					2 weeks/Wochen 6 days/Tage			00021
+		Schlipert	Marianne	D	1930	Jan	Albert		"Kitzmann, Amalie"	Skorodnica	29	Skorodnica 1930-1940	00022	1	C. Woehrmann					1 y/J 4 m/M 26 d/T			00022
+		Schmidt	Johann Christian	D	1930	Jan	Karl		"Rex, Julianne"	Kamien	29	Skorodnica 1930-1940	00023	2	C. Woehrmann				"Beutler, Maria"	49 y/J 5 m/M 24 d/T			00023
+		Jess	Edmund	D	1930	Jan	Johann		"Bloch, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00024	3	C. Woehrmann					37 hours/Stunden			00024
+		Frei	Hermann	D	1930	Feb	unknown/unbekannt		"Frei, Mathilde"	Skorodnica	29	Skorodnica 1930-1940	00025	4	C. Woehrmann					18 hours/Stunden			00025
+		Arndt	Edmund	D	1930	Mar	Wilhelm		"Schmidt, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00026	5	C. Woehrmann					10 d/T			00026
+		Krentz	Ferdinand Wilhelm	D	1930	Mar	Johann		"Taron, Wilhelmine"	Skorodnica	29	Skorodnica 1930-1940	00027	6	C. Woehrmann				"Klebe, Emilie"	55 y/J 14 d/T			00027
+		Klebe	Georg	D	1930	Mar				Skorodnica	29	Skorodnica 1930-1940	00028	7	C. Woehrmann					84 y/J 11m/M			00028
+		Breitkreuz	Henriette	D	1930	Apr	August		"Kneister, Marianne"	Kamien	29	Skorodnica 1930-1940	00029	8	C. Woehrmann				"Garecki, August"	56 y/J			00029
+		Rader	Waldine	D	1930	Jun	Eduard		"Frei, Emma"	Kamien	29	Skorodnica 1930-1940	00030	9	C. Woehrmann					1 m/M 2d/T			00030
+		Busenius	Lidia	D	1930	Jul	Julius		"Schulz, Helene"	Skorodnica	29	Skorodnica 1930-1940	00031	10	C. Woehrmann					2 y/J 9 m/M			00031
+		Busenius	Julius	D	1930	Aug	Ludwig		"Frei, Emilie"	Skorodnica	29	Skorodnica 1930-1940	00032	11	C. Woehrmann				"Schulz, Helene"	32 y/J 3 m/M			00032
+		Hein	Bertha	D	1930	Sep	Gottfried		"Krentz, Julianne"	Skorodnica	29	Skorodnica 1930-1940	00033	12	C. Woehrmann				"Gerz, Sigismund"	27 y/J 9 m/M 3 w/W			00033
+		Gerz	Wilhelmine	D	1930	Oct	Jakob		"Radke, Katharine"	Skorodnica	29	Skorodnica 1930-1940	00034	13	C. Woehrmann				"Nikel, Michael"	56 y/J 5 m/M 3 w/W 3 d/T			00034
+		Fiebelkorn	Blandine	B	1933	Dec	Emil		"Haerter, Emma Helene"	Marianka	29	Skorodnica 1930-1940	00036	69	C. Woehrmann	R							00036
+		Pusch	Lidia	B	1933	Nov	Gustav	"Frey, Matilda"	"Frei, Mathilde"	Kamien	29	Skorodnica 1930-1940	00037	70	C. Woehrmann	R							00037
+		Gerz	Edmund	B	1933	Dec	Karl		"Lewinski, Amanda"	Skorodnica	29	Skorodnica 1930-1940	00038	71	C. Woehrmann	R							00038
+		Jess	Siegfried	B	1934	Jan	Gottlieb		"Hirsekorn, Wanda"	Skorodnica	29	Skorodnica 1930-1940	00039	72	C. Woehrmann								00039
+		Schulz	Eugenie	B	1933	Dec	Albert		"Friedrich, Julianne"	Kamien	29	Skorodnica 1930-1940	00040	73	C. Woehrmann	R							00040
+		Rader	Leokadia	B	1934	Feb	Eduard		"Frei, Emma"	Kamien	29	Skorodnica 1930-1940	00041	74	C. Woehrmann								00041
+		Schmidt	Sieglinde	B	1934	Mar	Ludwig Rudolf		"Radke, Olga"	Kamien	29	Skorodnica 1930-1940	00042	75	C. Woehrmann	R							00042
+		Schulz	Ewald	B	1934	Mar	unknown/unbekannt		"Schulz, Helene"	Skorodnica	29	Skorodnica 1930-1940	00043	76	C. Woehrmann	R				born out of wedlock			00043
+		Rahn	Ewald	B	1934	Mar	Rudolf	"Mileszczyk, Sophie"	"Mileszczyk, Sophie"	Skorodnica	29	Skorodnica 1930-1940	00044	77	C. Woehrmann	R							00044
+		Pusch	Natalie	B	1934	Apr	Eduard		"Riewe, Julianne"	Skorodnica	29	Skorodnica 1930-1940	00045	78	C. Woehrmann								00045
+		Klebe	Eduard	B	1934	May	Rudolf		"Hanelt, Alwine"	Skorodnica	29	Skorodnica 1930-1940	00046	79	C. Woehrmann								00046
+		Schmidt	Adele	B	1934	Apr	Friedrich		"Janke, Natalie"	Kamien	29	Skorodnica 1930-1940	00047	80	C. Woehrmann	R							00047
+		Furmanski	Artur	B	1934	Jun	Rudolf		"Lehmann, Auguste"	Skorodnica	29	Skorodnica 1930-1940	00048	81	C. Woehrmann	R							00048
+		Patzer	Maria	B	1934	Jun	Julius		"Schmidt, Olga"	Kamien	29	Skorodnica 1930-1940	00049	82	C. Woehrmann	R							00049
+		Lentz	Olga	B	1934	Jun	Eduard		"Krentz, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00050	83	C. Woehrmann	R							00050
+		Teske	Eduard	B	1934	Aug	Ludwig		"Minklein, Johanna"	Kamien	29	Skorodnica 1930-1940	00051	84	C. Woehrmann	R				twin / Zwilling			00051
+		Teske	Hilda	B	1934	Aug	Ludwig		"Minklein, Johanna"	Kamien	29	Skorodnica 1930-1940	00052	85	C. Woehrmann					twin / Zwilling			00052
+		Janke	Margarete	B	1934	Nov	Eduard		"Nehring, Olga"	Skorodnica	29	Skorodnica 1930-1940	00053	86	C. Woehrmann	R							00053
+		Jess	Siegfried	D	1934	Jan	Gottlieb		"Hirsekorn, Wanda"	Skorodnica	29	Skorodnica 1930-1940	00054	52	C. Woehrmann					1 m/M 11 d/T			00054
+		Rader	Leokadia	D	1934	Mar	Eduard		"Frei, Emma"	Kamien	29	Skorodnica 1930-1940	00055	53	C. Woehrmann					1 m/M 10 d/T			00055
+		Kakoschki	Friederike	D	1934	May	Friedrich		Rosalie	Skorodnica	29	Skorodnica 1930-1940	00056	54	C. Woehrmann				"Wendland, Michael"	70 y/J			00056
+		Gottschall	Lidia	D	1934	May	Jakob		"Zinn, Helene"	Skorodnica	29	Skorodnica 1930-1940	00057	55	C. Woehrmann					9 m/M 10 d/T			00057
+		Pusch	Natalie	D	1934	May	Eduard		"Riewe, Julianne"	Skorodnica	29	Skorodnica 1930-1940	00058	56	C. Woehrmann					1 m/M 8 d/T			00058
+		Klebe	Eduard	D	1934	Jun	Rudolf		"Hanelt, Alwine"	Skorodnica	29	Skorodnica 1930-1940	00059	57	C. Woehrmann					19 d/T			00059
+		Funk	Edmund	B	1935	Jan	Emil		"Jeske, Martha"	Skorodnica	29	Skorodnica 1930-1940	00060	87	C. Woehrmann	R							00060
+		Schmidt	Edmund	B	1935	Jan	Eduard		"Oelke, Emilie"	Kamien	29	Skorodnica 1930-1940	00061	88	C. Woehrmann					twin / Zwilling			00061
+		Schmidt	Sigismund	B	1935	Jan	Eduard		"Oelke, Emilie"	Kamien	29	Skorodnica 1930-1940	00062	89	C. Woehrmann					twin / Zwilling			00062
+		Hein	Lucie	B	1935	Feb	Gustav		"Fercho, Olga"	Skorodnica	29	Skorodnica 1930-1940	00063	90	C. Woehrmann	R							00063
+		Jess	Edmund	B	1935	Mar	Gottlieb		"Hirsekorn, Wanda"	Skorodnica	29	Skorodnica 1930-1940	00064	91	C. Woehrmann	R							00064
+		Klebe	Robert	B	1935	Apr	Rudolf		"Hanelt, Alwine"	Skorodnica	29	Skorodnica 1930-1940	00065	92	C. Woehrmann	R							00065
+		Arndt	Eduard	B	1935	May	Wilhelm		"Schmidt, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00066	93	C. Woehrmann	R							00066
+		Winter	Adele	B	1935	May	Richard		"Janke, Emma"	Skorodnica	29	Skorodnica 1930-1940	00067	94	C. Woehrmann	R							00067
+		Gertz	Wanda	B	1935	Jun	Sigismund		"Wolski, Olga"	Skorodnica	29	Skorodnica 1930-1940	00068	95	C. Woehrmann	R							00068
+		Janke	Siegfried	B	1935	Jul	Rudolf		"Nikel, Emilie"	Skorodnica	29	Skorodnica 1930-1940	00069	96	C. Woehrmann	R							00069
+		Schulz	Rudolf	B	1935	Jul	Eduard		"Breitkreuz, Wanda"	Skorodnica	29	Skorodnica 1930-1940	00070	97	C. Woehrmann	R							00070
+		Pusch	Leokadia	B	1935	Sep	Gustav		"Frei, Mathilde"	Kamien	29	Skorodnica 1930-1940	00071	98	C. Woehrmann	R							00071
+		Zitlau	Eduard	B	1935	Dec	Julius		"Klebe, Hulda"	Skorodnica	29	Skorodnica 1930-1940	00072	99	C. Woehrmann								00072
+		Teske	Hilda	D	1935	Feb	Ludwig		"Minklein, Johanna"	Kamien	29	Skorodnica 1930-1940	00073	58	C. Woehrmann					"5 m/M 28 d/T, twin / Zwilling"			00073
+		Schmidt	Edmund	D	1935	Feb	Eduard		"Oelke, Emilie"	Kamien	29	Skorodnica 1930-1940	00074	59	C. Woehrmann					"3 w/W 2 d/T, twin / Zwilling"			00074
+		Schmidt	Sigismund	D	1935	Feb	Eduard		"Oelke, Emilie"	Kamien	29	Skorodnica 1930-1940	00075	60	C. Woehrmann					"3 w/W 3 d/T, twin / Zwilling"			00075
+		Buchholz	Helene	D	1935	Mar	Ludwig		"Fiebich, Wilhelmine"	Skorodnica	29	Skorodnica 1930-1940	00076	61	C. Woehrmann				"Wendland, Edmund"	25 y/J			00076
+		Reich	Peter	D	1935	Mar	Michael		"Bluemke, Elisabeth"	Skorodnica	29	Skorodnica 1930-1940	00077	62	C. Woehrmann				"Radke, Anna"	89 y/J 4 d/T			00077
+		Schmidt	Ludwig	D	1935	Aug	Karl		"Rex, Julianne"	Kamien	29	Skorodnica 1930-1940	00078	63	C. Woehrmann				"Luense, Florentine + Ott, Amalie"	71 y/J 2 m/M 2 d/T			00078
+		Zitlau	Eduard	D	1935	Dec	Julius		"Klebe, Hulda"	Skorodnica	29	Skorodnica 1930-1940	00079	64	C. Woehrmann					27 hours / Stunden			00079
+		Bliesner	Sigismund	B	1936	Jan	Christian		"Schletz, Mathilde"	Skorodnica	29	Skorodnica 1930-1940	00081	100	C. Woehrmann	R							00081
+		Krahn	Ewald	B	1936	Feb	Friedrich Wilhelm		"Rahn, Olga"	Skorodnica	29	Skorodnica 1930-1940	00082	101	C. Woehrmann	R							00082
+		Funk	Ewald	B	1936	Apr	Emil		"Jeske, Martha"	Skorodnica	29	Skorodnica 1930-1940	00083	102	C. Woehrmann	R							00083
+		Schletz	Lidia	B	1936	Apr	Theodor		"Schmidt, Hulda"	Kamien	29	Skorodnica 1930-1940	00084	103	C. Woehrmann	R							00084
+		Schulz	Sieglinde	B	1936	Apr	Ludwig		"Bedke, Ida"	Kamien	29	Skorodnica 1930-1940	00085	104	C. Woehrmann	R							00085
+		Schmidt	Alma	B	1936	Jun	Eduard		"Mantei, Anna"	Kamien	29	Skorodnica 1930-1940	00086	105	C. Woehrmann	R							00086
+		Busenius	Martha	B	1936	Jun	unknown/unbekannt		"Schulz, Helene"	Skorodnica	29	Skorodnica 1930-1940	00087	106	C. Woehrmann	R				out of wedlock			00087
+		Furmanski	Gerlanda	B	1936	Aug	Rudolf		"Lehmann, Auguste"	Skorodnica	29	Skorodnica 1930-1940	00088	107	C. Woehrmann	R							00088
+		Rahn	Elsa	B	1936	Oct	Sigismund		"Lentz, Hulda"	Skorodnica	29	Skorodnica 1930-1940	00089	108	C. Woehrmann	R							00089
+		Petrich	Irma	B	1936	Oct	unknown/unbekannt		"Petrich, Natalie"	Lipowka	29	Skorodnica 1930-1940	00090	109	C. Woehrmann	R							00090
+		Zitlau	stillborn female	D	1936	Nov	Julius		"Klebe, Hulda"	Skorodnica	29	Skorodnica 1930-1940	00091	110	C. Woehrmann					birth record			00091
+		Arndt	Artur	B	1936	Nov	Adolf		"Mantei, Ottilie"	Skorodnica	29	Skorodnica 1930-1940	00092	111	C. Woehrmann	R							00092
+		Becker	Albert	B	1936	Dec	Julius		"Schmidt, Mathilde"	Kamien	29	Skorodnica 1930-1940	00093	112	C. Woehrmann	R				twin / Zwilling			00093
+		Becker	Olga	B	1936	Dec	Julius		"Schmidt, Mathilde"	Kamien	29	Skorodnica 1930-1940	00094	113	C. Woehrmann	R				twin / Zwilling			00094
+		Rader	Hilda	B	1936	Sep	Eduard		"Frei, Emma"	Skorodnica	29	Skorodnica 1930-1940	00095	114	C. Woehrmann	R							00095
+		Hiller	Rudolf	B	1936	Dec	Alexander		"Kitzmann, Amalie"	Skorodnica	29	Skorodnica 1930-1940	00096	115	C. Woehrmann	R							00096
+		Janke	Ida	B	1936	Dec	August		"Batke, Julianne"	Skorodnica	29	Skorodnica 1930-1940	00097	116	C. Woehrmann	R							00097
+		Schmidt	Leon	B	1936	Dec	Eduard		"Oelke, Emilie"	Kamien	29	Skorodnica 1930-1940	00098	117	C. Woehrmann	R							00098
+		Schulz	Rudolf	B	1936	Dec	Albert		"Friedrich, Julianne"	Kamien	29	Skorodnica 1930-1940	00099	118	C. Woehrmann	R							00099
+		Krahn	Ewald	D	1936	Feb	Friedrich Wilhelm		"Rahn, Olga"	Skorodnica	29	Skorodnica 1930-1940	00100	65	C. Woehrmann					10 d/T			00100
+		Rahn	Olga	D	1936	Mar	August		"Hildebrand, Hulda"	Skorodnica	29	Skorodnica 1930-1940	00101	66	C. Woehrmann				"Krahn, Friedrich Wilhelm"	38 y/J 3 m/M			00101
+		Krentz	Lidia	D	1936	Jun	Ferdinand		"Klebe, Emilie"	Skorodnica	29	Skorodnica 1930-1940	00102	67	C. Woehrmann				"Lentz, Eduard"	31 y/J 3 m/M 10 d/T			00102
+Gotszal	Jakob	Gottschall	Jakob	D	1936	Aug	Andreas Heinrich		"Schock, Elisabeth"	Skorodnica	29	Skorodnica 1930-1940	00103	68	C. Woehrmann				"Zinn, Helene"	40 y/J 8 m/M 2 w/W 3 d/T			00103
+		Buss	Friedrich	D	1936	Oct	Michael		"Kreister, Karoline"	Kamien	29	Skorodnica 1930-1940	00104	69	C. Woehrmann				"Friedrich, Ottilie"	62 y/J 8 m/M 7 d/T			00104
+		Wolf	Peter	D	1936	Dec	Martin	"Molzan, Christine"	"Molzahn, Christine"	Skorodnica	29	Skorodnica 1930-1940	00105	70	C. Woehrmann				"Fischer, Natalie"	82 y/J 5 m/M 12 d/T			00105
+		Becker	Olga	D	1936	Dec	Johann		"Schmidt, Mathilde"	Kamien	29	Skorodnica 1930-1940	00106	71	C. Woehrmann					"3 w/W 3 d/T, twin / Zwilling"			00106
+		Schulz	Ida	B	1940	Jan	Adolf		"Mielke, Martha"	Kamien	29	Skorodnica 1930-1940	00108	164	C. Woehrmann	R							00108
+		Rahn	Therese	B	1939	Sep	Rudolf		"Milewski, Sophie"	Skorodnica	29	Skorodnica 1930-1940	00109	165	C. Woehrmann	R							00109
+		Arndt	Sieglinde	B	1940	Jan	Wilhelm		"Schmidt, Lidia"	Skorodnica	29	Skorodnica 1930-1940	00110	166	C. Woehrmann	R							00110
+		Hiller	Erika	B	1940	Mar	Alexander		"Kitzmann, Amalie"	Skorodnica	29	Skorodnica 1930-1940	00111	167	C. Woehrmann	R							00111
+		Janke	Heinrich	B	1940	Apr	Rudolf		"Bielke, Johanna"	Skorodnica	29	Skorodnica 1930-1940	00112	168	C. Woehrmann								00112
+		Klebe	Edmund	B	1940	Apr	Rudolf		"Hanelt, Alwine"	Skorodnica	29	Skorodnica 1930-1940	00113	169	C. Woehrmann	R							00113
+		Rahn	Adele	B	1940	Apr	Sigismund		"Lentz, Hulda"	Skorodnica	29	Skorodnica 1930-1940	00114	170	C. Woehrmann	R							00114
+		Janke	Heinrich	D	1940	Apr	Rudolf		"Bielke, Johanna"	Skorodnica	29	Skorodnica 1930-1940	00115	87	C. Woehrmann					11 d/T			00115
+		Arndt	Edwin	B	1938	Dec	Sigismund		"Badke, Mathilde"	Skorodnica	29	Skorodnica 1938-1939	00002	147	C. Woehrmann	R							00002
+Kraszewski	deadborn male	Kraszewski	stillborn male	D	1939	Jan	Gustav		"Badke, Albertine"	Wyryki	29	Skorodnica 1938-1939	00003	148	C. Woehrmann								00003
+		Jeske	Heinrich	B	1939	Feb	Friedrich		"Schmidt, Olga"	Skorodnica	29	Skorodnica 1938-1939	00004	149	C. Woehrmann	R							00004
+		Schulz	Alma	B	1939	Feb	unknown/unbekannt		"Schulz, Lidia"	Skorodnica	29	Skorodnica 1938-1939	00005	150	C. Woehrmann	R				illegitimate / unehelich			00005
+		Barke	Waldemar	B	1939	Feb	Eduard		"Schmidt, Mathilde"	Skorodnica	29	Skorodnica 1938-1939	00006	151	C. Woehrmann	R							00006
+		Janke	Artur	B	1939	Mar	Rudolf		"Nikel, Emilie"	Skorodnica	29	Skorodnica 1938-1939	00007	152	C. Woehrmann	R							00007
+		Nikel	Eugenie	B	1939	Apr	Albert		"Fiebig, Olga"	Skorodnica	29	Skorodnica 1938-1939	00008	153	C. Woehrmann	R							00008
+		Janke	Natalie	B	1939	Apr	August		"Batke, Julianne"	Skorodnica	29	Skorodnica 1938-1939	00009	154	C. Woehrmann	R							00009
+		Pusch	Sieglinde	B	1939	May	Gustav		"Frei, Mathilde"	Kamien	29	Skorodnica 1938-1939	00010	155	C. Woehrmann	R							00010
+		Becker	Elisabeth	B	1939	May	Julius		"Schmidt, Mathilde"	Kamien	29	Skorodnica 1938-1939	00011	156	C. Woehrmann	R							00011
+		Badke	Rudolf	B	1939	Jun	Gustav		"Schultz, Hulda"	Skorodnica	29	Skorodnica 1938-1939	00012	157	C. Woehrmann	R							00012
+		Arndt	Erich	B	1939	Jun	Adolf		"Mantei, Ottilie"	Skorodnica	29	Skorodnica 1938-1939	00013	158	C. Woehrmann								00013
+		Buss	Leokadia	B	1939	Sep	August		"Friedrich, Agathe"	Kamien	29	Skorodnica 1938-1939	00014	159	C. Woehrmann	R							00014
+		Lentz	Otto	B	1939	Nov	Eduard		"Priebe, Leokadia"	Skorodnica	29	Skorodnica 1938-1939	00015	161	C. Woehrmann	R							00015
+		Schmidt	Helmut	B	1939	Dec	Eduard		"Ott, Wanda"	Kamien	29	Skorodnica 1938-1939	00016	162	C. Woehrmann	R							00016
+		Reich	Lidia	B	1939	Dec	August		"Bliesner, Mathilde"	Skorodnica	29	Skorodnica 1938-1939	00017	163	C. Woehrmann	R							00017
+		Bliesner	Theodor	D	1939	Jan	Christian		"Schletz, Mathilde"	Skorodnica	29	Skorodnica 1938-1939	00018	82	C. Woehrmann					1 m/M 3 w/W 3 d/T			00018
+		Hildebrandt	Hulda Pauline	D	1939	Mar	Ludwig		"Hase, Karoline"	Skorodnica	29	Skorodnica 1938-1939	00019	83	C. Woehrmann				Rahn	66 y/J 5 m/M 3 d/T			00019
+		Schletz	Wilhelm	D	1939	Jul	Theodor		"Schmidt, Hulda"	Kamien	29	Skorodnica 1938-1939	00020	84	C. Woehrmann					10 m/M 10 d/T			00020
+		Arndt	Erich	D	1939	Aug	Adolf		"Mantei, Ottilie"	Skorodnica	29	Skorodnica 1938-1939	00021	85	C. Woehrmann					2 m/M			00021
+		Jakubowski	Susanne	D	1902	Mar				Sobieszczany	29	Sobieszczany 1902-1904	00002	99	C. Woehrmann				"Wutke, Wilhelm"	30 y/J			00002
+		Lieske	Wilhelm	D	1902	Apr	Gustav		"Wensel, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00003	100	C. Woehrmann					1 m/M 3 w/W 4 d/T			00003
+		Golz	Adolf	D	1902	Jun	Wilhelm		"Riske, Julianne"	Sobieszczany	29	Sobieszczany 1902-1904	00004	101	C. Woehrmann					24 y/J; #00005 Russian note			00004
+		Tiede	Alexander	D	1902	Sep	Julius		"Benke, Anna"	Czaskowice	29	Sobieszczany 1902-1904	00006	102	C. Woehrmann					10 m/M			00006
+		Kuehn	Lidia	D	1902	Sep	Gottlieb		"Hiens, Emilie"	Wilkolaz	29	Sobieszczany 1902-1904	00007	103	C. Woehrmann					7 m/M 10 d/T			00007
+		Kuehn	Berta	D	1902	Oct	Gottlieb		"Hiens, Emilie"	Wilkolaz	29	Sobieszczany 1902-1904	00008	104	C. Woehrmann					8 m/M			00008
+		Mueller	Olga	D	1903	Jan	Adolf		"Langner, Caecilia"	Sobieszczany	29	Sobieszczany 1902-1904	00009	105	C. Woehrmann					15 d/T			00009
+		Mueller	Martha	D	1903	Jan	Martin		"Benke, Wilhelmine"	Sobieszczany	29	Sobieszczany 1902-1904	00010	106	C. Woehrmann					3 w/W			00010
+		Klingbeil	Helene	D	1903	Feb	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczany 1902-1904	00011	107	C. Woehrmann					8 m/M 21 d/T			00011
+		Mueller	Christoph	D	1903	Nov	Samuel		"Hartwig, Christine"	Sobieszczany	29	Sobieszczany 1902-1904	00012	108	C. Woehrmann				"Rex, Karoline"	59 y/J			00012
+		Tiede	Wilhelm	D	1904	Jan	Julius		"Benke, Anna"	Sobieszczany	29	Sobieszczany 1902-1904	00013	109	C. Woehrmann					2 w/W 2 d/T			00013
+		Hartwig	Christine	D	1904	Jun	Michael		Susanne	Sobieszczany	29	Sobieszczany 1902-1904	00014	110	C. Woehrmann				"Mueller, [Samuel]"	83 y/J			00014
+		Mueller	Ernestine	D	1904	Aug	Samuel		"Hartwig, Christine"	Sobieszczany	29	Sobieszczany 1902-1904	00015	111	C. Woehrmann				"Wutke, Wilhelm"	42 y/J			00015
+		Klingbeil	Martha	D	1904	Dec	Adolf		"Laencke, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00016	112	C. Woehrmann					4 y/J 10 m/M			00016
+		Freiter	Emilie	D	1904	Dec	Friedrich		"Deutschlaender, Prakseda"	Sobieszczany	29	Sobieszczany 1902-1904	00017	113	C. Woehrmann				"Mueller, Gustav"	41 y/J			00017
+		Frank	Karoline	D	1905	Jan	Theophil		unknown	Niedzwiada	29	Sobieszczany 1902-1904	00018	114	C. Woehrmann				"Bartsch, Andreas"	57 y/J			00018
+		Benke	Wilhelmine	D	1905	Jan	Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczany 1902-1904	00019	115	C. Woehrmann				"Mueller, Martin"	29 y/J 2 m/M			00019
+		Kran	Wilhelm	D	1905	Mar	unknown/unbekannt		"Kran, Natalie"	Czaskowice	29	Sobieszczany 1902-1904	00020	116	C. Woehrmann					2 y/J 2 m/M 10 d/T			00020
+		Steinke	Wanda	D	1905	Apr	Friedrich		"Lilke, Olga"	Sobieszczany	29	Sobieszczany 1902-1904	00021	117	C. Woehrmann					5 d/T			00021
+		Klingbeil	Josef	D	1905	Jul	Ferdinand		"Huff, Karoline"	Sobieszczany	29	Sobieszczany 1902-1904	00022	118	C. Woehrmann					2 y/J 8 m/M			00022
+		Klingbeil	Julius	D	1905	Aug	Ferdinand		"Huff, Karoline"	Sobieszczany	29	Sobieszczany 1902-1904	00023	119	C. Woehrmann					4 y/J 6 m/M			00023
+		Lieske	Wilhelm	B	1902	Feb	Gustav		"Wensel, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00024	169	C. Woehrmann								00024
+		Mueller	Martha	B	1902	Mar	Julius		"Mueller, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00025	170	C. Woehrmann								00025
+		Klingbeil	Helene	B	1902	Jun	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczany 1902-1904	00026	171	C. Woehrmann								00026
+		Klatt	Emilie	B	1902	Jul	Georg		"Oraschewski, Theophile"	Sobieszczany	29	Sobieszczany 1902-1904	00027	172	C. Woehrmann								00027
+		Huf	Natalie	B	1902	Jul	Michael		"Pacholke, Theophile"	Laczki	29	Sobieszczany 1902-1904	00028	173	C. Woehrmann								00028
+		Deutschlaender	Alexander	B	1902	Jun	Emil		"Arndt, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00029	174	C. Woehrmann								00029
+		Deutschlaender	Adolf	B	1902	Aug	Ludwig	"Logstaett, Wilhelmine"	"Lokstaedt, Wilhelmine"	Sobieszczany	29	Sobieszczany 1902-1904	00030	175	C. Woehrmann								00030
+		Deter	Adolf	B	1902	Nov	Robert		"Steinke, Friederike"	Sobieszczany	29	Sobieszczany 1902-1904	00031	176	C. Woehrmann								00031
+		Steinke	Emilie	B	1902	Nov	Karl		"Holz, Anna Susanne"	Egersdorf (= Dylazki)	29	Sobieszczany 1902-1904	00032	177	C. Woehrmann								00032
+		Klingbeil	Josef	B	1902	Dec	Ferdinand		"Huff, Karoline"	Laczki	29	Sobieszczany 1902-1904	00033	178	C. Woehrmann								00033
+		Schindel	Wanda	B	1902	Oct	Adolf		"Meger, Eva"	Klodnica	29	Sobieszczany 1902-1904	00034	179	C. Woehrmann								00034
+		Oraschewski	Wanda	B	1903	Jan	Gustav		"Blede, Julianne"	Sobieszczany	29	Sobieszczany 1902-1904	00035	180	C. Woehrmann								00035
+		Mueller	Martha	B	1903	Jan	Martin		"Benke, Wilhelmine"	Sobieszczany	29	Sobieszczany 1902-1904	00036	181	C. Woehrmann								00036
+		Mueller	Olga	B	1903	Jan	Adolf		"Langner, Caecilia"	Sobieszczany	29	Sobieszczany 1902-1904	00037	182	C. Woehrmann								00037
+		Klingbeil	Natalie	B	1903	Feb	Adolf		"Laemke, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00038	183	C. Woehrmann								00038
+		Grams	Emil	B	1903	Mar	Johann Stefan		"Huff, Christine"	Grabowka	29	Sobieszczany 1902-1904	00039	184	C. Woehrmann								00039
+		Mueller	Emil	B	1903	Jun	Gustav		"Wensel, Henriette"	Sobieszczany	29	Sobieszczany 1902-1904	00040	185	C. Woehrmann								00040
+		Kuehn	Adolf	B	1903	Jul	Gottlieb		"Hiens, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00041	186	C. Woehrmann								00041
+		Lieske	Olga	B	1903	Jul	Gustav		"Wensel, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00042	187	C. Woehrmann								00042
+		Klingbeil	Wanda	B	1903	Aug	Heinrich		"Lentz, Augustine"	Sobieszczany	29	Sobieszczany 1902-1904	00043	188	C. Woehrmann								00043
+		Grams	Lidia	B	1903	Sep	Michael		"Gerhart, Natalie"	Grabowka	29	Sobieszczany 1902-1904	00044	189	C. Woehrmann								00044
+		Schmidt	Marta	B	1903	Aug	Johann		"Schaefer, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00045	190	C. Woehrmann								00045
+		Steinke	Eduard	B	1903	Oct	Friedrich		"Lilke, Olga"	Sobieszczany	29	Sobieszczany 1902-1904	00046	191	C. Woehrmann								00046
+		Deutschlaender	Otto	B	1903	Oct	Emil		"Arndt, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00047	192	C. Woehrmann								00047
+		Hennig	Ludwig	B	1903	Nov	Gottlieb		"Mueller, Mathilde"	Sobieszczany	29	Sobieszczany 1902-1904	00048	193	C. Woehrmann								00048
+		Steinke	Martha	B	1903	Nov	Johann		"Holz, Marianne"	Sobieszczany	29	Sobieszczany 1902-1904	00049	194	C. Woehrmann								00049
+		Klatt	Julianne	B	1903	Dec	Georg		"Oraschewski, Theophile"	Sobieszczany	29	Sobieszczany 1902-1904	00050	195	C. Woehrmann								00050
+		Tiede	Wilhelm	B	1904	Jan	Julius		"Banke, Anna"	Sobieszczany	29	Sobieszczany 1902-1904	00051	196	C. Woehrmann								00051
+		Langner	Martha	B	1904	Jan	Wilhelm		"Tiede, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00052	197	C. Woehrmann								00052
+		Hekendorf	Martha	B	1904	Feb	Friedrich		"Kurzrok, Pauline"	Sobieszczany	29	Sobieszczany 1902-1904	00053	198	C. Woehrmann								00053
+		Bluechert	Alexander	B	1904	Mar	Andreas		"Seifert, Katharine"	Egersdorf (= Dylazki)	29	Sobieszczany 1902-1904	00054	199	C. Woehrmann								00054
+Hilczer	Johann	Hilscher	Johann	B	1904	Apr	unknown/unbekannt		"Hilscher, Stanislawa"	Sobieszczany	29	Sobieszczany 1902-1904	00055	200	C. Woehrmann					illegitimate / unehelich			00055
+		Mueller	Helene	B	1904	Apr	Julius		"Mueller, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00056	201	C. Woehrmann								00056
+		Mueller	Olga	B	1904	Apr	Adolf		"Langner, Caecilia"	Sobieszczany	29	Sobieszczany 1902-1904	00057	202	C. Woehrmann								00057
+		Sommerfeld	Otto	B	1904	Jun	Eduard		"Bluechert, Emilie"	Sobieszczany	29	Sobieszczany 1902-1904	00058	203	C. Woehrmann								00058
+		Pacholke	Wanda	B	1904	Aug	Julius		"Gerhart, Rosalie"	Sobieszczany	29	Sobieszczany 1902-1904	00059	204	C. Woehrmann								00059
+		Vogt	Natalie	B	1904	Sep	Jakob		"Raunest, Susanne"	Sobieszczany	29	Sobieszczany 1902-1904	00060	205	C. Woehrmann								00060
+		Langner	Adele	B	1904	Nov	Adolf		"Lechelt, Lidia"	Sobieszczany	29	Sobieszczany 1902-1904	00061	206	C. Woehrmann								00061
+		Deter	Ludwig	B	1904	Dec	Robert		"Steinke, Friederike"	Sobieszczany	29	Sobieszczany 1902-1904	00062	207	C. Woehrmann								00062
+		Hogensee	Otto	B	1904	Oct	Friedrich		"Badke, Lidia"	Sobieszczany	29	Sobieszczany 1902-1904	00063	208	C. Woehrmann								00063
+		Bartsch	Rudolf	B	1884	Oct	Friedrich		"Ziech, Theophile"	Osowa	29	Sobieszczsany 1884-1886	00001	5	C. Woehrmann								00001
+		Woelke	Ludwig	B	1885	Jan	Karl		"Jaupsen, Luise"	Sobieszczany	29	Sobieszczsany 1884-1886	00002	6	C. Woehrmann								00002
+		Hermann	Johann Wilhelm	B	1885	Jan	Heinrich		"Janke, Rosalie"	Pawlow	29	Sobieszczsany 1884-1886	00003	1	C. Woehrmann								00003
+		Schepke	Emil	B	1884	Dec	Ludwig		"Gutknecht, Mathilde"	Sobieszczany	29	Sobieszczsany 1884-1886	00004	2	C. Woehrmann								00004
+		Mueller	Gustav	B	1885	Jan	Gustav		"Zich, Ernestine"	Sobieszczany	29	Sobieszczsany 1884-1886	00005	8	C. Woehrmann								00005
+		Klingbeil	Emilie	B	1885	Mar	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczsany 1884-1886	00006	9	C. Woehrmann								00006
+		Wojczechowski	Ernestine	B	1885	Mar	Martin		"Dalke, Anne Christine"	Belzyce	29	Sobieszczsany 1884-1886	00007	10	C. Woehrmann					#00008 duplicate			00007
+Deitschlender	Julius	Deutschlaender	Julius	B	1885	May	Friedrich	"Hartwych, Mariana"	"Hartwich, Marianne"	Sobieszczany	29	Sobieszczsany 1884-1886	00009	11	C. Woehrmann								00009
+Tyde	Cicilie	Tiede	Caecilia	B	1885	May	Heinrich		"Gurke, Justine"	Osiny	29	Sobieszczsany 1884-1886	00010	12	C. Woehrmann								00010
+Karow	Julius	Karo	Julius	B	1885	May	Gottlieb		"Lehmann, Wilhelmine"	Sobieszczany	29	Sobieszczsany 1884-1886	00011	x / 212	C. Woehrmann								00011
+		Gurke	Rudolf	B	1885	Aug	Ludwig		"Metzdorf, Pauline"	Sobieszczany	29	Sobieszczsany 1884-1886	00012	13	C. Woehrmann								00012
+		Fluegel	Wilhelm Friedrich	B	1885	Sep	Ferdinand		"Pak, Wilhelmine"	Niedrzwica	29	Sobieszczsany 1884-1886	00013	14	C. Woehrmann								00013
+		Oelke	Christine	B	1885	Sep	Johann		"Tiede, Karoline"	Leczki	29	Sobieszczsany 1884-1886	00014	15	C. Woehrmann								00014
+		Lapinski	Karl	B	1885	Dec	Ferdinand		"Knie, Karoline"	Niedrzwica	29	Sobieszczsany 1884-1886	00015	16	C. Woehrmann								00015
+		Benke	Ernestine	B	1886	Mar	Johann Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1884-1886	00016	1a	C. Woehrmann					twin / Zwilling			00016
+		Benke	Susanne	B	1886	Mar	Johann Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1884-1886	00017	1b	C. Woehrmann					twin / Zwilling			00017
+		Oraszewski	Emil	B	1886	Mar	Gustav		"Bloede, Julianne"	Niedrzwica	29	Sobieszczsany 1884-1886	00018	2	C. Woehrmann								00018
+		Klingbeil	Julius	B	1886	Apr	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczsany 1884-1886	00019	3	C. Woehrmann								00019
+Wicke	Heinrich	Wutzke	Heinrich	B	1886	May	Gottlieb		"Heimann, Henriette"	Sobieszczany	29	Sobieszczsany 1884-1886	00020	4	C. Woehrmann								00020
+		Steinke	stillborn	D	1886	Jul	Heinrich		"Hoffmann, Florentine"	Sobieszczany	29	Sobieszczsany 1884-1886	00021	5	C. Woehrmann					birth record			00021
+		Langner	Olga	B	1886	Aug	Wilhelm		"Tiede, Emilie"	Sobieszczany	29	Sobieszczsany 1884-1886	00022	6	C. Woehrmann								00022
+		Lemke	Jakob	B	1886	Jul	Gustav	"Dejtczlender, Emilie"	"Deutschlaender, Emilie"	Sobieszczany	29	Sobieszczsany 1884-1886	00023	7	C. Woehrmann								00023
+		Mueller	Eduard	B	1886	Sep	Christoph		"Rex, Karoline"	Sobieszczany	29	Sobieszczsany 1884-1886	00024	8	C. Woehrmann								00024
+		Grimm	Wilhelm	B	1886	Oct	Philipp		"Langner, Emilie"	Sobieszczany	29	Sobieszczsany 1884-1886	00025	9	C. Woehrmann								00025
+		Benke	Emil	B	1887	Jan	Gottlieb		"Mueller, Ernestine"	Sobieszczany	29	Sobieszczsany 1884-1886	00026	10	C. Woehrmann								00026
+		Schmidt	Henriette	D	1885	Feb	Samuel		"Oelke, Anne Christine"	Sobieszczany	29	Sobieszczsany 1884-1886	00027	1	C. Woehrmann				"Pluegge, Gustav"	36 y/J			00027
+		Woelke	Ludwig	D	1885	Jun	Karl		"Jaupsen, Luise"	Sobieszczany	29	Sobieszczsany 1884-1886	00028	2	C. Woehrmann					5 m/M			00028
+		Arndt	Karl	D	1885	Nov	Ernst		"Kelm, Pauline"	Zemborzyce	29	Sobieszczsany 1884-1886	00029	3	C. Woehrmann					1 1/2 m/M			00029
+Lejmann	Emilie Rozalia	Lehmann	Emilie Rosalie	D	1886	Jan	August		"Karoff, Anna"	Sobieszczany	29	Sobieszczsany 1884-1886	00030	1	C. Woehrmann					35 y/J			00030
+		Benke	Julius	D	1886	Jan	Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1884-1886	00031	2	C. Woehrmann					7 y/J			00031
+		Muth	Emilie	D	1886	Feb	unknown/unbekannt		"Muth, Wilhelmine"	Sobieszczany	29	Sobieszczsany 1884-1886	00032	3	C. Woehrmann					"1 1/2 y/J, illegitimate / unehelich"			00032
+		Braun	Gottlieb	D	1886	Mar	Gottlieb		"Liefke, Christine"	Sobieszczany	29	Sobieszczsany 1884-1886	00033	4	C. Woehrmann				"Vater, Emilie"	45 y/J 10 m/M			00033
+		Benke	Susanne	D	1886	Mar	Johann Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1884-1886	00034	5	C. Woehrmann					10 d/T			00034
+		Benke	Ernestine	D	1886	Mar	Johann Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1884-1886	00035	6	C. Woehrmann					19 d/T			00035
+		Steinke	stillborn	D	1886	Jul	Heinrich		"Hoffmann, Florentine"	Sobieszczany	29	Sobieszczsany 1884-1886	00036	7	C. Woehrmann								00036
+		Lapinski	Karl	D	1886	Sep	Ferdinand		"Knie, Karoline"	Niedrzwica	29	Sobieszczsany 1884-1886	00037	8	C. Woehrmann					9 m/M			00037
+		Grimm	Wilhelm	D	1886	Oct	Philipp		"Langner, Emilie"	Sobieszczany	29	Sobieszczsany 1884-1886	00038	9	C. Woehrmann								00038
+		Lapinski	Karl	B	1885	Dec	Ferdinand		"Knie, Karoline"	Niedrzwica	29	Sobieszczsany 1886-1892	00002	16	C. Woehrmann								00002
+		Benke	Ernestine	B	1886	Mar	Johann		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1886-1892	00002	17 / 1a	C. Woehrmann								00002
+		Benke	Susanne	B	1886	Mar	Johann Friedrich		"Fender, Marianne"	Sobieszczany	29	Sobieszczsany 1886-1892	00003	17 / 1b	C. Woehrmann								00003
+		Oraszewski	Emil	B	1886	Mar	Gustav		"Bloede, Julianne"	Niedrzwica	29	Sobieszczsany 1886-1892	00003	18 / 2	C. Woehrmann								00003
+		Klingbeil	Julius	B	1886	Apr	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00004	18 / 3	C. Woehrmann								00004
+		Wutzke	Heinrich	B	1886	May	Gottlieb		"Hermann, Henriette"	Sobieszczany	29	Sobieszczsany 1886-1892	00005	20 / 4	C. Woehrmann								00005
+		Steinke	stillborn female	D	1886	Jul	Heinrich		"Hoffmann, Florentine"	Sobieszczany	29	Sobieszczsany 1886-1892	00005	21 / 5	C. Woehrmann					birth record			00005
+		Langner	Olga	B	1886	Aug	Wilhelm		"Tiede, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00006	22 / 6	C. Woehrmann								00006
+		Lemke	Jakob	B	1886	Jul	Gustav	"Dejtczlender, Emilie"	"Deutschlaender, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00006	23 / 7	C. Woehrmann								00006
+		Mueller	Eduard	B	1886	Sep	Christoph		"Rex, Karoline"	Sobieszczany	29	Sobieszczsany 1886-1892	00007	24 / 8	C. Woehrmann								00007
+		Grimm	Wilhelm	B	1886	Oct	Philipp		"Langner, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00007	25 / 9	C. Woehrmann								00007
+		Benke	Emil	B	1887	Jan	Gottlieb		"Mueller, Ernestine"	Sobieszczany	29	Sobieszczsany 1886-1892	00008	26 / 10	C. Woehrmann								00008
+		Gurke	Marianne	B	1887	Jan	Julius		"Krueger, Florentine"	Osiny	29	Sobieszczsany 1886-1892	00008	27 / 1	C. Woehrmann								00008
+		Langner	Olga	B	1887	Jan	Gustav		"Kuehn, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00009	28 / 2	C. Woehrmann								00009
+		Schulz	Wilhelm	B	1887	Mar	Eduard		"Klingbeil, Ernestine"	Sobieszczany	29	Sobieszczsany 1886-1892	00009	29 / 3	C. Woehrmann								00009
+		Braun	Ludwig	B	1887	Jun	Heinrich		"Haak, Pauline"	Sobieszczany	29	Sobieszczsany 1886-1892	00010	30 / 4	C. Woehrmann								00010
+		Pino	Leokadia	B	1887	Jun	Gottlieb		"Mund, Luise"	Sobieszczany	29	Sobieszczsany 1886-1892	00010	31 / 5	C. Woehrmann								00010
+		Pino	Emil	B	1887	Jun	Ludwig		"Gurke, Wilhelmine"	Sobieszczany	29	Sobieszczsany 1886-1892	00011	32 / 6	C. Woehrmann								00011
+		Mueller	Emil	B	1887	Jun	Gustav		"Ziech, Ernestine"	Sobieszczany	29	Sobieszczsany 1886-1892	00011	33 / 7	C. Woehrmann								00011
+		Tiede	Adolf	B	1887	Feb	unknown/unbekannt		"Tiede, Susanne"	Osiny	29	Sobieszczsany 1886-1892	00012	34 / 8	C. Woehrmann					illegitimate / unehelich			00012
+		Grams	Eduard	B	1887	Aug	Wilhelm		"Mantik, Julianne"	Leszniczowka	29	Sobieszczsany 1886-1892	00012	35 / 9	C. Woehrmann								00012
+		Fei	Marianne	B	1887	Oct	Friedrich		"Gart?ch, Marianne"	Sobieszczany	29	Sobieszczsany 1886-1892	00013	36 / 10 - I	C. Woehrmann					twin / Zwilling			00013
+		Fei	Ernestine	B	1887	Oct	Friedrich		"Gart?ch, Marianne"	Sobieszczany	29	Sobieszczsany 1886-1892	00013	36 / 10 - II	C. Woehrmann					twin / Zwilling			00013
+		Oraszewski	Wilhelm	B	1887	Dec	Gustav		"Bloede, Julianne"	Niedrzwica	29	Sobieszczsany 1886-1892	00013	37 / 11	C. Woehrmann								00013
+		Muth	Heinrich	B	1888	Feb	unknown/unbekannt		"Muth, Wilhelmine"	Sobieszczany	29	Sobieszczsany 1886-1892	00014	38 / 1	C. Woehrmann					illegitimate / unehelich			00014
+		Harmel	Emilie	B	1888	Mar	Heinrich		"Steinke, Karoline"	Sobieszczany	29	Sobieszczsany 1886-1892	00014	39 / 2	C. Woehrmann								00014
+		Tiede	Ernestine	B	1888	Feb	Heinrich		"Gurke, Justine"	Osiny	29	Sobieszczsany 1886-1892	00014	40 / 3	C. Woehrmann								00014
+		Tiede	Rudolf	B	1885	May	unknown/unbekannt		"Tiede, Susanne"	Sobieszczany	29	Sobieszczsany 1886-1892	00014	41 / 4	C. Woehrmann					illegitimate / unehelich			00014
+		Weltz	Johann	B	1888	Jun	Friedrich		"Langner, Theophile"	Osiny	29	Sobieszczsany 1886-1892	00015	42 / 5	C. Woehrmann								00015
+		Steinke	Eduard	B	1888	Jul	Wilhelm	"Kintoph, Emilie"	"Kientopf, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00015	43 / 6	C. Woehrmann								00015
+		Garke	Emilie	B	1888	Oct	Ludwig		"Metzdorf, Pauline"	Osiny	29	Sobieszczsany 1886-1892	00016	44 / 7	C. Woehrmann								00016
+		Klatt	August	B	1888	Dec	David		"Huff, Rosalie"	Laczki	29	Sobieszczsany 1886-1892	00017	1	C. Woehrmann								00017
+		Tiede	Emilie	B	1888	Dec	Christoph		"Huff, Rosalie"	Laczki	29	Sobieszczsany 1886-1892	00017	2	C. Woehrmann								00017
+		Lemke	Daniel	B	1888	Nov	Gustav		"Deutschlaender, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00018	3	C. Woehrmann								00018
+		Tiede	Heinrich	B	1889	Jan	unknown/unbekannt		"Tiede, Justine"	Sobieszczany	29	Sobieszczsany 1886-1892	00018	4	C. Woehrmann					illegitimate / unehelich			00018
+		Klingbeil	Mathilde	B	1889	Feb	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00019	5	C. Woehrmann								00019
+		Langner	Berta	B	1889	Jan	Gustav		"Kuehn, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00019	6	C. Woehrmann								00019
+		Tiede	Olga	B	1889	Jul	unknown/unbekannt		"Tiede, Susanne"	Sobieszczany	29	Sobieszczsany 1886-1892	00020	7	C. Woehrmann					illegitimate / unehelich			00020
+		Benke	Julius	B	1889	Jul	Gottlieb		"Mueller, Ernestine"	Sobieszczany	29	Sobieszczsany 1886-1892	00020	8	C. Woehrmann								00020
+		Bartsch	Adolf	B	1889	Aug	Wilhelm		"Fender, Susanne"	Sobieszczany	29	Sobieszczsany 1886-1892	00021	9	C. Woehrmann								00021
+		Kurzmann	Emilie	B	1889	Aug	Gottlieb		"Kientopf, Amalie"	Pawlow	29	Sobieszczsany 1886-1892	00021	10	C. Woehrmann								00021
+		Gurke	Emil	B	1889	Sep	Julius		"Krueger, Florentine"	Osiny	29	Sobieszczsany 1886-1892	00022	11	C. Woehrmann								00022
+		Harmel	Eduard	B	1889	Sep	Heinrich		"Steinke, Karoline"	Sobieszczany	29	Sobieszczsany 1886-1892	00022	12	C. Woehrmann								00022
+Pfluege	Heinrich	Fliege	Heinrich	B	1889	Oct	Gustav		"Blede, Julianne"	Niedrzwica	29	Sobieszczsany 1886-1892	00023	13	C. Woehrmann								00023
+		Mueller	Berta	B	1889	Oct	Gustav		"Zich, Ernestine"	Sobieszczany	29	Sobieszczsany 1886-1892	00023	14	C. Woehrmann								00023
+		Zippel	Berta	B	1889	Oct	Friedrich		"Kubke, Mathilde"	Sobieszczany	29	Sobieszczsany 1886-1892	00024	15	C. Woehrmann								00024
+		Mueller	Julianne	B	1889	Dec	Wilhelm		"Wentzel, Luise"	Sobieszczany	29	Sobieszczsany 1886-1892	00024	16	C. Woehrmann								00024
+		Kriesel	Gustav	B	1889	Dec	Johann		"Kotke, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00025	17	C. Woehrmann								00025
+		Freiter	Emilie	B	1890	Jan	Ludwig		"Schmidt, Ernestine"	Pawlow	29	Sobieszczsany 1886-1892	00025	18	C. Woehrmann								00025
+		Brauch	Emilie	B	1890	Feb	Philipp		"Hak, Wilhelmine"	Borkowizna	29	Sobieszczsany 1886-1892	00026	19	C. Woehrmann								00026
+		Kubke	Natalie	B	1890	Jan	Johann		"Kunkel, Eleonore"	Sobieszczany	29	Sobieszczsany 1886-1892	00026	20	C. Woehrmann								00026
+		Karoff	Gottlieb	B	1889	Dec	Gottlieb		"Schmidt, Wilhelmine"	Sobieszczany	29	Sobieszczsany 1886-1892	00027	21	C. Woehrmann								00027
+		Braun	Emil	B	1890	Mar	Heinrich		"Haak, Pauline"	Sobieszczany	29	Sobieszczsany 1886-1892	00027	22	C. Woehrmann								00027
+		Schulz	Augustine	B	1890	Mar	Friedrich		"Harmel, Eleonore"	Osowa	29	Sobieszczsany 1886-1892	00028	23	C. Woehrmann								00028
+		Wandrig	Amalie	B	1890	Jun	Gustav		"Hummelt, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00028	24	C. Woehrmann								00028
+		Mueller	Friedrich	B	1890	Nov	Gustav		"Freuter, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00029	25	C. Woehrmann								00029
+		Zippel	Natalie	B	1890	Dec	Friedrich		"Kubke, Mathilde"	Sobieszczany	29	Sobieszczsany 1886-1892	00029	26	C. Woehrmann								00029
+		Schepke	Ludwig	B	1891	Feb	Ludwig		"Gutknecht, Mathilde"	Sobieszczany	29	Sobieszczsany 1886-1892	00030	27	C. Woehrmann								00030
+		Honke	Friedrich Wilhelm	B	1891	Jun	Emil		"Freiter, Teophile"	Sobieszczany	29	Sobieszczsany 1886-1892	00030	28	C. Woehrmann								00030
+Haek	Emil	Haak	Emil	B	1891	Jun	Georg		"Knusper, Emilie"	Osiny	29	Sobieszczsany 1886-1892	00031	29	C. Woehrmann								00031
+		Mueller	Adalena	B	1891	Jun	Andreas		"Hartwich, Christine"	Sobieszczany	29	Sobieszczsany 1886-1892	00031	30	C. Woehrmann								00031
+		Langner	Wilhelmine	B	1891	Sep	Gustav		"Kuehn, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00032	31	C. Woehrmann								00032
+		Welz	Emilie	B	1891	Apr	Gustav		"Tiede, Luise"	Sobieszczany	29	Sobieszczsany 1886-1892	00032	32	C. Woehrmann								00032
+		Kubke	Adolf	B	1891	Sep	Johann Friedrich		"Kunkel, Eleonore"	Sobieszczany	29	Sobieszczsany 1886-1892	00033	33	C. Woehrmann								00033
+		Braun	Wilhelm	B	1891	Oct	Heinrich		"Haak, Pauline"	Sobieszczany	29	Sobieszczsany 1886-1892	00033	34	C. Woehrmann								00033
+		Brauch	Olga	B	1891	Oct	Philipp		"Haak, Wilhelmine"	Osiny	29	Sobieszczsany 1886-1892	00034	35	C. Woehrmann								00034
+		Kubke	Rosalie	B	1891	Nov	Johann		"Guderian, Julianne"	Sobieszczany	29	Sobieszczsany 1886-1892	00034	36	C. Woehrmann								00034
+		Harmel	Adolf	B	1891	Dec	Heinrich		"Steinke, Karoline"	Sobieszczany	29	Sobieszczsany 1886-1892	00035	37	C. Woehrmann								00035
+		Steinke	Ludwig	B	1982	Jan	Wilhelm		"Kientopf, Emilie"	Sobieszczany	29	Sobieszczsany 1886-1892	00035	38	C. Woehrmann								00035
+		Wandrig	stillborn female	D	1892	Feb	Martin		"Wandrig, Julianne"	Radawczyk	29	Sobieszczsany 1886-1892	00036	39	C. Woehrmann					birth record			00036
+		Klingbeil	Adolf	B	1892	Feb	Ludwig		"Pacholke, Rosalie"	Sobieszczany	29	Sobieszczsany 1886-1892	00036	40	C. Woehrmann								00036
+		Zielke	Helene	B	1884	Sep	August		"Kropp, Emilie"	Baran	29	Sobolew 1884-1887	00001	1	C. Woehrmann								00001
+		Kubke	Siegmund	B	1884	Sep	Johann		"Albrecht, Karoline"	Sobolew	29	Sobolew 1884-1887	00002	2	C. Woehrmann								00002
+		Templin	Pauline	B	1884	Oct	Christian		"Friss, Justine"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00003	3	C. Woehrmann								00003
+		Meier	Ferdinand	B	1884	Nov	Gottfried		"Scheler, Rosalie"	Justynow	29	Sobolew 1884-1887	00004	4	C. Woehrmann								00004
+		Zippel	Helene	B	1884	Dec	Friedrich		"Badke, Pauline"	Sobolew	29	Sobolew 1884-1887	00005	5	C. Woehrmann								00005
+		Friss	Anne Christine	B	1885	Jan	August		"Templin, Luise"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00006	6	C. Woehrmann								00006
+		Arndt	Friederike	B	1885	Mar	Andreas		"Briese, Luise"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00007	7	C. Woehrmann								00007
+		Neumann	Emil	B	1885	Apr	August		"Liske, Christine"	Sobolew	29	Sobolew 1884-1887	00008	8	C. Woehrmann								00008
+		Gesell	Theophile	B	1885	May	Vincent		"Jek, Julianne"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00009	9	C. Woehrmann								00009
+		Dei	Johann	B	1885	May	Jakob		"Winter, Luise"	Sobolew	29	Sobolew 1884-1887	00010	10	C. Woehrmann								00010
+		Kerlin	Johann	B	1885	May	Ludwig		"Kropp, Albertine"	Baran	29	Sobolew 1884-1887	00011	11	C. Woehrmann								00011
+		Martin	Pauline	B	1885	Jun	August		"Dalke, Euphrosine"	Sobolew	29	Sobolew 1884-1887	00012	12	C. Woehrmann								00012
+		Strohschein	Eduard	B	1885	Jul	Gottlieb		"Ross, Wilhelmine"	Aleksandrowka	29	Sobolew 1884-1887	00013	13	C. Woehrmann								00013
+		Martin	Mathilde	B	1885	Aug	Christoph		"Freitag, Justine"	Sobolew	29	Sobolew 1884-1887	00014	14	C. Woehrmann								00014
+		Meier	August	B	1885	Aug	Ludwig		"Jesse, Karoline"	Justynow	29	Sobolew 1884-1887	00015	15	C. Woehrmann								00015
+		Lehmann	Emilie	B	1885	Sep	Wilhelm		"Albrecht, Luise"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00016	16	C. Woehrmann								00016
+		Sommerfeld	Gottlieb	B	1885	Oct	Johann		"Pide, Mathilde"	Sobolew	29	Sobolew 1884-1887	00017	17	C. Woehrmann								00017
+		Mueller	Rudolf	B	1885	Nov	Wilhelm		"Zippel, Ernestine"	Sobolew	29	Sobolew 1884-1887	00018	18	C. Woehrmann								00018
+		Sommerfeld	Julius	B	1885	Dec	Gottlieb		"Bittner, Auguste"	Sobolew	29	Sobolew 1884-1887	00019	19	C. Woehrmann								00019
+		Templin	Emilie	B	1886	Jan	Christian		"Friss, Justine"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00020	20	C. Woehrmann								00020
+		Telker	Johann Hermann	B	1886	Jan	Johann		"Pusch, Pauline"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00021	21	C. Woehrmann								00021
+		Pahl	Augustine	B	1886	Feb	Johann		"Ratter, Julianne"	Baran	29	Sobolew 1884-1887	00022	22	C. Woehrmann								00022
+		Selig	Rudolf	B	1886	Mar	Adam		"Koepke, Augustine"	Aleksandrowka	29	Sobolew 1884-1887	00023	23	C. Woehrmann								00023
+		Zippel	Teophile	B	1886	Mar	Friedrich		"Badke, Pauline"	Sobolew	29	Sobolew 1884-1887	00024	24	C. Woehrmann								00024
+		Ratke	Pauline	B	1886	Apr	Johann		"Guderian, Wilhelmine"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00025	25	C. Woehrmann								00025
+		Grams	Emilie	B	1886	May	Andreas		"Neumann, Julianne"	Sobolew	29	Sobolew 1884-1887	00026	26	C. Woehrmann								00026
+		Pusch	Mathilde	B	1886	May	Matthias		"Zielke, Julianne"	Sobolew	29	Sobolew 1884-1887	00027	27	C. Woehrmann								00027
+		Beier	Mathilde	B	1886	Jun	August		"Dei, Elisabeth"	Baran	29	Sobolew 1884-1887	00028	28	C. Woehrmann								00028
+		Pokrant	Adolf	B	1886	Jun	August		"Schendel, Julianne"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00029	29	C. Woehrmann								00029
+		Zielke	August	B	1886	Jun	August		"Kropp, Emilie"	Baran	29	Sobolew 1884-1887	00030	30	C. Woehrmann								00030
+		Dei	Rudolf	B	1886	Jul	Friedrich Wilhelm		"Koepke, Pauline"	Baran	29	Sobolew 1884-1887	00031	31	C. Woehrmann								00031
+		Martin	stillborn male	D	1886	Nov	August		"Dalke, Euphrosine"	Sobolew	29	Sobolew 1884-1887	00032	32	C. Woehrmann					birth record			00032
+		Grams	Gottlieb	B	1887	Jan	Christian		"Ratke, Karoline"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00033	33	C. Woehrmann								00033
+		Guderian	Michael	D	1885	Mar	Adam		Eva	Sobolew	29	Sobolew 1884-1887	00035	3	C. Woehrmann				"Wagner, Justine"	84 y/J			00035
+		Templin	Pauline	D	1885	Mar	Christian		"Friss, Justine"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00036	4	C. Woehrmann					5 m/M			00036
+		Telker	Emil	D	1885	Mar	Johann Ferdinand		"Pusch, Pauline"	Baran	29	Sobolew 1884-1887	00037	5	C. Woehrmann					9 m/M 3 w/W			00037
+		Grunwald	Christoph	D	1885	Mar				Wolka Krasieninska	29	Sobolew 1884-1887	00038	6	C. Woehrmann					86 y/J			00038
+		Neumann	Emil	D	1885	Apr	August		"Lieske, Christine"	Sobolew	29	Sobolew 1884-1887	00039	7	C. Woehrmann					23 d/T			00039
+		Hund	Peter	D	1885	Jul	Christoph			Sobolew	29	Sobolew 1884-1887	00040	8	C. Woehrmann				"Henkel, Beate (third spouse)"	83 y/J			00040
+		Selig	Christoph	D	1885	Jul	Christoph			Aleksandrowka	29	Sobolew 1884-1887	00041	9	C. Woehrmann				"Schoenfeld, Anna Christine"	65 y/J			00041
+		Strohschein	Eduard	D	1885	Aug	Gottlieb		"Ross, Wilhelmine"	Aleksandrowka	29	Sobolew 1884-1887	00042	10	C. Woehrmann					1 m/M			00042
+		Dei	Johann	D	1885	Sep	Jakob		"Winter, Luise"	Sobolew	29	Sobolew 1884-1887	00043	11	C. Woehrmann					3 m/M 9 d/T			00043
+		Meier	August	D	1885	Sep	Ludwig		"Jesse, Karoline"	Justynow	29	Sobolew 1884-1887	00044	12	C. Woehrmann					1 m/M 1 d/T			00044
+		Hein	Karoline	D	1886	Jan	Gottfried			Sobolew	29	Sobolew 1884-1887	00045	13	C. Woehrmann				"Zielke, Christian"	73 y/J			00045
+		Zippel	Helene	D	1886	Mar	Friedrich		"Badke, Pauline"	Sobolew	29	Sobolew 1884-1887	00046	14	C. Woehrmann					1 y/J 10 1/2 w/W			00046
+		Thiem	Emilie	D	1886	May	Reinhold		"Pusch, Mathilde"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00047	15	C. Woehrmann					12 w/W 2 d/T			00047
+		Ratke	Pauline	D	1886	Jul	Johann		"Guderian, Wilhelmine"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00048	16	C. Woehrmann					12 w/W 1 d/T			00048
+		Pokrant	Adolf	D	1886	Sep	August		"Schendel, Julianne"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00049	17	C. Woehrmann					3 m/m 11 d/T			00049
+		Bittner	Seraphine	D	1886	Oct	Johann		"Zimmer, Emilie"	Majdan Krasieninski	29	Sobolew 1884-1887	00050	18	C. Woehrmann					9 y/J 2 w/W			00050
+		Grams	Christian	D	1886	Dec	Andreas		"Kaus, Marianne"	Wolka Mieczyslawska	29	Sobolew 1884-1887	00051	19	C. Woehrmann				"Ratke, Karoline"	27 y/J 8 m/M 5 d/T			00051
+		Gefreiter	Otto	D	1940	Aug	Robert		"Mueller, Olga"	Aleksandrowka	29	Tomaszowka 1935-1940	00002	51	C. Woehrmann					4 m/M 22 d/T			00002
+		Misch	Johanna Therese	D	1940	Aug	August		"Tering, Karoline"	Rybie	29	Tomaszowka 1935-1940	00003	50	C. Woehrmann				Wack	75 y/J			00003
+		Betker	Wilhelm	D	1940	Jun	Adolf		"Tonn, Pauline"	Aleksandrowka	29	Tomaszowka 1935-1940	00004	49	C. Woehrmann				Emilie	28 y/J			00004
+		Wack	Johann	D	1940	May	August		"Bretke, Justine"	Kobyle	29	Tomaszowka 1935-1940	00005	48	C. Woehrmann					22 y/J			00005
+		Mueller	Edmund	D	1940	Mar	Adolf		"Gefreiter, Leokadia"	Aleksandrowka	29	Tomaszowka 1935-1940	00006	47	C. Woehrmann					7 m/M			00006
+		Kitzmann	stillborn 	D	1940	Mar	August		"Sader, Auguste"	Chelm	29	Tomaszowka 1935-1940	00007	46	C. Woehrmann					delivered in hospital/Krankenhaus			00007
+		Sader	Auguste	D	1940	Mar	Johann		"Domke, Amalie"	Rybie	29	Tomaszowka 1935-1940	00008	45	C. Woehrmann				"Kitzmann, August"	29 y/J 6 m/M			00008
+		Wack	Waldemar	D	1940	Mar	Karl		"Rogan, Elsa"	Rybie	29	Tomaszowka 1935-1940	00009	44	C. Woehrmann					3 hours/Stunden			00009
+		Friedrich	August	D	1940	Mar	Christoph		"Duesterhoeft, Karoline"	Tomaszowka	29	Tomaszowka 1935-1940	00010	43	C. Woehrmann					74 y/J 8 m/M			00010
+		Schulz	Pauline	D	1940	Mar	Karl		"Gostinski, Karoline"	Felczyn	29	Tomaszowka 1935-1940	00011	42	C. Woehrmann				Link	80 y/J			00011
+		Wack	Emilie	D	1940	Feb	unknown/unbekannt		"Wack, Anna"	Rybie	29	Tomaszowka 1935-1940	00012	41	C. Woehrmann				Lentz	"52 y/J, illegitimate / unehelich"			00012
+		Sader	Julius	D	1940	Jan	Johann		"Domke, Amalie"	Rybie	29	Tomaszowka 1935-1940	00013	40	C. Woehrmann					83 y/J 2 m/M 13 d/T			00013
+		Dorok	Linda	D	1940	Jan	Hermann		"Jantz, Elsa"	Aleksandrowka	29	Tomaszowka 1935-1940	00014	39	C. Woehrmann					1 m/M 23 d/T			00014
+		Jess	Luise	D	1940	Jan	Michael		"Rosentreter, Luise"	Aleksandrowka	29	Tomaszowka 1935-1940	00015	38	C. Woehrmann				Tonn	56 y/J 10 m/M			00015
+		Dorok	Anna Luise	D	1939	Dec	August		Erdmine	Aleksandrowka	29	Tomaszowka 1935-1940	00016	37	C. Woehrmann				Grieb	75 y/J 3 m/M			00016
+		Pahl	Amalie	D	1939	Dec	Martin		Rosalie	Aleksandrowka	29	Tomaszowka 1935-1940	00017	36	C. Woehrmann				Betker	73 y/J			00017
+		Duesterhoeft	Johanne	D	1939	Nov	Ferdinand		"Luther, Wanda"	Aleksandrowka	29	Tomaszowka 1935-1940	00018	35	C. Woehrmann					18 y/J			00018
+		Dorok	Florentine	D	1939	Oct	Johann Samuel		"Fandrich, Wilhelmine"	Aleksandrowka	29	Tomaszowka 1935-1940	00019	34	C. Woehrmann					63 y/J			00019
+		Riemer	Withold	D	1939	Oct	Ludwig		"Giese, Wilhelmine"	Tomaszowka	29	Tomaszowka 1935-1940	00020	33	C. Woehrmann								00020
+		Tonn	August	D	1939	Sep	Friedrich		"Banik, Friedrike"	Aleksandrowka	29	Tomaszowka 1935-1940	00021	32	C. Woehrmann				"Jess, Luise"	72 y/J 3 m/M 23 d/T			00021
+		Grieb	Eduard	D	1939	Sep	Samuel		"Dorok, Hulda"	Aleksandrowka	29	Tomaszowka 1935-1940	00022	31	C. Woehrmann					3 y/J 14 d/T			00022
+		Hine	Viktoria	D	1939	Sep	Ludwig		"Abram, Wanda"	Klementynow	29	Tomaszowka 1935-1940	00023	30	C. Woehrmann					3 m/M			00023
+		Betker	Edmund	D	1939	Sep	Emanuel		"Mueller, Erna"	Aleksandrowka	29	Tomaszowka 1935-1940	00024	29	C. Woehrmann					6 m/M			00024
+		Abram	Wilhelm	D	1939	Aug	Gustav		"Schlecht, Emilie"	Klementynow	29	Tomaszowka 1935-1940	00025	28	C. Woehrmann					52 y/J 11 m/M			00025
+		Heger	Alfred	D	1939	Jul	Wilhelm		"Lohr, Maria"	Felczyn	29	Tomaszowka 1935-1940	00026	27	C. Woehrmann					1 y/J 11 d/T			00026
+		Wack	Bernhard	D	1939	Jun	Karl		"Rogan, Elsa"	Rybie	29	Tomaszowka 1935-1940	00027	26	C. Woehrmann					1 hour/Stunde			00027
+		Mueller	Christine	D	1939	Jun	Michael		"Schmidt, Luise"	Tomaszowka	29	Tomaszowka 1935-1940	00028	25	C. Woehrmann				"Friedrich, August"	67 y/J 2 m/M 12 d/T			00028
+		Betker	Friedrich	D	1939	Apr	Wilhelm		"Krause, Rosalie"	Tomaszowka	29	Tomaszowka 1935-1940	00029	24	C. Woehrmann				"Bloch, Wanda"	40 y/J 4 m/M			00029
+		Rogan	Wilhelm Karl Friedrich	D	1939	Mar	Friedrich		"Giese, Albertine"	Rybie	29	Tomaszowka 1935-1940	00030	23	C. Woehrmann				"Riske, Wilhelmine"	73 y/J			00030
+		Gefreiter	Ludwig	D	1939	Mar	Johann		"Neumann, Julianne"	Aleksandrowka	29	Tomaszowka 1935-1940	00031	22	C. Woehrmann				"Herzog, Marianne"	73 y/J 10 m/M			00031
+		Wegner	Gustav	D	1939	Feb	Ferdinand		"Duesterhoeft, Hulda"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00032	21	C. Woehrmann					3 w/W			00032
+		Grieb	Adele	D	1939	Jan	Daniel		"Lecht, Martha"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00033	20	C. Woehrmann					5 m/M			00033
+		Radke	Helene	D	1938	Dec	Adolf		"Grieb, Wanda"	Tomaszowka	29	Tomaszowka 1935-1940	00034	19	C. Woehrmann					1 y/J 10 m/M 19 d/T			00034
+		Dorok	Arnold	D	1938	Oct	Hermann	"Janc, Elsa"	"Jantz, Elsa"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00035	18	C. Woehrmann					13 d/T			00035
+		Duesterhoeft	Eduard	D	1938	Sep	Samuel	"Marczynkoski, Wilhelmine"	"Marcinkowski, Wilhelmine"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00036	17	C. Woehrmann				Marianne	69 y/J 5 m/M			00036
+		Betker	Natalie	D	1938	Sep	Friedrich		"Bloch, Wanda"	Tomaszowka	29	Tomaszowka 1935-1940	00037	16	C. Woehrmann					19 d/T			00037
+		Gefreiter	August	D	1938	Jul	Johann		"Neumann, Julianne"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00038	15	C. Woehrmann				"Steinhauer, Anna Maria"	66 y/J 14 d/T			00038
+		Wack	Theophil	D	1938	May	Ludwig		"Wurster, Emilie"	Rybie	29	Tomaszowka 1935-1940	00039	14	C. Woehrmann					13 y/J 12 d/T			00039
+		Mueller	Edmund	D	1938	Apr	Rudolf		"Dorok, Wanda"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00040	13	C. Woehrmann					16 d/T			00040
+		Semrok	Rudolf	D	1938	Mar	Heinrich		"Bloch, Leokadia"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00041	12	C. Woehrmann					12 d/T			00041
+		Bloch	Leokadia	D	1938	Mar	Friedrich		"Link, Luise"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00042	11	C. Woehrmann				"Semrok, Heinrich"	19 y/J 8 m/M			00042
+		Heger	Adolf	D	1938	Feb	Adolf		"Mertins, Emma"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00043	10	C. Woehrmann					3 d/T			00043
+		Semrok (married name?)	Wilhelmine	D	1937	Dec	August		"Tierling, Anne Christine"	Felczyn	29	Tomaszowka 1935-1940	00044	9	C. Woehrmann					75 y/J 7 m/M			00044
+		Wegner	Emil	D	1937	Sep	Ferdinand		"Duesterhoeft, Hulda"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00045	8	C. Woehrmann					23 d/T			00045
+		Gefreiter	Otto	D	1937	Sep	August		"Steinhauer, Anna Maria"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00046	7	C. Woehrmann					24 y/J			00046
+		Betker	Wilhelm	D	1937	Aug	Friedrich		"Bloch, Wanda"	Tomaszowka	29	Tomaszowka 1935-1940	00047	6	C. Woehrmann					8 d/T			00047
+Samoiski	Gottlib	Samoski	Gottlieb	D	1937	Aug	August			Brzeziny	29	Tomaszowka 1935-1940	00048	5	C. Woehrmann					65 y/J			00048
+Rogan	Wladyslaw	Rogan	Walter	D	1937	Jul	Karl		"Rieske, Wilhelmine"	Rybie	29	Tomaszowka 1935-1940	00049	4	C. Woehrmann					35 y/J 9 m/M 12 d/T			00049
+		Duesterhoeft	Adolf	D	1937	Jun	Andreas		"Tonn, Wilhelmine"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00050	3	C. Woehrmann					33 y/J 2 m/M 14 d/T			00050
+		Becker	Wilhelmine	D	1937	Jun	unknown/unbekannt		"Becker, Dorothea"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00051	2	C. Woehrmann				Kuehn	"58 y/J 5 m/M 17 d/T, illegitimate /unehelich"			00051
+		Gross	Hulda	D	1937	May	Gustav		"Betker, Emilie"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00052	1	C. Woehrmann				"Dorok, Hermann"	33 y/J 2 m/M 4 d/T			00052
+		Domke	August	D	1936	Dec	Rudolf		"Gross, Julianne"	Klementynow	29	Tomaszowka 1935-1940	00053	156	C. Woehrmann					6 w/W 4 d/T			00053
+		Brendel	Pauline	D	1936	Dec	Michael		"Eichelt, Karoline"	Tomaszowka	29	Tomaszowka 1935-1940	00054	155	C. Woehrmann				"Schlecht, Daniel"	55 y/J 10 m/M			00054
+		Gefreiter	Martha	D	1936	Nov	Robert		"Mueller, Olga"	Aleksandria Krzywowolska	29	Tomaszowka 1935-1940	00055	154	C. Woehrmann					3 m/M			00055
+		Teske	Edmund	D	1936	Oct	Daniel		"Oelke, Eva"	Klementynow	29	Tomaszowka 1935-1940	00056	153	C. Woehrmann					2 m/M 10 d/T			00056
+		Mantik	Auguste	D	1936	Sep	Siegmund		"Bloch, Lidia"	Tomaszowka	29	Tomaszowka 1935-1940	00057	152	C. Woehrmann					4 y/J 10 w/W			00057
+		Dorok	Emma	D	1936	Sep	Gottlieb		"Jubin, Wilhelmine"	Tomaszowka	29	Tomaszowka 1935-1940	00058	151	C. Woehrmann				"Riemer, Ludwig"	30 y/J 4 m/M			00058
+		Mantik	Otto	D	1936	Aug	Gustav	"Marczinkoske, Auguste"	"Marcinkowski, Auguste"	Felczyn	29	Tomaszowka 1935-1940	00059	150	C. Woehrmann					21 y/J 5 m/M			00059
+		Domke	Ida	D	1936	Jul	Rudolf		"Gross, Julianne"	Klementynow	29	Tomaszowka 1935-1940	00060	149	C. Woehrmann					7 y/J 1 m/M 4 d/T			00060
+		Schlecht	Frieda	D	1936	Jul	Siegmund		"Schubert, Amanda"	Tomaszowka	29	Tomaszowka 1935-1940	00061	148	C. Woehrmann					5 m/M 6 d/T			00061
+		Herzog	Emilie	D	1936	Jul	Friedrich		"Simon, Henriette"	Piatki	29	Tomaszowka 1935-1940	00062	147	C. Woehrmann				Lobas	57 y/J 2 m/M			00062
+		Giese	Ferdinand Wilhelm	D	1936	May	Albert		Wilhelmine	Rybie	29	Tomaszowka 1935-1940	00063	146	C. Woehrmann				"Rogan, Julianne"	55 y/J 9 m/M 14 d/T			00063
+		Iker	Hildegard	D	1936	Jan	Daniel		"Begalke, Erdmine"	Tomaszowka	29	Tomaszowka 1935-1940	00064	145	C. Woehrmann					5 m/M			00064
+		Bloch	Julianne	D	1935	Nov	Gottlieb		"Richert, Emilie"	Felczyn	29	Tomaszowka 1935-1940	00065	144	C. Woehrmann				"Heger, Wilhelm"	36 y/J 11 m/M 7 d/T			00065
+		Kozbard	Ferdinand	D	1935	Sep	Karl		"Schulz, Marianne"	Rybie	29	Tomaszowka 1935-1940	00066	143	C. Woehrmann				"Gahl, Marianne"	54 y/J			00066
+		Kassner	Elsa	B	1929	Dec	Gustav		"Schendel, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00001	47	C. Woehrmann	R							00001
+		Hase	Edmund	B	1929	Dec	Ludwig		"Bloch, Christine"	Ujazdow	29	Ujazdow 1930-1940	00002	48	C. Woehrmann	R							00002
+		Schwanke	Emma	B	1929	Nov	Emanuel		"Lueck, Lidia"	Stary Majdan	29	Ujazdow 1930-1940	00003	49	C. Woehrmann	R							00003
+		Cherschewski	Bernhard	B	1929	Dec	Michael		"Moser, Mathilde"	Stary Majdan	29	Ujazdow 1930-1940	00004	50	C. Woehrmann	R							00004
+		Liske	Walter	B	1930	Jan	Friedrich		"Klammer, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00005	51	C. Woehrmann	R							00005
+		Wechsel	Emma	B	1930	Jan	Gustav		"Steinke, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00006	52	C. Woehrmann	R							00006
+		Luedke	Otto	B	1930	Jan	Gustav		"Beier, Lidia"	Ujazdow	29	Ujazdow 1930-1940	00007	53	C. Woehrmann	R							00007
+		Radke	Artur	B	1930	Jan	Wilhelm		"Maerz, Ottilie"	Stary Majdan	29	Ujazdow 1930-1940	00008	54	C. Woehrmann	R							00008
+		Kiesling	Ida	B	1930	Jan	Hermann		"Steinke, Auguste"	Ujazdow	29	Ujazdow 1930-1940	00009	55	C. Woehrmann	R							00009
+		Bilau	Rudolf	B	1930	Feb	Gustav		"Bliesner, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00010	56	C. Woehrmann								00010
+		Witkowski	Erich	B	1930	Feb	Adolf		"Buls, Helene"	Ujazdow	29	Ujazdow 1930-1940	00011	57	C. Woehrmann								00011
+		Janke	Emil	B	1930	Feb	Adolf		"Bloch, Helene"	Ujazdow	29	Ujazdow 1930-1940	00012	58	C. Woehrmann	R							00012
+		Fecho	Adolf	B	1930	Feb	August		"Gast, Olga"	Ujazdow	29	Ujazdow 1930-1940	00013	59	C. Woehrmann	R							00013
+		Wolski	Lidia	B	1930	Mar	Adolf		"Bloch, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00014	60	C. Woehrmann	R							00014
+		Hase	stillborn male	D	1930	May	Karl		"Steinke, Amalie"	Ujazdow	29	Ujazdow 1930-1940	00015	61	C. Woehrmann					birth record			00015
+		Nehring	Lidia	B	1930	Apr	Gustav		"Hase, Olga"	Ujazdow	29	Ujazdow 1930-1940	00016	62	C. Woehrmann	R				addendum 00017			00016
+		Kwirant	Ida	B	1930	May	Johann		"Fergin, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00017	63	C. Woehrmann	R				addendum 00018			00017
+		Lippert	Hedwig	B	1930	May	Gustav		"Schulz, Karoline"	Ujazdow	29	Ujazdow 1930-1940	00018	64	C. Woehrmann	R				addendum 00019			00018
+		Wolski	Ludmilla	B	1930	Jun	Adolf		"Stresing, Helene Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00019	65	C. Woehrmann	R				addendum 00020			00019
+		Bald	stillborn female	D	1930	Jun	Gustav		"Schwarz, Olga"	Ujazdow	29	Ujazdow 1930-1940	00020	66	C. Woehrmann					birth record; addendum 00021			00020
+		Wegner	Eduard	B	1930	Jun	Philipp		"Hase, Martha"	Ujazdow	29	Ujazdow 1930-1940	00021	67	C. Woehrmann	R				addendum 00022			00021
+		Barke	Ludwig	B	1930	Jun	Adolf		"Schulz, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00022	68	C. Woehrmann	R				addendum 00023			00022
+		Milnikel	Herta	B	1930	Jul	Adolf		"Hiller, Josephine"	Ujazdow	29	Ujazdow 1930-1940	00023	69	C. Woehrmann	R				addendum 00024			00023
+		Semler	Otto	B	1930	Aug	Edmund		"Klan, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00024	70	C. Woehrmann	R				addendum 00025			00024
+		Kinas	Olga	B	1930	Oct	Julius		"Janke, Lidia"	Ujazdow	29	Ujazdow 1930-1940	00025	71	C. Woehrmann	R				addendum 00026			00025
+		Buchholz	Leon	B	1930	Sep	Ferdinand		"Distelberger, Helene"	Stary Majdan	29	Ujazdow 1930-1940	00026	72	C. Woehrmann	R				addendum 00027			00026
+		Marcinkowski	Reinhold	B	1930	Oct	Rudolf		"Zweier, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00027	73	C. Woehrmann	R				addendum 00028			00027
+		Engel	Ewald	B	1930	Oct	August		"Henschel, Helene"	Ujazdow	29	Ujazdow 1930-1940	00028	74	C. Woehrmann	R				addendum 00029			00028
+		Freund	Theodor	B	1930	Oct	Christian		"Keding, Olga"	Ujazdow	29	Ujazdow 1930-1940	00029	75	C. Woehrmann	R				addendum 00030			00029
+		Tews	Ida	B	1930	Nov	Ludwig		"Przygoda, Alwine"	Ujazdow	29	Ujazdow 1930-1940	00030	76	C. Woehrmann	R				addendum 00031			00030
+		Bald	Lidia	B	1930	Nov	Friedrich		"Kill, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00031	77	C. Woehrmann	R				addendum 00032			00031
+		Luedke	Bernhard	B	1930	Nov	Wilhelm		"Fecho, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00032	78	C. Woehrmann	R				addendum 00033			00032
+		Distelberger	Martha	B	1930	Nov	August		"Buchholz, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00033	79	C. Woehrmann	R				addendum 00034; twin / Zwilling			00033
+		Distelberger	Hulda	B	1930	Nov	August		"Buchholz, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00034	80	C. Woehrmann	R				addendum 00035; twin / Zwilling			00034
+		Bilau	Rudolf	D	1930	Feb	Gustav		"Bliesner, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00035	21	C. Woehrmann					"addendum 00036, 7 d/T"			00035
+		Distelberger	Olga	D	1930	Apr	August		"Buchholz, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00036	22	C. Woehrmann					"addendum 00037, 11 m/M 22 d/T"			00036
+		Distelberger	Friedrich	D	1930	Apr	August		"Buchholz, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00037	23	C. Woehrmann					"addendum 00038, 11 m/M 27 d/T"			00037
+		Hase	stillborn male	D	1930	May	Karl		"Steinke, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00038	24	C. Woehrmann					7 hours/Stunden			00038
+		Witkowski	Erich	D	1930	May	Adolf		"[Buls], Helene"	Ujazdow	29	Ujazdow 1930-1940	00039	25	C. Woehrmann					"addendum 00040, 2 m/M 22 d/T"			00039
+		Bald	stillborn female	D	1930	Jun	Gustav		"[Schwartz], Olga"	Ujazdow	29	Ujazdow 1930-1940	00040	26	C. Woehrmann					16 d/T			00040
+		Mueller	Friederike	D	1930	Aug	Albert			Ujazdow	29	Ujazdow 1930-1940	00041	27	C. Woehrmann				"Engel, Gottlieb"	63 y/J			00041
+		Lange	Marianne	D	1930	Aug	Wilhelm		Christine	Ujazdow	29	Ujazdow 1930-1940	00042	28	C. Woehrmann				"Schendel, Christoph"	68 y/J			00042
+		Hinz	Friedrich	D	1930	Aug	Wilhelm		Christine	Ujazdow	29	Ujazdow 1930-1940	00043	29	C. Woehrmann				"Nehring, Wanda"	42 y/J			00043
+		Wermann	Christian	D	1930	Sep	Johann			Ujazdow	29	Ujazdow 1930-1940	00044	30	C. Woehrmann				"Franz, Anna"	70 y/J			00044
+		Freund	Theodor	D	1930	Nov	Christian		Olga	Ujazdow	29	Ujazdow 1930-1940	00045	31	C. Woehrmann					8 d/T			00045
+		Pusch	Martin	D	1930	Nov	Andreas		"Sempf, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00046	32	C. Woehrmann				"Schmidtke, Emilie"	62 y/J			00046
+		Bald	Hilda	B	1934	Jan	Friedrich		"Kill, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00048	160	C. Woehrmann	R							00048
+		Poschadel	Sigismund	B	1934	Jan	Adolf		"Buchwald, Olga"	Ujazdow	29	Ujazdow 1930-1940	00049	161	C. Woehrmann	R							00049
+		Freund	Adolf	B	1934	Jan	Eduard		"Majewski, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00050	162	C. Woehrmann	R							00050
+		Przygoda	Martha	B	1934	Jan	Edmund		"Glinski, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00051	163	C. Woehrmann	R							00051
+		Bilau	Ewald	B	1934	Jan	Gustav		"Bliesner, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00052	164	C. Woehrmann	R							00052
+		Hiller	Klara	B	1934	Feb	Theodor		"Ott, Olga"	Ujazdow	29	Ujazdow 1930-1940	00053	165	C. Woehrmann	R							00053
+		Moser	Eduard	B	1934	Feb	Julius		"Schrank, Wanda"	Stary Majdan	29	Ujazdow 1930-1940	00054	166	C. Woehrmann								00054
+		Cherschewski	Erna	B	1934	Apr	Michael		"Moser, Mathilde"	Stary Majdan	29	Ujazdow 1930-1940	00055	167	C. Woehrmann	R							00055
+		Wolski	Martha	B	1933	Dec	Heinrich		"Sempf, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00056	168	C. Woehrmann	R							00056
+		Bald	Rudolf	B	1934	Apr	Gustav		"Schwarz, Olga"	Ujazdow	29	Ujazdow 1930-1940	00057	169	C. Woehrmann								00057
+		Engel	Emma	B	1934	Mar	August		"Henschel, Helene"	Ujazdow	29	Ujazdow 1930-1940	00058	170	C. Woehrmann	R							00058
+		Schwanke	Ida	B	1934	Apr	Emanuel		"Lueck, Lidia"	Stary Majdan	29	Ujazdow 1930-1940	00059	171	C. Woehrmann	R							00059
+		Radke	Hilda	B	1934	May	Edmund		"Majewski, Valentine"	Ujazdow	29	Ujazdow 1930-1940	00060	172	C. Woehrmann	R							00060
+		Luenser	Rudolf	B	1934	Jun	Ludwig		"Sierpinski, Hulda"	Ujazdow	29	Ujazdow 1930-1940	00061	173	C. Woehrmann								00061
+		Semler	Ida	B	1934	Jun	Edmund		"Klann, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00062	174	C. Woehrmann								00062
+		Marcinkowski	Lidia	B	1934	Jul	Alexander		"Bald, Olga"	Wlodawa	29	Ujazdow 1930-1940	00063	175	C. Woehrmann	R				born in hospital/Krankenhaus			00063
+		Marcinkowski	Robert	B	1934	Aug	Rudolf		"Zweier, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00064	176	C. Woehrmann	R							00064
+		Witkowski	Hermann	B	1934	Aug	Adolf		"Buls, Helene"	Ujazdow	29	Ujazdow 1930-1940	00065	177	C. Woehrmann	R							00065
+		Krause	Elsa	B	1934	May	Ludwig		"Fischer, Olga"	Stary Majdan	29	Ujazdow 1930-1940	00066	178	C. Woehrmann	R							00066
+		Kinas	Edmund	B	1934	Sep	Julius		"Janke, Lidia"	Ujazdow	29	Ujazdow 1930-1940	00067	179	C. Woehrmann	R							00067
+		Marcinkowski	stillborn [male]	D	1934	Nov	Sigismund		"Bald, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00068	180	C. Woehrmann					birth record			00068
+		Janke	Edmund	B	1934	Oct	Adolf		"Bloch, Helene"	Ujazdow	29	Ujazdow 1930-1940	00069	181	C. Woehrmann	R							00069
+		Klebe	Robert	B	1934	Nov	Adolf		"Jess, Amalie Julianne"	Ujazdow	29	Ujazdow 1930-1940	00070	182	C. Woehrmann	R							00070
+		Buchholz	Alexander	B	1934	Dec	Samuel		"Hoffmann, Julianne"	Stary Majdan	29	Ujazdow 1930-1940	00071	183	C. Woehrmann	R							00071
+		Jeske	Wilhelm	D	1934	Feb	Friedrich		"Fenske, Karoline"	Ujazdow	29	Ujazdow 1930-1940	00072	57	C. Woehrmann				"Kunkel, Emilie"	69 y/J			00072
+		Schwarz	Olga	D	1934	Apr	Wilhelm		"Hauf, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00073	58	C. Woehrmann				"Bald, Gustav"	29 y/J			00073
+		Bald	Rudolf	D	1934	Apr	Gustav		"Schwarz, Olga"	Ujazdow	29	Ujazdow 1930-1940	00074	59	C. Woehrmann					1 d/T			00074
+		Luenser	Rudolf	D	1934	Jun	Ludwig		"Sierpinski, Hulda"	Ujazdow	29	Ujazdow 1930-1940	00075	60	C. Woehrmann					1 hour/Stunde			00075
+Semler	Wladyslaw	Semler	Walter	D	1934	Jul	Gustav		"Janot, Pauline"	Ujazdow	29	Ujazdow 1930-1940	00076	61	C. Woehrmann					17 y/J			00076
+		Semler	Ida	D	1934	Jul	Edmund		"Klann, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00077	62	C. Woehrmann					1 m/M			00077
+		Schulz	Martha	D	1934	Jul	Ferdinand		"Nehring, Wanda"	Ujazdow	29	Ujazdow 1930-1940	00078	63	C. Woehrmann					6 m/M			00078
+		Winter	Marianne	D	1934	Nov	Adam		Eva	Ujazdow	29	Ujazdow 1930-1940	00079	64	C. Woehrmann				"Tews, Georg"	72 y/J			00079
+		Marcinkowski	stillborn male	D	1934	Nov	Sigismund		"Bald, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00080	65	C. Woehrmann					2 d/T			00080
+		Hase	Karl	D	1934	Nov	Julius		"Lachmann, Christine"	Ujazdow	29	Ujazdow 1930-1940	00081	66	C. Woehrmann				"Steinke, Alwine"	55 y/J			00081
+		Nehring	Artur	D	1934	Nov	Gustav		"[Hase], Olga"	Ujazdow	29	Ujazdow 1930-1940	00082	67	C. Woehrmann					2 y/J			00082
+		Domres	Emilie	D	1934	Dec	Gottfried		"Lueck, Karoline"	Ujazdow	29	Ujazdow 1930-1940	00083	68	C. Woehrmann				"Fergin, Julius"	56 y/J			00083
+		Nehring	Waldine	B	1934	Dec	Gustav		"Hase, Olga"	Ujazdow	29	Ujazdow 1930-1940	00085	184	C. Woehrmann								00085
+		Busenius	stillborn female	D	1935	Jan	Rudolf		"Schmidt, Natalie"	Hansk	29	Ujazdow 1930-1940	00086	185	C. Woehrmann					birth record			00086
+		Patzer	Helmut	B	1935	Jan	Sigismund		"Bloch, Olga"	Ujazdow	29	Ujazdow 1930-1940	00087	186	C. Woehrmann	R							00087
+		Semler	Eduard	B	1935	Feb	Alexander		"Buchholz, Wanda"	Stary Majdan	29	Ujazdow 1930-1940	00088	187	C. Woehrmann	R							00088
+		Bald	Robert	B	1935	Feb	Gustav		"Rapp, Maria"	Ujazdow	29	Ujazdow 1930-1940	00089	188	C. Woehrmann	R							00089
+		Kwirant	Ida	B	1935	Feb	Franz		"Lippert, Wanda"	Ujazdow	29	Ujazdow 1930-1940	00090	189	C. Woehrmann	R							00090
+		Barke	Edmund	B	1935	Apr	Adolf		"Schultz, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00091	190	C. Woehrmann	R							00091
+		Jess	Eduard	B	1935	Apr	Adolf		"Schulz, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00092	191	C. Woehrmann	R				twin / Zwilling			00092
+		Jess	Herta	B	1935	Apr	Adolf		"Schulz, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00093	192	C. Woehrmann	R				twin / Zwilling			00093
+		Kassner	stillborn male	D	1935	Apr	Gustav		"Schendel, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00094	193	C. Woehrmann					birth record			00094
+		Wolski	Ida	B	1935	May	Adolf		"Stresing, Helene Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00095	194	C. Woehrmann	R							00095
+		Buchholz	Margarete	B	1935	Apr	Gustav		"Schneider, Helene"	Stary Majdan	29	Ujazdow 1930-1940	00096	195	C. Woehrmann	R							00096
+		Kleemann	Helmut	B	1935	Apr	Julius		"Moser, Adelgunde"	Stary Majdan	29	Ujazdow 1930-1940	00097	196	C. Woehrmann	R							00097
+		Janke	Ewald	B	1935	May	Julius		"Freund, Susanne"	Ujazdow	29	Ujazdow 1930-1940	00098	197	C. Woehrmann	R							00098
+		Strauch	Johanna	B	1935	Jun	Eduard	"Guderjann, Wanda"	"Guderian, Wanda"	Ujazdow	29	Ujazdow 1930-1940	00099	198	C. Woehrmann	R							00099
+		Neumann	Artur	B	1935	Jun	Theophil		"Buchholz, Lidia"	Ujazdow	29	Ujazdow 1930-1940	00100	199	C. Woehrmann	R							00100
+		Buchholz	Lidia	B	1935	Jul	Ferdinand		"Distelberger, Helene"	Stary Majdan	29	Ujazdow 1930-1940	00101	200	C. Woehrmann	R							00101
+		Hein	Robert	B	1935	Aug	Jakob Joseph		"Hiller, Lidia Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00102	201	C. Woehrmann	R							00102
+		Bilau	Theodor	B	1935	Aug	Gustav		"Bliesner, Natalie"	Stary Majdan	29	Ujazdow 1930-1940	00103	202	C. Woehrmann	R							00103
+		Wolski	Ottilie	B	1935	Jul	Adolf		"Bloch, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00104	203	C. Woehrmann	R							00104
+Feifert	Ida	Pfeiffer	Ida	B	1935	Apr	Gustav		"Wolski, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00105	204	C. Woehrmann	R							00105
+		Schwanke	Herta	B	1935	Jul	Emanuel		"Lueck, Lidia"	Stary Majdan	29	Ujazdow 1930-1940	00106	205	C. Woehrmann	R							00106
+		Kinas	Edmund	B	1935	Jul	Rudolf		"Wolter, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00107	206	C. Woehrmann	R							00107
+		Siewert	Eduard	B	1935	Aug	Rudolf		"Schroeder, Adelgunde"	Stary Majdan	29	Ujazdow 1930-1940	00108	207	C. Woehrmann	R							00108
+		Fecho	Edmund	B	1935	Jul	Reinhold		"Wechsel, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00109	208	C. Woehrmann	R							00109
+		Witkowski	Ida	B	1935	Sep	Adolf		"Buls, Helene"	Ujazdow	29	Ujazdow 1930-1940	00110	209	C. Woehrmann								00110
+		Luedke	Willi	B	1935	Sep	Wilhelm		"Fecho, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00111	210	C. Woehrmann	R							00111
+		Liske	Leokadia	B	1935	Aug	Friedrich		"Klammer, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00112	211	C. Woehrmann	R							00112
+		Rehm	Helene	B	1933	Feb	Josef		"Steinke, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00113	212	C. Woehrmann	R							00113
+		Rehm	Martha	B	1935	Feb	Josef		"Steinke, Emilie"	Ujazdow	29	Ujazdow 1930-1940	00114	213	C. Woehrmann	R							00114
+		Marcinkowski	Hugo	B	1935	Oct	Sigismund		"Bald, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00115	214	C. Woehrmann	R							00115
+		Hiller	Ewald	B	1935	Oct	Theodor		"Ott, Olga"	Ujazdow	29	Ujazdow 1930-1940	00116	215	C. Woehrmann	R							00116
+		Semler	Artur	B	1935	Oct	Edmund		"Klann, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00117	216	C. Woehrmann	R							00117
+		Boss	Wanda	D	1935	Jan	Karl		"Egert, Susanne"	Ujazdow	29	Ujazdow 1930-1940	00118	69	C. Woehrmann				"Glinski, Peter"	48 y/J			00118
+		Busenius	stillborn female	D	1935	Jan	Rudolf		"Schmidt, Natalie"	Hansk	29	Ujazdow 1930-1940	00119	70	C. Woehrmann					1 d/T			00119
+		Moser	Waldine	D	1935	Feb	unknown/unbekannt		"Moser, Olga"	Stary Majdan	29	Ujazdow 1930-1940	00120	71	C. Woehrmann					"1 y/J 6 m/M, illegitimate / unehelich"			00120
+		Lueck	Rudolf	D	1935	Mar	Daniel		Eva	Ujazdow	29	Ujazdow 1930-1940	00121	72	C. Woehrmann				"Haerter, Hulda Wilhelmine"	49 y/J			00121
+		Buchholz	Johanna	D	1935	Apr	Wilhelm		"Lehmann, Hulda"	Stary Majdan	29	Ujazdow 1930-1940	00122	73	C. Woehrmann					24 y/J			00122
+		Neumann	Wilhelm Jakob	D	1935	Apr	Friedrich		"Stresing, Anna"	Ujazdow	29	Ujazdow 1930-1940	00123	74	C. Woehrmann				Luise	72 y/J			00123
+		Poschadel	Hildahard	D	1935	May	Adolf		"Reichwald, Olga"	Ujazdow	29	Ujazdow 1930-1940	00124	75	C. Woehrmann					6 y/J			00124
+		Bloch	Wilhelm	D	1935	May	Gottlieb		"Ginter, Christine Wilhelmine"	Ujazdow	29	Ujazdow 1930-1940	00125	76	C. Woehrmann				"Hiller, Luise"	72 y/J			00125
+		Schmidt	Emilie	D	1935	Jul	Stefan		"Jochim, Marianne"	Ujazdow	29	Ujazdow 1930-1940	00126	77	C. Woehrmann				"Telker, Christian"	69 y/J			00126
+		Hiller	Lidia Mathilde	D	1935	Aug	Daniel		"Lippert, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00127	78	C. Woehrmann				"Hein, Jakob"	41 y/J			00127
+		Schumacher	Ela	B	1935	Nov	Friedrich		"Semler, Helene"	Ujazdow	29	Ujazdow 1930-1940	00130	217	C. Woehrmann	R							00130
+		Radke	Siligard	B	1935	Nov	Edmund		"Majewski, Valentine"	Ujazdow	29	Ujazdow 1930-1940	00131	218	C. Woehrmann	R							00131
+Buelow	Ida	Bilau	Ida	B	1936	Jan	Karl		"Jobs, Julianne"	Stary Majdan	29	Ujazdow 1930-1940	00132	219	C. Woehrmann	R							00132
+		Hase	Maria	B	1936	Feb	Julius		"Mueller, Regina"	Ujazdow	29	Ujazdow 1930-1940	00133	220	C. Woehrmann	R							00133
+		Lippert	Marlene	B	1936	Feb	Gustav		"Schulz, Karoline"	Ujazdow	29	Ujazdow 1930-1940	00134	221	C. Woehrmann	R				#00135 duplicate			00134
+		Wegner	Helmut	B	1936	Feb	Philipp		"Hase, Martha"	Ujazdow	29	Ujazdow 1930-1940	00136	222	C. Woehrmann	R							00136
+		Hoff	Artur	B	1936	Feb	Adolf		"Pusch, Olga"	Ujazdow	29	Ujazdow 1930-1940	00137	223	C. Woehrmann	R							00137
+		Peter	Leon	B	1936	Mar	Ewald		"Freund, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00138	224	C. Woehrmann	R							00138
+		Moser	Rudolf	B	1936	Mar	Julius		"Schrank, Wanda"	Stary Majdan	29	Ujazdow 1930-1940	00139	225	C. Woehrmann	R							00139
+		Busenius	Ewald	B	1936	Mar	Rudolf		"Schmidt, Natalie"	Hansk	29	Ujazdow 1930-1940	00140	226	C. Woehrmann								00140
+		Pusch	Frieda	B	1936	Mar	Adolf		"Fecho, Amalie"	Ujazdow	29	Ujazdow 1930-1940	00141	227	C. Woehrmann	R							00141
+		Tews	Anna	B	1936	Feb	Andreas		"Luetke, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00142	228	C. Woehrmann	R							00142
+		Schulz	Lidia	B	1936	Jun	Ferdinand		"Nehring, Wanda"	Ujazdow	29	Ujazdow 1930-1940	00143	229	C. Woehrmann								00143
+		Jess	Erna	B	1936	Jul	Adolf		"Schultz, Ottilie"	Ujazdow	29	Ujazdow 1930-1940	00144	230	C. Woehrmann	R							00144
+		Tews	Reinhold	B	1936	Sep	Ludwig		"Przygoda, Alwine"	Ujazdow	29	Ujazdow 1930-1940	00145	231	C. Woehrmann								00145
+		Lippert	Hilda	B	1936	Sep	Julius		"Lueck, Olga"	Ujazdow	29	Ujazdow 1930-1940	00146	232	C. Woehrmann	R							00146
+		Fecho	Erna	B	1936	Oct	Wilhelm		"Kuehn, Natalie"	Hansk	29	Ujazdow 1930-1940	00147	233	C. Woehrmann	R							00147
+		Engel	Helene	B	1936	Oct	August		"Hentschel, Helene"	Ujazdow	29	Ujazdow 1930-1940	00148	234	C. Woehrmann	R							00148
+		Klebe	Leokadia	B	1936	Oct	Adolf		"Jess, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00149	235	C. Woehrmann	R							00149
+		Kaemlitz	stillborn male	D	1936	Oct	Adolf		"Huff, Martha"	Ujazdow	29	Ujazdow 1930-1940	00150	236	C. Woehrmann					birth record			00150
+		Poschadel	Bernhard	B	1936	Nov	Adolf		"Reichwald, Olga"	Ujazdow	29	Ujazdow 1930-1940	00151	237	C. Woehrmann	R							00151
+		Janke	stillborn male	D	1936	Nov	Julius		"Freund, Susanne"	Ujazdow	29	Ujazdow 1930-1940	00152	238	C. Woehrmann					birth record			00152
+		Witkowski	Hugo	B	1936	Dec	Adolf		"Buls, Helene"	Ujazdow	29	Ujazdow 1930-1940	00153	239	C. Woehrmann	R							00153
+		Witkowski	Ida	D	1936	Jan	Adolf		"Buls, Helene"	Ujazdow	29	Ujazdow 1930-1940	00154	79	C. Woehrmann					3 1/2 m/M			00154
+		Rehbein	Pauline	D	1936	Apr				Ujazdow	29	Ujazdow 1930-1940	00155	80	C. Woehrmann				"Janke, Adolf"	75 y/J			00155
+		Busenius	Ewald	D	1936	Apr	Rudolf		"Schmidt, Natalie"	Hansk	29	Ujazdow 1930-1940	00156	81	C. Woehrmann					1 m/M			00156
+		Buchholz	Wanda	D	1936	May	Samuel		"[Hoffmann], Julianne"	Stary Majdan	29	Ujazdow 1930-1940	00157	82	C. Woehrmann				"Semler, Alexander"	20 y/J			00157
+		Schulz	Lidia	D	1936	Jun	Ferdinand		"Nehring, Wanda"	Ujazdow	29	Ujazdow 1930-1940	00158	83	C. Woehrmann					2 w/W			00158
+		Huff	Martha	D	1936	Nov	August		Wilhelmine	Ujazdow	29	Ujazdow 1930-1940	00159	84	C. Woehrmann				"Kaemlitz, Adolf"	34 y/J			00159
+		Moser	Eduard	D	1936	Nov	Julius		"Schrank, Wanda"	Stary Majdan	29	Ujazdow 1930-1940	00160	85	C. Woehrmann					2 y/J 10 m/M			00160
+		Korenke	Mathilde	D	1936	Nov	Friedrich		Mathilde	Ujazdow	29	Ujazdow 1930-1940	00161	86	C. Woehrmann				"Rehm, Matthias"	83 y/J			00161
+		Janke	stillborn male	D	1936	Nov	Julius		"Freund, Susanne"	Ujazdow	29	Ujazdow 1930-1940	00162	87	C. Woehrmann					2 d/T			00162
+		Tews	Reinhold	D	1936	Dec	Ludwig		"Przygoda, Alwine"	Ujazdow	29	Ujazdow 1930-1940	00163	88	C. Woehrmann					3 m/M			00163
+		Bloch	Rosamunde	B	1940	Jan	Adolf		"Liedke, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00165	304	C. Woehrmann								00165
+		Fecho	Hedwig	B	1940	Jan	Wilhelm		"Kuehn, Natalie"	Hansk	29	Ujazdow 1930-1940	00166	305	C. Woehrmann	R							00166
+		Janke	Artur	B	1940	Feb	Adolf		"Bloch, Helene"	Ujazdow	29	Ujazdow 1930-1940	00167	306	C. Woehrmann	R							00167
+		Hiller	Adolf	B	1940	Feb	Theodor		"Ott, Olga"	Ujazdow	29	Ujazdow 1930-1940	00168	307	C. Woehrmann	R							00168
+		Wolski	Rudolf	B	1939	Aug	Heinrich		"Sempf, Natalie"	Ujazdow	29	Ujazdow 1930-1940	00169	308	C. Woehrmann	R							00169
+		Buchholz	Emma	B	1940	Mar	Edmund		"Gesell, Martha"	Stary Majdan	29	Ujazdow 1930-1940	00170	309	C. Woehrmann	R							00170
+		Luedke	Waldemar	B	1940	Apr	Wilhelm		"Fecho, Mathilde"	Ujazdow	29	Ujazdow 1930-1940	00171	310	C. Woehrmann	R							00171
+		Buchholz	Rudolf	B	1940	Apr	Ferdinand		"Distelberger, Helene"	Stary Majdan	29	Ujazdow 1930-1940	00172	311	C. Woehrmann	R							00172
+		Bloch	Rosamunde	D	1940	Jan	Adolf		"Liedke, Julianne"	Ujazdow	29	Ujazdow 1930-1940	00173	113	C. Woehrmann					14 d/T			00173
+		Hase	Julius	D	1940	Feb	Karl		"Lutmann, Wilhelmine"	Ujazdow	29	Ujazdow 1930-1940	00174	114	C. Woehrmann				"Lachmann, Christine"	84 y/J			00174
+		Wandel	Sigismund	D	1940	Feb	Friedrich		"[Wandel], Martha"	Hansk	29	Ujazdow 1930-1940	00175	115	C. Woehrmann					8 m/M			00175
+		Krause	Ludwig	D	1940	Mar	Karl		Justine	Stary Majdan	29	Ujazdow 1930-1940	00176	116	C. Woehrmann				"Fischer, Olga"	58 y/J			00176
+		Richter	Johann	D	1940	Mar	August		Henriette	Hansk	29	Ujazdow 1930-1940	00177	117	C. Woehrmann				"Mueller, Lidia"	77 y/J			00177
+		Binder	Emilie	D	1940	Apr	Dinegott		"Rausch, Wilhelmine"	Ujazdow	29	Ujazdow 1930-1940	00178	118	C. Woehrmann				"Ott, Friedrich"	58 y/J			00178
+		Bald	Hugo	B	1939	Jan	Gustav		"Rapp, Maria"	Ujazdow	29	Ujazdow 1939	00002	292	C. Woehrmann	R							00002
+		Jess	Erwin	B	1939	Jan	Adolf		"Schultz, Ottilie"	Ujazdow	29	Ujazdow 1939	00003	293	C. Woehrmann	R							00003
+		Radke	Artur	B	1939	Mar	Gustav		"Neumann, Lidia"	Ujazdow	29	Ujazdow 1939	00004	294	C. Woehrmann								00004
+		Janke	Rudolf	B	1939	May	Julius		"Freund, Susanne"	Ujazdow	29	Ujazdow 1939	00005	295	C. Woehrmann	R							00005
+		Poschadel	Theodor	B	1939	Jun	Adolf		"Reichwald, Olga"	Ujazdow	29	Ujazdow 1939	00006	296	C. Woehrmann	R							00006
+		Wandel	Sigismund	B	1939	Jul	Friedrich		"Wandel, Martha"	Hansk	29	Ujazdow 1939	00007	297	C. Woehrmann								00007
+		Semler	Hilda	B	1939	Sep	Alexander		"Lippert, Emilie"	Ujazdow	29	Ujazdow 1939	00008	298	C. Woehrmann	R							00008
+		Marcinkowski	Leo	B	1939	Oct	Sigismund		"Bald, Ottilie"	Ujazdow	29	Ujazdow 1939	00009	299	C. Woehrmann	R							00009
+		Tews	Hugo	B	1939	Nov	Ludwig		"Przygoda, Alwine"	Ujazdow	29	Ujazdow 1939	00010	300	C. Woehrmann	R							00010
+		Peter	Irmgard	B	1939	Nov	Ewald		"Freund, Ottilie"	Ujazdow	29	Ujazdow 1939	00011	301	C. Woehrmann	R							00011
+		Bald	Leo	B	1939	Dec	Friedrich		"Kiel, Mathilde"	Ujazdow	29	Ujazdow 1939	00012	302	C. Woehrmann	R							00012
+		Strauch	Hildegard	B	1939	Dec	Eduard		"Guderian, Wanda"	Ujazdow	29	Ujazdow 1939	00013	303	C. Woehrmann								00013
+		Radke	Artur	D	1939	Mar	Gustav		"Neumann, Lidia"	Ujazdow	29	Ujazdow 1939	00014	107	C. Woehrmann					2 d/T			00014
+		Kinas	Martha	D	1939	Mar	Rudolf		"Wolter, Emilie"	Ujazdow	29	Ujazdow 1939	00015	108	C. Woehrmann					9 1/2 y/J			00015
+		Marcinkowski	Martha	D	1939	Apr	Sigismund		"Bald, Ottilie"	Ujazdow	29	Ujazdow 1939	00016	109	C. Woehrmann					9 m/M			00016
+		Witkowski	Withold	D	1939	Apr	Adolf		"Buls, Helene"	Ujazdow	29	Ujazdow 1939	00017	110	C. Woehrmann					10 m/M			00017
+		Nehring	Waldine	D	1939	Dec	Gustav		"Hase, Olga"	Ujazdow	29	Ujazdow 1939	00018	111	C. Woehrmann					5 y/J			00018
+		Strauch	Hildegard	D	1939	Dec	Eduard		"Guderian, Wanda"	Ujazdow	29	Ujazdow 1939	00019	112	C. Woehrmann					8 d/T			00019
+		Diem	Heinrich	B	1930	Jan	Johann		"Bujak, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00002	46	C. Woehrmann								00002
+		Diem	Olga	B	1930	Jan	Karl		"Bujak,Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00003	47	C. Woehrmann	R							00003
+		Mantei	Gerhard	B	1930	Feb	Rudolf		"Noerenberg, Emma"	Karczunek	29	Wanda Bachus 1930-1940	00004	48	C. Woehrmann								00004
+		Hoffmann	Adolf	B	1930	Mar	Theodor		"Bujak, Luise"	Wanda Bakus	29	Wanda Bachus 1930-1940	00005	49	C. Woehrmann	R							00005
+		Heier	Herbert	B	1930	May	Rudolf		"Bujak, Mathilde"	Wanda Bakus	29	Wanda Bachus 1930-1940	00006	50	C. Woehrmann	R				addendum 00007			00006
+		Jeske	Valentine	B	1930	Jun	Adolf		"Rode, Olga"	Syczyn	29	Wanda Bachus 1930-1940	00007	51	C. Woehrmann	R				addendum 00008			00007
+		Schneider	Alfred	B	1930	Jun	Bernhard		"Bujak, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00008	52	C. Woehrmann					addendum 00009			00008
+		Wesenberg	Elsa	B	1930	Jul	Adolf		"Jeske, Olga"	Syczyn	29	Wanda Bachus 1930-1940	00009	53	C. Woehrmann	R				addendum 00010			00009
+		Wendland	Elsa	B	1930	Jul	Adolf		"Betke, Pauline"	Wanda Bakus	29	Wanda Bachus 1930-1940	00010	54	C. Woehrmann	R				addendum 00011			00010
+		Jeske	Sigismund	B	1930	Jul	Waldemar		"Schulz, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00011	55	C. Woehrmann	R				addendum 00012			00011
+		Taron	Erna	B	1930	Aug	Theodor		"Redmann, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00012	56	C. Woehrmann	R				addendum 00013			00012
+		Diem	Heinrich	D	1930	Jan	Johann		"Bujak, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00013	23	C. Woehrmann					1 m/M			00013
+		Mantei	Gerhard	D	1930	Feb	Rudolf		"Noerenberg, Emma"	Karczunek	29	Wanda Bachus 1930-1940	00014	24	C. Woehrmann					13 d/T			00014
+		Schneider	Alfred	D	1930	Sep	Bernhard		"Bujak, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00015	25	C. Woehrmann					2 m/M 27 d/T			00015
+		Ruks	Friedrich Wilhelm	D	1930	Dec	Christian		"Jeske, Luise"	Wanda Bakus	29	Wanda Bachus 1930-1940	00016	26	C. Woehrmann				"Ziebart, Karoline"	73 y/J 4 m/M			00016
+		Redmann	Olga	D	1930	Dec	Julius		"Wendland, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00017	27	C. Woehrmann					1 y/J 9 m/M			00017
+		Becker	Martha	B	1934	Mar	Gustav		"Taron, Theodore"	Wanda Bakus	29	Wanda Bachus 1930-1940	00019	95	C. Woehrmann	R							00019
+		Bujak	Edmund	B	1934	Feb	Sigismund		"Baumgart, Emilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00020	96	C. Woehrmann	R							00020
+		Diem	Arnold	B	1934	Mar	Johann		"Bujak, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00021	97	C. Woehrmann	R							00021
+		Schulz	Sigismund	B	1934	May	August		"Meier, Olga"	Wanda Bakus	29	Wanda Bachus 1930-1940	00022	98	C. Woehrmann								00022
+		Schneider	Emma	B	1934	Jul	Bernhard		"Bujak, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00023	99	C. Woehrmann	R							00023
+		Redmann	Theodor	B	1934	Jul	Julius		"Wendland, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00024	100	C. Woehrmann	R							00024
+		Schroeder	Elsa	B	1934	Oct	Rudolf		"Nickel, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00025	101	C. Woehrmann	R				twin / Zwilling			00025
+		Schroeder	Erna	B	1934	Oct	Rudolf		"Nickel, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00026	102	C. Woehrmann	R				twin / Zwilling			00026
+		Diem	Elsa	B	1934	Oct	Karl		"Bujak, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00027	103	C. Woehrmann	R							00027
+		Taron	Edmund	B	1934	Oct	Theodor		"Redmann, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00028	104	C. Woehrmann								00028
+		Schwartz	Helmut	B	1934	Dec	Sigismund		"Krueger, Hulda"	Wanda Bakus	29	Wanda Bachus 1930-1940	00029	105	C. Woehrmann								00029
+		Schulz	Sigismund	D	1934	May	August		"Meier, Olga"	Wanda Bakus	29	Wanda Bachus 1930-1940	00030	44	C. Woehrmann					1 m/M 6 d/T			00030
+		Jeske	Elsa	D	1934	Sep	Adolf		"Rode, Olga"	Syczyn	29	Wanda Bachus 1930-1940	00031	45	C. Woehrmann					1 y/J 4 m/M			00031
+		Schwartz	Helmut	D	1934	Dec	Sigismund		"Krueger, Hulda"	Wanda Bakus	29	Wanda Bachus 1930-1940	00032	46	C. Woehrmann					5 d/T			00032
+		Taron	Edmund	D	1934	Dec	Theodor		"Redmann, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00033	47	C. Woehrmann					2 m/M			00033
+		Diem	Amanda	B	1934	Nov	Ludwig		"Riedel, Elsa"	Wanda Bakus	29	Wanda Bachus 1930-1940	00035	106	C. Woehrmann	R							00035
+		Bloch	Leo	B	1935	Jan	Sigismund		"Soch, Kamilla"	Wanda Bakus	29	Wanda Bachus 1930-1940	00036	107	C. Woehrmann								00036
+		Jeske	Adele	B	1935	Jan	Rudolf		"Pacholke, Johanna"	Wanda Bakus	29	Wanda Bachus 1930-1940	00037	108	C. Woehrmann	R							00037
+		Jeske	Leo	B	1935	Feb	Waldemar		"Schulz, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00038	109	C. Woehrmann	R							00038
+		Chirzinski	Elsa	B	1935	Feb	Edmund		"Becker, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00039	110	C. Woehrmann	R							00039
+		Krueger	Erich	B	1935	Jan	Sigismund		"Redmann, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00040	111	C. Woehrmann	R							00040
+		Bress	Eduard	B	1935	Mar	Gottlieb		"Appelt, Martha"	Syczyn	29	Wanda Bachus 1930-1940	00041	112	C. Woehrmann	R							00041
+		Mantei	Ludwig	B	1935	Apr	Rudolf		"Noerenberg, Emma"	Karczunek	29	Wanda Bachus 1930-1940	00042	113	C. Woehrmann	R							00042
+		Schulz	Gustav	B	1935	Apr	August		"Meier, Olga"	Wanda Bakus	29	Wanda Bachus 1930-1940	00043	114	C. Woehrmann	R							00043
+		Bloch	Natalie	B	1935	Jul	Reinhold		"Kohls, Wanda"	Wanda Bakus	29	Wanda Bachus 1930-1940	00044	115	C. Woehrmann	R							00044
+		Bobrowski	Martha	B	1935	Aug	Friedrich		"Schulz, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00045	116	C. Woehrmann	R							00045
+		Bloch	Gerhard	B	1935	Sep	Rudolf		"Zimmermann, Mathilde"	Wanda Bakus	29	Wanda Bachus 1930-1940	00046	117	C. Woehrmann	R							00046
+		Jeske	Otto	B	1935	Nov	Adolf		"Rode, Olga"	Syczyn	29	Wanda Bachus 1930-1940	00047	118	C. Woehrmann	R							00047
+		Ziebart	Helene	B	1935	Dec	Johann		"Ziebart, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00048	119	C. Woehrmann								00048
+		Bloch	Leo	D	1935	Jan	Sigismund		"Soch, Kamilla"	Wanda Bakus	29	Wanda Bachus 1930-1940	00049	48	C. Woehrmann					2 d/T			00049
+		Bujak	Leokadia	D	1935	Nov	Albert		"Schulz, Justine"	Wanda Bakus	29	Wanda Bachus 1930-1940	00050	49	C. Woehrmann				"Beer, Emil"	45 y/J 3 m/M			00050
+		Bress	Wilhelmine	D	1935	Nov	Daniel		"Grams, Rosalie"	Syczyn	29	Wanda Bachus 1930-1940	00051	50	C. Woehrmann				"Jeske, Julius"	71 y/J			00051
+		Schulz	Hirlanda	B	1936	Jan	Theodor		"Mantei, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00053	120	C. Woehrmann	R							00053
+		Chirzinski	Adele	B	1936	Apr	Edmund		"Becker, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00054	121	C. Woehrmann	R							00054
+		Becker	Sigismund	B	1936	May	Rudolf		"Krause, Johanna"	Wanda Bakus	29	Wanda Bachus 1930-1940	00055	122	C. Woehrmann	R							00055
+		Bloch	Waldemar	B	1936	Jun	Sigismund		"Soch, Kamilla"	Wanda Bakus	29	Wanda Bachus 1930-1940	00056	123	C. Woehrmann								00056
+		Becker	Edmund	B	1936	Jun	Gustav		"Taron, Theodore"	Wanda Bakus	29	Wanda Bachus 1930-1940	00057	124	C. Woehrmann					twin / Zwillinge			00057
+		Becker	Rudolf	B	1936	Jun	Gustav		"Taron, Theodore"	Wanda Bakus	29	Wanda Bachus 1930-1940	00058	125	C. Woehrmann					twin / Zwillinge			00058
+		Diem	Erna	B	1936	Jul	Johann		"Bujak, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00059	126	C. Woehrmann	R							00059
+		Jeske	Rudolf	B	1936	Sep	Rudolf		"Pusch, Talita"	Syczyn	29	Wanda Bachus 1930-1940	00060	127	C. Woehrmann								00060
+		Schneider	Ida	B	1936	Sep	Bernhard		"Bujak, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00061	128	C. Woehrmann	R							00061
+		Rindfleisch	Marainne	D	1936	Jan	Josef		"Rode, Katharine"	Wanda Bakus	29	Wanda Bachus 1930-1940	00062	51	C. Woehrmann				"Taron, Friedrich Wilhelm"	71 y/J 6 m/M			00062
+		Mantei	Edmund	D	1936	Apr	Gustav		"Jeske, Wanda"	Chelm	29	Wanda Bachus 1930-1940	00063	52	C. Woehrmann					6 y/J 9 m/M; died in hospital/Krankenhaus			00063
+		Bloch	Waldemar	D	1936	Jun	Sigismund		"Soch, Kamilla"	Wanda Bakus	29	Wanda Bachus 1930-1940	00064	53	C. Woehrmann					8 d/T			00064
+		Becker	Edmund	D	1936	Jun	Gustav		"Taron, Theodore"	Wanda Bakus	29	Wanda Bachus 1930-1940	00065	54	C. Woehrmann					6 d/T			00065
+		Beer	Emil	D	1936	Jun	August		Emilie	Aleksandrowka	29	Wanda Bachus 1930-1940	00066	55	C. Woehrmann				"Bujak, Leokadia"	52 y/J			00066
+		Becker	Rudolf	D	1936	Jun	Gustav		"Taron, Theodore"	Wanda Bakus	29	Wanda Bachus 1930-1940	00067	56	C. Woehrmann					6 d/T			00067
+		Jeske	Amalie	D	1936	Nov	Georg		"Redel, Henriette"	Wanda Bakus	29	Wanda Bachus 1930-1940	00068	57	C. Woehrmann				"Becker, Christian Friedrich"	58 y/J			00068
+		Jeske	Rudolf	D	1936	Nov	Rudolf		"Pusch, Talita"	Syczyn	29	Wanda Bachus 1930-1940	00069	58	C. Woehrmann					2 m/M 21 d/T			00069
+		Diem	Wanda	B	1939	Mar	Karl		"Bujak, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00072	144	C. Woehrmann	R							00072
+		Jeske	Felix	B	1939	Mar	Waldemar		"Schulz, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00073	145	C. Woehrmann								00073
+		Becker	Arthur	B	1939	May	Rudolf		"Krause, Johanna"	Wanda Bakus	29	Wanda Bachus 1930-1940	00074	146	C. Woehrmann	R							00074
+		Diem	Leo	B	1939	Jul	Johann		"Bujak, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00075	147	C. Woehrmann	R							00075
+		Diem	Waldemar	B	1939	Aug	Ludwig		"Riedel, Elsa"	Wanda Bakus	29	Wanda Bachus 1930-1940	00076	148	C. Woehrmann	R							00076
+		Heier	Erna	B	1939	Aug	Rudolf		"Bujak, Mathilde"	Chylin	29	Wanda Bachus 1930-1940	00077	149	C. Woehrmann	R							00077
+		Jeske	Edmund	B	1939	Aug	Rudolf		"Pacholke, Johanna"	Wanda Bakus	29	Wanda Bachus 1930-1940	00078	150	C. Woehrmann	R							00078
+		Wendland	Minna	B	1939	Sep	Adolf		"Betke, Pauline"	Wanda Bakus	29	Wanda Bachus 1930-1940	00079	151	C. Woehrmann	R							00079
+		Bobrowski	Adolf	B	1939	Sep	Friedrich		"Schulz, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00080	152	C. Woehrmann	R							00080
+		Chirzinski	Edmund	B	1939	Dec	Edmund		"Becker, Martha"	Wanda Bakus	29	Wanda Bachus 1930-1940	00081	153	C. Woehrmann	R							00081
+		Schulz	Rosine	B	1939	Nov	Theodor		"Mantei, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00082	154	C. Woehrmann	R							00082
+		Schneider	Edmund	D	1939	Mar	Bernhard		"Bujak, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00083	64	C. Woehrmann					2 m/M 28 d/T			00083
+		Jeske	Felix	D	1939	Jun	Waldemar		"Schulz, Ottilie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00084	65	C. Woehrmann					2 m/M 25 d/T			00084
+		Ziebart	Helene	D	1939	Dec	Johann		"Ziebart, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00085	66	C. Woehrmann					4 y/J 14 d/T			00085
+		Becker	Alwin	B	1939	Dec	Gustav		"Taron, Theodore"	Wanda Bakus	29	Wanda Bachus 1930-1940	00088	155	C. Woehrmann	R							00088
+		Krueger	Elma	B	1940	Apr	Sigismund		"Redmann, Natalie"	Wanda Bakus	29	Wanda Bachus 1930-1940	00089	156	C. Woehrmann	R							00089
+		Mantei	Ottilie	B	1940	Apr	Rudolf		"Noerenberg, Emma"	Wolka Tarnowska	29	Wanda Bachus 1930-1940	00090	157	C. Woehrmann	R				#00091 German note			00090
+		Ziebart	Erna	B	1940	Apr	Johann		"Ziebart, Lidia"	Wanda Bakus	29	Wanda Bachus 1930-1940	00092	158	C. Woehrmann	R							00092
+		Schulz	Karoline	D	1940	Apr	Friedrich		"Redel, Anna Dorothea"	Wolka Tarnowska	29	Wanda Bachus 1930-1940	00093	67	C. Woehrmann				"Mantei, Ludwig"	70 y/J			00093
+		Luetke	Natanael	D	1925	Dec	Gottlieb		"Wesenberg, Wanda"	Wladyslawow	29	Wladystawow 1924-1940	00001	2	C. Woehrmann					"12 d/T, addendum 00002"			00001
+		Geisler	Hulda	D	1924	Oct	Eduard			Wladyslawow	29	Wladystawow 1924-1940	00003	3	C. Woehrmann					16 y/J			00003
+		Mepps	Julius	D	1925	Sep	Ernst		"Sader, Luise"	Werejce	29	Wladystawow 1924-1940	00004	x	C. Woehrmann								00004
+		Doberstein	Karl	D	1923	Sep	Ferdinand		Johanna	Wladyslawow	29	Wladystawow 1924-1940	00005	1	C. Woehrmann				Justine	49 y/J			00005
+		Redmann	Natalie	D	1924	Apr				Wladyslawow	29	Wladystawow 1924-1940	00006	2	C. Woehrmann					"24 y/J, addendum 00007"			00006
+		Sader	Margarete	D	1926	Jan	Emil		"Redmann, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00007	1	C. Woehrmann					19 d/T			00007
+		Henschke	Lidia	D	1926	Jan	unknown/unbekannt		"Henschke, Henriette"	Wladyslawow	29	Wladystawow 1924-1940	00008	2	C. Woehrmann					illegitimate / unehelich			00008
+		Simon	Elsa	D	1926	Jul	Hermann		"Ott, Pauline"	Wladyslawow	29	Wladystawow 1924-1940	00009	3	C. Woehrmann					27 d/T			00009
+		Ott	Pauline	D	1926	Sep	Ludwig		"Pasche, Eva"	Wladyslawow	29	Wladystawow 1924-1940	00010	4	C. Woehrmann				"Simon, Hermann"	33 y/J			00010
+Pfaifer	Adolf	Pfeiffer	Adolf	D	1926	Nov	Adolf		"Werner, Ottilie"	Wladyslawow	29	Wladystawow 1924-1940	00011	5	C. Woehrmann					2 m/M 5 d/T			00011
+		Begalke	Lidia	D	1926	Nov	Ferdinand		"Brodel, Berta"	Wladyslawow	29	Wladystawow 1924-1940	00012	6	C. Woehrmann					3 d/T			00012
+		Hintz	Friedrich Ferdinand	D	1927	May	Friedrich		"Gruening, Auguste"	Chylin	29	Wladystawow 1924-1940	00013	7	C. Woehrmann				"Mueller, Pauline"	53 y/J 8 m/M 16 d/T			00013
+		Seidel	Amanda	D	1927	Jun	Ludwig		"Jeske, Auguste"	Wladyslawow	29	Wladystawow 1924-1940	00014	8	C. Woehrmann				"Pekrul, Wilhelm Alexander"	76 y/J 1m/M 19 d/T			00014
+		Redmann	Ernst	D	1928	Mar	Andreas		"Kotke, Karoline"	Wladyslawow	29	Wladystawow 1924-1940	00015	9	C. Woehrmann				"Fitz, Emilie"	54 y/J 12 d/T			00015
+		Dallmann	Adolf	D	1928	Mar	Theodor		"Jaek, Julianne"	Wladyslawow	29	Wladystawow 1924-1940	00016	10	C. Woehrmann					1 y/J 7 m/M 26 d/T			00016
+		Pekrul	Eduard	D	1928	Jun	Wilhelm Alexander		"Seidel, Amanda"	Wladyslawow	29	Wladystawow 1924-1940	00017	11	C. Woehrmann				"Streibel, Auguste"	39 y/J			00017
+		Albrecht	Rudolf	D	1928	Jun	Ludwig		"Hetke, Theophile"	Wladyslawow	29	Wladystawow 1924-1940	00018	12	C. Woehrmann					1 d/T			00018
+		Rode	Wanda	D	1928	Dec	Josef		"Piper, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00019	13	C. Woehrmann					3 m/M 7 d/T			00019
+		Kotke	Wilhelm Erdmann	D	1929	Feb	Wilhelm		"Schulz, Charlotte"	Wladyslawow	29	Wladystawow 1924-1940	00020	14	C. Woehrmann				"Hintz, Emilie"	55 y/J 10 m/M			00020
+		Liebert	Emilie	D	1929	Mar	Eduard		"Grooskreuz, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00021	15	C. Woehrmann				"Wesenberg, Emanuel"	22 y/J 4 m/M			00021
+Brodoel	Berta	Brodel	Berta	D	1929	Aug	Gottlieb		"Bansemeier, Karoline"	Wladyslawow	29	Wladystawow 1924-1940	00022	16	C. Woehrmann				"Begalke, Ferdinand"	28 y/J			00022
+		Simon	Ewald	D	1929	Sep	Hermann		"Ott, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00023	17	C. Woehrmann					1 y/J 1 m/M			00023
+Pfaifer	Gustav	Pfeiffer	Gustav	D	1929	Dec	Adolf		"Werner, Ottilie"	Wladyslawow	29	Wladystawow 1924-1940	00024	18	C. Woehrmann					5 d/T			00024
+		Wesenberg	Else Emilie	D	1930	Jan	Emanuel		"Liebert, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00025	19	C. Woehrmann					10 m/M			00025
+		Wolter	Wilhelm	D	1930	Feb	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00026	20	C. Woehrmann					7 m/M 23 d/T			00026
+		Krueger	Erna	D	1930	Jul	Adolf		"Hein, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00027	21	C. Woehrmann					1 y/J 28 d/T			00027
+		Simon	Wilma Johanna	D	1930	Aug	Hermann		"Ott, Pauline"	Wladyslawow	29	Wladystawow 1924-1940	00028	22	C. Woehrmann					10 y/J 2 m/M 22 d/T			00028
+		Schlak	Ferdinand	D	1931	Mar	Friedrich		"Hunke, Anna"	Wladyslawow	29	Wladystawow 1924-1940	00029	23	C. Woehrmann				"Potzke, Emma"	61 y/J			00029
+		Kessler	Pauline	D	1931	Nov	Johann		Wilhelmine	Pniowno	29	Wladystawow 1924-1940	00030	24	C. Woehrmann				"Pastusiak, Paul"	44 y/J			00030
+		Wesenberg	Ewald	D	1931	Dec	Adolf		Olga	Wladyslawow	29	Wladystawow 1924-1940	00031	25	C. Woehrmann								00031
+		Redmann	Hildegard	D	1931	Dec	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00032	26	C. Woehrmann					3 m/M			00032
+		Wesenberg	Theodor	D	1931	Dec	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00033	27	C. Woehrmann					19 d/T			00033
+		Kisser	Rudolf	D	1932	Mar	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00034	28	C. Woehrmann								00034
+		Kisser	Wanda	D	1932	Mar	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00035	29	C. Woehrmann								00035
+		Wolter	Natalie	D	1932	Jul	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00036	30	C. Woehrmann					3 m/M			00036
+		[Radke]	Friederike	D	1932	Aug	Johann		Rosalie	Wladyslawow	29	Wladystawow 1924-1940	00037	31	C. Woehrmann				"Kisser, August"	68 y/J			00037
+Rohde	Herta	Rode	Herta	D	1933	Feb	Josef	"Piper, Lydia"	"Piper, Lidia"	Chylin	29	Wladystawow 1924-1940	00038	32	C. Woehrmann					3 m/M			00038
+		Redmann	Sieghard	D	1933	Feb	Eduard		"Doberstein, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00039	33	C. Woehrmann					1 m/M			00039
+Piper	Lydia	Piper	Lidia	D	1933	May	Karl		"Modroch, Wilhelmine"	Chylin	29	Wladystawow 1924-1940	00040	34	C. Woehrmann				"Rode, Josef Emil"	36 y/J			00040
+		Simon	Gustav	D	1933	Jul	Hermann		"Ott, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00041	35	C. Woehrmann					5 m/M			00041
+Disterheft	Lydia	Duesterhoeft	Lidia	D	1933	Aug	Friedrich		"Kapczynski, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00042	36	C. Woehrmann				"Jek, Gustav"	28 y/J			00042
+		Wesenberg	Lidia	D	1933	Nov	Ludwig		"Minke, Julianne"	Wladyslawow	29	Wladystawow 1924-1940	00043	37	C. Woehrmann				"Wesenberg, Natanael"	29 y/J			00043
+		Ott	Emma	D	1934	Feb	Ludwig		"Pasche, Eva"	Wladyslawow	29	Wladystawow 1924-1940	00044	38	C. Woehrmann				"Simon, Hermann"	31 y/J			00044
+		Deutschlaender	Natalie	D	1934	Mar	Wilhelm		"Deutschlaender, Wilhelmine"	Wladyslawow	29	Wladystawow 1924-1940	00045	39	C. Woehrmann				"Wesenberg, Emanuel"	28 y/J			00045
+		Wesenberg	Helene	D	1934	Apr	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00046	40	C. Woehrmann					3 m/M			00046
+		Jaek	Arthur	D	1934	Jun	Gustav	"Diesterheft, Lydia"	"Duesterhoeft, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00047	41	C. Woehrmann					1 1/2 y/J			00047
+		Wesenberg	Rosamunde	D	1934	Sep	Natanael		"Wesenberg, Lidia"	Olchowiec	29	Wladystawow 1924-1940	00048	42	C. Woehrmann					11 m/M			00048
+		Berg	Waldemar	D	1936	Jan	Emanuel		"Nehring, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00049	49	C. Woehrmann					1 m/M 10 d/T			00049
+		Simon	Ernst	D	1936	Aug	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00050	48	C. Woehrmann					2 y/J			00050
+		Simon	Hermann	D	1935	Dec	Friedrich		"Kotke, Johanna"	Wladyslawow	29	Wladystawow 1924-1940	00051	47	C. Woehrmann				Rosamunde	48 y/J			00051
+		Begalke	Ferdinand	D	1935	Apr	Wilhelm		"Oelke, Justine"	Wladyslawow	29	Wladystawow 1924-1940	00052	46	C. Woehrmann				Auguste	56 y/J			00052
+		Redmann	Martha	D	1935	Apr	Hermann Ludwig		Amalie	Wladyslawow	29	Wladystawow 1924-1940	00053	45	C. Woehrmann				"Wolter, Emanuel"	35 y/J			00053
+		Hintz	Johanna Natalie	D	1937	Jul	Adolf		Luise	Wladyslawow	29	Wladystawow 1924-1940	00055	50	C. Woehrmann				"Jaek, Gustav"	24 y/J 2 m/M 4 d/T			00055
+		Jeske	Olga	D	1937	Jul	Julius		"Bress, Wilhelmine"	Wladyslawow	29	Wladystawow 1924-1940	00056	51	C. Woehrmann				"Wesenberg, Adolf"	27 y/J 7 m/M 			00056
+		Pekrul	Wilhelm Alexander	D	1937	Sep	Daniel		"Neumann, Euphrosine"	Wladyslawow	29	Wladystawow 1924-1940	00057	52	C. Woehrmann					81 y/J			00057
+		Redmann	Herta	D	1937	Oct	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00058	53	C. Woehrmann					7 m/M 25 d/T			00058
+		Fitz	Wanda	B	1931	Apr	Gustav		"Wolter, Berta"	Wladyslawow	29	Wladystawow 1924-1940	00060	67	C. Woehrmann	R							00060
+		Wolter	Erna	B	1931	Apr	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00061	68	C. Woehrmann	R							00061
+		Wesenberg	Georg	B	1931	Apr	Natanael		"Wesenberg, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00062	69	C. Woehrmann	R							00062
+		Redmann	Hildegard	B	1931	Sep	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00063	70	C. Woehrmann								00063
+		Wesenberg	Ewald	B	1931	Dec	Adolf		"Jeske, Olga"	Wladyslawow	29	Wladystawow 1924-1940	00064	71	C. Woehrmann								00064
+		Wesenberg	Theodor	B	1931	Dec	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00065	72	C. Woehrmann								00065
+		Begalke	Lina	B	1932	Feb	Theodor		"Gefreiter, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00066	73	C. Woehrmann	R				addendum 00067			00066
+		Kisser	Rudolf	B	1932	Mar	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00067	74	C. Woehrmann					"addendum 00068, twin / Zwilling"			00067
+		Kisser	Wanda	B	1932	Mar	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00068	75	C. Woehrmann					twin / Zwilling			00068
+		Sonnenberg	Eduard	B	1932	Feb	Sigismund		"Kotke, Helene"	Chylin	29	Wladystawow 1924-1940	00069	76	C. Woehrmann	R							00069
+		Geisler	Eduard	B	1932	Apr	Eduard		"Jeske, Julianne"	Wladyslawow	29	Wladystawow 1924-1940	00070	77	C. Woehrmann	R				addendum 00071			00070
+		Wolter	Natalie	B	1932	Apr	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00071	78	C. Woehrmann								00071
+		Berg	Else	B	1932	May	Gustav		"Pekrul, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00072	79	C. Woehrmann	R							00072
+		Fitz	Martha	B	1932	Jun	Gustav		"Wolter, Berta"	Chylin	29	Wladystawow 1924-1940	00073	80	C. Woehrmann	R							00073
+		Simon	Gustav	B	1932	Sep	Hermann		"Ott, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00074	81	C. Woehrmann								00074
+		Rode	Herta	B	1932	Oct	Josef	"Piper, Lydia"	"Piper, Lidia"	Chylin	29	Wladystawow 1924-1940	00075	82	C. Woehrmann								00075
+		Redmann	Klara	B	1932	Dec	Emanuel		"Redmann, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00076	83	C. Woehrmann	R							00076
+		Lohr	Ida	B	1932	Dec	Adolf		"Moritz, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00077	84	C. Woehrmann	R							00077
+		Wesenberg	Martha	B	1932	Nov	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00078	85	C. Woehrmann	R							00078
+		Sader	Waldemar	B	1933	Jan	Emil		"Fengler, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00079	86	C. Woehrmann	R							00079
+		Jaek	Arthur	B	1933	Jan	Gustav		"Duesterhoeft, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00080	87	C. Woehrmann	R							00080
+		Simon	Therese	B	1932	Oct	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00081	88	C. Woehrmann	R							00081
+		Redmann	Sieghard	B	1933	Jan	Eduard		"Doberstein, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00082	89	C. Woehrmann								00082
+		Kisser	Eduard	B	1933	Mar	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00083	90	C. Woehrmann	R							00083
+		Redmann	Margarete	B	1933	Mar	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00084	91	C. Woehrmann	R							00084
+		Singbeil	Wilhlem	B	1933	May	Samuel		"Albrecht, Olga"	Potoki	29	Wladystawow 1924-1940	00085	92	C. Woehrmann	R							00085
+		Redmann	Martha	B	1933	Apr	Hermann		"Kinas, Albertine"	Wladyslawow	29	Wladystawow 1924-1940	00086	93	C. Woehrmann	R							00086
+		Begalke	Leokadia	B	1933	May	Adolf		"Pide, Olga"	Wladyslawow	29	Wladystawow 1924-1940	00087	94	C. Woehrmann	R							00087
+		Sader	Johanna	B	1933	Aug	Emil		"Redmann, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00088	95	C. Woehrmann	R							00088
+		Wesenberg	Rosamunde	B	1933	Oct	Natanael		"Wesenberg, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00089	96	C. Woehrmann								00089
+		Wolter	Rudolf	B	1933	Nov	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00090	97	C. Woehrmann	R							00090
+		Wesenberg	Margarete	B	1933	Nov	Adolf		"Jeske, Olga"	Wladyslawow	29	Wladystawow 1924-1940	00091	98	C. Woehrmann	R							00091
+		Sonnenberg	Hilda	B	1934	Jan	Sigismund		"Kotke, Helene"	Chylin	29	Wladystawow 1924-1940	00092	99	C. Woehrmann	R							00092
+		Wesenberg	Helene	B	1934	Jan	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00093	100	C. Woehrmann								00093
+		Simon	Ernst Ewald	B	1934	Mar	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00094	101	C. Woehrmann	R							00094
+		Redmann	Martha	B	1934	May	Julius		"Berg, Josefine"	Wladyslawow	29	Wladystawow 1924-1940	00095	102	C. Woehrmann	R							00095
+		Berg	Lidia	B	1934	May	Gustav		"Pekrul, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00096	103	C. Woehrmann	R							00096
+		Fitz	Irma	B	1934	Jul	Gustav		"Wolter, Berta"	Chylin	29	Wladystawow 1924-1940	00097	104	C. Woehrmann	R							00097
+		Sader	Margarete	B	1934	Nov	Gustav		"Glut, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00098	105	C. Woehrmann	R							00098
+		Redmann	Rosamunde	B	1935	Jan	Hermann		"Kinas, Albertine"	Wladyslawow	29	Wladystawow 1924-1940	00099	106	C. Woehrmann	R							00099
+		Redmann	Adolf	B	1934	Dec	Emanuel		"Redmann, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00100	107	C. Woehrmann	R							00100
+		Jaek	Erna	B	1935	Mar	Gustav		"Hintz, Johanna"	Wladyslawow	29	Wladystawow 1924-1940	00101	108	C. Woehrmann	R							00101
+		Redmann	Sigismund	B	1935	Mar	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00102	109	C. Woehrmann	R							00102
+		Wolter	Olga	B	1935	Apr	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00103	110	C. Woehrmann	R							00103
+		Betke	Adolf	B	1935	May	Ludwig		"Wendland, Auguste"	Wladyslawow	29	Wladystawow 1924-1940	00104	111	C. Woehrmann	R							00104
+		Simon	Herbert	B	1935	Jun	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00105	112	C. Woehrmann	R							00105
+		Begalke	Elsa	B	1935	Jun	Adolf		"[Pide, Olga]"	Wladyslawow	29	Wladystawow 1924-1940	00106	113	C. Woehrmann	R							00106
+		Lohr	Rosamunde	B	1935	Jul	Adolf		"Moritz, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00107	114	C. Woehrmann	R							00107
+		Rode	Edmund	B	1935	Nov	Teodor		"Weigelt, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00108	115	C. Woehrmann	R							00108
+		Simon	Engelberga	B	1935	Dec	Hermann		"Bluemke, Rosamunde"	Wladyslawow	29	Wladystawow 1924-1940	00109	116	C. Woehrmann	R							00109
+		Berg	Waldemar	B	1935	Dec	Emanuel		"Nehring, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00110	117	C. Woehrmann								00110
+		Knopf	Adele	B	1936	Feb	Gustav		"Redmann, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00111	118	C. Woehrmann	R							00111
+		Redmann	Edmund	B	1936	Feb	Eduard		"Doberstein, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00112	119	C. Woehrmann	R							00112
+		Kisser	Elsa Martha	B	1936	Feb	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00113	120	C. Woehrmann	R							00113
+		Sader	Delila	B	1936	Oct	Gustav		"Glut, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00114	121	C. Woehrmann	R							00114
+		Schulz	stillborn female	D	1937	Jan	Sigismund		"Jeske, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00115	122	C. Woehrmann					birth record			00115
+		Begalke	Emma	B	1937	Jan	Adolf		"Pide, Olga"	Wladyslawow	29	Wladystawow 1924-1940	00116	123	C. Woehrmann	R							00116
+		Redmann	Herta	B	1937	Feb	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00117	124	C. Woehrmann								00117
+		Berg	Eduard	B	1937	Apr	Gustav		"Pekrul, Martha Helene"	Wladyslawow	29	Wladystawow 1924-1940	00118	125	C. Woehrmann	R							00118
+		Jaek	Adolf	B	1937	Jun	Gustav		"Hintz, Johanna Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00119	126	C. Woehrmann					duplicated on #00120			00119
+		Berg	Martha	B	1937	Jul	Emanuel		"Nehring, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00121	127	C. Woehrmann	R							00121
+		Redmann	Ella	B	1937	Jun	Emanuel		"Redmann, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00122	128	C. Woehrmann	R							00122
+		Redmann	Else	B	1930	Jan	Theodor		"Berg, Wanda"	Wladyslawow	29	Wladystawow 1924-1940	00125	56	C. Woehrmann	R							00125
+		Sonnenberg	Margarete	B	1930	Mar	Sigismund		"Kotke, Helene"	Wladyslawow	29	Wladystawow 1924-1940	00126	57	C. Woehrmann	R							00126
+		Berg	Natalie	B	1930	Apr	Gustav		"Pekrul, Martha Helene"	Wladyslawow	29	Wladystawow 1924-1940	00127	58	C. Woehrmann	R							00127
+		Simon	Erich	B	1930	May	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00128	59	C. Woehrmann	R							00128
+		Redmann	Gustav	B	1930	Jul	Eduard		"Doberstein, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00129	60	C. Woehrmann	R							00129
+		Sader	Adolf	B	1930	Jul	Emil		"Fengler, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00130	61	C. Woehrmann	R							00130
+		Jaek	Martha	B	1930	Sep	Gustav		"Duesterhoeft, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00131	62	C. Woehrmann	R							00131
+		Begalke	Martha	B	1930	Sep	Theodor		"Gefreiter, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00132	63	C. Woehrmann	R							00132
+		Redmann	Else	B	1930	Oct	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00133	64	C. Woehrmann	R							00133
+		Berg	Rudolf	B	1930	Nov	Emanuel		"Nehring, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00134	65	C. Woehrmann	R							00134
+		Pfeiffer	Martha	B	1930	Dec	Adolf		"Werner, Ottilie"	Wladyslawow	29	Wladystawow 1924-1940	00135	66	C. Woehrmann	R							00135
+		Wesenberg	Else Emilie	D	1930	Jan	Emanuel		"Liebert, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00136	19	C. Woehrmann					10 m/M			00136
+		Wolter	Wilhelm	D	1930	Feb	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00137	20	C. Woehrmann					7 m/M 24 d/T			00137
+		Krueger	Erna	D	1930	Jul	Adolf		"Hein, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00138	21	C. Woehrmann					1 y/J 28 d/T			00138
+		Simon	Wilma Johanna	D	1930	Aug	Hermann		"Ott, Pauline"	Wladyslawow	29	Wladystawow 1924-1940	00139	22	C. Woehrmann					10 y/J 2 m/M 22 d/T			00139
+		Sonnenberg	Hilde	B	1934	Jan	Sigismund		"Kotke, Helene"	Chylin	29	Wladystawow 1924-1940	00142	99	C. Woehrmann	R							00142
+		Wesenberg	Helene	B	1934	Jan	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00143	100	C. Woehrmann								00143
+		Simon	Ernst Ewald	B	1934	Mar	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00144	101	C. Woehrmann	R							00144
+		Redmann	Martha	B	1934	May	Julius		"Berg, Josefine"	Wladyslawow	29	Wladystawow 1924-1940	00145	102	C. Woehrmann	R							00145
+		Berg	Lidia	B	1934	May	Gustav		"Pekrul, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00146	103	C. Woehrmann	R							00146
+		Fitz	Irma	B	1934	Jul	Gustav		"Wolter, Berta"	Chylin	29	Wladystawow 1924-1940	00147	104	C. Woehrmann	R							00147
+		Ott	Emma	D	1934	Feb	Ludwig		"Pasche, Eva"	Wladyslawow	29	Wladystawow 1924-1940	00148	38	C. Woehrmann				"Simon, Hermann"	31 y/J			00148
+		Deutschlaender	Natalie	D	1934	Mar	Wilhelm		"Deutschlaender, Wilhelmine"	Wladyslawow	29	Wladystawow 1924-1940	00149	39	C. Woehrmann				"Wesenberg, Emanuel"	28 y/J			00149
+		Wesenberg	Helene	D	1934	Apr	Emanuel		"Deutschlaender, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00150	40	C. Woehrmann					3 m/M			00150
+		Jaek	Arthur	D	1934	Jun	Gustav	"Diesterheft, Lydia"	"Duesterhoeft, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00151	41	C. Woehrmann					1 1/2 y/J			00151
+		Wesenberg	Rosamunde	D	1934	Sep	Natanael		"Wesenberg, Lidia"	Olchowiec	29	Wladystawow 1924-1940	00152	42	C. Woehrmann					11 m/M			00152
+		Sader	Margarete	B	1934	Nov	Gustav		"Glut, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00155	105	C. Woehrmann	R							00155
+		Redmann	Rosamunde	B	1935	Jan	Hermann		"Kinas, Albertine"	Wladyslawow	29	Wladystawow 1924-1940	00156	106	C. Woehrmann	R							00156
+		Redmann	Adolf	B	1934	Dec	Emanuel		"Redmann, Emma"	Wladyslawow	29	Wladystawow 1924-1940	00157	107	C. Woehrmann	R							00157
+		Jaek	Erna	B	1935	Mar	Gustav		"Hintz, Johanna"	Wladyslawow	29	Wladystawow 1924-1940	00158	108	C. Woehrmann	R							00158
+		Wolter	Olga	B	1935	Apr	Emanuel		"Redmann, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00159	110	C. Woehrmann	R							00159
+		Betke	Adolf	B	1935	May	Ludwig		"Wendland, Auguste"	Wladyslawow	29	Wladystawow 1924-1940	00160	111	C. Woehrmann	R							00160
+		Begalke	Elsa	B	1935	Jun	Adolf	"Pede, Olga"	"Pide, Olga"	Wladyslawow	29	Wladystawow 1924-1940	00161	112	C. Woehrmann	R							00161
+		Redmann	Martha	D	1935	Apr	Hermann Ludwig		Amalie	Wladyslawow	29	Wladystawow 1924-1940	00162	45	C. Woehrmann				"Wolter, Emanuel"	35 y/J			00162
+		Simon	Hermann	D	1935	Dec	Friedrich		"Kotke, Johanna"	Wladyslawow	29	Wladystawow 1924-1940	00163	47	C. Woehrmann				Rosamunde	48 y/J			00163
+		Redmann	Sigismund	B	1935	Mar	Rudolf		"Sommerfeld, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00166	109	C. Woehrmann	R							00166
+		Simon	Herbert	B	1935	Jun	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00167	113	C. Woehrmann	R							00167
+		Lohr	Rosamunde	B	1935	Jul	Adolf		"Moritz, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00168	114	C. Woehrmann	R							00168
+		Rode	Edmund	B	1935	Nov	Theodor		"Weigelt, Martha"	Wladyslawow	29	Wladystawow 1924-1940	00169	115	C. Woehrmann	R							00169
+		Simon	Engelberga	B	1935	Dec	Hermann		"Bluemke, Rosamunde"	Wladyslawow	29	Wladystawow 1924-1940	00170	116	C. Woehrmann	R							00170
+		Berg	Waldemar	B	1935	Dec	Emanuel		"Nehring, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00171	117	C. Woehrmann								00171
+		Knopf	Adele	B	1936	Feb	Gustav		"Redmann, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00172	118	C. Woehrmann	R							00172
+		Redmann	Edmund	B	1936	Feb	Eduard		"Doberstein, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00173	119	C. Woehrmann	R							00173
+		Kisser	Elsa Martha	B	1936	Feb	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00174	120	C. Woehrmann	R							00174
+		Sader	Delila	B	1936	Oct	Gustav		"Glut, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00175	121	C. Woehrmann	R							00175
+		Simon	Ernst	D	1936	Aug	Karl		"Krueger, Kamilla"	Wladyslawow	29	Wladystawow 1924-1940	00176	48	C. Woehrmann					2 y/J			00176
+		Berg	Waldemar	D	1936	Jan	Emanuel		"Nehring, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00177	49	C. Woehrmann					1 m/M 10 d/T			00177
+		Schulz	Natalie	B	1923	Dec	Gustav		"Nikolai, Auguste"	Wladyslawow	29	Wladystawow 1924-1940	00180	1	C. Woehrmann	R							00180
+		Jaek	Margarete	B	1939	May	Gustav		"Hintz, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00181	134	C. Woehrmann	R							00181
+		Meier	Erich	B	1939	Aug	Adolf		"Krueger, Wanda"	Chylin	29	Wladystawow 1924-1940	00182	135	C. Woehrmann	R							00182
+		Redmann	Adolf	B	1939	Sep	Julius		"Wendland, Martha"	Chylin	29	Wladystawow 1924-1940	00183	136	C. Woehrmann								00183
+		Doberstein	Emilie	D	1939	Jan	Karl		"Schulz, Justine"	Wladyslawow	29	Wladystawow 1924-1940	00184	59	C. Woehrmann				"Redmann, Eduard"	32 y/J 5 m/M 12 d/T			00184
+		Betke	Michael	D	1939	May	Gottlieb		"Hintz, Emilie"	Wladyslawow	29	Wladystawow 1924-1940	00185	60	C. Woehrmann				"Pach, Wilhelmine"	75 y/J			00185
+		Seidel	Johanna	D	1939	May	Ludwig		Auguste	Wladyslawow	29	Wladystawow 1924-1940	00186	61	C. Woehrmann				"Streibel, Friedrich?"	84 y/J			00186
+		Flingel?	Emilie	D	1939	Jul	Michael		"Haller, Karoline"	Wladyslawow	29	Wladystawow 1924-1940	00187	62	C. Woehrmann					36 y/J			00187
+		Kisser	Adele	D	1939	Aug	Adolf		"Krueger, Natalie"	Wladyslawow	29	Wladystawow 1924-1940	00188	63	C. Woehrmann					1 y/J 22 d/T			00188
+		Redmann	Adolf	D	1939	Dec	Julius		"Wendland, Martha"	Chylin	29	Wladystawow 1924-1940	00189	64	C. Woehrmann					3 m/M 10 d/T			00189
+		Sader	Leokadia	B	1939	Dec	Gustav		"Glut, Lidia"	Wladyslawow	29	Wladystawow 1924-1940	00192	137	C. Woehrmann	R							00192
+		Fitz	Natalie	B	1938	Jul	Gustav		"Wolter, Berta"	Chylin	29	Wladystawow 1924-1940	00194	133	C. Woehrmann	R				#00193 German note			00194
+		Hintz	Johanna	B	1940	Jan	Rudolf		"Pekrul, Therese"	Wladyslawow	29	Wladystawow 1924-1940	00195	138	C. Woehrmann								00195
+		Schulz	Sieglinde	D	1940	Feb	Gustav		"Nikolai, Auguste"	Wladyslawow	29	Wladystawow 1924-1940	00196	65	C. Woehrmann					20 y/J			00196
+		Mantei	Emilie	D	1940	Mar	Michael		"Banik, Anne Julianne"	Wladyslawow	29	Wladystawow 1924-1940	00197	66	C. Woehrmann				"Wolter, August"	75 y/J			00197
+		Zismann	Pauline	D	1940	Apr	Samuel		"Krueger, Luise"	Wladyslawow	29	Wladystawow 1924-1940	00198	67	C. Woehrmann				"Preuss, Gottfried"	57 y/J			00198
+		Preuss	Gottfried	D	1940	Apr	August		"Herzog, Rosine"	Wladyslawow	29	Wladystawow 1924-1940	00199	68	C. Woehrmann				"Zismann, Pauline"	71 y/J			00199
+		Hintz	Johanna	D	1940	Apr	Rudolf		"Pekrul, Therese"	Wladyslawow	29	Wladystawow 1924-1940	00200	69	C. Woehrmann					3 m/M			00200

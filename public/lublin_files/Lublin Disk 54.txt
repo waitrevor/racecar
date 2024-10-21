@@ -1,0 +1,1177 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki				
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater	Mutter oder Braut (P)	Mutter oder Braut (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Bräutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen				
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event Type	Year	Month	Father	Mother or Bride (P)	Mother or Bride (D)	Village	Disk	Folder	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes				
+		Klukas	Ludwig	D	1915	Mar	Gottlieb		"Lehmann, Justine"	"Lenza, Zlatoust, Russland"	54	Lublin 1925  zgonow	00002	1	B Bergmann				"Noerenberg, Regina"	"60j, addendum #00003"				
+		Arndt	Ottilie	D	1916	Aug	Eduard		"Hermann, Ernestine"	"Karamysz, Ufa, Russland"	54	Lublin 1925  zgonow	00003	2	B Bergmann				"Klukas, Adam"	"23j, "				
+		Froehlich	Michael	D	1922	Aug	Heinrich		"Mantei, Julianna"	"Lenza, Russland"	54	Lublin 1925  zgonow	00004	3	B Bergmann				"Schultz, Anna"	28j				
+		Reschke	Sigismund	D	1924	Dec	Adam		"Pinkowski, Lydia"	Jozefow	54	Lublin 1925  zgonow	00005	4	B Bergmann					"1m,23t, "				
+		Aursch?	Marianna	D	1915	Feb	Wilhelm		"Reisler, Elisabeth"	"Kobryn, Russland"	54	Lublin 1925  zgonow	00006	5	B Bergmann				"Wendlandt, August"	"51j, addendum #00006"				
+		Wendland	August	D	1916	Jan	Samuel		"Zelmer, Eleonore"	"Troitzk, Russland"	54	Lublin 1925  zgonow	00007	6	B Bergmann				"[Aursch?, Marianna]"	62j				
+		Mueller	August	D	1915	Jan	Gustav		"Freiter, Emilie"	"Naryn?, Russland"	54	Lublin 1925  zgonow	00008	7	B Bergmann					22j				
+		Gudrian	Gottfried	D	1924	Jan	Martin 		Justine	Baran	54	Lublin 1925  zgonow	00009	8	B Bergmann					70j				
+		Zielke	Hulda	D	1925	Jan	Christian		"Kitzmann, Pauline"	Zurawiniec	54	Lublin 1925  zgonow	00010	9	B Bergmann					5m				
+		Kaus	Lydia	D	1925	Jan	Andreas		"Seemann, Emilie"	Okalew	54	Lublin 1925  zgonow	00011	10	B Bergmann					13j				
+		Orlowski	Edmund Samuel	D	1925	Jan	Karl		"Mertin, Ernestine"	Wolka Siemienska	54	Lublin 1925  zgonow	00012	11	B Bergmann					"3j, addendum #00012"				
+		Mueller	Adolf	D	1925	Jan				Lublin	54	Lublin 1925  zgonow	00013	12	B Bergmann				"Bansemeier, Emilie"	72j				
+		Wegner	Pauline	D	1925	Jan				Amelin	54	Lublin 1925  zgonow	00014	13	B Bergmann				Jaeger 	"76j, addendum #00015"				
+		Schubert	Adolf	D	1925	Jan	Gottlieb		"Jeske, Helene"	Zurawiniec	54	Lublin 1925  zgonow	00015	14	B Bergmann					"8m, addendum #00016"				
+		Hanisch	Emilie	D	1925	Feb	Ludwig	"Preis, Paulina"	"Preuss, Pauline"	Jozefow	54	Lublin 1925  zgonow	00017	15	B Bergmann				"Strauch, Gottlieb"	"29j, addendum #00018"				
+		Mueller	Eduard	D	1925	Feb	Johann		"Schultz, Luise"	Zawada	54	Lublin 1925  zgonow	00018	16	B Bergmann				"Gruening, Julianna"	"52j, addendum #00019"				
+		Jedrzejewski	Eduard Josef	D	1925	Feb	Josef		"Scheier?, Marianne"	Stefanow	54	Lublin 1925  zgonow	00019	17	B Bergmann					"52j, addendum #00020"				
+		Treutler	Maurice Richard Wilhelm	D	1925	Feb	Karl Wilhelm Emil Baltazar		"Bartolome, Laura Charlotte"	Pulawy	54	Lublin 1925  zgonow	00020	18	B Bergmann				"Weisheit, Josefa Valeria"	67j				
+		Klein	Albert Ferdinand	D	1925	Feb	August		"Zindler?, Helene"	Godziszow	54	Lublin 1925  zgonow	00021	19	B Bergmann				"Borkenhagen, Johanna"	addendum #00022 				
+		Krebs	Wilhelm	D	1925	Feb	Martin 		"Mueller, Karoline"	Gielczew	54	Lublin 1925  zgonow	00022	20	B Bergmann				"Benni, Maria"					
+		Deutschlaender	Wilhelm	D	1925	Mar	Ludwig		"Hartwig, Wilhelmine"	Borkowizna	54	Lublin 1925  zgonow	00023	21	B Bergmann				"Deutschlaender, Wilhelmine"	56j				
+		Orlowski	Hermann	D	1925	Mar	Gottlieb		"Lange, Emilie"	Zurawiniec	54	Lublin 1925  zgonow	00024	22	B Bergmann					"15j,1m,12t"				
+		Druc?	Boleslaw Stefan	D	1925	Mar	Josef		"Borkoswki, Alexandra"	Lublin	54	Lublin 1925  zgonow	00025	23	B Bergmann				"Zoleski, Maria"	70j				
+		Heck	Marie	D	1925	Mar	Andreas		"Kassner, Lydia"	Jozefow	54	Lublin 1925  zgonow	00026	24	B Bergmann					"1t, addendum #00027"				
+		Hensel	Susanne	D	1925	Mar	Michael		"Heinrich, Katharina"	Borkowizna	54	Lublin 1925  zgonow	00027	25	B Bergmann				"Hassinger, Jakob"	47j				
+		Heimann	Henriette	D	1916	Jan	Jakob		"Timm, Elisabeth"	"Leuza, Russland"	54	Lublin 1925  zgonow	00028	26	B Bergmann				Heffner	"70j,"				
+		Appel	Rudolf	D	1915	Mar	Anton		"Appel, Amalie"	"Minsk, Russland"	54	Lublin 1925  zgonow	00029	27	B Bergmann					addendum #00030 				
+		Brauch	Emilie	D	1925	Apr	Friedrich		"Geuer?, Julianna"	Borkowizna	54	Lublin 1925  zgonow	00030	28	B Bergmann				"Kopp, Friedrich"	58j				
+		Kuehn	Eduard	D	1925	Apr	Jakob		"Hein, Mathilde"	Antonin	54	Lublin 1925  zgonow	00031	29	B Bergmann				"Ziegelmann, Ernestine"	"25j, addendum #00032"				
+		Dering	Erich	D	1925	Apr	Michael		"Meier, Auguste"	Antonin	54	Lublin 1925  zgonow	00032	30	B Bergmann					"1j,5m,24t"				
+		Klein	Eduard Viktor	D	1925	Apr	Ferdinand		"Borkenhagen, Johanna"	Godziszow	54	Lublin 1925  zgonow	00033	31	B Bergmann									
+		Abram	Lydia	D	1925	Apr	Adam		"Ziegelmann, Ernestine"	Antonin	54	Lublin 1925  zgonow	00034	32	B Bergmann					"5j,11m"				
+		Schultz	Leokadia	D	1925	Apr	Heinrich		"Guenther, Theophile"	Amelin	54	Lublin 1925  zgonow	00035	33	B Bergmann					"10j,8m, addendum #00036"				
+		Buchstein	Amandus	D	1925	Apr	Karl		"Steinke, Pauline"	Bielany	54	Lublin 1925  zgonow	00036	34	B Bergmann					"2j, addendum #00037"				
+		Lachetzki	August	D	1925	Apr	Gottfried		"Radis, Anna Marianna"	Lublin	54	Lublin 1925  zgonow	00037	35	B Bergmann				"Welz, Ernestine"	60j				
+		Nickel	Heinrich	D	1922	Jun	August		"Mantik, Emilie"	"Leuza, Russland"	54	Lublin 1925  zgonow	00038	36	B Bergmann				"Hefner, Wanda"	26j				
+		Markwart	Waldina	D	1925	Apr	Gustav		"Patzer, Auguste"	Zurawiniec	54	Lublin 1925  zgonow	00039	37	B Bergmann					"4j,4m"				
+		Orlowski	Gottlieb	D	1916	Sep	Karl		"Golz?, Emilie"	Sobolew	54	Lublin 1925  zgonow	00041	38	B Bergmann					"9j,6m"				
+		Heimann	Herta	D	1925	May	Karl         		"Blum, Albertine"	Zurawiniec	54	Lublin 1925  zgonow	00042	39	B Bergmann					"3j,7m"				
+		Janetzki	Emilie	D	1925	May	Christian Friedrich		"Schaefer, Wilhelmine Florentine"	Zezulin	54	Lublin 1925  zgonow	00043	40	B Bergmann				Sieg	"82j, addendum #00044"				
+		Hartfil	Viktor	D	1925	May	Julius		"Friedrich, Henriette"	Cichostow	54	Lublin 1925  zgonow	00045	41	B Bergmann					"11j, addendum #00046"				
+		Luedke	Ottilie	D	1925	May	Karl                     		"Huse, Helene"	Zurawiniec	54	Lublin 1925  zgonow	00046	42	B Bergmann					"14j,8m"				
+		Lother	Linda	D	1925	May	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1925  zgonow	00047	43	B Bergmann					"1j , addendum #00048"				
+		Luedke	Roman	D	1925	May	Karl                              		"Huse, Helene"	Zurawiniec	54	Lublin 1925  zgonow	00048	44	B Bergmann					"1j,8m"				
+		Meiler	Ferdinand	D	1916	Oct	Jakob		"Harter, Katharina"	"Leuza, Russland"	54	Lublin 1925  zgonow	00049	45	B Bergmann					64j				
+		Kiri	Friedrich	D	1916	Aug	Christian         			"Nowo Priszyb, Ufa, Russland"	54	Lublin 1925  zgonow	00050	46	B Bergmann				"Lorentz, Katharina"	55j				
+		Mass	Ida	D	1925	Jun	Andreas		"Luedke, Augustine"	Cichostow	54	Lublin 1925  zgonow	00051	47	B Bergmann					"5j,4t, addendum #00052"				
+		Wisgin	Julianna	D	1925	Jun	Ludwig			Lublin	54	Lublin 1925  zgonow	00052	48	B Bergmann				Melkun	66j				
+		Gruening	Ludwig	D	1925	Jun	Friedrich		"Doms, Friederike"	Zurawiniec	54	Lublin 1925  zgonow	00053	49	B Bergmann				"Jobs, Wilhelmine"	55j				
+		Peter	Olga	D	1925	Jul	Heinrich		"Neubauer, Christine"	Lublin	54	Lublin 1925  zgonow	00054	50	B Bergmann									
+		Hensel	Eduard	D	1925	Jul	Wilhelm		Eleonore	Zawada	54	Lublin 1925  zgonow	00055	51	B Bergmann				"Eckert, Wilhelmine"	38j				
+		Froehlich	Alexander	D	1925	Jul	Heinrich		"Mantik, Julianna"	Zawada	54	Lublin 1925  zgonow	00056	52	B Bergmann				"Jung, Natalie"	36j				
+		Rozak	Julian  	D	1925	Jul	Johann		"Sophienowski, Michaline"	Niwa	54	Lublin 1925  zgonow	00057	53	B Bergmann				"Wolf, Gabriela"	36j				
+		Jaeger	Christine	D	1925	Jul	Alexander		"Kwirant, Justine"	Amelin	54	Lublin 1925  zgonow	00058	54	B Bergmann					"8m, addendum #00059"				
+		Luedke	stillborn male	D	1925	Aug	Alexander		"Sokolowski, Florentine"	Amelin	54	Lublin 1925  zgonow	00059	55	B Bergmann					addendum #00060 				
+		Jesse	Julianna	D	1925	Aug	Ludwig		"Jesse, Pauline"	Wola Lisowska	54	Lublin 1925  zgonow	00060	56	B Bergmann				Dreger	"58j,10m,21t"				
+		Breining	Emma Karoline	D	1925	Aug	Heinrich Gustav		"Natrop, Sophie"	Lublin	54	Lublin 1925  zgonow	00061	57	B Bergmann				Haberland	78j				
+		Zielke	Eduard	D	1925	Aug	Christoph		"Kitzmann, Pauline"	Zurawiniec	54	Lublin 1925  zgonow	00062	58	B Bergmann					"6j,3m,20t"				
+		Meier	Eduard    	D	1925	Aug	Johann		"Schubert, Julianna"	Antonin	54	Lublin 1925  zgonow	00063	59	B Bergmann					"1j,2m,24t"				
+		Neumann	Amalie	D	1921	Jun				"Jaroslawka, Zlatoust, Russland"	54	Lublin 1925  zgonow	00064	60	B Bergmann				"Timm, Heinrich"	"41j, addendum #00065"				
+		Preiss	Eduard 	D	1925	Sep	Gustav		"Noerenberg, Julianna"	Wolka Mieczyslawska	54	Lublin 1925  zgonow	00065	61	B Bergmann					2j				
+		Steinke	Emil     	D	1925	Oct	Albert		Auguste	Bielany	54	Lublin 1925  zgonow	00066	62	B Bergmann					"2j,5m"				
+		Rinas	Ludwig	D	1925	Oct	Daniel		"Brandenburg, Auguste"	Okalew	54	Lublin 1925  zgonow	00067	63	B Bergmann					"17t, addendum #00068"				
+		Steinke	Sigismund	D	1925	Oct	Albert		Auguste	Bielany	54	Lublin 1925  zgonow	00068	64	B Bergmann					"4j,5m"				
+		Wohlgemut	Karl	D	1925	Oct			"Rode, Wilhelmine"	Zurawiniec	54	Lublin 1925  zgonow	00069	65	B Bergmann					"56j,11m,17t"				
+		Martin	Gottlieb	D	1925	Oct	Julius		"Riske, Karoline"	Juliopol	54	Lublin 1925  zgonow	00070	66	B Bergmann				"Mueller, Emilie"	"50j, addendum #00071"				
+		Klingbeil	Serafine	D	1925	Oct	August		"Siewert, Justine"	Antonin	54	Lublin 1925  zgonow	00071	67	B Bergmann					3t				
+		Neumann	Ottilie Amalie	D	1925	Oct	Karl                               		"Schultz, Anna"	Lublin	54	Lublin 1925  zgonow	00072	68	B Bergmann				Tosio	66j				
+		Schultz	Gerhard	D	1925	Nov	Gottfried		"Hein, Emilie"	Cichostow	54	Lublin 1925  zgonow	00073	69	B Bergmann					"1j,4m, addendum #00074"				
+		Kellert	Rudolf	D	1925	Nov	Daniel		"Dobelstein,  Julianna"	Okalew	54	Lublin 1925  zgonow	00074	70	B Bergmann					"11j,11m,13t, addendum #00075"				
+		Beier	Karl Johann	D	1925	Nov	Josef		"Sandmann, Emilie"	Lublin	54	Lublin 1925  zgonow	00075	71	B Bergmann					15j 				
+		Freiter	Gottfried	D	1925	Nov	Lorenz		"Radke, Anna Rosine"	Lublin	54	Lublin 1925  zgonow	00076	72	B Bergmann				"Timm, Wilhelmine Karoline"	"75j, FN: Gefreiter"				
+		Braun	Alma	D	1925	Dec	Eduard		"Arndt, Friederike"	Wolka Mieczyslawska	54	Lublin 1925  zgonow	00077	73	B Bergmann					"8m,15t"				
+		Wermann	Frieda	D	1925	Dec	Adolf		"Dikow, Alwine"	Cichostow	54	Lublin 1925  zgonow	00079	74	B Bergmann					"4m,4t, addendum #00080"				
+		Rehm	Walter	D	1925	Dec	Friedrich		"Frank, Rosalie"	Zawada	54	Lublin 1925  zgonow	00080	75	B Bergmann					26t				
+		Toerner	Viktor Friedrich	B	1896	Feb	Alexander		"Orvelensowski, Olga"	Carski?	54	Lublin 1926 urodzenia 	00002	1	B Bergmann									
+		Neudorf	Walter	B	1925	Dec	Ludwig		"Egert, Ottilie"	Antonin	54	Lublin 1926 urodzenia 	00003	2	B Bergmann	R				addendum #0004 				
+		Kopp	Elfriede	B	1925	Dec	Siegfried		"Martin, Anna"	Borkowizna	54	Lublin 1926 urodzenia 	00004	3	B Bergmann	R								
+		Mittelstaedt	August	B	1925	Nov	Heinrich		"Mueller, Wanda"	Juliopol	54	Lublin 1926 urodzenia 	00005	4	B Bergmann	R				addendum #0006 				
+		Noerenberg	Olga	B	1925	Dec	Adolf		"Noerenberg, Luise"	Sewerynowka	54	Lublin 1926 urodzenia 	00006	5	B Bergmann					addendum #0007 				
+		Kropp	Eduard	B	1925	Dec	Gottlieb		"Schubert, Emilie"	Lipniak	54	Lublin 1926 urodzenia 	00007	6	B Bergmann					addendum #0008 				
+		Kuehn 	Erich	B	1926	Jan	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1926 urodzenia 	00008	7	B Bergmann	R				addendum #0009 				
+		Pide	Edmund	B	1926	Jan	Emil		"Sach, Emilie"	Okalew	54	Lublin 1926 urodzenia 	00009	8	B Bergmann	R				addendum #0010 				
+		Marks	Herman	B	1926	Jan	Rudolf		"Hintz, Ottilie"	Baran	54	Lublin 1926 urodzenia 	00010	9	B Bergmann	R				addendum #0011 				
+		Steinert	Natalie	B	1899	Jun	Rudolf		"Wyszynski, Marta"	Piaski	54	Lublin 1926 urodzenia 	00011	10	B Bergmann									
+		Westphal	Heinrich	B	1926	Jan	Konstantin		"Schlak, Christine"	Okalew	54	Lublin 1926 urodzenia 	00012	11	B Bergmann	R				addendum #0013 				
+		Kaus	Elfriede	B	1926	Jan	Ludwig		"Arndt, Olga"	Okalew	54	Lublin 1926 urodzenia 	00013	12	B Bergmann	R				addendum #0014 				
+		Steinke	Helmut	B	1926	Jan	Albert		"Rau, Auguste"	Bielany	54	Lublin 1926 urodzenia 	00014	13	B Bergmann	R				addendum #0015 				
+		Martin	Reinhold	B	1926	Jan	Eduard		"Betin, Julianna"	Dzialyn	54	Lublin 1926 urodzenia 	00015	14	B Bergmann					addendum #0016 				
+		Hiller	Sigismund Artur	B	1925	Dec	Adolf		"Hiller, Julianna"	Antoniowka	54	Lublin 1926 urodzenia 	00016	15	B Bergmann	R				addendum #0017 				
+		Buchstein	Waldemar	B	1926	Feb	Rudolf		"Wedmann, Alica"	Bielany	54	Lublin 1926 urodzenia 	00017	16	B Bergmann	R				addendum #0018 				
+		Neumann	Ewald	B	1926	Feb	August		"Kunkel, Lydia"	Wolka Mieczyslawska	54	Lublin 1926 urodzenia 	00018	17	B Bergmann	R				addendum #0019 				
+		Wagner	Adolf	B	1926	Feb	unknown/unbekannt		"Wagner, Emilie"	Borkowizna	54	Lublin 1926 urodzenia 	00019	18	B Bergmann	R				twin				
+		Wagner	Lydia	B	1926	Feb	unknown/unbekannt		"Wagner, Emilie"	Borkowizna	54	Lublin 1926 urodzenia 	00020	19	B Bergmann					twin				
+		Jaeger	Elfriede	B	1925	Aug	Michael		"Kiri, Margarete"	Cichostow	54	Lublin 1926 urodzenia 	00021	20	B Bergmann	R				addendum #0022 				
+		Rochoski	Maria	B	1926	Jan	Gustav		"Fangrad, Emilie"	Marynin	54	Lublin 1926 urodzenia 	00022	21	B Bergmann	R								
+		Dreger	Erna	B	1926	Feb	Leopold		"Noerenberg, Olga"	Wincentow	54	Lublin 1926 urodzenia 	00023	22	B Bergmann	R				addendum #0024 				
+		Meiler	Ludwig	B	1926	Feb	Eduard		"Heimann, Emilie"	Zawada	54	Lublin 1926 urodzenia 	00024	23	B Bergmann	R				addendum #0025 				
+		Pinkowski	Lydia	B	1926	Feb	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1926 urodzenia 	00025	24	B Bergmann	R				addendum #0026 				
+		Karoff	Eduard	B	1926	Mar	Julius		"Luedke, Berta"	Sewerynowka	54	Lublin 1926 urodzenia 	00026	25	B Bergmann					addendum #0027 				
+		Neumann	Olga	B	1926	Feb	Emil		"Luedke, Amanda"	Wola Lisowska	54	Lublin 1926 urodzenia 	00027	26	B Bergmann					addendum #0028 				
+		Schultz	Else	B	1926	Jan	Eduard		"Goltz, Augustine"	Zawada	54	Lublin 1926 urodzenia 	00028	27	B Bergmann	R				addendum #0029 				
+		Lipinski	Maria Sophie	B	1926	Mar	Alexander		"Kundt, Wanda"	Lublin	54	Lublin 1926 urodzenia 	00029	28	B Bergmann	R								
+		Braun	Lucia	B	1926	Mar	Josef		"Berlin, Sophie"	Dabrowa	54	Lublin 1926 urodzenia 	00030	29	B Bergmann					addendum #0031 				
+		Luedke	Blandine	B	1926	Mar	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1926 urodzenia 	00031	30	B Bergmann	R				addendum #0032 				
+		Froehlich	Anna	B	1926	Mar	Ferdinand		"Grolmisch, Emilie"	Zawada	54	Lublin 1926 urodzenia 	00032	31	B Bergmann					"twin, addendum #0033"				
+		Froehlich	Johanna	B	1926	Mar	Ferdinand		"Grollnisch, Emilie"	Zawada	54	Lublin 1926 urodzenia 	00033	32	B Bergmann					"twin, addendum #0034"				
+		Klukas	Erwin	B	1926	Jan	Adam		"Kaufmann, Rosalie"	Antoniowka	54	Lublin 1926 urodzenia 	00034	33	B Bergmann	R				addendum #0035 				
+		Appel	Maria Magdalene	B	1926	Mar	Stefan		"Krause, Magdalene"	Piastow	54	Lublin 1926 urodzenia 	00035	34	B Bergmann	R				addendum #0036 				
+		Becker	Maria  	B	1926	Apr	Christian		Christine	Lublin	54	Lublin 1926 urodzenia 	00036	35	B Bergmann	R								
+		Siewert	Gustav	B	1925	May	Christoph		"Klingbeil, Helene"	Antonin	54	Lublin 1926 urodzenia 	00037	36	B Bergmann	R				addendum #0038 				
+		Luedke	Hermann	B	1926	Mar	Adolf		"Filipp, Ottilie"	Zurawiniec	54	Lublin 1926 urodzenia 	00038	37	B Bergmann	R								
+		Zielke	Helene	B	1926	Mar	Christoph		"Kitzmann, Pauline"	Zurawiniec	54	Lublin 1926 urodzenia 	00039	38	B Bergmann	R								
+		Schmidt	Adelgunde	B	1926	Feb	August		"Natke, Pauline"	Wolka Mieczyslawska	54	Lublin 1926 urodzenia 	00040	39	B Bergmann	R				addendum #0041 				
+		Orlowski	Ewald	B	1926	Mar	Gustav		"Wiese, Emilie"	Okalew	54	Lublin 1926 urodzenia 	00041	40	B Bergmann					addendum #0042 				
+		Krueger	Heinrich	B	1926	Apr	Alexander		"Firus, Emilie"	Okalew	54	Lublin 1926 urodzenia 	00042	41	B Bergmann	R				addendum #0043 				
+		Marks	Erich	B	1926	Jan	unknown/unbekannt		"Marks, Florentine"	Cichostow	54	Lublin 1926 urodzenia 	00043	42	B Bergmann	R				addendum #0044 				
+		Felter	Rudolf	B	1909	Mar	Wilhelm		"Kunicki?, Marianna?"		54	Lublin 1926 urodzenia 	00045	43	B Bergmann									
+		Rieske	Leokadia	B	1924	Sep	Gottlieb		"Bloch, Aniela"	Leonardow	54	Lublin 1926 urodzenia 	00046	44	B Bergmann	R				addendum #0047 				
+		Reschke	Wanda	B	1926	Apr	Adam		"Pinkowski, Lydia"	Jozefow	54	Lublin 1926 urodzenia 	00047	45	B Bergmann	R				addendum #0048 				
+		Schubert	Artur	B	1926	Apr	Gottlieb		"Teske, Helene"	Zurawiniec	54	Lublin 1926 urodzenia 	00048	46	B Bergmann	R								
+		Schmidtke	Elfriede	B	1926	Apr	Friedrich		"Rinas, Christine"	Okalew	54	Lublin 1926 urodzenia 	00049	47	B Bergmann					addendum #0050 				
+		Heck	Emilie	B	1926	Apr	Andreas		"Kassner, Lydia"	Jozefow	54	Lublin 1926 urodzenia 	00050	48	B Bergmann	R				addendum #0051 				
+		Heidak	Ewald	B	1926	Jan	Jakob		"Arndt, Natalie"	Zezulin	54	Lublin 1926 urodzenia 	00051	49	B Bergmann	R								
+		Jaeger	Sigismund  	B	1926	Apr	Alexander		"Kwirant, Justine"	Amelin	54	Lublin 1926 urodzenia 	00052	50	B Bergmann					addendum #0053 				
+		Librenz	Renate	B	1926	Apr	Alexander		"Muth, Leokadia"	Jozefow	54	Lublin 1926 urodzenia 	00053	51	B Bergmann	R				addendum #0054 				
+		Jaske	Leokadia	B	1926	May	Ernst		"Schmidt, Marta"	Wolka Mieczyslawska	54	Lublin 1926 urodzenia 	00054	52	B Bergmann	R				addendum #0055 				
+		Glinski	Richard	B	1926	May	Johann		"Rinas, Friederike Rosamunde"	Stefanow	54	Lublin 1926 urodzenia 	00055	53	B Bergmann	R				addendum #0056 				
+		Nerling	Ewald	B	1926	Apr	Ferdinand		"Kaus, Julianna"	Wola Lisowska	54	Lublin 1926 urodzenia 	00056	54	B Bergmann	R				addendum #0057 				
+		Krueger	Anna	B	1926	May	Edmund		"Schmidtke, Adele"	Lublin	54	Lublin 1926 urodzenia 	00057	55	B Bergmann									
+		Keilbart	Ewald	B	1926	May	Christian		"Becker, Barbara"	Borkowizna	54	Lublin 1926 urodzenia 	00058	56	B Bergmann	R				addendum #0059 				
+		Schulz	Alexander	B	1926	May	Adolf		"Strauch, Lydia"	Jozefow	54	Lublin 1926 urodzenia 	00059	57	B Bergmann	R				addendum #0060 				
+		Reschke	Margarete	B	1926	May	August		"Guenther, Julianna"	Jozefow	54	Lublin 1926 urodzenia 	00060	58	B Bergmann	R				addendum #0061 				
+		Scholl	Kasimir Wilhelm	B	1909	Apr	Ludwig		"Lougich?, Maria"	"Wonsamski?, Grodzisk"	54	Lublin 1926 urodzenia 	00062	59	B Bergmann									
+		Paucha	Eugenius Edmund	B	1925	Nov	Wilhelm		"Konecki, Julia Sigmunda"	Lublin	54	Lublin 1926 urodzenia 	00063	60	B Bergmann	R								
+		Markwart	Emma	B	1926	May	Eduard		"Rinas, Emma"	Okalew	54	Lublin 1926 urodzenia 	00064	61	B Bergmann	R				addendum #0065 				
+		Schmidt 	Ottilie	B	1926	May	Johann		"Berlin, Amalie"	Piastow	54	Lublin 1926 urodzenia 	00065	62	B Bergmann					addendum #0066 				
+		Becker	Emund Otto	B	1926	May	Alfred		"Appel, Rosalie"	Piastow	54	Lublin 1926 urodzenia 	00066	63	B Bergmann	R				addendum #0067 				
+		Tews	Wanda	B	1926	Apr	Andreas		"Luedke, Natalie"	Sobolew	54	Lublin 1926 urodzenia 	00067	64	B Bergmann	R				addendum #0068 				
+		Kiri	Elsa	B	1918	Feb	Gabriel		"Wagner, Christine"	Russland?	54	Lublin 1926 urodzenia 	00068	65	B Bergmann									
+		Luedke	Anastasia	B	1926	Apr	Karl		"Guse, Helene"	Zurawiniec	54	Lublin 1926 urodzenia 	00069	66	B Bergmann	R								
+		Duelge	Johanna	B	1926	Jun	Adolf		"Noerenberg, Emilie"	Juliopol	54	Lublin 1926 urodzenia 	00070	67	B Bergmann	R				addendum #0071 				
+		Arndt	Andreas	B	1926	May	Christoph		"Beier, Helene"	Baran	54	Lublin 1926 urodzenia 	00071	68	B Bergmann	R				addendum #0072 				
+		Ekert	Ernst	B	1926	May	Ludwig		"Labrenz, Ottilie"	Zawada	54	Lublin 1926 urodzenia 	00072	69	B Bergmann					addendum #0073 				
+		Mittelstaedt	Lydia	B	1926	May	Adolf		"Wirfel, Margarete"	Juliopol	54	Lublin 1926 urodzenia 	00073	70	B Bergmann	R				addendum #0074 				
+		Radke	Waldemar	B	1926	May	Gustav		"Kropp, Olga"	Wolka Mieczyslawska	54	Lublin 1926 urodzenia 	00074	71	B Bergmann	R				addendum #0075 				
+		Pudwel	Erna	B	1926	Jun	Julius		"Neumann, Natalie"	Antoniowka	54	Lublin 1926 urodzenia 	00075	72	B Bergmann	R				addendum #0076 				
+		Kropp	Julius	B	1926	Jul	Gustav		"Jobs, Emilie"	Zawada	54	Lublin 1926 urodzenia 	00076	73	B Bergmann	R				addendum #0077 				
+		Siewert	Lydia	B	1926	Jul	Wilhelm		"Goetze, Emilie"	Okalew	54	Lublin 1926 urodzenia 	00077	74	B Bergmann	R				addendum #0078 				
+		Becker	Ernst	B	1926	Apr	Andreas		Katharina	Borkowizna	54	Lublin 1926 urodzenia 	00078	75	B Bergmann	R								
+		Berger	Elisabeth	B	1926	Jul	Artur		Irene Marta	Lublin	54	Lublin 1926 urodzenia 	00079	76	B Bergmann	R								
+		Firus	Adolf	B	1926	Jul	Ferdinand		"Mantik, Julianna"	Okalew	54	Lublin 1926 urodzenia 	00080	77	B Bergmann	R				addendum #0081 				
+		Lueck	Josef	B	1926	May	unknown/unbekannt		"Lueck [or Radke], Rosalie"	Lublin	54	Lublin 1926 urodzenia 	00081	78	B Bergmann									
+		Kurtz	Andreas Siegfried	B	1926	Jul	Eduard		"Kuehn, Sophie"	Antoniowka	54	Lublin 1926 urodzenia 	00082	79	B Bergmann	R				addendum #0083 				
+		Dreger	Artur	B	1926	Aug	Rudolf		"Reschke, Berta"	Jozefow	54	Lublin 1926 urodzenia 	00083	80	B Bergmann					addendum #0084 				
+		Szczytowski	Halina Maria	B	1926	Jul	Alfred		"Frenkler, Wanda"	Lublin	54	Lublin 1926 urodzenia 	00084	81	B Bergmann	R								
+		Kitzmann	Artur	B	1926	Jul	Michael		"Machel, Emilie"	Zurawiniec	54	Lublin 1926 urodzenia 	00085	82	B Bergmann	R								
+		Kuffert	Martha	B	1926	Jul	Karl		"Krueger, Emma"	Sewerynowka	54	Lublin 1926 urodzenia 	00086	83	B Bergmann	R				addendum #0087 				
+		Kitzmann	Ottilie	B	1926	Aug	Ludwig		"Sokolowski, Pauline"	Juliopol	54	Lublin 1926 urodzenia 	00087	84	B Bergmann	R				addendum #0088 				
+		Romand	Marta	B	1926	Aug	Adolf		"Klingbeil, Mathilde"	Sewerynowka	54	Lublin 1926 urodzenia 	00088	85	B Bergmann	R				addendum #0089 				
+		Krueger	Emilie	B	1926	Aug	Adam		"Heinrich, Marie"	Okalew	54	Lublin 1926 urodzenia 	00089	86	B Bergmann					"twin, addendum #0090"				
+		Krueger	Olga	B	1926	Aug	Adam		"Heinrich, Marie"	Okalew	54	Lublin 1926 urodzenia 	00090	87	B Bergmann	R				"twin, addendum #0091"				
+		Streich	Linda	B	1926	Aug	Friedrich		"Russ, Natalie"	Antonin	54	Lublin 1926 urodzenia 	00091	88	B Bergmann	R				addendum #0092 				
+		Wermann	Alwine	B	1926	Sep	Adolf		"Dikow, Alwine"	Cichostow	54	Lublin 1926 urodzenia 	00092	89	B Bergmann	R				addendum #0093 				
+		Kriegel	Konstantin	B	1926	Sep	Michael		"Glinski, Karoline"	Sobolew	54	Lublin 1926 urodzenia 	00093	90	B Bergmann	R				addendum #0094 				
+		Heimann	Emilie	B	1926	Sep	Heinrich		"Jekel, Natalie"	Sewerynowka	54	Lublin 1926 urodzenia 	00103	98	B Bergmann	R				addendum #0104 				
+		Orlowski	Linda	B	1926	Sep	August		"Nerling, Emilie"	Okalew	54	Lublin 1926 urodzenia 	00104	99	B Bergmann					addendum #0105 				
+		Rotschun	Helene	B	1926	Aug	Adolf		"Friedrich, Marta"	Zamosc	54	Lublin 1926 urodzenia 	00105	100	B Bergmann	R								
+		Hefner	Elsa	B	1920	Aug	Friedrich		"Siewert, Helene"	Antonin	54	Lublin 1926 urodzenia 	00106	101	B Bergmann	R				addendum #0107 				
+		Hefner	Berta	B	1924	May	Friedrich		"Siewert, Helene"	Antonin	54	Lublin 1926 urodzenia 	00107	102	B Bergmann	R				addendum #0108 				
+		Lau	Ella	B	1926	Oct	Eduard		"Frank, Natalie"	Zawada	54	Lublin 1926 urodzenia 	00108	103	B Bergmann	R				addendum #0109 				
+		Becker	Lydia	B	1915	Apr	Benjamin		"Bansemeier, Emilie"	Malinowka	54	Lublin 1926 urodzenia 	00109	104	B Bergmann									
+		Schule	Eugenie	B	1926	Oct	Hermann Gustav		"Rimland, Helene"	Piastow	54	Lublin 1926 urodzenia 	00110	105	B Bergmann	R				addendum #0111 				
+		Klingbeil	Julius	B	1926	Aug	Emil		"Hintz, Christine"	Antonin	54	Lublin 1926 urodzenia 	00111	106	B Bergmann	R				addendum #0112 				
+		Markwart	Herbert	B	1926	Aug	Gustav		"Patzer, Auguste"	Zurawiniec	54	Lublin 1926 urodzenia 	00112	107	B Bergmann	R								
+		Marks	stillborn female	D	1926	Oct	Eduard		"Kropp, Wanda"	Brzeziny	54	Lublin 1926 urodzenia 	00113	108	B Bergmann					"birth record, addendum #0114"				
+		Siering	Otto	B	1917	Feb	Ludwig		"Siering, Maria Elisabeth"	"Charkow, Russland"	54	Lublin 1926 urodzenia 	00114	109	B Bergmann									
+		Husalut	Wanda Nelli	B	1926	Aug	Nikolaus		"Schwanke, Natalie"	Zezulin	54	Lublin 1926 urodzenia 	00115	110	B Bergmann	R								
+		Petrich	Erna	B	1926	Sep	Eduard		"Patzer, Olga Maria"	Okalew	54	Lublin 1926 urodzenia 	00116	111	B Bergmann	R				addendum #0117 				
+		Markwart	Ewald	B	1926	Oct	Emil		"Kitzmann, Julianna"	Okalew	54	Lublin 1926 urodzenia 	00117	112	B Bergmann	R				addendum #0118 				
+		Noerenberg	Adolf	B	1926	Oct	Friedrich		"Lokstaedt, Mathilde"	Wolka Siemienska	54	Lublin 1926 urodzenia 	00118	113	B Bergmann	R				addendum #0119 				
+		Grawon	Ludwig	B	1926	Nov	Gottlieb		"Pepke, Emma"	Lublin	54	Lublin 1926 urodzenia 	00119	114	B Bergmann									
+		Machel	Walter	B	1926	Aug	Eduard		"Klatt, Helene"	Juliopol	54	Lublin 1926 urodzenia 	00120	115	B Bergmann	R				addendum #0121 				
+		Kitzmann	Martha	B	1926	Nov	Eduard		"Netzel, Ottilie"	Juliopol	54	Lublin 1926 urodzenia 	00121	116	B Bergmann					addendum #0122 				
+		Radke	Waldemar	B	1926	Sep	Christoph		"Schmidt, Mathilde"	Wolka Mieczyslawska	54	Lublin 1926 urodzenia 	00122	117	B Bergmann	R				addendum #0123 				
+		Luedke	Artur	B	1926	Nov	Gottlieb		"Romund, Lydia"	Sewerynowka	54	Lublin 1926 urodzenia 	00123	118	B Bergmann	R				addendum #0124 				
+		Duesterhoeft	Hermann	B	1926	Nov	Hermann   		"Wermann, Anna"	Plouszowice	54	Lublin 1926 urodzenia 	00124	119	B Bergmann	R								
+		Nickel	Natalie	B	1926	Oct	August		"Lehmann, Emilie"	Juliopol	54	Lublin 1926 urodzenia 	00125	121	B Bergmann	R				addendum #0126 				
+		Taron	Blandine	B	1926	Nov	Gustav		"Wedemann, Julianna"	Zezulin	54	Lublin 1926 urodzenia 	00126	122	B Bergmann									
+		Orlowski	Waldina	B	1926	Nov	Rudolf		"Markwart, Julianna"	Okalew	54	Lublin 1926 urodzenia 	00127	123	B Bergmann	R				addendum #0128 				
+		Rinas	Emilie	B	1926	Dec	Daniel		"Brandenburg, Augustine"	Okalew	54	Lublin 1926 urodzenia 	00128	124	B Bergmann	R				addendum #0129 				
+		Wutzke	Helene Julianna	B	1926	Nov	Wilhelm		"Orlowski, Justine"	Siemien	54	Lublin 1926 urodzenia 	00129	125	B Bergmann	R								
+		Librentz	Philipp	B	1926	Nov	Rudolf		"Vogt, Wilhelmine"	Cichostow	54	Lublin 1926 urodzenia 	00130	126	B Bergmann	R				addendum #0131 				
+		Kassner	Irene	B	1926	Dec	Gustav		"Schendel, Emilie"	Baran	54	Lublin 1926 urodzenia 	00131	127	B Bergmann					addendum #0132 				
+		Martin	Konstantin	B	1926	Dec	Gustav		"Mueller, Karoline"	Sewerynowka	54	Lublin 1926 urodzenia 	00132	128	B Bergmann	R				addendum #0133 				
+		Jekel	Alfreda	B	1926	Dec	Karl		"Schlak, Rosalie"	Okalew	54	Lublin 1926 urodzenia 	00133	129	B Bergmann	R				addendum #0134 				
+		Tews	Renate	B	1926	Sep	Reinhold		"Labrenz, Rosalie"	Jozefow	54	Lublin 1926 urodzenia 	00135	130	B Bergmann	R								
+		Schulz	Olga	B	1926	Sep	Emil		"Reschke, Wanda"	Jozefow	54	Lublin 1926 urodzenia 	00136	131	B Bergmann	R								
+		Dalke	Erich	B	1926	Dec	Julius		"Preiss, Julianna"	Okalew	54	Lublin 1926 urodzenia 	00137	132	B Bergmann	R				addendum #0138 				
+		Orlowski	Edmund Erwin	B	1926	Dec	Rudolf Wilhelm		"Duelge, Sophie Helene"	Juliopol	54	Lublin 1926 urodzenia 	00138	133	B Bergmann	R				addendum #0139 				
+		Mass	Ewald	B	1926	Nov	Rudolf		"Mantik, Emilie"	Cichostow	54	Lublin 1926 urodzenia 	00139	134	B Bergmann					addendum #0140 				
+		Noerenberg	Erich	B	1926	Nov	Adolf		"Noerenberg, Luise"	Sewerynowka	54	Lublin 1926 urodzenia 	00140	135	B Bergmann					addendum #0141 				
+		Becker	Ottilie	B	1926	Nov	Johann		"Wagner, Emilie"	Borkowizna	54	Lublin 1926 urodzenia 	00141	136	B Bergmann	R				addendum #0142 				
+		Reinik	Otto	B	1926	Nov	Albert		"Marks, Leokadia"	Okalew	54	Lublin 1926 urodzenia 	00142	137	B Bergmann	R				addendum #0143 				
+		Pudwel	Alma	B	1926	Dec	Wilhelm		"Kassner, Wanda"	Sewerynowka	54	Lublin 1926 urodzenia 	00143	138	B Bergmann					addendum #0144 				
+		Braun	Adelgunde	B	1926	Sep	Eduard		"Arndt, Friederike"	Wolka Mieczyslawska	54	Lublin 1926 urodzenia 	00144	139	B Bergmann					addendum #0145 				
+		Weiss	Therese	B	1926	Dec	August		"Tiede, Theophile"	Okalew	54	Lublin 1926 urodzenia 	00145	140	B Bergmann					addendum #0146 				
+		Labrenz	Justine	D	1926	Jan	Michael		Rosalie	Antonin	54	Lublin 1926 zgonow	00002	1	B Bergmann				Kufeld	82j				
+		Noerenberg	Olga	D	1926	Jan	Adolf		"Noerenberg, Luise"	Sewerynowka	54	Lublin 1926 zgonow	00003	2	B Bergmann					"14t, addendum # 0004"				
+		Kuehn	Ewald	D	1926	Jan	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1926 zgonow	00004	3	B Bergmann					"2j,2m"				
+		Nabel	Karoline	D	1926	Jan				Okalew	54	Lublin 1926 zgonow	00005	4	B Bergmann				Wedel	"98j, addendum # 0006"				
+		Kopp	Sebastian	D	1926	Jan	Philipp		Barbara	Wolka Mieczyslawska	54	Lublin 1926 zgonow	00006	5	B Bergmann				"Rothaug, Katharina"	69j				
+		Bulz	Maria         	D	1926	Feb	unknown/unbekannt		"Bulz, Alexandra"	Cichostow	54	Lublin 1926 zgonow	00007	6	B Bergmann					"1m, addendum #0008"				
+		Krueger	Johann 	D	1926	Feb	Edmund		"Schmidtke, Adele"	Lublin	54	Lublin 1926 zgonow	00009	7	B Bergmann					"1j,10m"				
+		Jekel	Lydia	D	1926	Feb	Karl		"Schlak?, Rosalie"	Okalew	54	Lublin 1926 zgonow	00010	8	B Bergmann					"11m,13t"				
+		Krius	Justine	D	1926	Feb	Peter		Karolina	Zurawiniec	54	Lublin 1926 zgonow	00011	9	B Bergmann				Kitzmann	"55j, addendum #00012"				
+		Schultz	Marianna	D	1926	Feb	Michael		"Engel, Ernestine"	Sewerynowka	54	Lublin 1926 zgonow	00013	10	B Bergmann				"Orlowski, August"	"70j, addendum #00014"				
+		Popp	Anna	D	1926	Feb	Friedrich			Lublin	54	Lublin 1926 zgonow	00014	11	B Bergmann				Kakrewski?					
+		Paschke	Eduard	D	1926	Feb				Cichostow	54	Lublin 1926 zgonow	00015	12	B Bergmann				"Klukas, Christine"	"52j,3m,  addendum #00016"				
+		Mass	Wanda         	D	1926	Mar	Jakob		"Braun, Pauline"	Cichostow	54	Lublin 1926 zgonow	00016	13	B Bergmann				"Zupp, Gottlieb"	"28j,5m  addendum #00017"				
+		Erdmann	Josefa	D	1926	Mar	Christian		"Grams, Rosalie"	Lublin	54	Lublin 1926 zgonow	00017	14	B Bergmann				Zener	72j				
+		Mueller	Emilie	D	1926	Mar	Eduard		"Gruening, Julianna"	Zawada	54	Lublin 1926 zgonow	00018	15	B Bergmann					3j				
+		Orlowski	Auguste	D	1926	Mar	unknown/unbekannt		"Orlowski, Justine"	Siemien	54	Lublin 1926 zgonow	00019	16	B Bergmann					"3j, addendum #00020"				
+		Martin	Reinhold	D	1926	Mar	Eduard		"Betin, Julianna"	Dzialyn	54	Lublin 1926 zgonow	00020	17	B Bergmann					"2m,2t"				
+		Fangrad	Leokadia	D	1926	Mar	Samuel		"Schinkel, Marta"	Marynin	54	Lublin 1926 zgonow	00021	18	B Bergmann						1			
+		Kropp	Eduard	D	1926	Mar	Gottlieb		"Schubert, Emilie"	Lipniak	54	Lublin 1926 zgonow	00022	19	B Bergmann					3m				
+		Radke	Florentine	D	1926	Mar	Gottlieb		"Koschade, Johanna"	Kocia Gora	54	Lublin 1926 zgonow	00023	20	B Bergmann				Pohl	65j   addendum #00024 & #00025				
+		Braun	Lucia	D	1926	Apr	Josef		"Berlin, Sophie"	Huta Dabrowa	54	Lublin 1926 zgonow	00024	21	B Bergmann									
+		Hiller	Sigismund Artur	D	1926	Apr	Adolf		"Hiller, Julianna Ottilie"	Antoniowka	54	Lublin 1926 zgonow	00026	22	B Bergmann					"4m,6t"				
+		Weiss	Erna	D	1926	Apr	Daniel		"Jobs, Pauline"	Zawada	54	Lublin 1926 zgonow	00027	23	B Bergmann					"4j,1m"				
+		Neumann	Olga	D	1926	Apr	Emil		"Luedke, Amanda"	Wola Lisowska	54	Lublin 1926 zgonow	00028	24	B Bergmann					"2m,5t , addendum #00029"				
+		Kopp	Helene	D	1926	Apr				Bielany	54	Lublin 1926 zgonow	00029	25	B Bergmann				"Betin, Emil"	"31j, "				
+		Orlowski	August	D	1926	May	Lorenz			Siemien	54	Lublin 1926 zgonow	00030	26	B Bergmann					"84j, addendum #00031"				
+		Orlowski	Ewald	D	1926	May	Gustav 		"Wiese, Emilie"	Okalew	54	Lublin 1926 zgonow	00031	27	B Bergmann					1m 				
+		Zufke?	Friedrich	D	1926	May	Friedrich		"Wensel, Karoline"	Wolka Mieczyslawska	54	Lublin 1926 zgonow	00032	28	B Bergmann				"Schroffrin?, Luise"	"65j, "				
+		Schulz	Wanda           	D	1926	May	Gustav  		"Mantik, Albertine"	Cichostow	54	Lublin 1926 zgonow	00033	29	B Bergmann					"9j, addendum #00034 "				
+		Bansemeier	Emilie	D	1926	May				Lublin	54	Lublin 1926 zgonow	00034	30	B Bergmann				Mueller	"65j, addendum #00035"				
+		Jaeger	Sigismund    	D	1926	May	Alexander		"Kwirant, Justine"	Amelin	54	Lublin 1926 zgonow	00035	31	B Bergmann					"1m, addendum #00036"				
+		Polanowski	Mathilde	D	1926	Jun	Jakob		"Rossol, Anna"	Lublin	54	Lublin 1926 zgonow	00036	32	B Bergmann				"Schletz, Gottfried"	66j				
+		Lau	Arnold	D	1926	Jun	Eduard		"Frank, Natalie"	Zawada	54	Lublin 1926 zgonow	00037	33	B Bergmann					"1j, "				
+		Schinkel	Ernst	D	1926	Jul	Samuel		"Pide, Anna"	Okalew	54	Lublin 1926 zgonow	00038	34	B Bergmann					26j				
+		Luedke	Karl	D	1926	Jul	Karl		"Fitzner, Justine"	Sewerynowka	54	Lublin 1926 zgonow	00039	35	B Bergmann				"Hibke, Luise"	"59j, addendum #00040"				
+		Lokstaedt	August	D	1926	Jun	August		"Kerlin, Justine"	Wolka Zablocka	54	Lublin 1926 zgonow	00040	36	B Bergmann					"33j, addendum #00041"				
+		Mueller	Ewald	D	1926	Jul	Eduard		"Gruening, Julianna"	Zawada	54	Lublin 1926 zgonow	00041	37	B Bergmann					"1j,6m"				
+		Kuehn	Mathilde	D	1926	Jul	Eduard		"Ziegelmann, Ernestine"	Antonin	54	Lublin 1926 zgonow	00042	38	B Bergmann					"1j,6m"				
+		Landmann	Friedrich Magnus	D	1926	Jul	Karl		"Woch, Anna"	Lublin	54	Lublin 1926 zgonow	00043	39	B Bergmann				"Metzger, Maria"	75j				
+		Gudrian	August   	D	1926	Jul	Christoph		"Betker, Christine"	Juliopol	54	Lublin 1926 zgonow	00044	40	B Bergmann				"Pudwel, Wanda"	35j				
+		Teske	Margarete	D	1926	Jul	Karl		"Reichert, Eva"	Antonin	54	Lublin 1926 zgonow	00045	41	B Bergmann					"2j,9m"				
+		Mueller	Alexander	D	1926	Jul	Ludwig		"Mittelstaedt, Henriette"	Juliopol	54	Lublin 1926 zgonow	00046	42	B Bergmann					"14j,4m"				
+		Guenther	Rudolf	D	1926	Aug	Johann		"Pinkowski, Christine"	Lublin	54	Lublin 1926 zgonow	00047	43	B Bergmann					15j				
+		Rehm	Friederike	D	1918	Mar	Jakob		"Schuhmacher, Christine"	Radzic	54	Lublin 1926 zgonow	00048	44	B Bergmann				"Mueller, Gustav"	54j				
+		Nerlich	Gottfried	D	1926	Aug	Karl		"Netzel, Emilie"	Zurawiniec	54	Lublin 1926 zgonow	00049	45	B Bergmann					"19j,9m,10t"				
+		Lueck	Josef   	D	1926	Aug	unknown/unbekannt		"Radke, Rosalie"	Lublin	54	Lublin 1926 zgonow	00050	46	B Bergmann					3m				
+		Hintz	Eduard	D	1926	Aug	Julius		"Streich, Wanda"	Antonin	54	Lublin 1926 zgonow	00051	47	B Bergmann					"1j,4m"				
+		Schmidt   	Ottilie	D	1926	Aug	Johann		"Berlin, Amalie"	Piastow	54	Lublin 1926 zgonow	00052	48	B Bergmann					3m				
+		Hiller	Eduard Heinrich	D	1926	Aug	unknown/unbekannt		"Luedke, Emilie"	Antoniowka	54	Lublin 1926 zgonow	00053	49	B Bergmann					"1j,3m; born out of wedlock"				
+		Ekert	Ernst	D	1926	Sep	Ludwig		"Labrenz, Ottilie"	Zawada	54	Lublin 1926 zgonow	00054	50	B Bergmann					3m				
+		Welz	Gustav	D	1926	Sep	Daniel		"Jeske, Karoline"	Borkowizna	54	Lublin 1926 zgonow	00055	51	B Bergmann				"Tiede, Luise"	64j				
+		Stadniczuk	Charlotte Karoline	D	1926	Sep	Hermann            		Friederike	Lublin	54	Lublin 1926 zgonow	00056	52	B Bergmann					"74j, Witwe"				
+		Machel	Julianna	D	1926	Oct	Johann		"Mueller, Auguste"	Juliopol	54	Lublin 1926 zgonow	00057	53	B Bergmann				"Klan, Rudolf"	"41j,10m,2w"				
+		Hessen	Julian  	D	1926	Nov	Gottlieb		Christine	Lublin	54	Lublin 1926 zgonow	00058	54	B Bergmann				"Wosnikowski?, Maria"	"68j,"				
+		Wagner	Lydia	D	1926	Oct	unknown/unbekannt		"Wagner, Emilie"	Borkowizna	54	Lublin 1926 zgonow	00059	55	B Bergmann									
+		Gont	Maria               	D	1926	Oct				Lublin	54	Lublin 1926 zgonow	00060	56	B Bergmann									
+		Nitsch	Julianna	D	1926	Oct	Friedrich		Christine		54	Lublin 1926 zgonow	00061	57	B Bergmann				Krygiel	89j				
+		Marks	stillborn female	D	1926	Oct	Eduard		"Kropp, Wanda"	Brzeziny	54	Lublin 1926 zgonow	00062	58	B Bergmann					18t				
+		Labrenz	Wilhelmine	D	1915	Jun	Johann		"Schmidtke, Euphrosine"	"Mostwejewska?, Russland"	54	Lublin 1926 zgonow	00063	59	B Bergmann				"Strauch, Julius"	50j				
+		Krause	Peter Theodor	D	1926	Nov	Adolf Michael		"Spaet, Julianna"	Lublin	54	Lublin 1926 zgonow	00064	60	B Bergmann					44j				
+		Dill	Sophie	D	1926	Sep	Ludwig		Julianna	Jozefow	54	Lublin 1926 zgonow	00065	61	B Bergmann				"Przygoda, Christian"	"55j , addendum #00066"				
+		Szczepanski	Gottlieb	D	1926	Nov	Gottlieb		Anna	Cichostow	54	Lublin 1926 zgonow	00066	62	B Bergmann				"Sokolowski, Anna"	54j				
+		Kitzmann	Martha	D	1926	Nov	Eduard		"Netzel, Ottilie"	Juliopol	54	Lublin 1926 zgonow	00067	63	B Bergmann					1t				
+		Klan	Emilie	D	1926	Nov	Jakob		"Krueger, Wilhelmine"	Sewerynowka	54	Lublin 1926 zgonow	00068	64	B Bergmann				"Hiller, Hermann"	49j				
+		Pinkowski	Henriette	D	1926	Nov	Gottlieb		"Abel, Luise"	Antonin	54	Lublin 1926 zgonow	00070	65	B Bergmann				"Egert, Gottfried"	48j				
+		Kassner	Irene	D	1926	Dec	Gustav		"Schendel, Emilie"	Baran	54	Lublin 1926 zgonow	00071	66	B Bergmann									
+		Froehlich	Anna	D	1926	Dec	Ferdinand		"Grolmisch, Emilie"	Zawada	54	Lublin 1926 zgonow	00072	67	B Bergmann					1m 				
+		Schmidt      	Wilhelmine	D	1926	Dec	Ludwig				54	Lublin 1926 zgonow	00073	68	B Bergmann				Dreger	81j				
+		Krueger	Emilie	D	1926	Dec	Adam		"[Heinrich], Marie"	Okalew	54	Lublin 1926 zgonow	00074	69	B Bergmann					"4m,7t"				
+		Filipp	Karoline	D	1926	Dec				Zawada	54	Lublin 1926 zgonow	00075	70	B Bergmann				Ikert	"68j,"				
+		Dreger	Artur	D	1927	Jan	Rudolf		"Reschke, Berta"	Jozefow	54	Lublin 1927 zgonow	00002	1	B Bergmann					5m				
+		Weiss	Therese	D	1927	Jan	August		"Tiede, Theophile"	Okalew	54	Lublin 1927 zgonow	00003	2	B Bergmann					2w				
+		Noerenberg	Erich	D	1927	Jan	Adolf		"Noerenberg, Luise"	Sewerynowka	54	Lublin 1927 zgonow	00004	3	B Bergmann					7w				
+		Grawon	Ludwig	D	1927	Jan	Gottlieb		"Pepke, Emma"	Lublin	54	Lublin 1927 zgonow	00005	4	B Bergmann									
+		Hein	Otto	D	1927	Jan	Johann		"Kellert, Emilie"	Okalew	54	Lublin 1927 zgonow	00006	5	B Bergmann					7w				
+		Tiede	Helene	D	1927	Jan	Johann		"Tiede, Justine"	Wola Lisowska	54	Lublin 1927 zgonow	00007	6	B Bergmann				"Noerenberg, Johann"	"49j,2m,16t, addendum #00008"				
+		Suckert	Stanislaus Alfred	D	1927	Feb	Heinrich		"Strobl, Maria"	Naleczow?	54	Lublin 1927 zgonow	00008	7	B Bergmann				Emilie					
+		Nerlich	Gustav	D	1915	Oct	Johann		"Patzer, Emilie"	"Romanowka, Russland"	54	Lublin 1927 zgonow	00009	8	B Bergmann				"Noetzel, Rosine"					
+		Braun	Adelgunde	D	1927	Feb	Eduard		"Arndt, Friederike"	Wolka Mieczyslawska	54	Lublin 1927 zgonow	00010	9	B Bergmann					2m				
+		Karoff	Eduard	D	1927	Feb	Julius		"Luedke, Berta"	Sewerynowka	54	Lublin 1927 zgonow	00011	10	B Bergmann					11m				
+		Handwerker	Stanislaus	D	1927	Feb	Josef		"Zener, Antonia"	Lublin	54	Lublin 1927 zgonow	00012	11	B Bergmann									
+		Krueger	Anna	D	1927	Feb	Edmund		"Schmidtke, Adele"	Lublin	54	Lublin 1927 zgonow	00013	12	B Bergmann									
+		Pudwel	Alma	D	1927	Feb	Wilhelm		"Kassner, Wanda"	Sewerynowka	54	Lublin 1927 zgonow	00014	13	B Bergmann					2m				
+		Krueger	Pauline	D	1927	Feb	Wilhelm			Sewerynowka	54	Lublin 1927 zgonow	00015	14	B Bergmann				"Zielke, [Michael]"	60j				
+		Schultz	Justine	D	1927	Mar	Gabriel		"Lehmann, Anna Christine"	Lublin	54	Lublin 1927 zgonow	00016	15	B Bergmann				Schulz	67j				
+		Orlowski	Karl Rudolf	D	1927	Mar	Wilhelm Friedrich		"Neuberg, Florentine"	Wolka Siemienska	54	Lublin 1927 zgonow	00017	16	B Bergmann				"Martin, Ernestine"	"54j, addendum #00018"				
+		Taron	Blandine	D	1927	Mar	Gustav		"Wedemann, Julianna"	Zezulin	54	Lublin 1927 zgonow	00018	17	B Bergmann					4m				
+		Siering	Christine	D	1918	Aug	Ludwig		"Martin, Christine"	"Charkow, Russland"	54	Lublin 1927 zgonow	00019	18	B Bergmann				"Becker, Andreas"	40j				
+		Klingbeil	Emilie	D	1919	Dec	Samuel		"Muth, Justine"	"Leuza, Russland"	54	Lublin 1927 zgonow	00020	19	B Bergmann				"Jung, Jakob"	46j				
+		Jung	Jakob	D	1921	Dec	Johann		"Weimer, Katharina"	"Kaluga, Russland"	54	Lublin 1927 zgonow	00021	20	B Bergmann				"[Klingbeil, Emilie]"	"54j , addendum #00022"				
+		Kaus	Gustav	D	1927	Mar	Andreas		"Seemann?, Emilie"	Okalew	54	Lublin 1927 zgonow	00022	21	B Bergmann					20j				
+		Zielke	Wanda	D	1927	Mar	Emil		"Mass, Olga"	Okalew	54	Lublin 1927 zgonow	00023	22	B Bergmann					7w				
+		Orlowski	Linda	D	1927	Mar	August		"Nerling, Emilie"	Okalew	54	Lublin 1927 zgonow	00024	23	B Bergmann					6m				
+		Kelm	Ludwig	D	1927	Apr	August		"Schulz, Ottilie"	Cichostow	54	Lublin 1927 zgonow	00025	24	B Bergmann					20j				
+		Wegner	Gottfried	D	1927	Apr	Gottlieb			Rudno	54	Lublin 1927 zgonow	00026	25	B Bergmann					"83j, addendum #00027"				
+		Drews	Erich	D	1927	Apr	Gottlieb		"Lemke, Emilie"	Antonin	54	Lublin 1927 zgonow	00027	26	B Bergmann					6w				
+		Appel	Nikolaus	D	1927	May	Josef		"Petrich, Emilie Emma"	Piastow	54	Lublin 1927 zgonow	00028	27	B Bergmann					19j				
+		Hepner	Anna	D	1927	May	Ferdinand		"Holland, Justine"	Lublin	54	Lublin 1927 zgonow	00029	28	B Bergmann					2j				
+		Bluege	Otto	D	1927	Apr	Adam		"Kriese, Emilie"	Lublin	54	Lublin 1927 zgonow	00030	29	B Bergmann					25j				
+		Golz	Ludwig	D	1927	May	Wilhelm		"Mittelstaedt, Auguste"	Cichostow	54	Lublin 1927 zgonow	00031	30	B Bergmann					3j				
+		Gudrian	Johann	D	1927	May	Martin		"Ludwig, Justine"	Grabow	54	Lublin 1927 zgonow	00032	31	B Bergmann				"Federke, Julianna"	63j				
+		Fangrad	Eduard	D	1927	Jun	Samuel		"Schinkel, Martha"	Marynin	54	Lublin 1927 zgonow	00033	32	B Bergmann									
+		Fischer	Wanda	D	1927	Jun	Emil		"Orlowski, Emilie"	Wolka Siemienska	54	Lublin 1927 zgonow	00034	33	B Bergmann				"Markwart, Gustav"	25j				
+		Dreger	Sigismund	D	1927	Jun	Ludwig		"Jesse, Julianna"	Wola Lisowska	54	Lublin 1927 zgonow	00035	34	B Bergmann					"18j,8m , addendum #00036-37"				
+		Hepner	Adam	D	1927	Jul	Ferdinand		"Holland, Justine"	Lublin	54	Lublin 1927 zgonow	00038	35	B Bergmann									
+		Teichgraeber	Anna Emma	D	1927	Jul	August		"Dewand?, Adelgunde"	Lublin	54	Lublin 1927 zgonow	00039	36	B Bergmann				Dikow	66j				
+		Tews	Gottlieb	D	1927	Jul	August		Anna	Jozefow	54	Lublin 1927 zgonow	00040	37	B Bergmann					19t				
+		Tews	Sigismund	D	1927	Jul	August		Anna	Jozefow	54	Lublin 1927 zgonow	00041	38	B Bergmann					"5j,3t"				
+		Jahn	Wilhelm	D	1927	Jul	Karl		"Bauer, Berta"	Piastow	54	Lublin 1927 zgonow	00042	39	B Bergmann				"Appel, Karoline"	53j				
+		Berger	Richard	D	1927	Aug	Oswald		"Stahl?, Anna"	Lublin	54	Lublin 1927 zgonow	00043	40	B Bergmann									
+		Orlowski	Justine	D	1927	Aug	Friedrich		"Kreutz, Amalie"	Siemien	54	Lublin 1927 zgonow	00044	41	B Bergmann				"Wutzke, Wilhelm"	23j				
+		Zuck	Otto	D	1927	Aug	Gottlieb		"Noerenberg, Lydia"	Sewerynowka	54	Lublin 1927 zgonow	00045	42	B Bergmann									
+		Boenzli	Luise Madeleine	D	1927	Aug	Jakob		"Meiner, Madeleine"	Lublin	54	Lublin 1927 zgonow	00046	43	B Bergmann					86j				
+		Frank	Karl   	D	1927	Aug	August		"Ulmer, Helene"	Zawada	54	Lublin 1927 zgonow	00047	44	B Bergmann				"Schulz, Julianna"	"29j,7m"				
+		Fengler	Wilhelm	D	1927	Sep	Gustav		"Ruchocki, Lydia"	Zezulin	54	Lublin 1927 zgonow	00048	45	B Bergmann					8m				
+		Frank	Ludwig	D	1927	Sep	August		"Ulmer, Helene"	Cichostow	54	Lublin 1927 zgonow	00049	46	B Bergmann				"Hartwick?, Wilhelmine"	36j				
+		Frank	Erich	D	1927	Sep	Karl		"Schulz, Julianna"	Zawada	54	Lublin 1927 zgonow	00050	47	B Bergmann					"2j,5m"				
+		Kriegel	Johann	D	1927	Sep	Vincent		"Nitsche, Julianna"		54	Lublin 1927 zgonow	00051	48	B Bergmann					64j				
+		Pide	Ludwig	D	1927	Sep	Samuel		"Krampitz, Ottilie"	Juliopol	54	Lublin 1927 zgonow	00052	49	B Bergmann					2m				
+		Koenig	Sophie	D	1927	Sep	Karl		Justine	Lublin	54	Lublin 1927 zgonow	00053	50	B Bergmann				Wiernicki	83j 				
+		Wedemann	Julianna	D	1927	Sep	August		"Bogantz, Lydia"	Lublin	54	Lublin 1927 zgonow	00054	51	B Bergmann				"Taron, Gustav"	22j				
+		Schiewe	Pauline	D	1927	Sep	Michael		"Lange, Karoline"	Kock	54	Lublin 1927 zgonow	00055	52	B Bergmann					65j				
+		Frank	Emilie	D	1927	Sep	August		"Ulmer, Helene"	Zawada	54	Lublin 1927 zgonow	00056	53	B Bergmann					34j				
+		Schliefke	Karoline	D	1920	Oct	Daniel		"Fenske, Rosalie"	"Worodzic?, Russland"	54	Lublin 1927 zgonow	00057	54	B Bergmann					58j				
+		Mueller	Ludwig Gottlieb	D	1927	Oct	Karl			Juliopol	54	Lublin 1927 zgonow	00058	55	B Bergmann				"Mittelstaedt, Henriette"	60j				
+		Krueger	Wilhelm	D	1927	Oct	Peter		"Kuehn, Rosine"	Juliopol	54	Lublin 1927 zgonow	00059	56	B Bergmann					86j				
+		Kulm	Wilhelm	D	1927	Oct	Karl		Amelia	Lublin	54	Lublin 1927 zgonow	00060	57	B Bergmann				"Plowecki, Maria"	70j				
+		Felsch	Theodor Ferdinand	D	1927	Oct	Reinhold		"Guse, Amalie"	Antonin	54	Lublin 1927 zgonow	00061	58	B Bergmann				"Radke, Luise"	"62j, addendum #00062"				
+		Preuss	Ludwig  	D	1927	Oct	Gottlieb		"Wendland, Wilhelmine"	Wola Lisowska	54	Lublin 1927 zgonow	00062	59	B Bergmann					64j				
+		Teske	Wanda	D	1927	Nov	Karl		"Reichert, Eva"	Antonin	54	Lublin 1927 zgonow	00063	60	B Bergmann					21j				
+		Nerlich	Olga	D	1927	Nov	Karl		"Schlak, Albertine"	Zurawiniec	54	Lublin 1927 zgonow	00064	61	B Bergmann					8j				
+		Ulmer	Amalie	D	1927	Nov	Friedrich		"Lange, Eva"	Zawada	54	Lublin 1927 zgonow	00065	62	B Bergmann				"Filipp, Karl"	59j				
+		Froehlich	Johanna	D	1927	Nov	Ferdinand		"Grolmisch, Emilie"	Zawada	54	Lublin 1927 zgonow	00066	63	B Bergmann					"1j,7m"				
+		Wiese	Emilie	D	1927	Nov	August		"Rode, Wilhelmine"	Sewerynowka	54	Lublin 1927 zgonow	00067	64	B Bergmann				"Neumann, Johann"	53j				
+		Konrad	Auguste	D	1927	Nov	Gottlieb		"Dalg, Emilie"	Lublin	54	Lublin 1927 zgonow	00068	65	B Bergmann				"Brauer, Michael"	38j				
+		Schmidtke	Friedrich	D	1927	Nov	Friedrich		Julianna	Okalew	54	Lublin 1927 zgonow	00069	66	B Bergmann				"Rinas, Christine"	48j				
+		Hoffmann	Edmund Rudolf	D	1927	Dec	Josef		"Jung, Anna"	Lublin	54	Lublin 1927 zgonow	00070	67	B Bergmann					26j				
+		Orlowski	Gottlieb	D	1916	Mar	Friedrich		"Petrich, Albertine"	"Ufa, Russland"	54	Lublin 1927 zgonow	00071	68	B Bergmann					"1j,20t"				
+		Hein	Eduard	D	1918	Aug	Gottfried		"Kuehn, Wilhelmine"	Deblin	54	Lublin 1927 zgonow	00072	69	B Bergmann					8j				
+		Kitzmann	Arnold	D	1927	Dec	Eduard		"Noetzel, Ottilie"	Dzialyn	54	Lublin 1927 zgonow	00073	70	B Bergmann					15t				
+		Wedel	Euphrosine	D	1927	Dec	Heinrich		"Naber, Anna"	Okalew	54	Lublin 1927 zgonow	00074	71	B Bergmann				Reinig	67j				
+		Pepke	Emma	D	1927	Dec	Gottlieb		"Laube, Marianna"	Lublin	54	Lublin 1927 zgonow	00075	72	B Bergmann				"Grawon, Gottlieb"	39j				
+		Koehler	Anna  	D	1927	Dec	Wilhelm		Friederike	Lublin	54	Lublin 1927 zgonow	00076	73	B Bergmann					68j				
+		Berkowski	Julianna	D	1927	Dec				Lublin	54	Lublin 1927 zgonow	00077	74	B Bergmann				Handwerker 	76j				
+		Tiede	Justine	D	1927	Dec	Christian		"Reks, Marianne"	Wolka Zablocka	54	Lublin 1927 zgonow	00078	75	B Bergmann				Pudwel	82j				
+		Orlowski	Elfriede	D	1927	Dec	Eduard		"Hoffmann, Wanda"	Cichostow	54	Lublin 1927 zgonow	00079	76	B Bergmann					Addendum #00080				
+		Mittelstaedt	Eduard Erich	D	1927	Dec	Heinrich		"Mueller, Wanda"	Juliopol	54	Lublin 1927 zgonow	00081	77	B Bergmann					"3j, addendum #00082"				
+		Mittelstaedt	stillborn male	D	1927	Dec	Albert		"Neumann, Lydia"	Juliopol	54	Lublin 1927 zgonow	00083	78	B Bergmann					Addendum #00084				
+		Siebert	Anna	B	1927	Dec	Wilhelm		"Gotz, Emilie"	Okalew	54	Lublin 1928 urodzenia	00002	1	B Bergmann	R				addendum #00003 				
+		Boss	Arnold	B	1927	Dec	Friedrich		"Mass, Emilie"	Cichostow	54	Lublin 1928 urodzenia	00003	2	B Bergmann	R				addendum #00004 				
+		Zielke	stillborn female	D	1928	Jan	Emil		"Mass, Olga"	Okalew	54	Lublin 1928 urodzenia	00004	3	B Bergmann					birth record; addendum #00005 				
+		Karoff	Erna	B	1928	Jan	Julius		"Luedke, Berta"	Sewerynowka	54	Lublin 1928 urodzenia	00005	4	B Bergmann	R				addendum #00006 				
+		Betker	Eduard	B	1928	Jan	Johann		"Marks, Adelgunde"	Brzeziny	54	Lublin 1928 urodzenia	00006	5	B Bergmann	R				addendum #00007 				
+		Krueger	Richard	B	1928	Jan	Edmund		"Schmidtke, Adele"	Lublin	54	Lublin 1928 urodzenia	00007	6	B Bergmann	R								
+		Czarnecki	Alfreda	B	1928	Jan	August		"Gruening, Julianna"	Zawada	54	Lublin 1928 urodzenia	00008	7	B Bergmann	R				addendum #00009 				
+		Rutenbach	Sewerin	B	1927	Dec	Jakob		"Wagner, Karoline"	Cichostow	54	Lublin 1928 urodzenia	00009	8	B Bergmann	R				addendum #00010 				
+		Jeske	Wanda	B	1928	Jan	Gottlieb		"Sokolowski, Helene"	Klin	54	Lublin 1928 urodzenia	00010	9	B Bergmann	R				addendum #00011 				
+		Jeske	Natalie	B	1928	Jan	Ludwig		"Noerenberg, Emilie"	Klin	54	Lublin 1928 urodzenia	00011	10	B Bergmann	R				addendum #00012 				
+		Hubke	Eduard	B	1927	Dec	Sigismund		"Orlowski, Mathilde"	Siemien	54	Lublin 1928 urodzenia	00012	11	B Bergmann	R				addendum #00013 				
+		Betker	Emma	B	1928	Jan	Ludwig		"Kiri, Barbara"	Borkowizna	54	Lublin 1928 urodzenia	00013	12	B Bergmann	R				addendum #00014 				
+		Schultz	Linda	B	1928	Jan	Gottfried		"Hein, Emilie"	Cichostow	54	Lublin 1928 urodzenia	00014	13	B Bergmann	R				addendum #00015 				
+		Noerenberg	Adele	B	1928	Feb	Julius		"Luedke, Adelgunde"	Sewerynowka	54	Lublin 1928 urodzenia	00015	14	B Bergmann	R				addendum #00016 				
+		Zielke	stillborn male	D	1928	Feb	Christoph		"Kitzmann, Pauline"	Okalew	54	Lublin 1928 urodzenia	00016	15	B Bergmann					birth record; addendum #00017 				
+		Pudwel	Eduard	B	1928	Feb	Wilhelm		"Kassner, Wanda"	Sewerynowka	54	Lublin 1928 urodzenia	00017	16	B Bergmann					addendum #00018 				
+		Kin	Emanuel	B	1927	Aug	Johann		"Krampitz, Berta"	Juliopol	54	Lublin 1928 urodzenia	00018	17	B Bergmann	R				addendum #00019 				
+		Dreger	Reinhold	B	1928	Feb	Leopold		"Noerenberg, Olga"	Wola Lisowska	54	Lublin 1928 urodzenia	00019	18	B Bergmann	R				addendum #00020 				
+		Schulz	Edmund	B	1928	Jan	Michael		"Orlowski, Berta"	Amelin	54	Lublin 1928 urodzenia	00020	19	B Bergmann	R				addendum #00021 				
+		Rapinski	Martina	B	1928	Jan	unknown/unbekannt		"Rapinski, Alwine"	Lublin	54	Lublin 1928 urodzenia	00021	20	B Bergmann	R								
+		Becker	Natalie	B	1928	Mar	Christian		"Schultz, Emilie"	Lublin	54	Lublin 1928 urodzenia	00022	21	B Bergmann	R								
+		Luedke	Arnold	B	1928	Mar	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1928 urodzenia	00023	22	B Bergmann	R				addendum #00024 				
+		Wagner	Artur	B	1928	Mar	Friedrich		"Siering, Sophie"	Borkowizna	54	Lublin 1928 urodzenia	00024	23	B Bergmann	R				addendum #00025 				
+		Wegner	Edmund Richard	B	1927	Nov	Ludwig		"Schmidt, Julianna"	Piastow	54	Lublin 1928 urodzenia	00025	24	B Bergmann	R				addendum #00026 				
+		Luedke	Alicia	B	1928	Mar	Hermann		"Buse, Olga"	Zurawiniec	54	Lublin 1928 urodzenia	00026	25	B Bergmann	R								
+		Appel	Amalie	B	1928	Mar	Stefan		"Krause, Magdalene"	Piastow	54	Lublin 1928 urodzenia	00027	26	B Bergmann	R				addendum #00028 				
+		Kitzmann	Herman	B	1928	Mar	Michael		"Machel, Emilie"	Zurawiniec?	54	Lublin 1928 urodzenia	00028	27	B Bergmann	R								
+		Krueger	Elvira	B	1927	Nov	Otto		"Konrad, Natalie"	Plouszowice	54	Lublin 1928 urodzenia	00029	28	B Bergmann	R								
+		Handwerker	Heinrich Bogdan	B	1928	Mar	Josef		"Zener, Antonia"	Lublin	54	Lublin 1928 urodzenia	00030	29	B Bergmann	R								
+		Hefner	Eduard	B	1928	Feb	Friedrich		"Siewert, Helene"	Antonin	54	Lublin 1928 urodzenia	00031	30	B Bergmann	R				addendum #00032 				
+		Lange	Natalie	B	1928	Feb	Julius		"Bricks, Wanda"	Wolka Zablocka	54	Lublin 1928 urodzenia	00032	31	B Bergmann	R				addendum #00033 				
+		Jabusch	Herbert	B	1928	Apr	Adolf		"Marks, Valentine"	Antonin	54	Lublin 1928 urodzenia	00033	32	B Bergmann	R				addendum #00034 				
+		Noerenberg	Ferdinand	B	1928	Feb	Samuel		"Lokstaedt, Pauline"	Zurawiniec	54	Lublin 1928 urodzenia	00034	33	B Bergmann	R								
+		Sokolowski	Rudolf	B	1928	Apr	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1928 urodzenia	00035	34	B Bergmann									
+		Fangrad	Wanda	B	1928	Mar	Samuel		"Schinkel, Marta"	Marynin	54	Lublin 1928 urodzenia	00036	35	B Bergmann	R								
+		Dreger	Regina	B	1928	Mar	Rudolf		"Reschke, Berta"	Serokomla	54	Lublin 1928 urodzenia	00037	36	B Bergmann									
+		Kuehn	Alicia	B	1928	Mar	Gottfried		"Zupp, Ernestine"	Bronislawow	54	Lublin 1928 urodzenia	00038	37	B Bergmann	R				addendum #00039 				
+		Orlowski	Helene	B	1928	Mar	Rudolf		"Duelge, Sophie"	Juliopol	54	Lublin 1928 urodzenia	00039	38	B Bergmann	R				addendum #00040 				
+		Heidak	Maria	B	1928	Feb	Jakob		"Arndt, Natalie"	Zezulin	54	Lublin 1928 urodzenia	00040	39	B Bergmann	R				addendum #00041 				
+		Zielke	Artur	B	1928	May	Alexander		"Kelm, Emilie"	Cichostow	54	Lublin 1928 urodzenia	00041	40	B Bergmann	R				addendum #00042 				
+		Schultz	Apolonia	B	1928	Apr	Eduard		"Goltz, Augustine"	Zawada	54	Lublin 1928 urodzenia	00042	41	B Bergmann	R				addendum #00043 				
+		Kuehn	Reinhold	B	1928	May	Alexander		"Froehlich, Anna"	Zawada	54	Lublin 1928 urodzenia	00043	42	B Bergmann	R				addendum #00044 				
+		Schultz	Leokadia	B	1928	May	Michael		"Klingbeil, Pauline"	Amelin	54	Lublin 1928 urodzenia	00044	43	B Bergmann	R				addendum #00045 				
+		Tews	Daniel	B	1928	May	August		"Przygoda, Anna"	Jozefin	54	Lublin 1928 urodzenia	00045	44	B Bergmann	R				addendum #00046 				
+		Siering	Erna	B	1928	May	Heinrich		"Deutschlaender, Emilie"	Borkowizna	54	Lublin 1928 urodzenia	00046	45	B Bergmann	R				addendum #00047 				
+		Becker	Martha	B	1928	Jun	Johann		"Wagner, Emilie"	Borkowizna	54	Lublin 1928 urodzenia	00047	46	B Bergmann					addendum #00048 				
+		Schulz	Sigismund	B	1928	Jun	Emil		"Reschke, Wanda"	Jozefow	54	Lublin 1928 urodzenia	00048	47	B Bergmann	R				addendum #00049 				
+		Schmidt	Natalie	B	1928	Jun	August		"Natke, Pauline"	Wolka Mieczyslawska	54	Lublin 1928 urodzenia	00049	48	B Bergmann					addendum #00050 				
+		Berlin	Erich	B	1928	May	unknown/unbekannt		"Berlin, Marianne"	Lublin	54	Lublin 1928 urodzenia	00050	49	B Bergmann	R								
+		Kunaszyk	Wanda	B	1928	Jun	Johann		"Buss, Emilie"	Tismienica	54	Lublin 1928 urodzenia	00051	50	B Bergmann	R				addendum #00052 				
+		Froehlich	August	B	1928	Jul	Ferdinand		"Grolmisch, Emilie"	Zawada	54	Lublin 1928 urodzenia	00052	51	B Bergmann	R				addendum #00053 				
+		Tiede	Auguste	B	1928	Mar	unknown/unbekannt		"Tiede, Lydia"	Antonin	54	Lublin 1928 urodzenia	00053	52	B Bergmann	R				addendum #00054 				
+		Mittelstaedt	Reinhold	B	1928	Jul	Heinrich		"Mueller, Wanda"	Juliopol	54	Lublin 1928 urodzenia	00054	53	B Bergmann					addendum #00055 				
+		Krukowski	Walter	B	1928	Aug	Peter		"Bittner, Marta"	Lublin	54	Lublin 1928 urodzenia	00055	54	B Bergmann	R								
+		Wermann	Heinrich   	B	1928	May	Adolf		"Dikow, Alwine"	Okalew	54	Lublin 1928 urodzenia	00056	55	B Bergmann					addendum #00057 				
+		Schmidt	Josef	B	1928	May	Johann		"Berlin, Amalie"	Piastow	54	Lublin 1928 urodzenia	00057	56	B Bergmann	R				addendum #00058 				
+		Reiter	Eduard	B	1928	Apr	unknown/unbekannt		"Reiter, Wanda"	Zawada	54	Lublin 1928 urodzenia	00058	57	B Bergmann	R				addendum #00059 				
+		Kaus	Lydia Amalie	B	1928	Aug	Emil		"Luedke, Julianna Amalie"	Juliopol	54	Lublin 1928 urodzenia	00059	58	B Bergmann	R				addendum #00060 				
+		Pide	Eduard	B	1928	Aug	Samuel		"Krampitz, Ottilie"	Juliopol	54	Lublin 1928 urodzenia	00060	59	B Bergmann	R				addendum #00061 				
+		Schubert	Leokadia	B	1928	Jun	Gottlieb		"Jeske, Helene"	Zurawiniec	54	Lublin 1928 urodzenia	00061	60	B Bergmann	R								
+		Zielke	Artur	B	1928	May	unknown/unbekannt		"Zielke, Wanda"	Okalew	54	Lublin 1928 urodzenia	00062	61	B Bergmann	R				addendum #00063 				
+		Focht	Adolf	B	1928	Aug	Martin		"Marks, Natalie"	Cichostow	54	Lublin 1928 urodzenia	00063	62	B Bergmann	R				addendum #00064 				
+		Machel	Eduard	B	1928	Jul	Eduard		"Klatt, Helene"	Juliopol	54	Lublin 1928 urodzenia	00064	63	B Bergmann	R				addendum #00065 				
+		Klan	Erich	B	1928	Sep	Rudolf		"Zupp, Wanda"	Sewerynowka	54	Lublin 1928 urodzenia	00065	64	B Bergmann	R				addendum #00066 				
+		Jobs	Ida	B	1928	Aug	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1928 urodzenia	00066	65	B Bergmann					addendum #00067 				
+		Krebs	Wilhelm Friedrich	B	1928	Sep				Szcziny?	54	Lublin 1928 urodzenia	00067	66	B Bergmann	R								
+		Duelge	Lydia   	B	1915	Apr	Ernst Emil		"Hintz, Mathilde"	Russland	54	Lublin 1928 urodzenia	00068	67	B Bergmann									
+		Dalke	Pauline	B	1914	Dec	Gustav		"Preuss, Amalie"	Okalew	54	Lublin 1928 urodzenia	00069	68	B Bergmann					addendum #00070 				
+		Kuehn	Albert	B	1928	Aug	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1928 urodzenia	00070	69	B Bergmann	R				addendum #00071 				
+		Schenning	Gustav	B	1896	Nov	Christian		"Krentz, Anna Karoline"		54	Lublin 1928 urodzenia	00071	70	B Bergmann					addendum #00072 Polish Napoleonic form				
+		Betin	Erna	B	1928	Sep	Emil		"Hauf, Lydia"	Bielany	54	Lublin 1928 urodzenia	00073	71	B Bergmann	R				addendum #00073 				
+		Zupp	Elsa	B	1928	Sep	Gottlieb		"Noerenberg, Lydia"	Sewerynowka	54	Lublin 1928 urodzenia	00074	72	B Bergmann	R				addendum #00075 				
+		Duelge	Lydia    	B	1928	Aug	Hermann		"Noerenberg, Ottilie Natalie"	Trojnia	54	Lublin 1928 urodzenia	00075	73	B Bergmann	R				addendum #00076 				
+		Martin	Eugenie	B	1928	Aug	Gustav		"Mueller, Karoline"	Sewerynowka	54	Lublin 1928 urodzenia	00076	74	B Bergmann	R				addendum #00077 				
+		Schultz	Alfred 	B	1928	Sep	Adolf		"Krause, Lydia"	Jozefow	54	Lublin 1928 urodzenia	00077	75	B Bergmann	R				addendum #00078 				
+		Gotz	Elfriede	B	1928	Sep	Georg		"Klukas, Mathilde"	Cichostow	54	Lublin 1928 urodzenia	00078	76	B Bergmann	R				addendum #00079 				
+		Markwart	Bernard	B	1928	Aug	Emil		"Kitzmann, Julianna"	Okalew	54	Lublin 1928 urodzenia	00079	77	B Bergmann	R				addendum #00080 				
+		Pudwel	Emil	B	1928	Sep	Julius		"Neumann, Natalie"	Antoniowka	54	Lublin 1928 urodzenia	00080	78	B Bergmann	R				addendum #00081 				
+		Schultz	Lucia	B	1928	Aug	Eduard		"Duelge, Lydia"	Juliopol	54	Lublin 1928 urodzenia	00081	79	B Bergmann	R				addendum #00082 				
+		Strauch	Johann	B	1915	May	Gustav		"Sonnenberg, Blandine?"	"Samara, Russland"	54	Lublin 1928 urodzenia	00082	80	B Bergmann					addendum #00083 				
+		Kelm	Erika	B	1928	Aug	August		"Schultz, Ottilie"	Cichostow	54	Lublin 1928 urodzenia	00083	81	B Bergmann	R				addendum #00084 				
+		Bulz	Marta	B	1928	Oct	unknown/unbekannt		"Bulz, Olga"	Cichostow	54	Lublin 1928 urodzenia	00084	82	B Bergmann	R				addendum #00085-86 				
+		Sokolowski	Leokadia	B	1928	Sep	Ludwig		"Schultz, Ottilie"	Czerwonka	54	Lublin 1928 urodzenia	00087	83	B Bergmann	R				addendum #00088 				
+		Neudorf	Wilhelm   	B	1928	Oct	Ludwig		"Egert, Ottilie"	Antonin	54	Lublin 1928 urodzenia	00088	84	B Bergmann					addendum #00089 				
+		Frank	Arnhold	B	1928	Oct	Edmund		"Schultz, Julianna"	Zawada	54	Lublin 1928 urodzenia	00089	85	B Bergmann	R				addendum #00090 				
+		Schulz	Sophie	B	1928	Sep	Michael		"Mueller, Lydia"	Amelin	54	Lublin 1928 urodzenia	00090	86	B Bergmann	R				addendum #00091 				
+		Schulz	Blandina	B	1928	Sep	Eduard		"Strauch, Olga"	Jozefow	54	Lublin 1928 urodzenia	00091	87	B Bergmann	R				addendum #00092 				
+		Nickel	Alicia	B	1928	Oct	Christian		"Jobs, Emilie"	Zawada	54	Lublin 1928 urodzenia	00092	89	B Bergmann	R				addendum #00094 				
+		Jung	Erich	B	1928	Sep	Julius		"Mueller, Pauline"	Wolka Zablocka	54	Lublin 1928 urodzenia	00094	90	B Bergmann	R				addendum #00095 				
+		Neumann	Pauline	B	1928	Sep	Adolf		"Jetz, Helene"	Cichostow	54	Lublin 1928 urodzenia	00095	91	B Bergmann	R				addendum #00096 				
+		Reschke	Arnold	B	1928	Oct	August		"Guenter, Julianna"	Jozefow	54	Lublin 1928 urodzenia	00096	92	B Bergmann	R				addendum #00097 				
+		Markwart	Elfriede	B	1928	Sep	Eduard		"Rinas, Emma"	Okalew	54	Lublin 1928 urodzenia	00097	93	B Bergmann	R				addendum #00098 				
+		Hintz	Herta	B	1928	Sep	Julius		"Streich, Wanda"	Antonin	54	Lublin 1928 urodzenia	00098	94	B Bergmann	R				addendum #00099 				
+		Seidens	Arnhold	B	1928	Nov	Alexander		"Hintz, Natalie"	Antonin	54	Lublin 1928 urodzenia	00099	95	B Bergmann	R				addendum #00100 				
+		Becker	Johann	B	1928	Jul	Johann		"Potocki, Stanislawa"	Lublin	54	Lublin 1928 urodzenia	00100	96	B Bergmann	R								
+		Meile	Edmund	B	1928	Nov	Eduard		"Heimann, Emilie"	Jozefow	54	Lublin 1928 urodzenia	00101	97	B Bergmann	R				addendum #00102  				
+		Mittelstaedt	Eduard	B	1928	Sep	Adolf		"Wuerfel, Margarete"	Niedrzwica Duza	54	Lublin 1928 urodzenia	00102	98	B Bergmann	R								
+		Pide	Lydia      	B	1917	Jul	Samuel		"Krampitz, Leopoldine Ottilie"	"Dawlekowow, Russland"	54	Lublin 1928 urodzenia	00103	99	B Bergmann									
+		Sobosinski	Bogdan	B	1921	Nov	Albin		"Konopinski, Michaline"	Nowogrodek	54	Lublin 1928 urodzenia	00104	100	B Bergmann	R								
+		Noerenberg	Alfreda	B	1928	Oct	Samuel		"Betker, Wanda"	Trojnia	54	Lublin 1928 urodzenia	00105	101	B Bergmann	R				addendum #00106 				
+		Nerling	stillborn male	D	1928	Nov	Ferdinand		"Kaus, Julianna"	Wola Lisowska	54	Lublin 1928 urodzenia	00106	102	B Bergmann					birth record; addendum #00107 				
+		Heimann	Erna	B	1928	Oct	Heinrich		"Jekel, Natalie"	Sewerynowka	54	Lublin 1928 urodzenia	00107	103	B Bergmann	R				addendum #00108 				
+		Lau	Lydia   	B	1928	Nov	Friedrich		"Neumann, Wanda"	Trojnia	54	Lublin 1928 urodzenia	00108	104	B Bergmann					addendum #00109 				
+		Jekel	Marta	B	1928	Nov	Andreas		"Mittelstaedt, Emilie"	Sewerynowka	54	Lublin 1928 urodzenia	00109	105	B Bergmann					addendum #00110 				
+		Martin	Adolf	B	1928	Sep	Friedrich		"Raunest, Christine"	Borkowizna	54	Lublin 1928 urodzenia	00110	106	B Bergmann	R				addendum #00111 				
+		Luedke	Linda	B	1928	Oct	Ferdinand		"Krueger, Natalie"	Juliopol	54	Lublin 1928 urodzenia	00111	107	B Bergmann	R				addendum #00112 				
+		Patzer	Wanda	B	1928	Nov	Karl		"Schubert, Lydia"	Baran	54	Lublin 1928 urodzenia	00112	108	B Bergmann	R				addendum #00113 				
+		Weiss	stillborn male	D	1928	Dec	August		"Tiede, Theophile"	Okalew	54	Lublin 1928 urodzenia	00113	109	B Bergmann					birth record; addendum #00114 				
+		Reining	Wanda	B	1928	Nov	Albert		"Marks, Leokadia"	Okalew	54	Lublin 1928 urodzenia	00114	110	B Bergmann	R				addendum #00115  				
+		Heck	Alexander	B	1928	Nov	Andreas		"Kassner, Lydia"	Jozefow	54	Lublin 1928 urodzenia	00115	111	B Bergmann	R				addendum #00116 				
+		Kuehn	Sigismund	B	1928	Dec	unknown/unbekannt		"Kuehn, Natalie"	Wola Lisowska	54	Lublin 1928 urodzenia	00116	112	B Bergmann					addendum #00117 				
+		Mueller	Sophie	B	1928	Dec	Friedrich		"Kuehn, Olga"	Sewerynowka	54	Lublin 1928 urodzenia	00117	113	B Bergmann	R				addendum #00118 				
+		Weiss	Augustine	D	1928	Jan	Johann		"Brandt, Justine"	Zawada	54	Lublin 1928 zgonow	00002	1	B Bergmann					26j				
+		Strauch	Marta	D	1928	Jan	Heinrich		"Strauch, Mathilde"	Jozefow	54	Lublin 1928 zgonow	00003	2	B Bergmann									
+		Schmidtke	Elfriede	D	1928	Jan	Friedrich		"Rinas, Christine"	Okalew	54	Lublin 1928 zgonow	00004	3	B Bergmann					"1j,9m"				
+		Holtz	Theodor	D	1928	Jan	Gustav		"Weiss, Auguste"	Lublin	54	Lublin 1928 zgonow	00005	4	B Bergmann									
+		Wilke	Gustav	D	1928	Jan			"Wilke, Mathilde"	Lublin	54	Lublin 1928 zgonow	00006	5	B Bergmann									
+		Cizek	Elisabeth	D	1928	Jan	Franz		Franziska	Radim	54	Lublin 1928 zgonow	00007	6	B Bergmann				"Hess, Wilhelm"	"77j, addendum #00008, #00008&9 Polish Napoleonic form "				
+		Quapp	Anna Sophie	D	1928	Feb	Adolf		"Quapp, Rosalie"	Lublin	54	Lublin 1928 zgonow	00009	7	B Bergmann				"Birkholz, Herman Edmund"	"62j, addendum # 00010"				
+		Ratschun	Adolf	D	1928	Feb	Friedrich		"Hahn, Amalie"	Lublin	54	Lublin 1928 zgonow	00010	8	B Bergmann				"Friedrich, Marta"	52j				
+		Nerling	Emilie	D	1928	Feb	Julius		"Schmidtke, Justine"	Okalew	54	Lublin 1928 zgonow	00011	9	B Bergmann				"Orlowski, August"	"39j, addendum #00012"				
+		Klingbeil	Auguste	D	1928	Feb	Emil		"Hintz, Christine"	Antonin	54	Lublin 1928 zgonow	00012	10	B Bergmann					"2j,9m, addendum #00013 "				
+		Teurich	Karl Heinrich	D	1928	Feb				Adamow	54	Lublin 1928 zgonow	00013	11	B Bergmann				Helene	"39j,  "				
+		Focht	Friedrich	D	1928	Feb	Martin		"Marks, Natalie"	Cichostow	54	Lublin 1928 zgonow	00014	12	B Bergmann					7j				
+		Pudwel	Eduard	D	1928	Feb	Wilhelm		"Kassner, Wanda"	Sewerynowka	54	Lublin 1928 zgonow	00015	13	B Bergmann					2t				
+		Mass	Ewald	D	1928	Feb	Rudolf		"Mantik, Emilie"	Cichostow	54	Lublin 1928 zgonow	00016	14	B Bergmann					"1j,3m"				
+		Friss	Serafine	D	1928	Feb	Stefan		"Luedke, Albertine"	Wolka Mieczyslawska	54	Lublin 1928 zgonow	00017	15	B Bergmann					3m				
+		Becker	Barbara	D	1928	Mar	Gabriel?		"Schnell, Christine"	Borkowizna	54	Lublin 1928 zgonow	00018	16	B Bergmann				"Bomke?; [Siering, Jakob 1st]"	80j				
+		Jekel	Adolf	D	1928	Mar	Karl		"Ziebart, Karoline"	Juliopol	54	Lublin 1928 zgonow	00019	17	B Bergmann					78j				
+		Heine	Eduard	D	1928	Mar	Benjamin		"Mueller, Berta"	Cichostow	54	Lublin 1928 zgonow	00020	18	B Bergmann									
+		Dill	Rosalie	D	1928	Mar	Ludwig		"Beier, Julianna"	Okalew	54	Lublin 1928 zgonow	00021	19	B Bergmann				"Firus, Ferdinand"	54j				
+		Brandenburg	August 	D	1928	Mar	Philipp		"Nehring, Karoline"	Cichostow	54	Lublin 1928 zgonow	00022	20	B Bergmann					"72j, addendum #00023"				
+		Strauch	Wanda	D	1928	Mar	Gottfried		"Rode, Pauline"	Jozefow	54	Lublin 1928 zgonow	00023	21	B Bergmann				"Muth, Daniel"	19j				
+		Nickel	Alexander	D	1928	Mar	unknown/unbekannt		"Nickel, Lydia"	Zawada	54	Lublin 1928 zgonow	00024	22	B Bergmann					1j 				
+		Guenther	Johann	D	1928	Mar	August		"Schwonsunek?, Karoline"	Lublin	54	Lublin 1928 zgonow	00025	23	B Bergmann					6j				
+		Lorentz	Christine	D	1918	Jun	Heinrich		"Braun, Christine"	"Parczew, Russland?"	54	Lublin 1928 zgonow	00026	24	B Bergmann				"Mueller, Adolf"	28j				
+		Kurtz	Andreas Siegfried	D	1928	Mar	Eduard		"Kuehn, Sophie"	Antoniowka	54	Lublin 1928 zgonow	00027	25	B Bergmann					"1j,9m,5t"				
+		Fangrad	Edmund	D	1928	Apr	Samuel		"Schinkel, Karoline"	Marynin	54	Lublin 1928 zgonow	00028	26	B Bergmann					14j				
+		Mantik	Andreas  	D	1928	Apr	Andreas		"Schmuland, Karoline"	Jozefow	54	Lublin 1928 zgonow	00029	27	B Bergmann				"Froehlich, Wilhelmine"	63j				
+		Altinger	Adolf	D	1928	Apr	Josef		"Feigel, Amelia"	Lublin	54	Lublin 1928 zgonow	00030	28	B Bergmann				"Ott, Maria"	"60j, addendum #00031 Polish Napoleonic form"				
+		Sokolowski	Rudolf	D	1928	Apr	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1928 zgonow	00031	29	B Bergmann					"16t, addendum #00032"				
+		Zielke	Lydia   	D	1917	Aug	Gottfried		"Krueger, Mathilde"	"Leuza, Russland"	54	Lublin 1928 zgonow	00032	30	B Bergmann					6j				
+		Jedrzejewski	Josef	D	1916	Oct	Martin		"Rimland, Karoline"	"Saratov, Russland"	54	Lublin 1928 zgonow	00033	31	B Bergmann				"Scheier, Marianna"	48j				
+		Sommerfeld	Karl   	D	1928	May	Friedrich		Karoline	Sewerynowka	54	Lublin 1928 zgonow	00034	32	B Bergmann				"Neumann, Marianne"	"57j,4m"				
+		Appel	Sophie	D	1928	May	Martin		"Jedrzejewski, Rosalie"	Stefanow	54	Lublin 1928 zgonow	00035	33	B Bergmann				"Reimer, Peter"	53j				
+		Becker	Martha	D	1928	Jun	Johann		"Wagner, Emilie"	Borkowizna	54	Lublin 1928 zgonow	00036	34	B Bergmann					25t				
+		Kerlin	Ludwig	D	1915	Jun	Wilhelm		"Drat, Wilhelmine"	"Rajewka, Russland"	54	Lublin 1928 zgonow	00037	35	B Bergmann				"Kropp, Albertine"	62j 				
+		Ziegelmeier	Heinrich        	D	1928	Jul	Gottlieb		"Schierling, Agathe"	Antonin	54	Lublin 1928 zgonow	00038	36	B Bergmann					"11m,17t"				
+		Ziegelmeier	Gustav	D	1928	Jul	Gottlieb		"Schierling, Agathe"	Antonin	54	Lublin 1928 zgonow	00039	37	B Bergmann					"4j,10m,24t"				
+		Mass	Friedrich	D	1917	May	Jakob		"Braun, Pauline"	"Ris, Kaukasus, Russland"	54	Lublin 1928 zgonow	00040	38	B Bergmann					22j				
+		Heller	Wilhelmine	D	1928	Jul	Julius		Julianne	Jozefow	54	Lublin 1928 zgonow	00041	39	B Bergmann				"Kassner, Adolf"	46j				
+		Duelge	Adolf	D	1916	May	Ernest Emil		"Hintz, Mathilde"	"Rozylewka?, Russland"	54	Lublin 1928 zgonow	00042	40	B Bergmann					10j				
+		Duelge	Ernest Emil	D	1920	Dec	Julius		"Mueller, Julianne"	"Bawlekawo?, Russland"	54	Lublin 1928 zgonow	00043	41	B Bergmann				"Hintz, Mathilde"	40j				
+		Duelge	Alexander	D	1921	Jul	Ernest Emil		"Hintz, Mathilde"	"Dmitrjewka, Russland"	54	Lublin 1928 zgonow	00044	42	B Bergmann					8j				
+		Appel	Rosalie	D	1928	Aug	Josef		"Petrich, Emilie Emma"	Piastow	54	Lublin 1928 zgonow	00045	43	B Bergmann				"Becker, Alfred"	27j				
+		Wermann	Heinrich	D	1928	Sep	Adolf		"Dikow, Alwine"	Okalew	54	Lublin 1928 zgonow	00046	44	B Bergmann					4m				
+		Jobs	Ida	D	1928	Sep	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1928 zgonow	00047	45	B Bergmann					"1m, addendum #00048"				
+		Heck	Karl August	D	1915	Mar	Friedrich Wilhelm		"Enger?, Wilhelmine"	"Stacjakolejow?, Russland"	54	Lublin 1928 zgonow	00048	46	B Bergmann				"Schultz, Augustine"	"60j,  "				
+		Schulz	Augustine	D	1920	May	Martin		"Betke, Wilhelmine"	"Leuza, Russland"	54	Lublin 1928 zgonow	00049	47	B Bergmann				Heck	59j	1			
+		Czarnecki	Franz	D	1919	Dec	August		"Schmidt, Julianna"	"Leuza, Russland"	54	Lublin 1928 zgonow	00050	48	B Bergmann				"Hefner, Elisabeth"	50j				
+		Markwart	Natalie	D	1928	Sep	Gottfried		"Rosentreter, Eva"	Lublin	54	Lublin 1928 zgonow	00051	49	B Bergmann				"Hein, Gottlieb"	26j				
+		Beier	Anna   	D	1928	Oct	Friedrich		"Winter, Christine"	Antonin	54	Lublin 1928 zgonow	00052	50	B Bergmann				"Schulz, Gustav"	36j				
+		Noerenberg	Julianna	D	1928	Oct	Michael		"Tiede, Emilie"	Wolka Mieczyslawska	54	Lublin 1928 zgonow	00053	51	B Bergmann				"Preuss, Gustav"	36j				
+		Schendel	Ludwig	D	1928	Oct	Ludwig			Czerwonka Gozdow	54	Lublin 1928 zgonow	00054	52	B Bergmann									
+		Krueger	Friederike	D	1928	Oct				Pulawy?	54	Lublin 1928 zgonow	00055	53	B Bergmann				Lichanin	81j				
+		Jedrzejewski	Roman Julian	D	1928	Nov	Johann		"Krysinski, Marie"	Stefanow	54	Lublin 1928 zgonow	00056	54	B Bergmann					"1j,10m"				
+		Jekel	Marta	D	1928	Nov	Andreas		"Mittelstaedt, Emilie"	Sewerynowka	54	Lublin 1928 zgonow	00057	55	B Bergmann					2t				
+		Beier	Gottlieb	D	1928	Nov				Baran	54	Lublin 1928 zgonow	00058	56	B Bergmann				"Hilfer, Christine"	95j				
+		Pawinski	Mathilde Amalie	D	1928	Nov	Johann		"Krone, Amelia"	Lublin	54	Lublin 1928 zgonow	00059	57	B Bergmann				Mai	86j				
+		Mueller	Gustav	D	1928	Nov	Martin		"Gurke, Ernestine"	Sobieszczany	54	Lublin 1928 zgonow	00060	58	B Bergmann				"Weltz, Wilhelmine"	78j				
+		Mueller	August	D	1928	Nov	Christian		"Banik, Rosalie"	Lublin	54	Lublin 1928 zgonow	00061	59	B Bergmann				"Begalke, Lydia"	"63j, addendum #00062"				
+		Lau	Lydia	D	1928	Dec	Friedrich   		"Neumann, Wanda"	Trojnia	54	Lublin 1928 zgonow	00062	60	B Bergmann					"25t, addendum #00063"				
+		Dreger	Regina	D	1928	Dec	Rudolf		"Reschke, Berta"	Jozefow	54	Lublin 1928 zgonow	00063	61	B Bergmann					23t				
+		Kaus	Julianna	D	1928	Dec	Gottlieb		"Schieler, Katharina"	Wola Lisowska	54	Lublin 1928 zgonow	00064	62	B Bergmann				"Nerling, Ferdinand"	"44j, addendum #00065"				
+		Schulz	Alfred	D	1928	Dec	Adolf		"Strauch, Lydia"	Serokomla	54	Lublin 1928 zgonow	00065	63	B Bergmann					6t				
+		Baikowski	Emma	D	1928	Dec	Traugott		"Eigler, Anna"	Zelechow	54	Lublin 1928 zgonow	00066	64	B Bergmann				Gessner	63j				
+		Benni	Maria	D	1928	Dec	Michael Adolf		"Ridinger, Elisabeth"	Gielczew	54	Lublin 1928 zgonow	00067	65	B Bergmann				Krebs	86j				
+		Krueger	Adolf	D	1928	Dec	Emil		"Kelm, Friederike"	Belzyce	54	Lublin 1928 zgonow	00068	66	B Bergmann					18j; #00069 Polish Napoleonic form				
+		Kuehn	Sigismund	D	1929	Jan	unknown/unbekannt		"Kuehn, Natalie"	Wola Lisowska	54	Lublin 1929 zgonow	00002	1	B Bergmann					"14t, addendum #00003"				
+		Rinas	Emma	D	1929	Jan	Daniel		"Patzke, Christine"	Lublin	54	Lublin 1929 zgonow	00003	2	B Bergmann				"Markwart, Eduard"	31j				
+		Weichert	Luise Leontine	D	1929	Jan	Karl		"Beeli, Luise"	Pulawy	54	Lublin 1929 zgonow	00004	3	B Bergmann				Stumpf	"67j, addendum #00005 Polish Napoleonic form"				
+		Becker	Emma	D	1929	Jan	Ludwig		"Kiri, Barbara"	Borkowizna	54	Lublin 1929 zgonow	00005	4	B Bergmann					"11m, addendum #00006"				
+		Jabusch	Arthur	D	1929	Jan	Adolf		"Marks, Valentine"	Antonin	54	Lublin 1929 zgonow	00006	5	B Bergmann					"4j,1m,4t, addendum #00007"				
+		Kiri	Barbara	D	1929	Jan	Philipp		"Becker, Katharina"	Borkowizna	54	Lublin 1929 zgonow	00007	6	B Bergmann				"Becker, Ludwig"	38j				
+		Schultz	Eduard	D	1929	Jan	Heinrich		"Guenther, Theophile"	Jozefow	54	Lublin 1929 zgonow	00008	7	B Bergmann				"Strauch, Olga"	27j				
+		Roechert	Eva	D	1929	Jan	Wilhelm		"Birke, Marianne"	Antonin	54	Lublin 1929 zgonow	00009	8	B Bergmann				"Teske, Karl"	48j				
+		Strauch	Gustav	D	1929	Jan	Ludwig		"Schultz, Wilhelmine"	Serokomla	54	Lublin 1929 zgonow	00010	9	B Bergmann				"Sonnenberg, Karoline"	55j				
+		Reiter	Olga	D	1929	Jan	unknown/unbekannt		"Reiter, Wanda"	Zawada	54	Lublin 1929 zgonow	00011	10	B Bergmann					"3j,10m"				
+		Doberstein	Bernard	D	1929	Feb	Kasper		"Widhoeft, Ernestine"	Lublin	54	Lublin 1929 zgonow	00012	11	B Bergmann				"Grams, Pauline"					
+		Malicki	Elsa	D	1929	Feb	Johann		"Golz, Emilie"	Cichostow	54	Lublin 1929 zgonow	00013	12	B Bergmann					"7w, addendum #00014"				
+		Heck	Gustav	D	1929	Feb	Karl		"Reiter, Emilie"	Jozefow	54	Lublin 1929 zgonow	00014	13	B Bergmann				"Strauch, Berta"	24j				
+		Hochedlinger	Walter	D	1929	Mar	Josef		Maria	Lublin	54	Lublin 1929 zgonow	00015	14	B Bergmann				"Rodwanoka, Janine"	69j				
+		Mueller	Julianna	D	1929	Mar	Martin		Luise	Juliopol	54	Lublin 1929 zgonow	00016	15	B Bergmann				Renn	90j				
+		Martinek	Amelie	D	1929	Mar	Balthasar		"Busse, Susanne Luise"	Lublin	54	Lublin 1929 zgonow	00017	16	B Bergmann					80j				
+		Berg	Wilhelm	D	1929	Mar	August		"Luedke, Auguste"	Zurawiniec	54	Lublin 1929 zgonow	00018	17	B Bergmann					17j				
+		Neudorf	Wilhelm	D	1929	Mar	Ludwig		"Egert, Ottilie"	Antonin	54	Lublin 1929 zgonow	00019	18	B Bergmann					"6m, addendum #00020"				
+		Nalepa	Eugenie Karoline Agate	D	1929	Apr	Eduard			Lublin	54	Lublin 1929 zgonow	00020	19	B Bergmann				Wiskanski	"84j, addendum #00021"				
+		Hintz	Wilhelm	D	1929	Apr	Edmund		"Lachecki, Helene"	Niedrzwica Duza	54	Lublin 1929 zgonow	00022	20	B Bergmann									
+		Markwart	Hermann	D	1929	Apr	Gustav		"Nerling, Emilie"	Wolka Siemienska	54	Lublin 1929 zgonow	00023	21	B Bergmann					10t				
+		Jahn	Eduard	D	1929	Apr	Karl		"Bauer, Berta"	Jozefow	54	Lublin 1929 zgonow	00024	22	B Bergmann				"Kassner, Mathilde"	52j				
+		Schultz	Marta	D	1929	Apr	Gottlieb		"Pide, Lydia"	Okalew	54	Lublin 1929 zgonow	00025	23	B Bergmann					"3j,10m, addendum #00026"				
+		Krause	Karoline	D	1929	Apr	Gottlieb			Lublin	54	Lublin 1929 zgonow	00026	24	B Bergmann				Zai?	"76j, addendum #00027"				
+		Neumann	Johann	D	1929	May	Friedrich		"Zielke, Emilie"	Sewerynowka	54	Lublin 1929 zgonow	00028	25	B Bergmann					75j				
+		Kunkel	Hermann	D	1929	Jun	Heinrich		"Kaus, Luise"	Wolka Mieczyslawska	54	Lublin 1929 zgonow	00029	26	B Bergmann					"18j, addendum #00030"				
+		Arndt	Leokadia	D	1929	Jun	Zenon?		"Fangrad, Julianna"	Marynin	54	Lublin 1929 zgonow	00030	27	B Bergmann					"16j, addendum #00031"				
+		Hensel	Blandine	D	1929	Jul	Eduard		"Ekert, Wilhelmine"	Zawada	54	Lublin 1929 zgonow	00032	28	B Bergmann									
+		Kakoschke	Johann	D	1929	Jul	Ludwig		"Kufeld, Karoline"	Ostrow	54	Lublin 1929 zgonow	00033	29	B Bergmann					"18j, addendum #00034"				
+		Meiler	Karoline	D	1929	Jul	Ferdinand		"Harter, Katharina"	Lublin	54	Lublin 1929 zgonow	00034	30	B Bergmann				Kwirant	"38j, addendum #00035"				
+		Duelge	Johanna Karoline	D	1929	Aug	Friedrich		"Krueger, Johanna"	Juliopol	54	Lublin 1929 zgonow	00036	31	B Bergmann				Mueller	89j				
+		Kassinger	Philipp	D	1929	Aug	Jakob		"Hensel, Susanne"	Borkowizna	54	Lublin 1929 zgonow	00037	32	B Bergmann					"24j, addendum #00038"				
+		Frenkler	Eduard	D	1929	Sep	Heinrich		"Remus, Berta"	Lublin	54	Lublin 1929 zgonow	00038	33	B Bergmann					27j				
+		Schubert	Gottlieb	D	1929	Sep	Wilhelm		"Pasner, Karoline"	Zurawiniec	54	Lublin 1929 zgonow	00039	34	B Bergmann				"Teske, Helene"	44j				
+		Schmidt	Alfonsa	D	1929	Sep	unknown/unbekannt		"Schmidt, Lydia"	Wolka Mieczyslawska	54	Lublin 1929 zgonow	00040	35	B Bergmann					5m				
+		Schmidt	Natalie	D	1929	Sep	August		"Nadke, Pauline"	Wolka Mieczyslawska	54	Lublin 1929 zgonow	00041	36	B Bergmann					"1j,3m"				
+		Kwirant	Leokadia	D	1921	Oct	Ludwig		"Meiler, Karoline"	Cichostow	54	Lublin 1929 zgonow	00042	37	B Bergmann					7j				
+		Kwirant 	Lydia	D	1920	Mar	Ludwig		"Meiler, Karoline"	Cichostow	54	Lublin 1929 zgonow	00043	38	B Bergmann					8j				
+		Czarnecki	Ludwig	D	1917	Feb	Franz		"Hefner, Elisabeth"	"Leuza, Russland"	54	Lublin 1929 zgonow	00044	39	B Bergmann					19j				
+		Czarnecki	Eduard	D	1921	Nov	Franz		"Hefner, Elisabeth"	"Leuza, Russland"	54	Lublin 1929 zgonow	00045	40	B Bergmann					21j				
+		Czarnecki	Emilie	D	1920	Mar	Franz		"Hefner, Elisabeth"	"Leuza, Russland"	54	Lublin 1929 zgonow	00046	41	B Bergmann					10j				
+		Neumann	Alexander	D	1929	Sep	Emil		"Kassner, Wanda"	Trojnia	54	Lublin 1929 zgonow	00047	42	B Bergmann					"1m,17t"				
+		Firus	Ferdinand	D	1929	Jun	Friedrich Wilhelm		"Fecho, Karoline"	Okalew	54	Lublin 1929 zgonow	00048	43	B Bergmann					"84j,3m,1t, addendum #00049"				
+		Reimer	Johann Karl	D	1929	Nov	Peter		"Appel, Sophie"	Przywei?	54	Lublin 1929 zgonow	00050	44	B Bergmann				"Zaleski, Julianna"	24j				
+		Hefner	Friedrich	D	1929	Dec	Johann		"Heimann, Henriette"	Antonin	54	Lublin 1929 zgonow	00051	45	B Bergmann				"Siewert, Helene"	"52j,9m"				
+		Reinig	Alexandra	D	1929	Dec	August		"Wedel, Euphrosine"	Okalew	54	Lublin 1929 zgonow	00052	46	B Bergmann				"Radke, Paul"	"28j,8m"				
+		Mass	Emilie	D	1929	Dec	Jakob		"Braun, Pauline"	Cichostow	54	Lublin 1929 zgonow	00053	47	B Bergmann				"Boss, Friedrich"	"27j,4m"				
+		Mittelstaedt	Reinhold	D	1929	Dec	Heinrich		"Mueller, Wanda"	Juliopol	54	Lublin 1929 zgonow	00054	48	B Bergmann					"1j,5m"				
+		Filipp	Emilie	D	1929	Dec	Filipp		"Ulmer, Amalie"	Zawada	54	Lublin 1929 zgonow	00055	49	B Bergmann				"Ekert, Eduard"	26j				
+		Dering	Artur	B	1939	Aug	Wilhelm		"Orlowski, Kamilla Pauline"	Zurawiniec	54	Lublin 1939	00002	140	B Bergmann	R				addendum #00003 				
+		Mittelstaedt	Otto	B	1939	Nov	Julius		"Kitzmann, Emilie"	Sewerynowka	54	Lublin 1939	00003	359	B Bergmann	R				addendum #00004  				
+		Dikow	Hermann Adolf	B	1939	Sep	Adolf		"Wermann, Wanda"	Wohyn	54	Lublin 1939	00004	52	B Bergmann	R				addendum #00005  				
+		Frank	Bruno	B	1939	Sep	Gottlieb		"Rinas, Alwine"	Zawada	54	Lublin 1939	00005	144	B Bergmann	R				addendum #00006  				
+		Becker	Adolf Willi	B	1939	Nov	Alexander		"Siering, Christine"	Debszczyna	54	Lublin 1939	00006	98	B Bergmann	R				addendum #00007 				
+		Krueger	Adolf   	B	1939	Nov	Edmund		"Beier, Eugenie"	Bielany	54	Lublin 1939	00007	148	B Bergmann	R				addendum #00008 				
+		Schinkel	Anna	B	1939	Dec	Theophil		"Hildebrandt, Alwine"	Cichostow	54	Lublin 1939	00008	326	B Bergmann	R				addendum #00009  				
+		Muth	Eduard Werner	B	1939	Dec	Friedrich		"Schmidt, Wanda"	Jozefow	54	Lublin 1939	00009	149	B Bergmann	R				addendum #00010 				
+		Lieske	stillborn male	D	1939	Nov	Emanuel		"Guenter, Margarete"	Lubartow	54	Lublin 1939	00010	65	B Bergmann					birth record; addendum #00011 				
+		Schulz	Ludwig	B	1939	Dec	Eduard		"Duelge, Lydia"	Juliopol	54	Lublin 1939	00012	360	B Bergmann	R				addendum #00013 				
+		Luedke	Adolf   	B	1939	Dec	Edmund		"Orlowski, Erna"	Zurawiniec	54	Lublin 1939	00013	142	B Bergmann	R				addendum #00014 				
+		Gruening	Alicia	B	1939	Dec	Ludwig		"Gruening, Amalia"	Zurawiniec	54	Lublin 1939	00014	141	B Bergmann	R				addendum #00015 				
+		Jeske	Anastasia	B	1939	Oct	Gustav		"Tonn, Olga"	Okalew	54	Lublin 1939	00015	51	B Bergmann	R				addendum #00016 				
+		Schulz	Bruno	B	1939	Dec	Ludwig		"Neumann, Genovefa"	Amelin	54	Lublin 1939	00016	361	B Bergmann	R				addendum #00017 				
+		Schulz	Herbert Adolf	B	1939	Nov	Adolf		"Frank, Anna"	Zawada	54	Lublin 1939	00017	145	B Bergmann	R				addendum #00018 				
+		Hildebrandt	Adolf   	B	1939	Apr	Edmund		"Strauch, Wanda"	Okalew	54	Lublin 1939	00018	50	B Bergmann	R				addendum #00019 				
+		Skalski	Alina Bozenna	B	1939	Oct	Konstantin		"Wojniarski?, Janina Theodoria"	Fabryka?	54	Lublin 1939	00019		B Bergmann	R				addendum #00020 				
+		Preuss	Artur	B	1939	Mar	Ludwig		"Zielke, Johanna"	Okalew	54	Lublin 1939	00020	49	B Bergmann	R				addendum #00021 				
+		Mueller	Erich	B	1939	Nov	Eduard		"Mueller, Ottilie"	Juliopol	54	Lublin 1939	00021	358	B Bergmann	R				addendum #00022 				
+		Neumann	Adolf        	B	1939	Oct	Edmund		"Zitlau, Waldine"	Sewerynowka	54	Lublin 1939	00022	356	B Bergmann	R				addendum #00023 				
+		Martin  	Eduard       	B	1939	May	Rudolf		"Klan, Leokadia"	Juliopol	54	Lublin 1939	00023	357	B Bergmann	R				addendum #00024 				
+		Lau	Leonhard	B	1939	Aug	Emil		"Neumann, Wanda"	Zawada	54	Lublin 1939	00024	143	B Bergmann	R				addendum #00025 				
+		Boss	Marta	B	1939	Sep	Friedrich        		"Orlowski, Julianna"	Cichostow	54	Lublin 1939	00025	325	B Bergmann	R				addendum #00026 				
+		Meier	Adele	B	1939	Jul	Friedrich		"Meier, Wanda Natalie"	Antonin	54	Lublin 1939	00026	145	B Bergmann	R				addendum #00027 				
+		Sokolowski	Artur	B	1939	Aug	August		"Hund, Adelgunde"	Wola Lisowska	54	Lublin 1939	00027	167	B Bergmann	R				addendum #00028 				
+		Pudwel	Emma	B	1939	Aug	Ludwig		"Gunt, Amalie"	Juliopol	54	Lublin 1939	00028	355	B Bergmann	R				addendum #00029 				
+		Jaeger	Artur	B	1939	Jul	Michael		"Meier, Lydia"	Cichostow	54	Lublin 1939	00029	323	B Bergmann	R				addendum #00030 				
+		Markwart	Erwin	B	1939	Aug	Karl		"Mueller, Olga"	Juliopol	54	Lublin 1939	00030	354	B Bergmann	R				addendum #00031 				
+		Orlowski	Sophie	B	1939	Aug	Eduard		"Nickel, Ida"	Wolka Siemienska	54	Lublin 1939	00031	353	B Bergmann	R				addendum #00032 				
+		Reimer	Stanislaus	B	1939	Sep	Sigmund		"Jahn, Helene"	Stefanow	54	Lublin 1939	00032	274	B Bergmann	R				addendum #00033 				
+		Kropp	Ewald Heinrich	B	1939	Jun	August		"Golz, Lydia"	Cichostow	54	Lublin 1939	00033	49	B Bergmann	R				addendum #00034 				
+		Przygoda	Erwin	B	1939	Jun	Erdmann		"Strauch, Lydia"	Jozefow	54	Lublin 1939	00034	50	B Bergmann	R				addendum #00035 				
+		Mittelstaedt	Eugenie   	B	1939	Jun	Heinrich		"Mueller, Wanda"	Dzialyn	54	Lublin 1939	00035	51	B Bergmann	R				addendum #00036 				
+		Sommerfeld	Rudolf	B	1939	Jul	Adolf		"Fitzner, Wanda"	Juliopol	54	Lublin 1939	00036	52	B Bergmann	R				addendum #00037 				
+		Luedke	Sophie	B	1939	May	Friedrich		"Wutzke, Olga"	Cichostow	54	Lublin 1939	00037	45	B Bergmann	R				addendum #00038 				
+		Mass	Adolf           	B	1939	May	Edmund		"Mantik, Berta"	Cichostow	54	Lublin 1939	00038	46	B Bergmann	R				addendum #00039 				
+		Kitzmann	Alicia	B	1939	May	Ludwig		"Gudrian, Auguste"	Juliopol	54	Lublin 1939	00039	47	B Bergmann	R				addendum #00040 				
+		Kitzmann	Ewald   	B	1939	Mar	Adolf		"Orlowski, Natalie"	Sobolew	54	Lublin 1939	00040	48	B Bergmann	R				addendum #00041 				
+		Oelke	Margarete	B	1939	Apr	Edmund		"Egert, Natalie"	Wolka Rozwadowska	54	Lublin 1939	00041	37	B Bergmann	R				addendum #00042 				
+		Karoff	Erwin	B	1939	Apr	Rudolf		"Kitzmann, Lydia"	Juliopol	54	Lublin 1939	00042	38	B Bergmann	R				addendum #00043 				
+		Jabusch	Wanda	B	1939	May	Adolf		"Marks, Valentine"	Antonin	54	Lublin 1939	00043	39	B Bergmann	R				addendum #00044 				
+		Jekel	Eugenie   	B	1938	Jun	Rudolf		"Dalke, Pauline"	Okalew	54	Lublin 1939	00044	40	B Bergmann	R				addendum #00045 				
+		Egert	Alexandra	B	1939	Feb	August		"Egert, Lydia"	Wolka Rozwadowska	54	Lublin 1939	00045	41	B Bergmann	R				addendum #00046 				
+		Guenther	Edita	B	1939	May	Julius		"Wutzke, Wanda"	Lubartow	54	Lublin 1939	00046	42	B Bergmann	R				addendum #00047 				
+		Froehlich	Alexander	B	1939	May	Julius		"Schultz, Julianna"	Zawada	54	Lublin 1939	00047	43	B Bergmann	R				addendum #00048 				
+		Hintz	Anna	B	1939	May	August		"Schultz, Natalie"	Antonin	54	Lublin 1939	00048	44	B Bergmann	R				addendum #00049 				
+		Grams	Edwin	B	1939	Feb	Eduard		"Bulz, Alwine"	Cichostow	54	Lublin 1939	00049	23	B Bergmann	R				"addendum #00050, twin"				
+		Grams	Alwin Adolf	B	1939	Feb	Eduard		"Bulz, Alwine"	Cichostow	54	Lublin 1939	00050	24	B Bergmann	R				"addendum #00051, twin "				
+		Schwarz	Leokadia	B	1939	Jan	Adolf		"Henschel, Auguste"	Antoniowka	54	Lublin 1939	00051	25	B Bergmann	R				addendum #00052 				
+		Huff	Frieda	B	1939	May	Rudolf		"Kropp, Lydia"	Antoniowka	54	Lublin 1939	00052	26	B Bergmann	R				addendum #00053 				
+		Hiller	Theodor	B	1939	Mar	Adolf		"Hiller, Julianna"	Dabrowa Sajowka	54	Lublin 1939	00053	27	B Bergmann	R				addendum #00054 				
+		Lierentz	Hildegard	B	1939	Mar	Rudolf		"Focht, Wilhelmine"	Cichostow	54	Lublin 1939	00054	28	B Bergmann	R				addendum #00055 				
+		Kuehn	Edwin	B	1939	Mar	Rudolf		"Kufeld, Natalie"	Antonin	54	Lublin 1939	00055	29	B Bergmann	R				addendum #00056 				
+		Jahn	Olga	B	1939	Jan	Adolf		"Noerenberg, Mathilde"	Jozefow	54	Lublin 1939	00056	30	B Bergmann	R				addendum #00057 				
+		Dering	Meta	B	1939	Apr	Daniel		"Patzer, Hedwig"	Zurawiniec	54	Lublin 1939	00057	31	B Bergmann	R				addendum #00058 				
+		Glinksi	Waldemar Gottfried	B	1939	Jan	Paul		"Fuhrman, Olga"	Stefanow	54	Lublin 1939	00058	32	B Bergmann	R				addendum #00059 				
+		Wegner	Robert	B	1939	Mar	Johann		"Gorniak, Marianne Anna"	Lublin	54	Lublin 1939	00059	33	B Bergmann	R				addendum #00060 				
+		Kwirant 	Anton	B	1939	Apr	Edmund		"Bujak, Helene"	Cichostow	54	Lublin 1939	00060	34	B Bergmann	R				addendum #00061 				
+		Jeske	Erich	B	1939	Apr	Ernst		"Gudrian, Olga"	Wolka Mieczyslawska	54	Lublin 1939	00061	35	B Bergmann	R				addendum #00062 				
+		Tiede	Erna	B	1939	Apr	Alexander		"Sokolowski, Wanda"	Amelin	54	Lublin 1939	00062	36	B Bergmann	R				addendum #00063 				
+		Luedke	Georg	B	1939	Jan	Adolf		"Fitzner, Wanda"	Lublin	54	Lublin 1939	00063	19	B Bergmann	R				addendum #00064 				
+		Siering	Wanda	B	1939	Mar	Ludwig		"Becker, Sophie"	Borkowizna	54	Lublin 1939	00064	20	B Bergmann	R				addendum #00065 				
+		Orlowski	August	B	1939	Mar	August		"Zupp, Lydia"	Wolka Siemienska	54	Lublin 1939	00065	21	B Bergmann	R				addendum #00066 				
+		Koebke	Alina    	B	1939	Jan	August		"Jung, Julianna"	Antoniowka	54	Lublin 1939	00066	22	B Bergmann	R				addendum #00067 				
+		Klukas	Wanda	B	1938	Oct	Adam		"Kaufmann, Rosalie"	Antoniowka	54	Lublin 1939	00067	8	B Bergmann	R				addendum #00068 				
+		Fitzner	Reinhold	B	1939	Jan	Edmund		"Netzel, Lydia"	Juliopol	54	Lublin 1939	00068	9	B Bergmann	R				addendum #00069 				
+		Orlowski	Frieda	B	1939	Jan	Gottlieb		"Jung, Wanda"	Zurawiniec	54	Lublin 1939	00069	10	B Bergmann	R				addendum #00070 				
+		Luedke	Theodor	B	1938	Dec	Gottlieb		"Mittelstaedt, Lydia"	Antoniowka	54	Lublin 1939	00070	11	B Bergmann	R				addendum #00071 				
+		Wutzke	Julius	B	1939	Jan	Wilhelm		"Schultz, Anna"	Zawada	54	Lublin 1939	00071	12	B Bergmann	R				addendum #00072 				
+		Zielke	Natalie	B	1938	Sep	Emil		"Mass, Olga"	Cichostow	54	Lublin 1939	00072	13	B Bergmann	R				addendum #00073 				
+		Pudwel	Adolf             	B	1939	Feb	August		"Pachal, Sophie"	Brzeziny	54	Lublin 1939	00073	14	B Bergmann	R				addendum #00074 				
+		Betker	Berta	B	1939	Jan	Emil		"Noerenberg, Ottilie"	Trojnia	54	Lublin 1939	00074	15	B Bergmann	R				addendum #00075 				
+		Grams	Eduard          	B	1939	Feb	Michael		"Grams, Lydia"	Trojnia	54	Lublin 1939	00075	16	B Bergmann	R				addendum #00076 				
+		Meile 	Richard	B	1939	Jan	Adolf		"Meier, Alwine"	Jozefek	54	Lublin 1939	00076	17	B Bergmann	R				addendum #00077 				
+		Wagner	Wilhelm	B	1939	Jan	Karl		"Orlowski, Berta"	Borkowizna	54	Lublin 1939	00077	18	B Bergmann	R				addendum #00078 				
+		Lokstaedt	Frieda	B	1938	Jun	August		"Lokstein, Helene"	Zurawiniec	54	Lublin 1939	00078	1	B Bergmann	R				addendum #00079 				
+		Neumann	Helene	B	1938	Dec	Alexander		"Mittelstaedt, Lydia"	Sewerynowka	54	Lublin 1939	00079	2	B Bergmann	R				addendum #00080 				
+		Gueldenstern	Bruno Theodor	B	1938	Dec	Alexander		"Streibel, Talita"	Lublin	54	Lublin 1939	00080	3	B Bergmann	R				addendum #00081 				
+		Lokstaedt	Adolf           	B	1938	Jun	Gottlieb		"Rahn, Olga"	Zurawiniec	54	Lublin 1939	00081	4	B Bergmann	R				addendum #00082 				
+		Markwart	Sophie	B	1939	Jan	Rudolf		"Duelge, Auguste"	Wolka Siemienska	54	Lublin 1939	00082	5	B Bergmann	R				addendum #00083 				
+		Dotzlaw	Frieda	B	1938	Dec	Karl		"Pachal, Natalie"	Sewerynowka	54	Lublin 1939	00083	6	B Bergmann	R				addendum #00084 				
+		Wutzke	Edwin 	B	1939	Jan	Rudolf		"Schinkel, Linda Natalie"	Jozefow	54	Lublin 1939	00084	7	B Bergmann	R				addendum #00085 				
+		Schwarz	Elfriede	D	1940	Jan	Hermann		"Duesterhoeft, Olga"	Tomaszowka	54	Lublin 1940	00002	1	B Bergmann					"4m,18t"				
+		Klatt	Erika	D	1940	Jan	Eduard		"Putelkau, Amalie"	Kroczyn	54	Lublin 1940	00003	2	B Bergmann					5w				
+		Stenzel	Adolf        	D	1940	Jan				Rostoka	54	Lublin 1940	00004	3	B Bergmann					63j				
+		Eichler	Johann  	D	1940	Jan	Martin		"Schiller, Wilhelmine"	Rudolfin	54	Lublin 1940	00005	4	B Bergmann					"72j, Dembinski or Eichler"				
+		Lukstein	Ludwig	D	1940	Jan	Theophil		"Jubin, Elsa"	Zmudz	54	Lublin 1940	00006	5	B Bergmann					5t				
+		Heffner	Andreas	D	1940	Jan	Johann		Eleonore	Brzezno	54	Lublin 1940	00007	6	B Bergmann					"74j, #00012 card"				
+		Roehl	Maria	D	1940	Jan	Johann		"Huenberg, Katharina"	Karolinow	54	Lublin 1940	00008	7	B Bergmann				"Rosin, Johann"	61j				
+		Biedler	Helmut	D	1940	Feb	Ladislaus		"Albrecht, Helene"	Kamien	54	Lublin 1940	00009	8	B Bergmann				 	15t				
+		Brakob	Auguste Friederike	D	1940	Feb	Michael		"Genzler, Friederike"	Gotowka	54	Lublin 1940	00010	9	B Bergmann				"Peter, Heinrich"	70j				
+		Assmann	Eduard       	D	1940	Feb	Gustav		"Schulz, Ottilie"	Puszki	54	Lublin 1940	00011	10	B Bergmann					25t				
+		Neumann	Martha	D	1940	Feb	Friedrich		"Heft, Lydia"	Teosin	54	Lublin 1940	00013	11	B Bergmann					6w				
+		Pahl	Max	D	1940	Mar	Wilhelm		"Krueger, Pauline"	Karoline	54	Lublin 1940	00014	12	B Bergmann					"10t, #00015 card"				
+		Zitlau	Wilhelm	D	1940	Jan	Rudolf		"Biedler, Albertine"	Rostoka	54	Lublin 1940	00016	13	B Bergmann					"6t, twin"				
+		Zitlau	Herbert   	D	1940	Jan	Rudolf		"Biedler, Albertine"	Rostoka	54	Lublin 1940	00017	14	B Bergmann					"6t, twin"				
+		Edelberg	Berta	D	1940	Mar	Johann		"Jerke, Emilie"	Skordiow	54	Lublin 1940	00018	15	B Bergmann				Rahn	"51j,1m,26t"				
+		Lange	Ludwig	D	1940	Apr	Johann		"Reinhold, Anna"	Zalisocze	54	Lublin 1940	00019	16	B Bergmann					78j				
+		Krueger	stillborn male	D	1940	Apr	Adolf		"Lange, Martha"	Ignatow	54	Lublin 1940	00020	17	B Bergmann									
+		Puhl	Edmund	D	1940	Apr	Rudolf		"Krueger, Kamilla"	Radziejow	54	Lublin 1940	00021	18	B Bergmann					"1m,1t"				
+		Machel	Jakob	D	1940	Apr	Gottlieb		"Wechsel, Anna"	Karolinow?	54	Lublin 1940	00022	19	B Bergmann					"72j, #00023 card"				
+		Krueger	Hilda	D	1940	Apr	Hermann		"Schimkoski, Lydia"	Radziejow	54	Lublin 1940	00024	20	B Bergmann					14t 				
+		Matz	Rudolf	D	1940	Apr	Gottlieb		"Steinke, Mathilde"	Kroczyn	54	Lublin 1940	00025	21	B Bergmann				"Krueger, Susanne"	55j	1			
+		Kelbert	Wilhelm	D	1940	Apr	Johann		"Blank, Elisabeth"	Skordiow	54	Lublin 1940	00026	22	B Bergmann				"Krueger, Karoline"	"72j,9m,12t"				
+		Pahl	Ludwig	D	1940	May				Bielin	54	Lublin 1940	00027	23	B Bergmann					"78j,8m,8t, #00028 card"				
+		Puhl	Ewald        	D	1940	May	Rudolf		"Krueger, Kamilla"	Radziejow	54	Lublin 1940	00030	24	B Bergmann					"1m,22t, #00029 card"				
+		Krueger (Schalm)	Ernst	D	1940	May	"Schalm, Sigismund"		"Krueger, Martha"	Annopol	54	Lublin 1940	00032	25	B Bergmann					"2w, #00031 card, parents not married"				
+		Peter	Emil 	D	1940	May	Johann		"Henkert?, Dorothea"	Lesniczowka	54	Lublin 1940	00034	26	B Bergmann				"Eppinger, Ottilie"	"80j, #00033 card"				
+		Krueger	Helmut	D	1940	Jun	Herman 		"Glut, Helene"	Jamne	54	Lublin 1940	00036	27	B Bergmann					"2j, #00035 card"				
+		Bogs	Wilhelm	D	1940	Jun	August		"Rosanug, Wilhelmine"	Kamien	54	Lublin 1940	00038	28	B Bergmann					"81j, #00037 card"				
+		Klose	Marie	D	1940	Jun	Adolf		"Felau, Elisabeth-Gertrud"	Kamien	54	Lublin 1940	00040	29	B Bergmann					"9 h, #00039 card"				
+		Buss	Wanda	D	1940	Jun	Julius		"Marcinkowski, Emilie"	Chelm	54	Lublin 1940	00041	30	B Bergmann				"Schulz, Adolf"	"36j,1m,3t, #00042 card, died in hospital"				
+		Ratz	Eduard	D	1940	Jun	David		"Weber, Marianne"	Karolinow	54	Lublin 1940	00043	31	B Bergmann				"Friedrich, Julianna"	"64j,  #00044-45 cards"				
+		Lange	Dietrich	D	1940	Jun	August		"Fangrad, Konstantine "	Gotowka	54	Lublin 1940	00047	32	B Bergmann					"8m, #00046 card"				
+		Eppinger	Ottilie Adolfine	D	1940	Jun	Alexander		"Frinks, Pauline"	Lesniczowka	54	Lublin 1940	00049	33	B Bergmann				"Peter, Emil"	"73j, #00048 card"				
+		Schwarz	Viktoria	D	1940	Jul	unknown/unbekannt		"Schwarz, Agnes"	Kamien	54	Lublin 1940	00051	34	B Bergmann					"5m, #00050 card"				
+		Ostrowski	August 	D	1940	Jul	Michael		"Schmidt, Rosalie"	Pogranicze	54	Lublin 1940	00053	35	B Bergmann				"Abram, Helene"	"62j, #00052 card"				
+		Kletke	Marie Magdalene	D	1940	Jul	Adolf		"Spolm, Eugenie"	Rudolfin	54	Lublin 1940	00055	36	B Bergmann					"3j,1m, #00054 card"				
+		Klingspohn	Bernhard	D	1927	Apr	Ludwig		"Malas, Berta"	"Grada, Kurytnica, Wladimir"	54	Lublin 1940	00056	37	B Bergmann					4m 				
+		Tews	Wilhelm	B	1922	May	Andreas		"Luedke, Natalie"	Sobolew	54	Lublin 1922-1940	00002	37	B Bergmann	R				addendum #00003  				
+		Dreger	Blandina	B	1922	Jun	Leopold		"Noerenberg, Olga"	Wincentow	54	Lublin 1922-1940	00003	38	B Bergmann	R				addendum #00004 				
+		Kuehn	Eduard	B	1922	Jul	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1922-1940	00004	39	B Bergmann	R				addendum #00005  				
+		Golz	Eduard	B	1922	Oct	Ludwig		"Schubert, Lydia"	Wolka Mieczyslawska	54	Lublin 1922-1940	00005	40	B Bergmann	R				addendum #00006 				
+		Berg or Luedke	Erna	B	1922	Aug	unknown/unbekannt		"Luedke, Auguste"	Wolka Mieczyslawska	54	Lublin 1922-1940	00006	41	B Bergmann	R				addendum #00007; born out of wedlock				
+		Noerenberg	Eduard	B	1922	Oct	Adolf		"Noerenberg, Luise"	Wola Lisowska	54	Lublin 1922-1940	00007	42	B Bergmann	R				addendum #00008  				
+		Braun	Leokadia	B	1922	Apr	Eduard		"Arndt, Friederike"	Wolka Mieczyslawska	54	Lublin 1922-1940	00008	36	B Bergmann	R				addendum #00009 				
+		Arndt	Adelheid	B	1922	Oct	Christoph		"Beier, Helene"	Baran	54	Lublin 1922-1940	00009	43	B Bergmann	R				addendum #00010  				
+		Neumann	Marta	B	1922	Nov	Emil		"Luedke, Amanda"	Wola Lisowska	54	Lublin 1922-1940	00010	44	B Bergmann	R				addendum #00011  				
+		Betker	Alma	B	1923	Jan	Ludwig		"Dreger, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00011	45	B Bergmann	R				twin; addendum #00012 				
+		Betker	Ida	B	1923	Jan	Ludwig		"Dreger, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00012	46	B Bergmann	R				twin; addendum #00013				
+		Meier	Adolf	B	1923	Mar	Friedrich		"Meier, Theophile"	Wola Lisowska	54	Lublin 1922-1940	00013	47	B Bergmann	R				addendum #00014 				
+		Kropp	Natalie	B	1923	Mar	Gustav		"Kaus, Julianna"	Trojnia	54	Lublin 1922-1940	00014	48	B Bergmann	R				addendum #00015 				
+		Jeske	Natalie	B	1923	Apr	Gottlieb		"Sokolowski, Helene"	Wolka Mieczyslawska	54	Lublin 1922-1940	00015	49	B Bergmann	R				addendum #00016 				
+		Preis	Eduard	B	1923	Jun	Gustav		"Noerenberg, Julianna"	Wolka Mieczyslawska	54	Lublin 1922-1940	00016	50	B Bergmann	R				addendum #00017 				
+		Orlowski	Edmina	B	1922	Mar	Karl		"Golz, Emilie"	Russland	54	Lublin 1922-1940	00017	35	B Bergmann	R				addendum #00018 				
+		Schmidt	Eduard	B	1923	Sep	August		"Nadke, Pauline"	Wolka Mieczyslawska	54	Lublin 1922-1940	00018	51	B Bergmann	R				addendum #00019 				
+		Gudrian	Eduard	B	1923	Sep	Gustav		"Milbrandt, Helene"	Baran	54	Lublin 1922-1940	00019	52	B Bergmann	R				addendum #00020 				
+		Nerling	Ela 	B	1923	Sep	Ferdinand		"Kaus, Julianna"	Wola Lisowska	54	Lublin 1922-1940	00020	53	B Bergmann	R				addendum #00021 				
+		Dreger	Hugo Reimund	B	1923	Oct	Leopold		"Noerenberg, Olga"	Wincentow	54	Lublin 1922-1940	00021	54	B Bergmann	R				addendum #00022 				
+		Kuehn	Ewald	B	1923	Nov	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1922-1940	00022	55	B Bergmann	R				addendum #00023 				
+		Reichert	Erna	B	1923	Dec	Rudolf		"Pinkowski, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00023	56	B Bergmann	R				addendum #00024 				
+		Radke	Leokadia	B	1924	Jan	Christoph		"Schmidt, Matilde"	Wolka Mieczyslawska	54	Lublin 1922-1940	00024	57	B Bergmann	R				addendum #00025 				
+		Kiesel	Berta	B	1917	Mar	Friedrich		"Jeske, Helene"	"Rajewka, Ufa, Russland"	54	Lublin 1922-1940	00025	58	B Bergmann					addendum #00026 				
+		Patzwald	Eduard	B	1924	Apr	Wilhelm		"Duesterhoeft, Luise"	Modzelowka (Folwark)	54	Lublin 1922-1940	00026	59	B Bergmann	R				addendum #00027 				
+		Marks	Marta	B	1924	Aug	Eduard		"Kropp, Wanda"	Brzeziny	54	Lublin 1922-1940	00027	60	B Bergmann	R				addendum #00028 				
+		Noerenberg	Erna Wanda	B	1924	Dec	Adolf		"Reschke, Pauline"	Wola Lisowska	54	Lublin 1922-1940	00028	60	B Bergmann	R								
+		Lange	Erna     	B	1925	Jun	Julius		"Bruecks, Wanda"	Wolka Zablocka	54	Lublin 1922-1940	00029	61	B Bergmann	R				addendum #00030 				
+		Betker	Erich	B	1925	Sep	Johann		"Marks, Adelgunde"	Brzeziny	54	Lublin 1922-1940	00030	62	B Bergmann	R				addendum #00031 				
+		Banik	Reinhold	B	1925	Sep	Wilhelm		"Schulz, Matilde"	Wola Lisowska	54	Lublin 1922-1940	00031	63	B Bergmann	R				addendum #00032 				
+		Kuehn	Erich	B	1926	Jan	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1922-1940	00032	64	B Bergmann	R				addendum #00033 				
+		Dreger	Erna          	B	1926	Feb	Leopold		"Noerenberg, Olga"	Wincentow	54	Lublin 1922-1940	00033	65	B Bergmann	R				addendum #00034 				
+		Neumann	Olga	B	1926	Feb	Emil		"Luedke, Amanda"	Wola Lisowska	54	Lublin 1922-1940	00034	67	B Bergmann	R				addendum #00035 				
+		Pinkowski	Lydia	B	1926	Feb	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1922-1940	00035	66	B Bergmann	R				addendum #00036 				
+		Nerling	Ewald	B	1926	Apr	Ferdinand		"Kaus, Julianna"	Wola Lisowska	54	Lublin 1922-1940	00036	68	B Bergmann	R				addendum #00037 				
+		Marks	female	B	1926	Oct	Eduard		"Kropp, Wanda"	Brzeziny	54	Lublin 1922-1940	00037	69	B Bergmann					addendum #00038; name not given				
+		Grams	Amalie	B	1926	Dec	Hermann		"Kropp, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00038	70	B Bergmann	R				addendum #00039 				
+		Lokstein	Adolf	B	1927	Mar	Emil		"Lokstein, Luise"	Wolka Zablocka	54	Lublin 1922-1940	00039	71	B Bergmann	R				addendum #00040 				
+		Lokstaedt	Walter	B	1927	May	Wilhelm		"Jung, Florentine"	Wolka Zablocka	54	Lublin 1922-1940	00040	72	B Bergmann	R				addendum #00041 				
+		Pinkowski	Alfred	B	1927	Mar	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1922-1940	00041	73	B Bergmann	R				addendum #00042 				
+		Reichert	Else	B	1927	May	Rudolf		"Pinkowski, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00042	74	B Bergmann	R				addendum #00043 				
+		Jung	Wandine	B	1927	Feb	Julius		"Mueller, Pauline"	Wola Lisowska	54	Lublin 1922-1940	00043	75	B Bergmann	R				addendum #00044 				
+		Noerenberg	Ida	B	1927	Aug	Adolf		"Reschke, Pauline"	Wola Lisowska	54	Lublin 1922-1940	00044	76	B Bergmann	R				addendum #00045 				
+		Preis	Ida	B	1927	Aug	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00047	77	B Bergmann	R				addendum #00048 				
+		Kropp	Artur	B	1927	Sep	Gustav		"Kaus, Julianna"	Trojnia	54	Lublin 1922-1940	00048	78	B Bergmann	R				addendum #00049 				
+		Banik	Alexander	B	1927	Oct	Michael		"Guenter, Emilie"	Wola Lisowska	54	Lublin 1922-1940	00049	79	B Bergmann	R				addendum #00050 				
+		Banik	Alfred	B	1927	Oct	Wilhelm		"Schulz, Mathilde"	Wola Lisowska	54	Lublin 1922-1940	00051	80	B Bergmann	R				addendum #00052 				
+		Riske	Julianna	B	1927	Oct	August		"Grams, Olga"	Wola Lisowska	54	Lublin 1922-1940	00052	81	B Bergmann	R				addendum #00053 				
+		Betker	Eduard	B	1927	Dec	Johann		"Marks, Adelgunde"	Brzeziny	54	Lublin 1922-1940	00053	82	B Bergmann	R				addendum #00054 				
+		Dreger	Reinhold	B	1928	Feb	Leopold		"Noerenberg, Olga"	Wola Lisowska	54	Lublin 1922-1940	00054	83	B Bergmann	R				addendum #00055 				
+		Lange	Natalie	B	1928	Feb	Julius		"Briless?, Wanda"	Wolka Zablocka	54	Lublin 1922-1940	00055	84	B Bergmann	R				addendum #00056 				
+		Sokolowski	Rudolf	B	1928	Apr	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00056	85	B Bergmann	R				addendum #00057 				
+		Jobs	Ida	B	1928	Aug	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00057	86	B Bergmann	R				addendum #00058 				
+		Kuehn	Albert	B	1928	Aug	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1922-1940	00058	87	B Bergmann	R				addendum #00059 				
+		Duelge	Lydia	B	1928	Aug	Hermann		"Noerenberg, Ottilie Natalie"	Trojnia	54	Lublin 1922-1940	00059	88	B Bergmann	R				addendum #00060 				
+		Jung	Erich	B	1928	Sep	Julius		"Mueller, Pauline"	Wolka Zablocka	54	Lublin 1922-1940	00060	89	B Bergmann	R				addendum #00061 				
+		Noerenberg	Alfreda	B	1928	Oct	Samuel		"Betker, Wanda"	Trojnia	54	Lublin 1922-1940	00061	90	B Bergmann	R				addendum #00062 				
+		Nerling	stillborn male	D	1928	Nov	Ferdinand		"Kaus, Julianna"	Wola Lisowska	54	Lublin 1922-1940	00062	91	B Bergmann					birth record; addendum #00063				
+		Lau	Lydia	B	1928	Nov	Friedrich		"Neumann, Wanda"	Trojnia	54	Lublin 1922-1940	00063	92	B Bergmann	R				addendum #00064  				
+		Kuehn	Sigismund	B	1928	Dec	unbekannt		Natalie	Wola Lisowska	54	Lublin 1922-1940	00064	93	B Bergmann	R				addendum #00065 				
+		Kaus	Eduard	B	1928	Dec	Julius		"Jung, Natalie"	Wolka Zablocka	54	Lublin 1922-1940	00065	94	B Bergmann	R				addendum #00066 				
+		Noerenberg	Martha	B	1929	Jan	Adolf		"Riske, Pauline"	Wola Lisowska	54	Lublin 1922-1940	00066	95	B Bergmann	R				addendum #00067 				
+		Kuehn	Olga	B	1929	May	Julius		"Seidens, Julianna"	Lubartow	54	Lublin 1922-1940	00067	96	B Bergmann	R				addendum #00068 				
+		Sokolowski	Eduard	B	1929	Jul	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00068	97	B Bergmann	R				addendum #00069 				
+		Neumann	Alexander	B	1929	Sep	Emil		"Kassner, Wanda"	Trojnia	54	Lublin 1922-1940	00069	98	B Bergmann	R				addendum #00070 				
+		Betker	Daniel	B	1929	Aug	Emil		"Noerenberg, Ottilie   "	Trojnia	54	Lublin 1922-1940	00070	99	B Bergmann	R				addendum #00071 				
+		Riske	Adoline	B	1929	Nov	August		"Grams, Olga"	Wola Lisowska	54	Lublin 1922-1940	00071	100	B Bergmann	R				addendum #00072 				
+		Grams	Albert	B	1930	Jan	Hermann		"Kropp, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00072	101	B Bergmann	R				addendum #00073 				
+		Banik	Olga	B	1929	Dec	Michael		"Guenther, Emilie"	Wola Lisowska	54	Lublin 1922-1940	00073	102	B Bergmann	R				addendum #00074 				
+		Pinkowski	Linda	B	1930	Feb	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1922-1940	00074	103	B Bergmann	R				addendum #00075 				
+		Jobs	Erna	B	1930	Mar	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00075	104	B Bergmann	R				addendum #00076  				
+		Markwart	Alfred	B	1930	Apr	Edmund		"Noerenberg, Emma"	Wola Lisowska	54	Lublin 1922-1940	00076	105	B Bergmann	R				addendum #00077  				
+		Preuss	Albert	B	1930	Aug	Adolf		"Krebs, Leokadia"	Wola Lisowska	54	Lublin 1922-1940	00077	106	B Bergmann	R				addendum #00078 				
+		Preuss	Edmund	B	1930	Aug	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00078	107	B Bergmann	R				addendum #00079  				
+		Noerenberg	Frieda	B	1930	Aug	Adolf		"Riske, Pauline"	Wola Lisowska	54	Lublin 1922-1940	00079	108	B Bergmann	R				addendum #00080  				
+		Neumann	Anna	B	1930	Sep	Emil		"Kassner, Wanda"	Trojnia	54	Lublin 1922-1940	00080	109	B Bergmann	R				addendum #00081 				
+		Kuehn	Hermann	B	1930	Oct	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1922-1940	00081	110	B Bergmann	R				twin; addendum #00082				
+		Kuehn	Daniel	B	1930	Oct	Friedrich		"Neumann, Luise"	Wola Lisowska	54	Lublin 1922-1940	00082	111	B Bergmann	R				twin; addendum #00083				
+		Kuehn	Alfred	B	1930	Dec	unknown/unbekannt		"Kuehn, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00083	112	B Bergmann	R				"unehelich, addendum #00084"				
+		Sokolowski	Mathilde	B	1931	Jan	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00084	113	B Bergmann	R				addendum #00085 				
+		Betker	Artur	B	1930	Dec	Johann		"Marks, Adelgunde"	Brzeziny	54	Lublin 1922-1940	00085	114	B Bergmann	R				addendum #00086 				
+		Kaus	Erna	B	1931	May	Julius		"Jung, Natalie"	Wolka Zablocka	54	Lublin 1922-1940	00086	115	B Bergmann	R				addendum #00087 				
+		Winter	Erich	B	1931	Jun	Gustav		"Noerenberg, Natalie"	Trojnia	54	Lublin 1922-1940	00087	116	B Bergmann	R				addendum #00088 				
+		Markwart	Artur	B	1931	Aug	Edmund		"Noerenberg, Emma"	Wola Lisowska	54	Lublin 1922-1940	00088	117	B Bergmann	R				addendum #00089 				
+		Neumann	Artur	B	1931	Jul	Emil		"Kassner, Wanda"	Trojnia	54	Lublin 1922-1940	00089	118	B Bergmann	R				addendum #00090 				
+		Lokstein	Alexander	B	1931	Dec	Emil		"Lokstein, Luise"	Wolka Zablocka	54	Lublin 1922-1940	00090	119	B Bergmann	R				addendum #00091 				
+		Noerenberg	Marta	B	1931	Dec	Samuel		"Betker, Wanda"	Wola Lisowska	54	Lublin 1922-1940	00091	120	B Bergmann	R				addendum #00092 				
+		Banik	Wanda	B	1932	Feb	Michael		"Guenter, Emilie"	Wola Lisowska	54	Lublin 1922-1940	00092	121	B Bergmann	R								
+		Jantz	stillborn male	D	1932	Jul	Ferdinand		"Willmann, Ottilie"	Wola Lisowska	54	Lublin 1922-1940	00093	122	B Bergmann					birth record; addendum #00094				
+		Jobs	Reinhold	B	1932	Sep	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00094	123	B Bergmann	R				addendum #00095 				
+		Duege	Marta	B	1932	Sep	Hermann		"Noerenberg, Ottilie Natalie"	Trojnia	54	Lublin 1922-1940	00095	124	B Bergmann	R				twin; addendum #00096				
+		Duelge	Alma	B	1932	Sep	Hermann		"Noerenberg, Ottilie Natalie"	Trojnia	54	Lublin 1922-1940	00096	125	B Bergmann	R				twin; addendum #00097				
+		Betker	Alfred	B	1932	Oct	Emil		"Noerenberg, Ottilie   "	Trojnia	54	Lublin 1922-1940	00097	126	B Bergmann	R				addendum #00098 				
+		Grams	Elsa	B	1932	Dec	Hermann		"Kropp, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00098	127	B Bergmann	R				addendum #00099 				
+		Preuss	stillborn female	D	1933	Jan	Adolf		"Krebs, Leokadia"	Wola Lisowska	54	Lublin 1922-1940	00099	128	B Bergmann					birth record; addendum #00100				
+		Krebs	Eduard              	B	1933	Jan	Julius		"Dering, Helene"	Wola Lisowska	54	Lublin 1922-1940	00100	129	B Bergmann	R				addendum #00101 				
+		Sokolowski	Ludwig            	B	1932	Oct	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00101	130	B Bergmann	R				addendum #00102 				
+		Neumann	Eva	B	1933	Aug	Emil		"Kassner, Wanda"	Trojnia	54	Lublin 1922-1940	00102	131	B Bergmann	R				addendum #00103 				
+		Pinkowski	Ewald	B	1933	Sep	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1922-1940	00103	132	B Bergmann	R				addendum #00104 				
+		Markwart	Arnold	B	1934	Jan	Edmund		"Noerenberg, Emma"	Wola Lisowska	54	Lublin 1922-1940	00104	133	B Bergmann	R				addendum #00105 				
+		Kaus	August	B	1934	Jan	Julius		"Jung, Natalie"	Wolka Zablocka	54	Lublin 1922-1940	00105	134	B Bergmann	R				addendum #00106 				
+		Jobs	Ludwig	B	1934	Apr	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00106	135	B Bergmann	R				addendum #00107 				
+		Preuss	Margarete	B	1934	Jul	Adolf		"Krebs, Leokadia"	Wola Lisowska	54	Lublin 1922-1940	00107	136	B Bergmann	R				addendum #00108 				
+		Grams	Linda	B	1934	Aug	Hermann		"Hintz, Frieda"	Trojnia	54	Lublin 1922-1940	00108	137	B Bergmann	R				addendum #00109 				
+		Sokolowski	Julianna	B	1934	Dec	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00109	138	B Bergmann	R				addendum #00110 				
+		Riske	Johanna	B	1935	Mar	August		"Grams, Olga"	Wola Lisowska	54	Lublin 1922-1940	00110	139	B Bergmann	R				addendum #00111 				
+		Grams	Edwin	B	1935	Jan	Hermann		"Kropp, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00111	140	B Bergmann	R				addendum #00112 				
+		Markwart	stillborn male	D	1935	Mar	Gustav		"Kaus, Wanda"	Wola Lisowska	54	Lublin 1922-1940	00112	141	B Bergmann					birth record; addendum #00113				
+		Jobs	Rudolf	B	1935	Aug	Ludwig		"Noerenberg, Natalie"	Wola Lisowska	54	Lublin 1922-1940	00113	142	B Bergmann	R				addendum #00114 				
+		Pinkowski	Artur	B	1935	Nov	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1922-1940	00114	143	B Bergmann	R				addendum #00115 				
+		Betker	Herta	B	1936	Feb	Emil		"Noerenberg, Ottilie   "	Trojnia	54	Lublin 1922-1940	00115	144	B Bergmann	R				addendum #00116 				
+		Duelge	Emma	B	1935	Dec	Hermann		"Noerenberg, Ottilie Natalie"	Zawada	54	Lublin 1922-1940	00116	145	B Bergmann	R				addendum #00117 				
+		Krebs	Wanda	B	1935	Sep	Julius		"Dering, Helene"	Wola Lisowska	54	Lublin 1922-1940	00117	146	B Bergmann	R				addendum #00118 				
+		Markwart	Blandina	B	1935	Nov	Edmund		"Noerenberg, Emma"	Wola Lisowska	54	Lublin 1922-1940	00118	147	B Bergmann	R				addendum #00119 				
+		Buzin	Sigismund	B	1936	May	Ludwig		"Gudrian, Ottilie"	Leszkowice	54	Lublin 1922-1940	00119	148	B Bergmann	R				addendum #00120 				
+		Lokstein	Frieda	B	1936	Jan	Emil		"Lokstein, Luise"	Wolka Zablocka	54	Lublin 1922-1940	00120	149	B Bergmann	R				addendum #00121 				
+		Markwart	Julianna	B	1936	Oct	Gustav		"Kaus, Wanda"	Wola Lisowska	54	Lublin 1922-1940	00121	150	B Bergmann	R				addendum #00122 				
+		Preuss	Hermann	B	1936	Sep	Adolf		"Krebs, Leokadia"	Wola Lisowska	54	Lublin 1922-1940	00122	151	B Bergmann	R				addendum #00123 				
+		Banik	Blandina	B	1936	Aug	Michael		"Guenther, Emilie"	Wola Lisowska	54	Lublin 1922-1940	00123	152	B Bergmann	R				addendum #00124 				
+		Sokolowski	Reinhold	B	1937	Feb	August		"Noerenberg, Lydia"	Wola Lisowska	54	Lublin 1922-1940	00124	153	B Bergmann	R				addendum #00125 				
+		Noerenberg	Richard	B	1937	Feb	Samuel		"Betker, Wanda"	Wola Lisowska	54	Lublin 1922-1940	00125	154	B Bergmann	R				addendum #00126 				
+		Winter	Berta	B	1937	Jun	Gustav		"Noerenberg, Natalie"	Trojnia	54	Lublin 1922-1940	00126	155	B Bergmann	R				addendum #00127 				
+		Golz	stillborn male	D	1937	Aug	Friedrich		"Kaus, Ottilie"	Lubartow	54	Lublin 1922-1940	00127	156	B Bergmann					twin; birth record; addendum #00128				
+		Golz	Alfred	B	1937	Aug	Friedrich		"Kaus, Ottilie"	Lubartow	54	Lublin 1922-1940	00128	157	B Bergmann	R				twin; brother died;  addendum #00129				
+		Egert	Wanda	B	1937	Nov	Hermann		"Nerling, Mathilde"	Wola Lisowska	54	Lublin 1922-1940	00129	158	B Bergmann	R				addendum #00130 				
+		Neumann	Sigmund	B	1938	Feb	Emil		"Kassner, Wanda"	Trojnia	54	Lublin 1922-1940	00130	159	B Bergmann	R				addendum #00131 				
+		Luedke	Felix Erwin	B	1938	Feb	Adolf		"Filipp, Ottilie"	Modzelowka (Folwark)	54	Lublin 1922-1940	00131	160	B Bergmann	R				addendum #00132 				
+		Jung	Leokadia	B	1938	Jul	Edmund		"Kebke, Natalie"	Wolka Zablocka	54	Lublin 1922-1940	00132	161	B Bergmann	R				addendum #00133 				
+		Betker	Berta	B	1939	Jan	Emil		"Noerenberg, Ottilie   "	Trojnia	54	Lublin 1922-1940	00133	163	B Bergmann	R				addendum #00134 				
+		Grams	Eduard	B	1939	Feb	Michael		"Grams, Lydia"	Trojnia	54	Lublin 1922-1940	00134	164	B Bergmann	R				addendum #00135 				
+		Pinkowski	Elsa	B	1938	Jul	August		"Kunkel, Olga"	Wola Lisowska	54	Lublin 1922-1940	00135	162	B Bergmann	R				addendum #00136 				
+		Luedke	Sophie	B	1939	May	Friedrich		"Wutzke, Olga"	Cichostow	54	Lublin 1922-1940	00136	166	B Bergmann	R				addendum #00137 				
+		Meier	Olga	B	1934	Jun	Friedrich		"Wenzel, Wanda"	Antonin	54	Lublin 1922-1940	00138	111	B Bergmann	R				addendum #00139 				
+		Schulz	Alfons	B	1934	Sep	Gustav		"Jabusch, Ottilie"	Antonin	54	Lublin 1922-1940	00139	112	B Bergmann	R				addendum #00140 				
+		Hinz	Margarete	B	1934	Sep	August		"Schulz, Natalie"	Antonin	54	Lublin 1922-1940	00140	113	B Bergmann	R				addendum #00141 				
+		Streich	Olga	B	1934	Nov	Friedrich		"Rutsch, Natalie"	Antonin	54	Lublin 1922-1940	00141	114	B Bergmann	R				addendum #00142 				
+		Kropp	Siegfried	B	1935	Jan	Gottlieb		"Schubert, Emilie"	Antonin	54	Lublin 1922-1940	00142	115	B Bergmann	R				addendum #00143 				
+		Seidens	Frieda	B	1935	Jan	Alexander     		"Hintz, Natalie"	Antonin	54	Lublin 1922-1940	00143	116	B Bergmann	R				addendum #00144 				
+		Duelge	Lydia	D	1935	Oct	Edmund		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00144	117	B Bergmann	R				addendum #00145 				
+		Schirmel	Balwina	B	1928	Jan	Gustav Emil		"Schroeder, Katharina"	Bekiesza	54	Lublin 1922-1940	00145	118	B Bergmann	R				addendum #00146 				
+		Kassner or Siewert	Alfred            	B	1930	Dec	unknown/unbekannt		"Siewert, Helene"	Antonin	54	Lublin 1922-1940	00146	119	B Bergmann	R				addendum #00147; born out of wedlock				
+		Klingbeil	Artur	B	1935	May	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00147	120	B Bergmann	R				addendum #00148 				
+		Grams	Wanda	B	1935	Dec	Hermann		"Hintz, Frieda"	Antonin	54	Lublin 1922-1940	00148	121	B Bergmann	R				addendum #00149 				
+		Teske	Adoline	B	1935	Dec	Karl		"Kwirant, Matilde"	Antonin	54	Lublin 1922-1940	00149	122	B Bergmann	R				addendum #00150 				
+		Meier	Julius	B	1936	Feb	Friedrich		"Wenzel, Wanda Natalie"	Antonin	54	Lublin 1922-1940	00150	123	B Bergmann	R				addendum #00151-l				
+		Dering	Ewald	B	1936	Apr	Michael		"Meier, Augustine"	Antonin	54	Lublin 1922-1940	00152	124	B Bergmann	R				addendum #00151-r				
+		Tiede	Eduard	B	1936	Aug	unknown/unbekannt		"Tiede, Lydia"	Antonin	54	Lublin 1922-1940	00152	125	B Bergmann	R				addendum #00153 				
+		Rutsch	Adoline	B	1936	Nov	Wilhelm		"Radke, Natalie"	Antonin	54	Lublin 1922-1940	00153	126	B Bergmann	R				addendum #00154-l				
+		Seidens	Wanda	B	1937	Mar	Alexander     		"Hintz, Natalie"	Antonin	54	Lublin 1922-1940	00155	127	B Bergmann	R				addendum #00154-r				
+		Grams	Siegmund	B	1937	Aug	Hermann		"Hintz, Frieda"	Antonin	54	Lublin 1922-1940	00155	128	B Bergmann	R				addendum #00156-l				
+		Hintz	Lydia	B	1937	Sep	August		"Grams, Julianna Augustine"	Antonin	54	Lublin 1922-1940	00157	129	B Bergmann	R				addendum #00156-r 				
+		Braun	Blandina	B	1937	Oct	Rudolf		"Meier, Lydia"	Antonin	54	Lublin 1922-1940	00157	130	B Bergmann	R				twin; addendum #00158-l				
+		Braun	Wanda	B	1937	Oct	Rudolf		"Meier, Lydia"	Antonin	54	Lublin 1922-1940	00159	131	B Bergmann	R				twin; addendum #00158-r				
+		Siewert	Frieda	B	1935	Apr	unknown/unbekannt		"Siewert, Olga"	Antonin	54	Lublin 1922-1940	00159	132	B Bergmann	R				addendum #00160 				
+		Kuehn	Erwin	B	1937	Dec	Rudolf		"Kufeld, Natalie"	Antonin	54	Lublin 1922-1940	00160	133	B Bergmann	R				addendum #00161-l				
+		Meier	Emertiana	B	1938	Feb	Friedrich		"Wenzel, Wanda"	Antonin	54	Lublin 1922-1940	00162	134	B Bergmann	R				addendum #00161-r				
+		Werner	Adele Alfreda	B	1938	Mar	Emil		"Meier, Lydia"	Antonin	54	Lublin 1922-1940	00163	135	B Bergmann	R				addendum #00162-r				
+		Pinkowski	Marianna	B	1938	Apr	Julius		"Schulz, Ida"	Antonin	54	Lublin 1922-1940	00163	136	B Bergmann	R				addendum #00164				
+		Dering	Adelgunde	B	1938	Apr	Michael		"Meier, Augustine"	Antonin	54	Lublin 1922-1940	00164	137	B Bergmann	R				addendum #00165-l				
+		Klingbeil	Lydia	B	1938	Jan	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00166	138	B Bergmann	R				addendum #00165-r				
+		Duelge	Siegmund	B	1938	Jun	Edmund		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00167	139	B Bergmann	R				addendum #00168 	1			
+		Kuehn	Edwin	B	1939	Mar	Rudolf		"Kufeld, Natalie"	Antonin	54	Lublin 1922-1940	00169	140	B Bergmann	R				addendum #00170 				
+		Jabusch	Wanda	B	1939	May	Adolf		"Marks, Valentine"	Antonin	54	Lublin 1922-1940	00171	142	B Bergmann	R				addendum #00172 				
+		Oelke	Margarete	B	1939	Apr	Edmund		"Egert, Natalie"	Wolka Rozwadowska	54	Lublin 1922-1940	00173	141	B Bergmann	R				addendum #00174 				
+		Hintz	Anna	B	1939	May	August		"Schultz, Natalie"	Antonin	54	Lublin 1922-1940	00175	143	B Bergmann	R				addendum #00176 				
+		Egert	Alexandra	B	1939	Feb	August		"Egert, Lydia"	Wolka Rozwadowska	54	Lublin 1922-1940	00177	144	B Bergmann	R				addendum #00178 				
+		Meier	Adele   	B	1939	Jul	Friedrich		"Wenzel, Wanda Natalie"	Antonin	54	Lublin 1922-1940	00179	145	B Bergmann	R				addendum #00180 				
+		Braun	Elisabeth	B	1939	May	Rudolf		"Meier, Lydia"	Antonin	54	Lublin 1922-1940	00181	110	B Bergmann	R				addendum #00182 				
+		Wagner  	Adolf	B	1936	Apr	Karl		"Wagner, Berta"	Borkowizna	54	Lublin 1922-1940	00183	87	B Bergmann	R				addendum #00184				
+		Siering	Wilhelm	B	1936	Nov	Ludwig		Sophie	Borkowizna	54	Lublin 1922-1940	00184	88	B Bergmann	R				addendum #00185				
+		Kopp	Eduard	B	1937	Jan	Siegfried		Anna	Borkowizna	54	Lublin 1922-1940	00185	89	B Bergmann	R				addendum #00186				
+		Siering	Herta	B	1937	Aug	Ludwig		"Siering, Maria     "	Borkowizna	54	Lublin 1922-1940	00186	90	B Bergmann	R				addendum #00187				
+		Martin	Irma	B	1938	Mar	Ludwig		"Siering, Wanda"	Borkowizna	54	Lublin 1922-1940	00187	91	B Bergmann	R				addendum #00188				
+		Schwarz	Lydia	B	1938	Feb	unknown/unbekannt		"Schwarz, Amalia"	Sobieszczany	54	Lublin 1922-1940	00190	92	B Bergmann	R				addendum #00191				
+		Wagner   	Adolf	B	1938	Aug	Friedrich		"Riemer, Wanda     "	Borkowizna	54	Lublin 1922-1940	00191	93	B Bergmann	R				addendum #00192				
+		Wagner	Wilhelm	B	1939	Jan	Karl		"Orlowski, Berta"	Borkowizna	54	Lublin 1922-1940	00192	96	B Bergmann	R								
+		Siering	Wanda	B	1939	Mar	Ludwig		"Becker, Sophie"	Marysin	54	Lublin 1922-1940	00193	97	B Bergmann	R				addendum #00194				
+		Mueller	Viktor	B	1938	Dec	Heinrich		Marta	Sobieszczany	54	Lublin 1922-1940	00194	95	B Bergmann	R				twin; addendum #00195				
+		Mueller	Ewald	B	1938	Dec	Heinrich		Marta	Sobieszczany	54	Lublin 1922-1940	00195	94	B Bergmann	R				twin; addendum #00196				
+		Wagner	Wilhelm	B	1939	Jan	Karl		"Orlowski, Berta"	Borkowizna		Lublin 1922-1940	00196	96	B Bergmann	R				addendum #00197				
+		Becker	Adolf Willi	B	1939	Nov	Alexander     		"Siering, Christine"	Debszczyczna	54	Lublin 1922-1940	00197	98	B Bergmann	R								
+		Kiri	Elfriede	B	1940	Feb	Friedrich			Borkowizna	54	Lublin 1922-1940	00198	99	B Bergmann	R				addendum #00199				
+		Jeske	Johanna	B	1940	Feb	Andreas		Christine	Rechta (=Kolonia Kielczewice Dolne)	54	Lublin 1922-1940	00199	100	B Bergmann	R				addendum #00200				
+		Siering	Linda	B	1940	Mar	Otto		Ida	Borkowizna	54	Lublin 1922-1940	00200	101	B Bergmann	R				addendum #00201				
+		Siering	Kurt	B	1940	Jul	Friedrich		Lydia	Borkowizna	54	Lublin 1922-1940	00201	102	B Bergmann	R				addendum #00202 				
+		Wagner     	Robert	B	1930	Jan	Friedrich		"Siering, Sophie"	Borkowizna	54	Lublin 1922-1940	00203	57	B Bergmann	R				addendum #00204 				
+		Becker	Richard	B	1930	Apr	Johann			Borkowizna	54	Lublin 1922-1940	00204	58	B Bergmann	R				twin; addendum #00205				
+		Becker	Erna	B	1930	Apr	Johann			Borkowizna	54	Lublin 1922-1940	00205	59	B Bergmann	R				twin; addendum #00206				
+		Kopp	Margarete	B	1930	Jul	Siegfried		"Martin, Anna"	Borkowizna	54	Lublin 1922-1940	00206	60	B Bergmann	R				addendum #00207 				
+		Keilbart	Alma	B	1931	Feb	Christian		"Becker, Barbara"	Borkowizna	54	Lublin 1922-1940	00207	61	B Bergmann	R				addendum #00208 				
+		Erbert	Erika	B	1931	Feb	Rudolf		"Wolf, Berta"	Sobieszczany	54	Lublin 1922-1940	00208	62	B Bergmann	R				addendum #00209 				
+		Martin	Erwin	B	1931	Sep	Ludwig		"Siering, Wanda"	Borkowizna	54	Lublin 1922-1940	00209	63	B Bergmann	R				addendum #00210 				
+		Siering	Eduard	B	1931	Oct	Johann		"Becker, Olga"	Borkowizna	54	Lublin 1922-1940	00210	64	B Bergmann	R				addendum #00211 				
+		Wagner 	Richard	B	1931	Nov	Friedrich		"Dreger, Olga"	Borkowizna	54	Lublin 1922-1940	00211	65	B Bergmann	R				addendum #00212 				
+		Kopp	Marta	B	1932	Apr	Siegfried		"Martin, Anna"	Borkowizna	54	Lublin 1922-1940	00212	66	B Bergmann	R				addendum #00213 				
+		Wutzke	Erika	B	1932	May	Edmund		"Wagner, Ottilie     "	Borkowizna	54	Lublin 1922-1940	00213	67	B Bergmann	R				addendum #00214 				
+		Becker	Herta	B	1932	May	Johann		"Wagner, Emilie"	Borkowizna	54	Lublin 1922-1940	00214	68	B Bergmann	R				addendum #00215 				
+		Keilbart	stillborn female	D	1932	Sep	Christian		"Becker, Barbara"	Borkowizna	54	Lublin 1922-1940	00215	69	B Bergmann					birth record; addendum #00216				
+		Martin	Ida	B	1933	Jan	Ludwig		"Siering, Wanda"	Borkowizna	54	Lublin 1922-1940	00216	70	B Bergmann	R				addendum #00217 				
+		Schwartz	Helene	B	1932	Jun	Julius		"Bluechert, Florentine"	Sobieszczany	54	Lublin 1922-1940	00217	71	B Bergmann	R				addendum #00218 				
+		Mueller	Edith	B	1933	May	Reinhold		"Mueller, Lydia"	Sobieszczany	54	Lublin 1922-1940	00218	72	B Bergmann	R				addendum #00219 				
+		Kiri	Lydia	B	1933	Jun	Ludwig		"Hassinger, Olga"	Borkowizna	54	Lublin 1922-1940	00219	73	B Bergmann	R				addendum #00220 				
+		Becker	Martha	B	1933	Jul	Alexander     		"Siering, Christine    "	Borkowizna	54	Lublin 1922-1940	00220	74	B Bergmann	R								
+		Siering	Robert	B	1933	Sep	Heinrich		"Siering, Katharina"	Borkowizna	54	Lublin 1922-1940	00221	75	B Bergmann	R				addendum #00222 				
+		Wagner 	Helmut	B	1933	Oct	Karl		"Orlowski, Berta"	Borkowizna	54	Lublin 1922-1940	00222	76	B Bergmann	R				addendum #00223 				
+		Wagner	Erna	B	1934	Jan	Friedrich		"Dreger, Olga"	Borkowizna	54	Lublin 1922-1940	00223	77	B Bergmann	R				addendum #00224 				
+		Jerke	Alicia	B	1934	Mar	Andreas Hermann		"Siering, Christine"	Rechta	54	Lublin 1922-1940	00224	78	B Bergmann	R				addendum #00225 				
+		Siering	Ida	B	1934	Jun	Johann		"Becker, Olga"	Borkowizna	54	Lublin 1922-1940	00225	79	B Bergmann	R				addendum #00226 				
+		Wagner  	Ferdinand	B	1934	Nov	Karl		"Orlowski, Berta"	Borkowizna	54	Lublin 1922-1940	00226	80	B Bergmann	R				addendum #00227 				
+		Siering	Alma	B	1935	Jan	Johann 		"Kopp, Christine"	Borkowizna	54	Lublin 1922-1940	00227	81	B Bergmann	R				addendum #00228 				
+		Wagner   	Waldine	B	1935	Mar	Philipp		"Siering, Emilie           "	Borkowizna	54	Lublin 1922-1940	00228	82	B Bergmann	R				addendum #00229 				
+		Siering	Rudolf	B	1935	Mar	Ludwig		"Becker, Sophie         "	Borkowizna	54	Lublin 1922-1940	00229	83	B Bergmann	R				addendum #00230 				
+		Wagner	Wanda	B	1935	Jun	Friedrich		"Dreger, Olga"	Borkowizna	54	Lublin 1922-1940	00230	84	B Bergmann	R				addendum #00231 				
+		Martin	Reinhold	B	1935	Jul	Ludwig		"Siering, Wanda"	Borkowizna	54	Lublin 1922-1940	00231	85	B Bergmann	R								
+		Siering	Edna	B	1935	Sep	Heinrich		Katharina	Borkowizna	54	Lublin 1922-1940	00232	86	B Bergmann	R				addendum #00233 				
+		Hintz	Reinhard	B	1932	Mar	August		"Schulz, Natalie"	Antonin	54	Lublin 1922-1940	00233	94	B Bergmann	R				addendum #00234 				
+		Lother	Eduard	B	1932	Apr	Otto		"Hefner, Ottilie"	Antonin	54	Lublin 1922-1940	00235	95	B Bergmann	R				addendum #00236 				
+		Schulz	Erna	B	1932	Jul	Gustav		"Jabusch, Ottilie"	Antonin	54	Lublin 1922-1940	00237	96	B Bergmann	R				addendum #00238 				
+		Lother	Reimund	B	1932	Jul	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1922-1940	00239	97	B Bergmann	R				addendum #00240 				
+		Maier	August	B	1932	Sep	Friedrich		"Wenzel, Wanda Natalie"	Antonin	54	Lublin 1922-1940	00241	98	B Bergmann	R				addendum #00242 				
+		Kropp	Blandina	B	1932	Dec	Ludwig		"Schubert, Mathilde"	Lipniak	54	Lublin 1922-1940	00242	99	B Bergmann	R				addendum #00243 				
+		Jeske	Artur	B	1932	Nov	Gustav		"Tonn, Olga"	Antonin	54	Lublin 1922-1940	00243	100	B Bergmann	R				addendum #00244 				
+		Oelke	Blandina	B	1933	Jul	Edmund		"Egert, Natalie"	Wolka Rozwadowska	54	Lublin 1922-1940	00244	101	B Bergmann	R				addendum #00245 				
+		Hintz	Erna	B	1933	Aug	August		"Schulz, Natalie"	Antonin	54	Lublin 1922-1940	00245	102	B Bergmann	R				addendum #00246 				
+		Streich	Eduard	B	1933	Oct	Friedrich		"Buss, Natalie"	Antonin	54	Lublin 1922-1940	00246	103	B Bergmann	R				addendum #00247 				
+		Meier	Artur	B	1933	Dec	Johann		"Schubert, Julianna"	Antonin	54	Lublin 1922-1940	00247	104	B Bergmann	R				addendum #00248 				
+		Lother	Margarete	B	1933	Oct	Otto		"Hefner, Ottilie"	Antonin	54	Lublin 1922-1940	00248	105	B Bergmann	R				addendum #00249 				
+		Ziegelmann	Alfreda	B	1933	Dec	Gottlieb		"Schirling, Agathe"	Kock	54	Lublin 1922-1940	00249	106	B Bergmann	R				addendum #00250 				
+		Egert	Helene	B	1933	Nov	August		"Egert, Lydia"	Antonin	54	Lublin 1922-1940	00250	107	B Bergmann	R				addendum #00251 				
+		Dering	Adele    	B	1934	Mar	Michael		"Meier, Auguste"	Lubartow	54	Lublin 1922-1940	00251	108	B Bergmann	R				addendum #00252 				
+		Telker	Richard	B	1934	Feb	Eduard		"Jeske, Natalie"	Lubartow	54	Lublin 1922-1940	00252	109	B Bergmann	R				addendum #00253 				
+		Kropp	Richard	B	1931	Jul	Gottlieb		"Schubert, Emilie"	Antonin	54	Lublin 1922-1940	00253	92	B Bergmann	R				addendum #00254 				
+		Klingbeil	Adele   	B	1931	Apr	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00255	93	B Bergmann	R				addendum #00256 				
+		Neudorf	Alicia	B	1930	Oct	Ludwig		"Egert, Ottilie"	Antonin	54	Lublin 1922-1940	00257	84	B Bergmann	R				addendum #00258 				
+		Schulz	Nelli	B	1931	Mar	Gustav		"Jabusch, Ottilie"	Antonin	54	Lublin 1922-1940	00259	86	B Bergmann	R				addendum #00260 				
+		Siewert	Linda	B	1931	Jan	Julius		"Patzer, Auguste"	Antonin	54	Lublin 1922-1940	00261	85	B Bergmann	R				addendum #00262 				
+		Dering	Reimund	B	1931	Mar	Michael		"Meier, Auguste"	Lubartow	54	Lublin 1922-1940	00263	87	B Bergmann	R				addendum #00264 				
+		Hintz	Erna	B	1931	Jun	Julius		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00265	90	B Bergmann	R				addendum #00266 				
+		Jabusch	Lisbeth	B	1931	Apr	Adolf		"Marks, Valentine"	Antonin	54	Lublin 1922-1940	00267	88	B Bergmann	R				addendum #00268 				
+		Meier	Blandina	B	1931	Jun	Johann		"Schubert, Julianna"	Antonin	54	Lublin 1922-1940	00269	89	B Bergmann	R				addendum #00270 				
+		Hintz	Emma	B	1931	Dec	Julius		"Stunich?, Wanda"	Antonin	54	Lublin 1922-1940	00271	91	B Bergmann	R				addendum #00272 				
+		Meier	Heinrich	B	1921	Jan	Johann		"Schubert, Julianna"	Lipniak	54	Lublin 1922-1940	00273	16	B Bergmann	R				addendum #00274 				
+		Teske	Hermann	B	1921	Apr	Karl		"Roechert, Eva"	Antonin	54	Lublin 1922-1940	00274	17	B Bergmann	R				addendum #00275 				
+		Patzwald or Hein	Julianna	B	1921	Jun	unknown/unbekannt		"Patzwald, Emilie"	Antonin	54	Lublin 1922-1940	00275	18	B Bergmann	R				addendum #00276; born out of wedlock				
+		Patzwald	Wanda	B	1921	Aug	Wilhelm		"Duesterhoeft, Luise"	Folwark	54	Lublin 1922-1940	00276	19	B Bergmann	R				addendum #00277 				
+		Heine	Reinhold	B	1921	May	Daniel		"Frieske, Theophile"	Antonin	54	Lublin 1922-1940	00277	20	B Bergmann	R				addendum #00278 				
+		Siewert	Eduard	B	1920	Apr	Christian		"Klingbeil, Helene"	Antonin	54	Lublin 1922-1940	00278	21	B Bergmann	R				addendum #00279 				
+		Schulz	Edmund	B	1922	Feb	Gustav  		"Beier, Anne"	Antonin	54	Lublin 1922-1940	00279	23	B Bergmann	R				addendum #00280-l				
+		Schulz	Anna	B	1920	Jun	Christoph		"Simon, Emilie"	Baran	54	Lublin 1922-1940	00281		B Bergmann	R				addendum #00280-r				
+		Klingbeil	Anna	B	1922	Jul	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00282	24	B Bergmann	R				addendum #00283 				
+		Egert	Ottilie	B	1922	Jul	August		"Richke?, Auguste"	Wolka Rozwadowska	54	Lublin 1922-1940	00283	25	B Bergmann	R				addendum #00284 				
+		Drews	Berta	B	1922	Jul	Gottlieb		"Lemke, Emilie"	Antonin	54	Lublin 1922-1940	00284	26	B Bergmann	R				addendum #00285 				
+		Meier	Natalie	B	1922	Oct	Johann		"Schubert, Julianna"	Lipniak	54	Lublin 1922-1940	00285	27	B Bergmann	R				addendum #00286 				
+		Siewert or Labrenz	Adolf	B	1922	Sep	unknown/unbekannt		"Siewert, Justine"	Antonin	54	Lublin 1922-1940	00286	28	B Bergmann	R				addendum #00287; born out of wedlock				
+		Meier	Marianne	B	1918	Mar	Johann   		"Schubert, Julianna"	"Rajewka, Ufa, Russland"	54	Lublin 1922-1940	00287	29	B Bergmann					addendum #00288 				
+		Jeske	Erich	B	1923	Feb	Friedrich       		"Sauder, Emilie"	Lipniak	54	Lublin 1922-1940	00288	30	B Bergmann	R				addendum #00289 				
+		Siewert	Emma	B	1923	Feb	Gustav        		"Labrenz, Theophile"	Antonin	54	Lublin 1922-1940	00289	31	B Bergmann	R				addendum #00290 				
+		Hintz	Erich	B	1923	Feb	Julius		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00290	32	B Bergmann	R				addendum #00291 				
+		Klingbeil	Johanna	B	1923	Aug	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00291	33	B Bergmann	R				addendum #00292 				
+		Dering	Erich	B	1923	Oct	Michael		"Meier, Auguste"	Antonin	54	Lublin 1922-1940	00292	34	B Bergmann	R				addendum #00293 				
+		Teske	Margarete	B	1923	Oct	Karl		"Reichert, Eva"	Antonin	54	Lublin 1922-1940	00293	35	B Bergmann	R				addendum #00294 				
+		Hintz	Reinhold	B	1924	Feb	Julius		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00294	36	B Bergmann	R				addendum #00295 				
+		Schulz	Ferdinand	B	1924	Mar	Gustav        		"Beier, Anna"	Antonin	54	Lublin 1922-1940	00295	37	B Bergmann	R				addendum #00296 				
+		Lother	Linda	B	1924	Mar	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1922-1940	00296	38	B Bergmann	R				addendum #00297 				
+		Meier	Eduard                 	B	1924	Jun	Johann		"Schubert, Julianna"	Antonin	54	Lublin 1922-1940	00297	39	B Bergmann	R				addendum #00298 				
+		Kufeld	Hermann	B	1924	Jun	Michael		"Weiss, Emilie"	Antonin	54	Lublin 1922-1940	00298	40	B Bergmann	R				addendum #00299 				
+		Marks	Edmund	B	1924	Aug	Rudolf		"Hintz, Ottilie"	Czerwonka	54	Lublin 1922-1940	00299	41	B Bergmann	R				addendum #00300 				
+		Jabusch	Arthur	B	1925	Jan	Adolf		"Marks, Waldine"	Antonin	54	Lublin 1922-1940	00300	42	B Bergmann	R				addendum #00301 				
+		Kuehn	Mathilde	B	1925	Feb	Eduard		"Ziegmeier, Ernestine"	Antonin	54	Lublin 1922-1940	00301	43	B Bergmann	R				addendum #00302 				
+		Hintz	Eduard                 	B	1925	Apr	Julius		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00302	44	B Bergmann	R				addendum #00303 				
+		Klingbeil	Auguste	B	1925	Apr	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00303	45	B Bergmann	R				addendum #00304-l				
+		Klingbeil	Serafine	B	1925	Oct	August		"Siewert, Justine"	Antonin	54	Lublin 1922-1940	00305	46	B Bergmann	R				addendum #00304-r				
+		Siewert	Blandine	B	1925	Nov	Julius		"Patzer, Auguste"	Antonin	54	Lublin 1922-1940	00305	47	B Bergmann	R				addendum #00306 				
+		Neudorf	Walter	B	1925	Dec	Ludwig		"Egert, Ottilie"	Antonin	54	Lublin 1922-1940	00306	48	B Bergmann	R				addendum #00307 				
+		Kropp	Eduard	B	1925	Dec	Gottlieb		"Schubert, Emilie"	Lipniak	54	Lublin 1922-1940	00307	49	B Bergmann	R				addendum #00308 				
+		Lother	Blandine	B	1926	Mar	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1922-1940	00308	50	B Bergmann	R				addendum #00309 				
+		Siewert	Gustav	B	1925	May	Christian		"Klingbeil, Helene"	Antonin	54	Lublin 1922-1940	00309	51	B Bergmann	R				addendum #00310 				
+		Streich	Linda	B	1926	Aug	Friedrich		"Rutsch, Natalie"	Antonin	54	Lublin 1922-1940	00310	52	B Bergmann	R				addendum #00311 				
+		Heffner	Elsa	B	1927	Aug	Friedrich		"Siewert, Helene"	Antonin	54	Lublin 1922-1940	00311	53	B Bergmann	R				addendum #00312 				
+		Heffner	Bertha	B	1924	May	Friedrich		"Siewert, Helene"	Antonin	54	Lublin 1922-1940	00312	54	B Bergmann	R				addendum #00313 				
+		Klingbeil	Julius	B	1926	Aug	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00313	55	B Bergmann	R				addendum #00314 				
+		Meier	Natalie	B	1926	Dec	Johann           		"Schubert, Julianna"	Antonin	54	Lublin 1922-1940	00314	56	B Bergmann	R				addendum #00315 				
+		Kropp	Gustav	B	1927	Jan	Gottlieb		"Schubert, Emilie"	Lipniak	54	Lublin 1922-1940	00315	57	B Bergmann	R				addendum #00316 				
+		Hintz	Hermann	B	1927	Jan	Julius		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00316	58	B Bergmann	R				addendum #00317 				
+		Kufeld	Arthur	B	1926	Dec	Michael		"Weiss, Emilie"	Antonin	54	Lublin 1922-1940	00317	59	B Bergmann	R				addendum #00318 				
+		Siewert	Erna	B	1927	Jan	Julius		"Patzer, Auguste"	Antonin	54	Lublin 1922-1940	00318	60	B Bergmann	R				addendum #00319 				
+		Drews	Erich	B	1927	Mar	Gottlieb		"Lemke, Emilie"	Antonin	54	Lublin 1922-1940	00319	61	B Bergmann	R				addendum #00320 				
+		Schimmel	Katarina	B	1924	May	Gustav Emil		"Schoer, Katarina"	Michow	54	Lublin 1922-1940	00320	62	B Bergmann	R				addendum #00321 				
+		Hintz	Johanna	B	1927	Dec	August		"Schulz, Natalie"	Antonin	54	Lublin 1922-1940	00321	63	B Bergmann	R				addendum #00322 				
+		Luedke	Arnhold	B	1928	Mar	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1922-1940	00322	64	B Bergmann	R				addendum #00323 				
+		Heffner	Eduard	B	1927	Feb	Friedrich		"Siewert, Helene"	Antonin	54	Lublin 1922-1940	00323	65	B Bergmann	R				addendum #00324 				
+		Jabusch	Herbert	B	1928	Apr	Adolf		"Marks, Baldine"	Antonin	54	Lublin 1922-1940	00324	66	B Bergmann	R				addendum #00325 				
+		Tiede	Auguste	B	1928	Mar	unknown/unbekannt		"Tiede, Lydia"	Antonin	54	Lublin 1922-1940	00325	67	B Bergmann	R				addendum #00326 				
+		Neudorf	Wilhelm	B	1928	Oct	Ludwig		"Egert, Ottilie"	Antonin	54	Lublin 1922-1940	00326	68	B Bergmann	R				addendum #00327 				
+		Hintz	Herta	B	1928	Sep	Julius		"Streich, Wanda"	Antonin	54	Lublin 1922-1940	00327	69	B Bergmann	R				addendum #00328 				
+		Seidens	Arnhold	B	1928	Nov	Alexander     		"Hintz, Natalie"	Antonin	54	Lublin 1922-1940	00328	70	B Bergmann	R				addendum #00329 				
+		Kropp	Lydia	B	1929	Feb	Gottlieb		"Schubert, Emilie"	Lipniak	54	Lublin 1922-1940	00329	71	B Bergmann	R				addendum #00330 				
+		Dering	Margarete	B	1929	Jan	Michael		"Meier, Auguste"	Antonin	54	Lublin 1922-1940	00330	72	B Bergmann	R				addendum #00331 				
+		Hintz	Erich	B	1929	May	August		"Schulz, Natalie"	Antonin	54	Lublin 1922-1940	00331	73	B Bergmann	R				twin; sister was stillborn; addendum #00332 				
+		Hintz	stillborn female	D	1929	May	August		"Schulz, Natalie"	[Antonin]	54	Lublin 1922-1940	00332	74	B Bergmann					twin; birth record; addendum #00333 				
+		Streich	Waldemar	B	1929	May	Friedrich		"Rutsch, Natalie"	Antonin	54	Lublin 1922-1940	00333	75	B Bergmann	R				addendum #00334 				
+		Klingbeil	Eduard	B	1929	May	Emil		"Hintz, Christine"	Antonin	54	Lublin 1922-1940	00334	76	B Bergmann	R				addendum #00335 				
+		Jabusch	Linda	B	1929	Sep	Edmund		"Schulz, Hulda"	Antonin	54	Lublin 1922-1940	00335	77	B Bergmann	R				addendum #00336 				
+		Orlowski	Renate	B	1929	Sep	Gottlieb		"Jabusch, Olga"	Antonin	54	Lublin 1922-1940	00336	78	B Bergmann	R				addendum #00337 				
+		Ostrowski	Eduard	B	1929	Oct	unknown/unbekannt		"Ostrowski, Martha"	Antonin	54	Lublin 1922-1940	00337	79	B Bergmann	R				addendum #00338 				
+		Schulz	Emma	B	1929	Oct	Gustav		"Jabusch, Ottilie"	Antonin	54	Lublin 1922-1940	00338	80	B Bergmann	R				addendum #00339 				
+		Meier	Margarete	B	1930	Jun	Johann		"Schubert, Julianna"	Antonin	54	Lublin 1922-1940	00339	81	B Bergmann	R				addendum #00340 				
+		Hintz	Ewald	B	1930	Jul	August		"Schulz, Natalie"	Antonin	54	Lublin 1922-1940	00340	82	B Bergmann	R				addendum #00341 				
+		Lother	Alfred	B	1930	Jul	Adolf		"Jabusch, Leokadia"	Antonin	54	Lublin 1922-1940	00341	83	B Bergmann	R				addendum #00342 				
+		Kunkel	Viktor	B	1924	Oct	Karl		"Schulz, Apolonie"	Lukow	54	Lublin 1922-1940	00346	1	B Bergmann	R				Compilation Table				
+		Isbrecht	Roman Alfred	B	1924	Oct	Johann 		"Buchstein, Rosalie"	Alexandrow	54	Lublin 1922-1940	00346	2	B Bergmann	R				Compilation Table				
+		Appel	Daniel	B	1924	Nov	Karl		"Appel, Sophie"	Rzymy Las	54	Lublin 1922-1940	00346	3	B Bergmann	R				Compilation Table				
+		Wagner	Elfriede	B	1925	Mar	Rudolf		"Wagner, Emilie         "	Lazy	54	Lublin 1922-1940	00346	4	B Bergmann	R				Compilation Table				
+		Furmanski	Elsa	B	1925	Aug	Josef Alexander		"Fellauer, Karoline"	Suchocin	54	Lublin 1922-1940	00347	5	B Bergmann	R				Compilation Table				
+		Duesterhoeft	Albert	B	1925	Nov	Ludwig		"Labrentz, Rosalie"	Lazy	54	Lublin 1922-1940	00347	6	B Bergmann	R				Compilation Table				
+		Hartfil	Hildegard Renate	B	1925	Nov	Ferdinand		"Bartz, Lydia"	Alexandrow	54	Lublin 1922-1940	00347	7	B Bergmann	R				Compilation Table				
+		Jablonski	Alfred              	B	1926	Jan	August Rudolf		"Hackbart, Klara"	Alexandrow	54	Lublin 1922-1940	00348	8	B Bergmann	R				Compilation Table				
+		Duesterhoeft	Gustav	B	1926	Feb	unknown/unbekannt		"Duesterhoeft, Marta Elisabeth"	Alexandrow	54	Lublin 1922-1940	00348	9	B Bergmann	R				Compilation Table				
+		Jablonski	Helene	B	1926	Feb	Ferdinand		"Neumann, Frieda"	Alexandrow	54	Lublin 1922-1940	00348	10	B Bergmann	R				Compilation Table				
+		Sleds	Irene Anna	B	1926	Mar	Felix		"Berger, Natalie Susanne"	Alexandrow	54	Lublin 1922-1940	00349	11	B Bergmann	R				Compilation Table				
+		Dusdal or Jeske	Adelgunde	B	1926	Mar	unbekannt		"Dusdal, Ida"	Alexandrow	54	Lublin 1922-1940	00349	12	B Bergmann					Compilation Table; born out of wedlock; child died				
+		Isbrecht	Theodor	B	1926	Apr	Heinrich		"Steinke, Alwine"	Lazy	54	Lublin 1922-1940	00349	13	B Bergmann	R				Compilation Table				
+		Hildebrandt	Irene   	B	1926	Apr	Christian Friedrich		"Zacharias, Mathilde"	Lazy	54	Lublin 1922-1940	00349	14	B Bergmann	R				Compilation Table				
+		Ziegelmann	Eduard	B	1926	May	Gottlieb		"Schirling, Agathe"	Lazy	54	Lublin 1922-1940	00350	15	B Bergmann	R				Compilation Table				
+		Janke	Adolf              	B	1926	Sep	Robert		"Baumgart, Berta"	Alexandrow	54	Lublin 1922-1940	00350	16	B Bergmann	R				Compilation Table				
+		Fellauer	Hildegard   Eugenie	B	1926	Nov	Alexander     		"Dinski, Hulda"	Rzymy Las	54	Lublin 1922-1940	00350	17	B Bergmann	R				Compilation Table				
+		Jabs	Emmanuel	B	1927	Feb	unknown/unbekannt		"Jabs, Elisabeth"	Hanna	54	Lublin 1922-1940	00351	18	B Bergmann	R				Compilation Table				
+		Reinik	Anton Fridolin	B	1927	Mar	Adolf		"Bartz, Karoline Aniela"	Rzymy Las	54	Lublin 1922-1940	00351	19	B Bergmann	R				Compilation Table				
+		Labrentz	Marta	B	1927	Apr	Rudolf		"Mertin, Olga"	Suchocin	54	Lublin 1922-1940	00351	20	B Bergmann	R				Compilation Table				
+		Schulz	Roman      	B	1927	Apr	Karl		"Berger, Lydia"	Lukow	54	Lublin 1922-1940	00352	21	B Bergmann	R				Compilation Table				
+		Ziegelmann	Heinrich	B	1927	Jul	Gottlieb		"Schirling, Agathe"	Lukow	54	Lublin 1922-1940	00352	22	B Bergmann	R				Compilation Table				
+		Brueske	Gerhard	B	1927	Aug	Karl		"Timm, Julianna"	Lazy	54	Lublin 1922-1940	00352	23	B Bergmann	R				Compilation Table				
+		Hartfil	Richard	B	1927	Jul	Ferdinand		"Bartz, Lydia"	Lazy	54	Lublin 1922-1940	00353	24	B Bergmann	R				Compilation Table				
+		Isbrecht	Erhard Theophil	B	1927	Jul	Christian		"Keller, Pauline"	Alexandrow	54	Lublin 1922-1940	00353	25	B Bergmann	R				Compilation Table				
+		Keller	Eugenie	B	1927	Oct	Alexander     		"Keller, Anna   "	Alexandrow	54	Lublin 1922-1940	00353	26	B Bergmann	R				Compilation Table; twin 				
+		Keller	Josefa	B	1927	Oct	Alexander     		"Keller, Anna   "	Alexandrow	54	Lublin 1922-1940	00353	27	B Bergmann	R				Compilation Table; twin 				
+		Binke	Arnold	B	1927	Oct	Josef  		"Fischer, Adele"	Lazy	54	Lublin 1922-1940	00353	28	B Bergmann	R				Compilation Table				
+		Jeske	Elsa	B	1927	Oct	Rudolf		"Atman, Anna"	Alexandrow	54	Lublin 1922-1940	00354	29	B Bergmann	R				Compilation Table				
+		Edelberg	Artur	B	1927	Nov	Bernard Waldemar		"Librentz, Lydia"	Lazy	54	Lublin 1922-1940	00354	30	B Bergmann	R				Compilation Table				
+		Neumann	Frieda	B	1927	Nov	Heinrich		"Duesterhoeft, Lydia"	Lazy	54	Lublin 1922-1940	00354	31	B Bergmann	R				Compilation Table				
+		Duesterhoeft	Friedrich        	B	1928	Jun	Michael		"Jabs, Elisabeth"	Hanna	54	Lublin 1922-1940	00355	32	B Bergmann	R				Compilation Table				
+		Mauer	Konstantin	B	1928	Apr	Johann Konstantin		"Fenske, Wanda"	Lazy	54	Lublin 1922-1940	00355	33	B Bergmann	R				Compilation Table				
+		Seidens	Alicia	B	1928	Jul	Adam Eduard		"Schmidt, Elisabeth"	Lukow	54	Lublin 1922-1940	00355	34	B Bergmann	R				Compilation Table				
+		Bartz	Erwin	B	1928	Apr	Konstantin  		"Meier, Marianne Marta"	Alexandrow	54	Lublin 1922-1940	00356	35	B Bergmann	R				Compilation Table				
+		Pipke	Adolf	B	1924	Oct	Samuel		"Reinik, Marta"	Lazy	54	Lublin 1922-1940	00356	36	B Bergmann	R				Compilation Table; born out of wedlock?; mother is widow of Mueller				
+		Pipke	Erna           	B	1925	Nov	Samuel		"Reinik, Marta"	Lazy	54	Lublin 1922-1940	00356	37	B Bergmann	R				Compilation Table; born out of wedlock?; mother is widow of Mueller				
+		Isbrecht	Samuel	B	1928	Jul	Heinrich		"Steinke, Alwine"	Lazy	54	Lublin 1922-1940	00356	38	B Bergmann	R				Compilation Table				
+		Duesterhoeft	Theophil	B	1928	Sep	Ludwig		"Labrentz, Rosalie"	Lazy	54	Lublin 1922-1940	00357	39	B Bergmann	R				Compilation Table				
+		Janke	Artur	B	1928	Dec	Robert		"Baumgart, Berta"	Alexandrow	54	Lublin 1922-1940	00357	40	B Bergmann	R				Compilation Table				
+		Furmanski	Anton     	B	1928	Dec	Josef Alexander		"Fellauer, Karoline"	Suchocin	54	Lublin 1922-1940	00357	41	B Bergmann	R				Compilation Table				
+		Berger	Ferdinand Johann	B	1928	Sep	Johann		"Westfal, Albina"	Alexandrow	54	Lublin 1922-1940	00357	42	B Bergmann	R				Compilation Table; born out of wedlock?				
+		Appel	Pauline	B	1928	Oct	Karl		"Appel, Sophie"	Rzymy Las	54	Lublin 1922-1940	00358	43	B Bergmann	R				Compilation Table				
+		Edelberg	Renate	B	1929	Jan	Waldemar Bernhard		"Librentz, Lydia"	Lazy	54	Lublin 1922-1940	00358	44	B Bergmann	R				Compilation Table				
+		Neumann	Gerhard Witold	B	1929	Mar	Anton		"Labrentz, Renate"	Lazy	54	Lublin 1922-1940	00358	45	B Bergmann	R				Compilation Table				
+		Jablonski	Edfriede Edeltraud	B	1929	May	Rudolf August		"Hackbart, Klara"	Alexandrow	54	Lublin 1922-1940	00359	46	B Bergmann	R				Compilation Table				
+		Pipke	Sebald	B	1928	Aug	Samuel		"Reinik, Marta"	Lazy	54	Lublin 1922-1940	00359	47	B Bergmann	R				Compilation Table; born out of wedlock?; mother is widow of Mueller				
+		Keller	Roman       	B	1925	Jun	Alexander     		"Keller, Anna   "	Alexandrow	54	Lublin 1922-1940	00360	48	B Bergmann	R				Compilation Table				
+		Appel	Hulda Helene	B	1929	Jul	Julian		"Petrich, Mathilde"	Rzymy Las	54	Lublin 1922-1940	00360	49	B Bergmann	R				Compilation Table				
+		Duesterhoeft	Sigmund Jakob	B	1929	Jul	Michael		"Jabs, Elisabeth"	Hanna	54	Lublin 1922-1940	00360	50	B Bergmann	R				Compilation Table				
+		Neumann	Wanda Irene	B	1929	Aug	Heinrich		"Duesterhoeft, Lydia"	Lazy III	54	Lublin 1922-1940	00360	51	B Bergmann	R				Compilation Table				
+		Labrentz	Wanda    	B	1929	Aug	Rudolf		"Mertin, Olga"	Suchocin	54	Lublin 1922-1940	00361	52	B Bergmann	R				Compilation Table				
+		Seidens	Renate	B	1929	Jan	Adam Eduard		"Schmidt, Elisabeth"	Lukow	54	Lublin 1922-1940	00361	53	B Bergmann	R				Compilation Table				
+		Reinik	Emilie	B	1929	Nov	Adolf		"Bartz, Karoline   "	Rzymy Las	54	Lublin 1922-1940	00361	54	B Bergmann	R				Compilation Table				
+		Janke	Eugenius Jerenor?	B	1930	Jan	Emil		"Neumann, Natalie"	Alexandrow	54	Lublin 1922-1940	00361	55	B Bergmann	R				Compilation Table				
+		Bartz	Erika	B	1930	Apr	Konstantin  		Marianne Marta	Alexandrow	54	Lublin 1922-1940	00361	56	B Bergmann	R				Compilation Table				
+		Neumann	Otto Gerhard	B	1930	Jun	Adam  		"Janke, Lydia"	Lazy II 	54	Lublin 1922-1940	00362	57	B Bergmann	R				Compilation Table				
+		Mertin	Bernhard	B	1930	Aug	Emil		"Jeck, Olga"	Lazy III	54	Lublin 1922-1940	00362	58	B Bergmann	R				Compilation Table				
+		Jek	(ommitted)	B	1930	Sep	Alexander     		"Hoedke, Erna"	Rzymy Las	54	Lublin 1922-1940	00362	59	B Bergmann					Compilation Table				
+		Duesterhoeft	(ommitted)	B	1930	Nov	Michael		Elisa	Hanna	54	Lublin 1922-1940	00362	60	B Bergmann					Compilation Table				
+		Jablonski	Theodor	B	1934	Feb	Rudolf		"Hackbart, Klara"	Alexandrow	54	Lublin 1922-1940	00363	61	B Bergmann	R				Compilation Table				
+		Isbrecht	Sigmund	B	1930	Nov	Heinrich		"Koberstein, Alwine"	Lazy II 	54	Lublin 1922-1940	00363	62	B Bergmann	R				Compilation Table				
+		Labrentz	Adolf	B	1931	Jan	Rudolf		"Mertin, Olga"	Suchocin	54	Lublin 1922-1940	00363	63	B Bergmann	R				Compilation Table				
+		Winkler	Anton     	B	1931	Apr	Gustav		"Baumgart, Augustine"	Alexandrow	54	Lublin 1922-1940	00363	64	B Bergmann	R				Compilation Table				
+		Pipke	Fridolin	B	1931	Mar	Samuel		"Reinik, Marta"	Alexandrow	54	Lublin 1922-1940	00364	65	B Bergmann	R				Compilation Table; born out of wedlock?; mother is widow of Mueller				
+		Fellauer	Alexander	B	1931	Jun	Wilhelm		"Gerna, Wanda"	Alexandrow	54	Lublin 1922-1940	00364	66	B Bergmann	R				Compilation Table				
+		Neumann	Oswald	B	1931	Oct	August        			Alexandrow	54	Lublin 1922-1940	00364	67	B Bergmann	R				Compilation Table				
+		Duesterhoeft	Alina	B	1932	May	Michael		"Jabs, Elisa "	Hanna	54	Lublin 1922-1940	00365	68	B Bergmann	R				Compilation Table				
+		Neumann	Waldemar Erich	B	1932	May	Heinrich		"Duesterhoeft, Lydia"	Alexandrow	54	Lublin 1922-1940	00365	69	B Bergmann	R				Compilation Table				
+		Labrentz	Theodor	B	1932	Mar	Rudolf		"Mertin, Olga"	Suchocin	54	Lublin 1922-1940	00365	70	B Bergmann	R				Compilation Table				
+		Neumann	Alexander	B	1932	Oct	Adam        		"Janke, Lydia"	Lazy II 	54	Lublin 1922-1940	00366	71	B Bergmann	R				Compilation Table				
+		Bartz	Renate	B	1932	Mar	Konstantin  		"Meier, Marianne Marta"	Alexandrow	54	Lublin 1922-1940	00366	72	B Bergmann	R				Compilation Table				
+		Isbrecht	Elfriede	B	1921	Mar	Heinrich		"Koberstein, Alwine"	Lazy	54	Lublin 1922-1940	00368	1	B Bergmann	R								
+		Felske	Wanda	B	1921	Apr	Gustav		"Hermann, Mathilde"	Lazy	54	Lublin 1922-1940	00369	2	B Bergmann	R								
+		Isbrecht	Walter Johann	B	1921	Jul	Johann             		"Jablonski, Olga"	Alexandrow	54	Lublin 1922-1940	00369	3	B Bergmann	R								
+		Schmidt	Alfred            	B	1921	Jul	Gottlieb		"Schmidt, Rosalie"	Alexandrow	54	Lublin 1922-1940	00370	4	B Bergmann	R								
+		Binke	Reinhold	B	1921	Aug	Josef  		"Fischer, Adele"	Lazy	54	Lublin 1922-1940	00370	5	B Bergmann	R								
+		Duesterhoeft or Jabs	Olga	B	1921	Nov	unknown/unbekannt		"Jabs, Elisabeth"	Anuwka?	54	Lublin 1922-1940	00371	6	B Bergmann	R				born out of wedlock				
+		Wagner          	Lydia	B	1922	Jan	Rudolf		"Wagner, Emilie"	Lazy	54	Lublin 1922-1940	00371	7	B Bergmann	R								
+		Wagner	Richard Max	B	1922	Jan	Friedrich		"Hein, Wanda   "	Lazy	54	Lublin 1922-1940	00372	8	B Bergmann	R								
+		Zielke	Theodor Konstantin	B	1922	Feb	Leonhard		"Mauer, Lydia Leokadia"	Lazy	54	Lublin 1922-1940	00372	9	B Bergmann	R								
+		Hartfil	Alicia	B	1922	Sep	Ferdinand         		"Bartz, Lydia"	Rzymy Las	54	Lublin 1922-1940	00373	10	B Bergmann	R								
+		Janke	Olga	B	1922	Sep	Robert		"Baumgart, Berta"	Rzymy Las	54	Lublin 1922-1940	00373	11	B Bergmann	R								
+		Bartz	Theodor	B	1922	Jul	Konstantin  		"Meier, Marta"	Alexandrow	54	Lublin 1922-1940	00374	12	B Bergmann	R								
+		Appel	Elsa	B	1912	Nov	Karl		"Zippel, Rosalie"	Rzymy Las	54	Lublin 1922-1940	00374	13	B Bergmann					bapt. Mar 1923				
+		Furmanski	Emilie	B	1923	Jan	Friedrich		"Felau, Karoline"	Suchocin	54	Lublin 1922-1940	00375	1	B Bergmann	R								
+		Berger	Sigmund Alfred	B	1923	Mar	Adolf		"Reks, Helene"	Star Rosa?	54	Lublin 1922-1940	00376	4	B Bergmann	R								
+		Isbrecht	Eugenie Herlanda	B	1923	Mar	Johann		"Buchstein, Rosalie"	Alexandrow	54	Lublin 1922-1940	00376	2	B Bergmann	R								
+		Appel	Adam	B	1923	Mar	Karl		"Appel, Sophie"	Rzymy Las	54	Lublin 1922-1940	00377	3	B Bergmann	R								
+		Duesterhoeft	Genofefa	B	1923	Apr	Ludwig		"Labrentz, Rosalie"	Lazy	54	Lublin 1922-1940	00377	5	B Bergmann	R								
+		Isbrecht	Sigmund    	B	1923	Apr	Christian		"Keller, Pauline"	Lazy	54	Lublin 1922-1940	00378	6	B Bergmann	R								
+		Mertin	Karl	B	1923	Jun	Karl		"Furmanski, Anna"	Suchocin	54	Lublin 1922-1940	00378	7	B Bergmann	R				twin				
+		Mertin	Friedrich          	B	1923	Jun	Karl		"Furmanski, Anna"	Suchocin	54	Lublin 1922-1940	00379	8	B Bergmann	R				twin				
+		Wekfort	Johanna	B	1923	Jun	Adolf		"Lessner, Emilie"	Suchocin	54	Lublin 1922-1940	00379	9	B Bergmann	R								
+		Neumann	Apolonia	B	1923	Jun	Albert    		"Bartz, Julianna    "	Lukow	54	Lublin 1922-1940	00380	10	B Bergmann	R								
+		Ziegelmann	Gustav	B	1923	Aug	Gottlieb		"Schirling, Agathe"	Alexandrow	54	Lublin 1922-1940	00380	11	B Bergmann	R								
+		Binke	Alexander	B	1923	Jun	Josef  		"Fischer, Adele"	Lazy III	54	Lublin 1922-1940	00381	12	B Bergmann	R								
+		Isbrecht	Lydia Erna	B	1923	Dec	Heinrich		"Koberstein, Alwine"	Lazy II 	54	Lublin 1922-1940	00381	1	B Bergmann	R								
+		Felske	Leokadia	B	1924	Jan	Gustav		"Hermann, Mathilde"	Lazy	54	Lublin 1922-1940	00382	2	B Bergmann	R								
+		Keller	Theophil	B	1924	May	Alexander     		"Keller, Anna   "	Alexandrow	54	Lublin 1922-1940	00382	3	B Bergmann	R								
+		Hartfil	Eugenie  	B	1932	Oct	Ferdinand		"Bartz, Lydia"	Alexandrow	54	Lublin 1922-1940	00382	6	B Bergmann	R								
+		Neumann	Maria Tabea	B	1933	Jan	Anton		"Labrentz, Renate"	Alexandrow	54	Lublin 1922-1940	00383	1	B Bergmann	R								
+		Duesterhoeft	Ida	B	1933	Nov	Julius		"Kassner, Pauline"	Lazy III	54	Lublin 1922-1940	00383	2	B Bergmann	R								
+		Bartz	Renate	B	1933	Nov	Julian		"Zental, Josefa"	Lukow	54	Lublin 1922-1940	00384	3	B Bergmann	R								
+		Baumgart	Sigmund         	B	1933	Oct	Adolf		"Steinke, Hulda"	Lukow	54	Lublin 1922-1940	00384	4	B Bergmann	R								
+		Wolf	Martha	B	1933	Oct	unknown/unbekannt		"Wolf, Natalie"	Larach?	54	Lublin 1922-1940	00385	5	B Bergmann	R								
+		Bartz	Arthur	B	1918	Oct	Johann Julius		"Baumgart, Theophile"	"Lapigus, Russland?"	54	Lublin 1922-1940	00386	1	B Bergmann									
+		Schmidt	Adelheid Luise	B	1918	Oct	Gottlieb		"Schmidt, Rosalie"	Alexandrow	54	Lublin 1922-1940	00387	2	B Bergmann									
+		Jeck	Amalie	B	1918	Nov	Wilhelm		"Krause, Augustine"	Lazy	54	Lublin 1922-1940	00387	3	B Bergmann									
+		Neumann	Konstantin Adin	B	1918	Aug	Albert          		"Bartz, Julianna    "	Lukow	54	Lublin 1922-1940	00388	4	B Bergmann									
+		Winkler	Adolf              	B	1918	Nov	Gustav		"Baumgart, Augustine"	Lazy	54	Lublin 1922-1940	00388	5	B Bergmann									
+		Isbrecht	Eduard	B	1918	Dec	Heinrich		"Steinke, Alwine"	Lazy	54	Lublin 1922-1940	00389	6	B Bergmann									
+		Braun	Wanda	B	1918	Jul	Josef                 		"Berlin, Sophia"	Alexandrow	54	Lublin 1922-1940	00389	7	B Bergmann									
+		Jeziorski	Wanda    	B	1918	Dec	Alexander     		"Schmidt, Serafine"	Alexandrow	54	Lublin 1922-1940	00390	8	B Bergmann									
+		Hillert	Olga	B	1918	Oct	Gustav		"Duesterhoeft, Lydia"	Lazy	54	Lublin 1922-1940	00390	9	B Bergmann									
+		Ertzen	Elmar Eduard	B	1919	Jan	August                     		"Pagel, Adelina"	Lazy	54	Lublin 1922-1940	00391	10	B Bergmann									
+		Jabs or Dusterhoeft	Valentine	B	1918	Dec	unknown/unbekannt		"Jabs, Elisabeth"	"Anuwka, Russland?"	54	Lublin 1922-1940	00391	11	B Bergmann									
+		Heilmann	Alwin	B	1919	Feb	Wilhelm		"Fischer, Emilie"	Alexandrow	54	Lublin 1922-1940	00392	12	B Bergmann									
+		Hackbart	Bertold	B	1918	Aug	Adolf		"Kannenberg, Emilie"	Alexandrow	54	Lublin 1922-1940	00392	13	B Bergmann									
+		Wagner 	Erwin	B	1919	Jun	Friedrich		"Hein, Wanda   "	Lazy	54	Lublin 1922-1940	00393	14	B Bergmann					twin 				
+		Wagner	Erhard	B	1919	Jun	Friedrich		"Hein, Wanda   "	Lazy	54	Lublin 1922-1940	00393	15	B Bergmann					twin 				
+		Mertin	Wanda	B	1919	Jun	Karl		"Furmanski, Anna"	Suchocin	54	Lublin 1922-1940	00394	17	B Bergmann									
+		Keller	Frieda	B	1919	Jun	unknown/unbekannt		"Keller, Anna   "	Alexandrow	54	Lublin 1922-1940	00394	16	B Bergmann									
+		Bultz	Olga	B	1919	Jun	August		"Krause, Helene"	Rzymy Las	54	Lublin 1922-1940	00395	18	B Bergmann									
+		Wagner	Emma	B	1919	Jul	Rudolf		"Wagner, Emilie"	Lazy	54	Lublin 1922-1940	00395	19	B Bergmann									
+		Kelm	Eduard Reinhold	B	1919	Aug	Heinrich		"Isbrecht, Blandina"	Lazy	54	Lublin 1922-1940	00396	20	B Bergmann									
+		Jabs	Waldemar	B	1919	Nov	Efraim   		"Schwenk, Mathilde"	Hanna	54	Lublin 1922-1940	00396	1	B Bergmann									
+		Janke	Eduard	B	1920	Mar	Friedrich		"Schmidt, Pauline"	Lazy	54	Lublin 1922-1940	00397	2	B Bergmann									
+		Dusdal	Bertold	B	1904	Aug	Gustav		"Jeziorski, Matilde "	Alexandrow	54	Lublin 1922-1940	00397	3	B Bergmann									
+		Janke	Wanda	B	1919	Nov	Robert		"Baumgart, Berta"	Lazy	54	Lublin 1922-1940	00398	4	B Bergmann									
+		Bartz	Albert	B	1920	Jun	Konstantin  		"Meier, Marianne Marta"	Alexandrow	54	Lublin 1922-1940	00398	5	B Bergmann									
+		Isbrecht	Arnold	B	1920	Jul	Christian		"Keller, Pauline"	Lazy	54	Lublin 1922-1940	00399	6	B Bergmann									
+		Neumann	Alda Alexandra	B	1920	Aug	Albert    		"Bartz, Julianna    "	Lukow	54	Lublin 1922-1940	00399	7	B Bergmann									
+		Winkler	Marta	B	1920	Oct	Gustav		"Baumgart, Augustine"	Lazy	54	Lublin 1922-1940	00400	8	B Bergmann									
+		Labrentz	Serafine	B	1920	Nov	Gottlieb		"Duesterhoeft, Julianna"	Lazy	54	Lublin 1922-1940	00400	9	B Bergmann									
+		Meier	Ferdinand	D	1918	Oct	Johann		"Labrentz, Julianna"	Alexandrow	54	Lublin 1922-1940	00401	1	B Bergmann					50j				
+		Look	Rosalie	D	1918	May	Johann 			Lazy	54	Lublin 1922-1940	00402	2	B Bergmann				Isbrecht	62j				
+		Meier	Olga	D	1918	Nov	Ferdinand 		"Pinkal, Christine  "	Alexandrow	54	Lublin 1922-1940	00402	3	B Bergmann					14j				
+		Mauer	Alfred Johann	D	1918	Oct	Alexander  		"Grinig, Berta  "	Alexandrow	54	Lublin 1922-1940	00403	4	B Bergmann					"1j,3m"				
+		Neumann	Konstantin Adin	D	1918	Dec	Albert  		"Bartz, Julianna  "	Lukow	54	Lublin 1922-1940	00403	5	B Bergmann					2m				
+		Look	Ernestine	D	1918	Dec	Johann 		"Haller, Euphrosine"	Lazy	54	Lublin 1922-1940	00404	6	B Bergmann				"Buchstein, Adolf"	26j				
+		Weiss	Susanne	D	1918	Dec				Alexandrow	54	Lublin 1922-1940	00404	7	B Bergmann				"Pipke, Christian"	73j				
+		Jabs	Elisabeth	D	1919	Jan	Efraim 		"Schwartz, Matilde "	Anumwka	54	Lublin 1922-1940	00405	8	B Bergmann					10m				
+		Duzdal	Gustav	D	1919	Jan	Gustav 		"Jeziorski, Matilde "	Alexandrow	54	Lublin 1922-1940	00405	9	B Bergmann					21j				
+		Elsner	Alexander	D	1919	May	unknown/unbekannt		"Elsner, Johanna "	Rzymy Las	54	Lublin 1922-1940	00406	10	B Bergmann					"3j,3m"				
+		Keller	Frieda	D	1919	Aug	unknown/unbekannt		"Keller, Anna "	Alexandrow	54	Lublin 1922-1940	00406	11	B Bergmann					2m				
+		Mauer	Alfred	D	1919	Oct	Konstantin 		"Fenski, Wanda "	Lazy	54	Lublin 1922-1940	00407	12	B Bergmann					"9j,1w"				
+		Streibel	Andreas   	D	1920	Feb				Alexandrow	54	Lublin 1922-1940	00407	1	B Bergmann				"Jabs, Eva"	76j				
+		Bartz	Gottlieb	D	1920	Feb	Jakob		Wilhelmine	Alexandrow	54	Lublin 1922-1940	00408	2	B Bergmann				Hulda	56j				
+		Furmanski	Gottlieb	D	1920	Feb	Friedrich   		Karoline	Suchocin	54	Lublin 1922-1940	00408	3	B Bergmann				Anna	57j				
+		Wagner	Erhard	D	1920	Apr	Friedrich 		"Hein, Wanda "	Lazy	54	Lublin 1922-1940	00409	4	B Bergmann					18t				
+		Hanelt	Ludwig	D	1920	Apr	Ludwig		Renate	Lipniak	54	Lublin 1922-1940	00409	5	B Bergmann				"Betker?, Karoline"	64j				
+		Bartz	Matthias	D	1920	Jul					54	Lublin 1922-1940	00410	6	B Bergmann				"Grams, Justine"	74j				
+		Freund	Eduard	M	1938	Apr			"Martin, Elfriede"	Zabizow	54	Lublin 1922-1940	00412-13	11	B Bergmann		"Freund, Heinrich & Betker, Amalie"	"Martin, Michael & Katharina"		Marriage Bann				
+		Siering	Ludwig	M	1932	Jan			"Siering, Maria"	Borkowizna	54	Lublin 1922-1940	00414	9	B Bergmann		"Siering, Johann & Barbara"	"Siering, Peter & Christine"		Marriage Bann				
+		Wagner 	Friedrich	M	1937	Jul			"Riemer, Wanda"	Borkowizna	54	Lublin 1922-1940	00415-16	10	B Bergmann		"Wagner, Karl & Raunest, Eva"	"Riemer, Gustav & Roehl, Emilie"		Marriage Bann; groom is widower				
+		Siering	Otto	M	193x				"Becker, Ida"	Kielczewice	54	Lublin 1922-1940	00418	13	B Bergmann		"Siering, Michael & Focht, Luise"	"Becker, Johann & Wagner, Emilie"		Marriage Bann				
+		Patzer	Adolf	M	1931	Mar			"Wagner, Emilie"	Jachewowka	54	Lublin 1922-1940	00419&426	1	B Bergmann		"Patzer, Christoph & Kuehl, Henriette"	"Wagner, Ludwig & Schmidt, Katharina"		Marriage Bann				
+		Wutzke	Edmund	M	1932	May			"Wagner, Ottilie"	Borkowizna	54	Lublin 1922-1940	00420&427	2	B Bergmann		"Wutzke, Albert & Quapf?, Wanda"	"Wagner, Karl & Ranisch?, Eva"		Marriage Bann				
+		Becker	Alexander	M	1932	Jul			"Siering, Christine"	Debszczyczna	54	Lublin 1922-1940	00421&429	3	B Bergmann		"Becker, Heinrich & Huff, Maria"	"Siering, Ludwig & S--ng?, Maria"		Marriage Bann; probably did not marry (see #00423&428)				
+		Kiri	Ludwig	M	1932	Aug			"Hassinger, Olga"	Borkowizna	54	Lublin 1922-1940	00422&430	4	B Bergmann		"Kiri, Gabriel & Wagner, Christine"	"Hassinger, Jakob & Wensel, Susanne"		Marriage Bann				
+		Jerke	Andreas Hermann	M	1933	May			"Siering, Christine"	Wysokie	54	Lublin 1922-1940	00423&428	5	B Bergmann		"Jerke, Gottlieb & Bauer, Emilie"	"Siering, Jakob & Focht, Friederike"		Marriage Bann				
+		Siering	Ludwig	M	1934	May			"Becker, Sophie"	Borkowizna	54	Lublin 1922-1940	00424&431	7	B Bergmann		"Siering, Friedrich & Siering, Margarete"	"Becker, Johann & Pintscher, Susanne"		Marriage Bann				
+		Wagner	Philipp 	M	1935	Jan			"Siering, Emilie"	Borkowizna	54	Lublin 1922-1940	00425&432	8	B Bergmann		"Wagner, Ludwig & Rotaug, Filipine"	"Siering, Johann & Siering, Barbara"		Marriage Bann				

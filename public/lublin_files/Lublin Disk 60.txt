@@ -1,0 +1,1654 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki		
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater	Mutter oder Braut (P)	Mutter oder Braut (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Braeutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen		
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event Type	Year	Month	Father	Mother or Bride (P)	Mother or Bride (D)	Village	Disk	Folder	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes		
+		Albrecht	Katharina	B	1884	Aug	Johann		"Meltzer, Wilhelmine"	Jasieniec	60	Malinowka 1885 - 1886	00002	1	I. Timm							
+		Jeske	Gustav	B	1884	Aug	Ludwig		"Ziegenhagel, Mathilde"	Malinowka	60	Malinowka 1885 - 1886	00003	2	I. Timm							
+		Hundt	Mathilde	B	1884	Aug	Gottlieb		"Schinkel, Wilhelmine"	Albertow	60	Malinowka 1885 - 1886	00004	3	I. Timm							
+		Bress	August	B	1884	Sep	Daniel		"Kaschube, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00005	4	I. Timm							
+		Lokstaedt	Amalie	B	1884	Sep	August		"Jerke, Balbina"	Malinowka	60	Malinowka 1885 - 1886	00006	5	I. Timm							
+		Linke	Christian	B	1884	Sep	Josef		"Witt, Karoline"	Jasieniec	60	Malinowka 1885 - 1886	00007	6	I. Timm							
+		Bansemeier	Emilie	B	1884	Sep	Michael		"Jeske, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00008	7	I. Timm							
+		Leno	Rudolf	B	1884	Oct	Gottlieb		"Arndt, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00009	8	I. Timm							
+		Braun	Adolf	B	1884	Oct	Gottlieb		"Propp, Susanna"	Malinowka	60	Malinowka 1885 - 1886	00010	9	I. Timm							
+		Schmeling	Emil 	B	1884	Oct	Julius		"Rolof, Elisabeth"	Malinowka	60	Malinowka 1885 - 1886	00011	10	I. Timm							
+		Zado	Karoline	B	1884	Oct	Michael		"Briegert, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00012	11	I. Timm							
+		Idler	Karoline	B	1884	Oct	Wilhelm		"Krause, Wilhelmine"	Albertow	60	Malinowka 1885 - 1886	00013	12	I. Timm							
+		Hoffmann	Martin	B	1884	Nov	Gottfried		Muench. Luise	Jasieniec	60	Malinowka 1885 - 1886	00014	13	I. Timm							
+		Heise	August	B	1884	Nov	August		"Radke, Pauline"	Jasieniec	60	Malinowka 1885 - 1886	00015	14	I. Timm							
+		Wodzinski	Gottlieb	B	1884	Nov	Johann		"Disselberger (Diestelberg), Katharina"	Jasieniec	60	Malinowka 1885 - 1886	00016	15	I. Timm							
+		Luek	Alwine	B	1885	Feb	Julius		"Hintz, Emilie"	Malinowka	60	Malinowka 1885 - 1886	00017	16	I. Timm							
+		Tomm	Johann	B	1885	Jan	Wilhelm		"Matheis, Mathilde"	Malinowka	60	Malinowka 1885 - 1886	00018	17	I. Timm							
+		Ziegler	Pauline	B	1885	Jan	Martin		"Schiewe, Eva"	Albertow	60	Malinowka 1885 - 1886	00019	18	I. Timm							
+		Schultz	Pauline	B	1885	Feb	Christoph		"Teske, Julianna"	Malinowka	60	Malinowka 1885 - 1886	00020	19	I. Timm							
+		Walter	Johann	B	1885	Feb	Josef		"Schwarz, Julianna"	Malinowka	60	Malinowka 1885 - 1886	00021	20	I. Timm							
+		Klukas	Julianna	B	1885	Feb	Samuel		"Schmidke, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00022	21	I. Timm							
+		Noetzel	Andreas	B	1885	Mar	Jakob		"Dering, Augustine"	Malinowka	60	Malinowka 1885 - 1886	00023	22	I. Timm							
+		Doberstein	Gustav	B	1885	Mar	Kasper		"Wiedehoeft, Ernestine"	Malinowka	60	Malinowka 1885 - 1886	00024	23	I. Timm							
+		Steik	Hulda	B	1885	Mar	Samuel		"Mahnke, Emilie"	Malinowka	60	Malinowka 1885 - 1886	00025	24	I. Timm							
+		Friske	Adolf	B	1885	Apr	Gottlieb		"Krueger, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00026	25	I. Timm							
+		Kukel	Johann	B	1885	Apr	Daniel		"Weiss, Christine"	Jasieniec	60	Malinowka 1885 - 1886	00027	26	I. Timm							
+		Ziegenhagel	Augustine	B	1885	Apr	Friedrich		"Peppel, Ernestine"	Malinowka	60	Malinowka 1885 - 1886	00028	27	I. Timm							
+		Kuehn	Wilhelm	B	1885	Apr	Gottlieb		"Kaschube, Justine"	Malinowka	60	Malinowka 1885 - 1886	00029	28	I. Timm							
+		Walter	Mathilde	B	1885	Apr	August		"Bansemeier, Friederike"	Malinowka	60	Malinowka 1885 - 1886	00030	29	I. Timm							
+		Piel	Ludwig	B	1885	Apr	Karl August		"Lerch, Karoline"	Jasieniec	60	Malinowka 1885 - 1886	00031	30	I. Timm							
+		Meger	Pauline	B	1885	May	Adam		"Markwart, Anna"	Malinowka	60	Malinowka 1885 - 1886	00032	31	I. Timm					Adam Meger lebt in Russland		
+		Mebs	Amalie	B	1885	May	Friedrich Wilhelm		"Schmeling, Ernestine"	Malinowka	60	Malinowka 1885 - 1886	00033	32	I. Timm							
+		Appelt	Gottlieb	B	1885	May	Andreas		"Matner, Julianna"	Jasieniec	60	Malinowka 1885 - 1886	00034	33	I. Timm							
+		Friedrich	Gustav	B	1885	May	Christoph		"Briese, Emilie"	Jasieniec	60	Malinowka 1885 - 1886	00035	34	I. Timm							
+		Schuelke	Benjamin	B	1885	May	Michael		"Hein, Julianna"	Barki	60	Malinowka 1885 - 1886	00036	35	I. Timm							
+		Wedemann	Mathilde	B	1885	Jun	Gottfried		"Bankonin, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00037	36	I. Timm							
+		Job	Gustav	B	1885	Jun	Wilhelm		"Radke, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00038	37	I. Timm							
+		Samoski	Julianna	B	1885	Jun	Josef		"Friske, Luise"	Barki  	60	Malinowka 1885 - 1886	00039	38	I. Timm							
+		Kopf	August	B	1885	Jul	Michael		"Lange, Henriette"	Albertow	60	Malinowka 1885 - 1886	00040	39	I. Timm							
+		Radke	Ottilie	B	1885	Jul	Martin		"Kautz, Emilie"	Jasieniec	60	Malinowka 1885 - 1886	00041	40	I. Timm							
+		Kurtz	August	B	1885	Aug	Andreas		"Propp, Anna"	Malinowka	60	Malinowka 1885 - 1886	00042	41	I. Timm							
+		Bodach	Emil	B	1885	Aug	Gottlieb		"Grenke, Pauline"	Barki	60	Malinowka 1885 - 1886	00043	42	I. Timm							
+		Albrecht	Johann	B	1885	Aug	Peter		"Bakowski, Wilhelmine"	Jasieniec	60	Malinowka 1885 - 1886	00044	43	I. Timm							
+		Jeske	Gustav	B	1885	Aug	Julius		"Bress, Wilhelmine"	Barki	60	Malinowka 1885 - 1886	00045	44	I. Timm							
+		Wodzinski	Ottilie	B	1885	Aug	Jakob		"Fritz, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00046	45	I. Timm							
+		Fehler	Samuel	B	1885	Aug	Gottfried		"Wiesenthal, Julianna"	Malinowka	60	Malinowka 1885 - 1886	00047	46	I. Timm							
+		Samoski	Pauline	B	1885	Sep	Johann		"Krueger, Justine"	Malinowka	60	Malinowka 1885 - 1886	00048	47	I. Timm							
+		Jaeger	Justine	B	1885	Sep	Andreas		"Engel, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00049	48	I. Timm							
+		Elbe	Gottlieb	B	1885	Sep	Friedrich		"Luek, Justine"	Malinowka	60	Malinowka 1885 - 1886	00050	49	I. Timm							
+		Lechelt	Lydia	B	1885	Sep	Christian		"Hekel, Julianna"	Malinowka	60	Malinowka 1885 - 1886	00051	50	I. Timm							
+		Zepik	Gustav	B	1885	Oct	Ludwig		"Radke, Wilhelmine"	Albertow	60	Malinowka 1885 - 1886	00052	51	I. Timm							
+		Schroeder	Lidia	B	1885	Sep	Ludwig		"Kropp, Berta"	Albertow	60	Malinowka 1885 - 1886	00053	52	I. Timm							
+		Kurtz	Pauline	B	1885	Oct	Johann		"Ziegenhagel, Ernestine"	Malinowka	60	Malinowka 1885 - 1886	00054	53	I. Timm							
+		Richter	Emilie	B	1885	Oct	Wilhelm		"Tonn, Friederike"	Jasieniec	60	Malinowka 1885 - 1886	00055	54	I. Timm							
+		Albrecht	Jonathan	B	1885	Oct	Michael		"Heise, Wilhelmine"	Jasieniec	60	Malinowka 1885 - 1886	00056	55	I. Timm							
+		Hundt	Adolf	B	1885	Nov	Gottlieb		"Schinkel, Wilhelmine"	Albertow	60	Malinowka 1885 - 1886	00057	56	I. Timm							
+		Bress	Daniel	B	1885	Nov	Daniel		"Kaschube, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00058	57	I. Timm							
+		Rogenbach	Emilie	B	1885	Nov	Daniel		"Rode, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00059	58	I. Timm							
+		Elbe	stillborn female	D	1885	Nov	Kasimir		"Leschke, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00060	59	I. Timm					birth record		
+		Bansemeier	August	B	1885	Nov	Wilhelm		"Schmeling, Emilie"	Malinowka	60	Malinowka 1885 - 1886	00061	60	I. Timm					twin		
+		Bansemeier	stillborn male	D	1885	Nov	Wilhelm		"Schmeling, Emilie"	Malinowka	60	Malinowka 1885 - 1886	00062	61	I. Timm					twin; birth record		
+		Braun	Rudolf	B	1885	Dec	Gottlieb		"Propp, Susanna"	Malinowka	60	Malinowka 1885 - 1886	00063	1	I. Timm							
+		Linke	Justine	B	1885	Dec	Wilhelm		"Lehmann, Anna"	Malinowka	60	Malinowka 1885 - 1886	00064	2	I. Timm							
+		Krueger	August	B	1886	Jan	Ludwig		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00065	3	I. Timm							
+		Lerch	Heinrich	B	1886	Jan	Michael		"Kunstmann, Natalie"	Jasieniec	60	Malinowka 1885 - 1886	00066	4	I. Timm							
+		Konrad	Mathilde	B	1886	Jan	Gottlieb		"Dalig, Emilie"	Malinowka	60	Malinowka 1885 - 1886	00067	5	I. Timm							
+		Werner	Gustav	B	1886	Jan	August		"Krueger, Emilie"	Adamow	60	Malinowka 1885 - 1886	00068	6	I. Timm							
+		Ziemer	Emilie	B	1886	Jan	Michael		"Beer, Helene"	Jasieniec	60	Malinowka 1885 - 1886	00069	6	I. Timm							
+		Schmidt	Julianna	B	1886	Jan	Adolf		"Welke, Karoline"	Albertow	60	Malinowka 1885 - 1886	00070	7	I. Timm							
+		Nachtigall	stillborn male	D	1886	Feb	Ludwig		"Gruening, Emilie"	Brzeziny	60	Malinowka 1885 - 1886	00071	8	I. Timm					birth record		
+		Martin	Emilie	B	1886	Feb	Andreas		"Sperling, Justine"	Albertow	60	Malinowka 1885 - 1886	00072	9	I. Timm							
+		Heise	Adolf	B	1886	Feb	August		"Radke, Pauline"	Jasieniec	60	Malinowka 1885 - 1886	00073	10	I. Timm							
+		Hein	Henriette	B	1886	Feb	August		"Lange, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00074	11	I. Timm							
+		Steinhilb	Hulda	B	1886	Mar	Gottlieb		"Richter, Henriette"	Malinowka	60	Malinowka 1885 - 1886	00075	12	I. Timm							
+		Bress	Julius	B	1886	Mar	Michael		"Maler, Wilhelmine"	Barki	60	Malinowka 1885 - 1886	00076	13	I. Timm							
+		Jeske	Emilie Mathilde	B	1886	Apr	Ludwig		"Ziegenhagel, Mathilde"	Malinowka	60	Malinowka 1885 - 1886	00077	1	I. Timm							
+		Krueger	Lydia	B	1886	Apr	unknown/unbekannt		"Krueger, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00078	2	I. Timm							
+		Boese	Pauline	B	1886	Apr	unknown/unbekannt		"Boese, Augustine"	Jasieniec	60	Malinowka 1885 - 1886	00079	3	I. Timm							
+		Kletke	Emilie	B	1886	Apr	Martin		"Maler, Anna"	Malinowka	60	Malinowka 1885 - 1886	00080	4	I. Timm							
+		Peltzer	Adolf	B	1886	May	Ferdinand		"Jeske, Amalie"	Malinowka	60	Malinowka 1885 - 1886	00081	5	I. Timm							
+		Appelt	Gottfried	B	1886	May	Andreas		"Matner, Julianna"	Jasieniec	60	Malinowka 1885 - 1886	00082	6	I. Timm							
+		Bansemeier	Lydia	B	1886	May	Michael		"Jeske, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00083	7	I. Timm					twin		
+		Bansemeier	Pauline	B	1886	May	Michael		"Jeske, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00084	8	I. Timm					twin		
+		Noetzel	Julius	B	1886	Jun	Jakob		"Dering, Augustine"	Malinowka	60	Malinowka 1885 - 1886	00085	9	I. Timm							
+		Elbe	stillborn male	D	1886	Jun	unknown/unbekannt		"Elbe, Marianne"	Malinowka	60	Malinowka 1885 - 1886	00086	10	I. Timm					birth record		
+		Schroeder	Lydia	B	1886	Jun	Gottlieb		"Gruening, Christine"	Albertow	60	Malinowka 1885 - 1886	00087	11	I. Timm							
+		Hoffmann	Karoline	B	1886	Jul	Gottfried		Muench. Luise	Jasieniec	60	Malinowka 1885 - 1886	00088	12	I. Timm							
+		Foester	Emilie	B	1886	Jul	Eduard		"Krueger, Karoline"	Jasieniec	60	Malinowka 1885 - 1886	00089	13	I. Timm							
+		Jasmann	Emma	B	1886	Aug	August		"Peppel, Henriette"	Malinowka	60	Malinowka 1885 - 1886	00090	14	I. Timm							
+		Krueger	Amalie	B	1886	Aug	Michael		"Schultz, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00091	15	I. Timm							
+		Hoffmann	August	B	1886	Aug	Gottlieb		"Wodzinski, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00092	16	I. Timm							
+		Drews	Emilie	B	1886	Aug	August		"Richter, Justine"	Malinowka	60	Malinowka 1885 - 1886	00093	17	I. Timm							
+		Albrecht	Hermann	B	1886	Aug	Peter		"Bakowski, Wilhelmine"	Jasieniec	60	Malinowka 1885 - 1886	00094	18	I. Timm							
+		Gesel	Henriette	B	1886	Sep	Ludwig		"Hanisch, Justine"	Malinowka	60	Malinowka 1885 - 1886	00095	19	I. Timm							
+		Walter	Ludwig	B	1886	Sep	August		"Bansemeier, Friederike"	Malinowka	60	Malinowka 1885 - 1886	00096	20	I. Timm							
+		Sperling	Rudolf	B	1886	Sep	unknown/unbekannt		"Sperling, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00097	21	I. Timm							
+		Schmeling	Amalie	B	1886	Sep	Julius		"Rolof, Elisabeth"	Malinowka	60	Malinowka 1885 - 1886	00098	22	I. Timm							
+		Scheffler	Adolf	B	1886	Sep	Daniel		"Bolmann, Emilie"	Adamow	60	Malinowka 1885 - 1886	00099	23	I. Timm							
+		Klan	Augustine	B	1886	Oct	Jakob		"Samoski, Christine"	Malinowka	60	Malinowka 1885 - 1886	00100	24	I. Timm							
+		Wodzinski	Berta	B	1886	Oct	Jakob		"Fritz, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00101	25	I. Timm							
+		Samoski	Rudolf	B	1886	Oct	August		"Schachtschneider, Julianna"	Barki	60	Malinowka 1885 - 1886	00102	26	I. Timm							
+		Bansemeier	Emilie	B	1886	Oct	Hermann		"Krimke, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00103	27	I. Timm							
+		Zepik	Lydia	B	1886	Oct	Ludwig		"Radke, Wilhelmine"	Albertow	60	Malinowka 1885 - 1886	00104	28	I. Timm							
+		Drews	Emilie	B	1886	Oct	Michael		"Gernat, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00105	29	I. Timm							
+		Lokstaedt	Ferdinand	B	1886	Nov	August		"Jerke, Balbina"	Malinowka	60	Malinowka 1885 - 1886	00106	30	I. Timm							
+		Bodach	Michael	B	1886	Nov	Gottlieb		"Grenke, Pauline"	Barki	60	Malinowka 1885 - 1886	00107	31	I. Timm							
+		Elbe	Gustav	B	1886	Nov	Kasimir		"Leschke, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00108	1	I. Timm							
+		Priebe	Gottlieb	B	1886	Dec	Ferdinand		"Peter, Ernestine"	Ostrowek	60	Malinowka 1885 - 1886	00109	2	I. Timm							
+		Kotke	Wilhelmine	B	1886	Dec	Christoph		"Kaschube, Henriette"	Malinowka	60	Malinowka 1885 - 1886	00110	3	I. Timm							
+		Muench	Anna	B	1886	Dec	Gottlieb		"Rapczynski, Justine"	Malinowka	60	Malinowka 1885 - 1886	00111	4	I. Timm							
+		Lokstaedt	Daniel	D	1884	Dec	Ludwig		"Helm, Dorothea"	Malinowka	60	Malinowka 1885 - 1886	00112	5	I. Timm							
+		Heise	August	D	1884	Dec	August		"Radke, Pauline"	Jasieniec	60	Malinowka 1885 - 1886	00113	6	I. Timm							
+		Braun	Adolf	D	1885	Jan	Gottlieb		"Propp, Susanna"	Malinowka	60	Malinowka 1885 - 1886	00114	7	I. Timm							
+		Schroeder	Amalie	D	1885	Jan	Gottlieb		"Gruening, Christine"	Albertow	60	Malinowka 1885 - 1886	00115	8	I. Timm							
+		Schmeling	Emil	D	1885	Jan	Julius		"Rolof, Elisabeth"	Malinowka	60	Malinowka 1885 - 1886	00116	9	I. Timm							
+		Schmidt	Samuel	D	1885	Jan	Adolf		"Welke, Karoline"	Albertow	60	Malinowka 1885 - 1886	00117	10	I. Timm							
+		Zitzmann	Julianna	D	1885	Jan	Andreas		"Neumann, Rosine"	Malinowka	60	Malinowka 1885 - 1886	00118	11	I. Timm				Braun	"Witwe, 74 Jahre"		
+		Bansemeier	Karl	D	1885	Feb	Johann		"Bittner, Friederike"	Malinowka	60	Malinowka 1885 - 1886	00119	12	I. Timm				"Krueger, Rosalie"	"65 Y, 8 M, 2 W"		
+		Krause	Johann	D	1885	Feb	Michael		"Fedder, Rosina"	Albertow	60	Malinowka 1885 - 1886	00120	13	I. Timm				"Fandrich, Julianna"			
+		Ziegler	Friedrich	D	1885	Feb	Martin		"Scheffler, Ernestine"	Albertow	60	Malinowka 1885 - 1886	00121	14	I. Timm							
+		Tomm	Johann	D	1885	Feb	Wilhelm		"Matheis, Mathilde"	Malinowka	60	Malinowka 1885 - 1886	00122	15	I. Timm							
+		Schmeling	Emilie	D	1885	Mar	Julius		"Rolof, Elisabeth"	Malinowka	60	Malinowka 1885 - 1886	00123	16	I. Timm							
+		Wanke	Emilie	D	1885	Mar	Christoph		"Huehnerberg, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00124	17	I. Timm							
+		Jeske	Emilie	D	1885	Mar	Julius		"Bress, Wilhelmine"	Barki	60	Malinowka 1885 - 1886	00125	18	I. Timm							
+		Drews	Augustine	D	1885	Apr	August		"Richter, Justine"	Malinowka	60	Malinowka 1885 - 1886	00126	19	I. Timm							
+		Klan	Emma	D	1885	Apr	Jakob		"Samoski, Christine"	Malinowka	60	Malinowka 1885 - 1886	00127	20	I. Timm							
+		Jeske	Gustav	D	1885	Apr	Ludwig		"Ziegenhagel, Mathilde"	Malinowka	60	Malinowka 1885 - 1886	00128	21	I. Timm							
+		Zado	Ferdinand	D	1885	Apr	Gottlieb		"Klan, Eva"	Malinowka	60	Malinowka 1885 - 1886	00129	22	I. Timm							
+		Bress	Gottfried	D	1885	Apr	Daniel		"Kaschube, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00130	23	I. Timm							
+		Bress	Amalie	D	1885	Apr	Daniel		"Kaschube, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00131	24	I. Timm							
+		Bress	Adolf	D	1885	Apr	Daniel		"Kaschube, Rosalie"	Malinowka	60	Malinowka 1885 - 1886	00132	25	I. Timm							
+		Bansemeier	Emilie	D	1885	Apr	Michael		"Jeske, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00133	26	I. Timm							
+		Fritsch	Marianne	D	1885	May	Wilhelm		"Kinast, Karoline"	Brzeziny	60	Malinowka 1885 - 1886	00134	27	I. Timm							
+		Kletke	Adolfine	D	1885	May	Martin		"Maler, Anna"	Malinowka	60	Malinowka 1885 - 1886	00135	28	I. Timm							
+		Friske	Adolf	D	1885	Jul	Gottlieb		"Krueger, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00136	29	I. Timm							
+		Walter	Mathilde	D	1885	Jul	August		"Bansemeier, Friederike"	Malinowka	60	Malinowka 1885 - 1886	00137	30	I. Timm							
+		Albrecht	Johann	D	1885	Aug	Peter		"Bakowski, Wilhelmine"	Jasieniec	60	Malinowka 1885 - 1886	00138	31	I. Timm							
+		Wodzinski	Ottilie	D	1885	Sep	Jakob		"Fritz, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00139	32	I. Timm							
+		Elbe	Gottlieb	D	1885	Sep	Friedrich		"Luek, Justine"	Malinowka	60	Malinowka 1885 - 1886	00140	33	I. Timm							
+		Zepik	Gustav	D	1885	Oct	Ludwig		"Radke, Wilhelmine"	Jasieniec	60	Malinowka 1885 - 1886	00141	34	I. Timm							
+		Hoffmann	Ludwig	D	1885	Nov	Gottfried		Muench. Luise	Jasieniec	60	Malinowka 1885 - 1886	00142	35	I. Timm							
+		Albrecht	Blandina	D	1885	Nov	Samuel		"Taube, Justine"	Jasieniec	60	Malinowka 1885 - 1886	00143	36	I. Timm							
+		Steinhilb	Rudolf	D	1885	Nov	Gottlieb		"Richter, Henriette"	Malinowka	60	Malinowka 1885 - 1886	00144	37	I. Timm							
+		Idler	Karoline	D	1886	Jan	Wilhelm		"Krause, Wilhelmine"	Albertow	60	Malinowka 1885 - 1886	00145	1	I. Timm							
+		Samoski	Pauline	D	1886	Jan	Johann		"Krueger, Justine"	Malinowka	60	Malinowka 1885 - 1886	00146	2	I. Timm							
+		Nachtigall	stillborn male	D	1886	Feb	Ludwig		"Gruening, Emilie"	Brzeziny	60	Malinowka 1885 - 1886	00147	3	I. Timm					ohne Taufe gestorben		
+		Ziegenhagel	Emilie	D	1886	Mar	Friedrich		"Peppel, Ernestine"	Malinowka	60	Malinowka 1885 - 1886	00148	4	I. Timm							
+		Konrad	Mathilde	D	1886	Mar	Gottlieb		"Dalig, Emilie"	Malinowka	60	Malinowka 1885 - 1886	149a	5	I. Timm							
+		Kopf	August	D	1886	Mar	Michael		"Lange, Henriette"	Albertow	60	Malinowka 1885 - 1886	00150	6	I. Timm							
+		Mendel	Friedrich Gottlieb	D	1886	Apr	Josef		"Krueger, Eva"	Malinowka	60	Malinowka 1885 - 1886	00151	1	I. Timm				"Mundt, Anna Wilhelmine"	62 Y		
+		Boese	Pauline	D	1886	Apr	unknown/unbekannt		"Boese, Augustine"	Jasieniec	60	Malinowka 1885 - 1886	00152	2	I. Timm							
+		Jeske	Gustav	D	1886	Aug	Julius		"Bress, Wilhelmine"	Barki	60	Malinowka 1885 - 1886	00153	3	I. Timm							
+		Essmann	Eva	D	1886	Aug	Michael		"Lang, Anna"	Malinowka	60	Malinowka 1885 - 1886	00154	4	I. Timm				"Klan, Wilhelm"			
+		Hoffmann	August	D	1886	Sep	Gottlieb		"Wodzinski, Wilhelmine"	Malinowka	60	Malinowka 1885 - 1886	00155	5	I. Timm							
+		Leno	Emma	D	1886	Sep	Gottlieb		"Arndt, Karoline"	Malinowka	60	Malinowka 1885 - 1886	00156	6	I. Timm							
+		Kieler	Johann	D	1886	Sep	Matthias		"Steinmetz, Margarete"	Adamow	60	Malinowka 1885 - 1886	00157	7	I. Timm				"Jahrke, Beate"	56y/J		
+		Sperling	Rudolf	D	1886	Sep	unknown/unbekannt		"Sperling, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00158	8	I. Timm							
+		Ziemer	Alexander	D	1886	Sep	Michael		"Beer, Helene"	Jasieniec	60	Malinowka 1885 - 1886	00159	9	I. Timm							
+		Wensel 	Ottilie	D 	1886	Oct	Eduard		"Ruczynski, Rosalie"	Adamow	60	Malinowka 1885 - 1886	00160	10	I. Timm							
+		Schmidt	Julianna	D	1886	Oct	Adolf		"Welke, Karoline"	Albertow	60	Malinowka 1885 - 1886	00161	11	I. Timm							
+		Kitzmann	Lydia	D	1886	Oct	Gottlieb		"Figur, Emilie"	Adamow	60	Malinowka 1885 - 1886	00162	12	I. Timm							
+		Kletke	Rudolf	D	1886	Nov	Martin		"Maler, Anna"	Malinowka	60	Malinowka 1885 - 1886	00163	1	I. Timm							
+		Bischof	Anna Beate	D	1886	Nov	Adolf		"Markwart, Augustine"	Malinowka	60	Malinowka 1885 - 1886	00164	2	I. Timm							
+		Schielke	Katharina	D	1886	Nov	Michael		"Hein, Julianna"	Barki	60	Malinowka 1885 - 1886	00165	3	I. Timm							
+		Piel	Ludwig	D	1886	Nov	Karl August		"Lerch, Karoline"	Jasieniec	60	Malinowka 1885 - 1886	00166	4	I. Timm							
+		Braun	Rudolf	D	1886	Dec	Gottlieb		"Propp, Susanna"	Malinowka	60	Malinowka 1885 - 1886	00167	5	I. Timm							
+		Krueger	Andreas	D	1887	Jan	Ludwig		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1885 - 1886	00168	6	I. Timm							
+		Benke	Anton	B	1918	Oct	August		"Link, Julianna"	Malinowka	60	Malinowka 1918-1920	00002	1	I. Timm							
+		Dering	Emilie	B	1918	Oct	Andreas		"Samoski, Ottilie"	Malinowka	60	Malinowka 1918-1920	00003	2	I. Timm							
+		Lange	Artur	B	1918	Nov	Friedrich		"Krause, Mathilde"	Malinowka	60	Malinowka 1918-1920	00004	3	I. Timm							
+		Weiss	Edmund	B	1918	Dec	Ferdinand		"Samoski, Wanda"	Malinowka	60	Malinowka 1918-1920	00005	4	I. Timm							
+		Schattschneider 	Lidia	B	1918	Nov	August		"Hekel, Julianna"	Bogdanka	60	Malinowka 1918-1920	00005	5	I. Timm							
+		Lokstaedt	Gottlieb	B	1919	Jan	Gustav		"Kriese, Emilie"	Wola Korybutowa	60	Malinowka 1918-1920	00006	6	I. Timm							
+		Kien	Leokadia	B	1919	Feb	Wilhelm		"Link, Anna-Lidia"	Barki	60	Malinowka 1918-1920	00007	7	I. Timm							
+		Steike	Heinrich	B	1919	Feb	Wilhelm		"Redel, Wilhelmine"	Barki	60	Malinowka 1918-1920	00008	8	I. Timm							
+		Mueller	Emma	B	1919	Feb	August		"Begalke, Lidia"	Wola Korybutowa	60	Malinowka 1918-1920	00009	9	I. Timm							
+		Kien	Leo-Ernst	B	1919	Mar	Johann		"Schenkel, Ottilie"	Malinowka	60	Malinowka 1918-1920	00010	10	I. Timm							
+		Kurz	Artur	B	1919	Mar	Adolf		"Lokstaedt, Mathilde"	Malinowka	60	Malinowka 1918-1920	00011	11	I. Timm							
+		Frank	Martha	B	1919	Apr	Michael		"Kitzmann, Amalie"	Malinowka	60	Malinowka 1918-1920	00012	12	I. Timm							
+		Milnikel	Adelgunde  	B	1919	May	August		"Zabel, Mathilde"	Barki	60	Malinowka 1918-1920	00013	13	I. Timm							
+		Lerch	Edmund	B	1919	May	unknown/unbekannt		"Klass, Emma"	Malinowka	60	Malinowka 1918-1920	00014	14	I. Timm					born out of wedlock		
+		Nikel	Alfred-Viktor	B	1919	Jun	Adolf		"Ziemer, Pauline"	Stefanow	60	Malinowka 1918-1920	00015	15	I. Timm					twin		
+		Nikel	stillborn female	D	1919	Jun	Adolf		"Ziemer, Pauline"	Stefanow	60	Malinowka 1918-1920	00016	16	I. Timm					birthrecord; twin		
+		Helmann	Lidia	B	1919	Jun	Robert		"Ikert, Emma-Ernestine"	Wola Korybutowa	60	Malinowka 1918-1920	00017	17	I. Timm							
+		Rolof	Konkordia	B	1919	Jul	Friedrich-Wilhelm		"Wedmann, Mathilde"	Malinowka	60	Malinowka 1918-1920	00018	18	I. Timm							
+		Hoffmann	Leokadia	B	1919	Jul	Michael		"Hoffmann, Pauline"	Malinowka	60	Malinowka 1918-1920	00019	19	I. Timm							
+		Lerch	Natalie	B	1919	Jul	Heinrich		"Fitz, Pauline"	Malinowka	60	Malinowka 1918-1920	00020	20	I. Timm							
+		Schilke	Edmund	B	1919	Jul	Emanuel		"Samoski, Marianne"	Malinowka	60	Malinowka 1918-1920	00021	21	I. Timm							
+		Kopf	Edmund	B	1919	Jun	Wilhelm		"Splett, Olga"	Podglebokie  	60	Malinowka 1918-1920	00022	22	I. Timm							
+		Gesell	Martha	B	1919	Jul	Gustav		"Rades, Emilie"	Wola Korybutowa	60	Malinowka 1918-1920	00023	23	I. Timm							
+		Piel	Eduard	B	1919	Jul	Gottlieb		"Fehler, Emma"	Malinowka	60	Malinowka 1918-1920	00024	24	I. Timm							
+		Wodzinski	Adolf	B	1919	Aug	Gottlieb		"Neumann, Theophile"	Malinowka	60	Malinowka 1918-1920	00024	25	I. Timm							
+		Elbe	Natalie	B	1919	Aug	August		"Lerch, Augustine"	Wola Korybutowa	60	Malinowka 1918-1920	00025	26	I. Timm							
+		Henke	Sigismund	B	1919	Sep	Wilhelm		"Guenter, Julianne"	Wola Korybutowa	60	Malinowka 1918-1920	00026	27	I. Timm							
+		Milnikel	Olga	B	1916	Nov	August		"Zabel, Mathilde"	"Troitsk, Russland"	60	Malinowka 1918-1920	00027	28	I. Timm							
+		Lokstaedt	Artur	B	1919	Oct	Ludwig		"Lutz, Amanda"	Wola Korybutowa	60	Malinowka 1918-1920	00028	29	I. Timm							
+		Milnikel	Olga	B	1915	Aug	August		"Dei, Pauline"	"Alekseijewka, Turgai, Russland"	60	Malinowka 1918-1920	00029	30	I. Timm							
+		Friedrich	Reinhard	B	1919	Oct	Emil		"Hund, Justine"	Stefanow	60	Malinowka 1918-1920	00030	31	I. Timm							
+		Seling	Hugo	B	1919	Dec	August		"Stefan, Julianne"	Malinowka	60	Malinowka 1918-1920	00031	32	I. Timm							
+		Rindfleisch	Artur	B	1920	Jan	Karl		"Jassmann, Cornelia"	Malinowka	60	Malinowka 1918-1920	00032	33	I. Timm							
+		Bodach	Wanda	B	1920	Feb	Gustav		"Schulz, Lidia"	Podglebokie  	60	Malinowka 1918-1920	00033	34	I. Timm							
+		Buchholz	Edmund	B	1920	Feb	Wilhelm		"Richter, Wanda"	Malinowka	60	Malinowka 1918-1920	00034	35	I. Timm							
+		Friske	Edmund	B	1920	Mar	Eduard		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1918-1920	00035	36	I. Timm							
+		Hoffmann	Edmund	B	1920	Apr	Martin		"Wolter, Pauline"	Malinowka	60	Malinowka 1918-1920	00036	37	I. Timm							
+		Oelke	Emilie	B	1920	Apr	Heinrich		"Steinke, Adelgunde"	Wola Korybutowa	60	Malinowka 1918-1920	00037	38	I. Timm							
+		Krueger	Wanda	B	1920	Apr	August		"Fitz, Auguste"	Malinowka	60	Malinowka 1918-1920	00038	39	I. Timm							
+		Brikmann	Willi	B	1920	Apr	Fritz		"Lechelt, Pauline"	Jasieniec	60	Malinowka 1918-1920	00039	40	I. Timm							
+		Jeske	Lidia	B	1920	May	Gottlieb		"Bulmann, Eva"	Malinowka	60	Malinowka 1918-1920	00040	41	I. Timm							
+		Drews	Adolf	B	1920	Jun	Adolf		"Kukel, Lidia"	Malinowka	60	Malinowka 1918-1920	00041	42	I. Timm							
+		Kopf	Martha	B	1920	Aug	Wilhelm		"Splett, Olga"	Podglebokie  	60	Malinowka 1918-1920	00042	43	I. Timm							
+		Bansemeier	Alexander	B	1920	Sep	Ludwig		"Schilke, Emilie"	Malinowka	60	Malinowka 1918-1920	00043	44	I. Timm							
+		Stefan	August	D	1918	Oct	August			Malinowka	60	Malinowka 1918-1937	00002	1	I. Timm				Emilie	60Y 5M 18D		
+		Oelke	Helene	D	1918	Dec	Heinrich		"Steinke, Adelgunde"	Wola Korybutowa	60	Malinowka 1918-1937	00003	4	I. Timm							
+		Friedrich	Adolf	D	1918	Dec	Emil		Justine	Stefanow	60	Malinowka 1918-1937	00004	5	I. Timm							
+		Lerch	Pauline	D	1918	Dec	Gottlieb		"[Eschner], Christine"	Malinowka	60	Malinowka 1918-1937	00005	6	I. Timm				"Kukel, [Julius]"	Witwe		
+		Gerl	Gustav	D	1918	Dec	Ludwig		Amalie	Malinowka	60	Malinowka 1918-1937	00006	7	I. Timm							
+		Kukel	Julius	D	1918	Nov	Daniel		Christine	Malinowka	60	Malinowka 1918-1937	00007	2	I. Timm				"Lerch, Pauline"			
+		Frank	Johanna	D	1918	Nov	Michael		"[Kitzmann], Amalie"	Malinowka	60	Malinowka 1918-1937	00008	3	I. Timm					2Y 6M 5D		
+		Mahler	Wilhelmine	D	1918	Dec	Gottlieb		Rosalie	Wola Korybutowa	60	Malinowka 1918-1937	00008	8	I. Timm				"Bress, Michael"			
+		Guenther	Pauline	D	1918	Dec	Jakob		Helene	Malinowka	60	Malinowka 1918-1937	00009	9	I. Timm				Beer	Witwe		
+		Dering	Pauline	D	1919	Feb	Peter		Manke. Louise	Malinowka	60	Malinowka 1918-1937	00010	10	I. Timm				Kana	Witwe		
+		Jeske	Ludwig	D	1919	Feb	August		"Kannenberg, Marianne"	Malinowka	60	Malinowka 1918-1937	00011	11	I. Timm				"Jeske, Ottilie"			
+		Splett	August	D	1919	Mar	Friedrich		"Kujat, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00012	12	I. Timm				Mathilde			
+		Kien	Ernst-Leo	D	1919	Mar	Johann		"Schinkel, Ottilie"	Malinowka	60	Malinowka 1918-1937	00013	13	I. Timm							
+		Lentz	Julianne	D	1919	Apr	Ludwig		"Geister, Emilie"	Malinowka	60	Malinowka 1918-1937	00014	14	I. Timm				Grams	53 Y		
+		Kopf	Friedrich	D	1919	Apr	Michael		"Lange, Henriette"	Barki	60	Malinowka 1918-1937	00015	15	I. Timm				"Splett, Emilie"			
+		Krueger	Gustav	D	1919	May	Michael		"Schulz, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00016	16	I. Timm				"Frank, Wilhelmine"			
+		Tomaschewski	Jakob	D	1919	Jun				Malinowka	60	Malinowka 1918-1937	00017	17	I. Timm				"Friske, Emilie"			
+		Schiefelbein	Talita	D	1919	Jun	Emil		"Scheske, Julianne"	Malinowka	60	Malinowka 1918-1937	00018	18	I. Timm							
+		Wutke	Edmund	D	1919	Jun	August		"Beer, Berta"	Malinowka	60	Malinowka 1918-1937	00019	19	I. Timm							
+		Ziegenhagel	Ernestine	D	1919	Jul	Friedrich		"Richter, Justine"	Malinowka	60	Malinowka 1918-1937	00020	20	I. Timm				Kurz	"Witwe, 64 Y, 9 M"		
+		Schinkel	Ottilie	D	1919	Jul	Ludwig		"Pril, Justine"	Malinowka	60	Malinowka 1918-1937	00021	21	I. Timm				"Kien, Johann"			
+		Zuknik	Adolf	D	1919	Aug	Heinrich		"Bigalke, Christine"	Malinowka	60	Malinowka 1918-1937	00022	22	I. Timm				"Kitzmann, Emilie"			
+		Hoffmann	Elisabeth	D	1919	Aug	Gottfried		"Rad (Radke?), Salemine"	Jasieniec	60	Malinowka 1918-1937	00023	23	I. Timm				Zimmermann	"Witwe, 57 Y"		
+		Reiter	Ferdinand	D	1916	Sep	Michael		"Arndt, Julianne"		60	Malinowka 1918-1937	00024	24	I. Timm				"Harter, Berta"	died in the war/gestorben in Krieg		
+		Jeske	August	D	1919	Sep	Michael			Barki	60	Malinowka 1918-1937	00025	25	I. Timm				"Elbe, Marianne"			
+		Walter	Karl	D	1919	Oct	Franz		"Wodzinski, Pauline"	Malinowka	60	Malinowka 1918-1937	00026	26	I. Timm							
+		Lechelt	Christian	D	1919	Oct	Gottlieb		"Grams, Susanne"	Jasieniec	60	Malinowka 1918-1937	00027	27	I. Timm				"Hekel, Julianne"			
+		Radak	Christine	D	1915	Sep				"Nikolajewsk, Tomsk, Russland"	60	Malinowka 1918-1937	00028	28	I. Timm				Hintz	"Witwe, 67 Y"		
+		Milnikel	Alexander	D	1915	Sep	August		"Zabel, Mathilde"	"Troitzk, Russland"	60	Malinowka 1918-1937	00029	29	I. Timm							
+		Schulz	Florentine	D	1916	Apr	Gottfried		"Lucht, Justine"	Barki	60	Malinowka 1918-1937	00030	30	I. Timm				"Kurzmann, Johann"			
+		Schulz	Gottfried	D	1916	Mar	[Karl]		"[Zerbin, Luise]"	Barki	60	Malinowka 1918-1937	00031	31	I. Timm				"Lucht, Justine"			
+		Schulz	Andreas	D	1919	Nov	Heinrich		"Strek, Anna"	Podglebokie	60	Malinowka 1918-1937	00032	32	I. Timm				"Horn, Julianne"			
+		Hoffmann	Ottilie	D	1918	Aug	Friedrich		"Muench, Luise"	Malinowka	60	Malinowka 1918-1937	00033	33	I. Timm				"Milnikel, Adolf"			
+		Milnikel	Edmund	D	1916	Jan	Adolf		"Hoffmann, Ottilie"	"Nikolajewsk, Orenburg, Russland"	60	Malinowka 1918-1937	00034	34	I. Timm							
+		Friske	Eduard	D	1920	Jan	Gottlieb		"Krueger, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00035	1	I. Timm				"Bansemeier,Pauline"			
+		Heilmann	Robert	D	1920	Jan	Gustav		"Waugert (Wangert?), Karoline"	Wola Korybutowa	60	Malinowka 1918-1937	00036	2	I. Timm				"Ikert, Emma-Ernestine"			
+		Bodach	Wanda	D	1920	Feb	Gustav		"Schulz, Lidia"	Podglebokie	60	Malinowka 1918-1937	00037	3	I. Timm							
+		Zimmermann	Julius	D	1920	Feb	Peter		"Hoffmann, Elisabeth"	Jasieniec	60	Malinowka 1918-1937	00038	4	I. Timm							
+		Lehmann	Leokadia	D	1920	Mar	Wilhelm		"Keding, Eva"	Malinowka	60	Malinowka 1918-1937	00039	5	I. Timm				"Dei, Ludwig"			
+		Jasmann	August	D	1920	Aug	Michael		"Oelke, Karoline"	Malinowka	60	Malinowka 1918-1937	00040	6	I. Timm				"Peppel, Henriette"			
+		Hoffmann	Leokadia	D	1920	Aug	Michael		"Hoffmann, Pauline"	Malinowka	60	Malinowka 1918-1937	00041	7	I. Timm							
+		Korbulewski	Euphrosine	D	1920	Aug			Karoline	Wola Korybutowa	60	Malinowka 1918-1937	00042	8	I. Timm				Busse			
+		Lokstaedt	Artur	D	1920	Oct	Ludwig		"Lutz, Amanda"	Wola Korybutowa	60	Malinowka 1918-1937	00043	9	I. Timm							
+		Plat	Johann 	D	1920	Oct	Heinrich		"Kaus, Karoline"	Malinowka	60	Malinowka 1918-1937	00044	10	I. Timm				"Winter, Anna"			
+		Bansemeier	Alexander	D	1920	Nov	Ludwig		"Schilke, Emilie"	Malinowka	60	Malinowka 1918-1937	00045	11	I. Timm							
+		Lange	Elsa	D	1921	Jan	Friedrich		"Krause, Mathilde"	Malinowka	60	Malinowka 1918-1937	00046	12	I. Timm							
+		Hekel	Julianne	D	1921	Jan	Johann		"Apel, Anna"	Jasieniec	60	Malinowka 1918-1937	00047	13	I. Timm				Loechert	"Witwe, 72 Y"		
+		Kurz	Pauline	D	1921	Mar	Johann		"Ziegenhagel, Ernestine"	Malinowka	60	Malinowka 1918-1937	00048	14	I. Timm				"Groth, Peter"			
+		Jasmann	Olga	D	1921	Mar	Adolf		"Jesse, Julianne"	Malinowka	60	Malinowka 1918-1937	00049	15	I. Timm							
+		Splett	Florentine	D	1921	Sep	Friedrich		"Kujat, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00051	16	I. Timm				Schiefelbein			
+		Benke	Leonard	D	1921	Oct	August		"Link, Julianne"	Malinowka	60	Malinowka 1918-1937	00051	17	I. Timm							
+		Walter	Franz	D	1921	Nov	Anton		"Wodzinski, Marianne"	Malinowka	60	Malinowka 1918-1937	00052	18	I. Timm				"Wodzinski, Pauline"			
+		Lotholz	Elisabeth	D	1921	Dec	Jakob		Henriette	Malinowka	60	Malinowka 1918-1937	00053	19	I. Timm				Rogoski	"Witwe, 79 Y"		
+		Koberstein	Wilhelmine	D	1922	Mar	Jakob		"Roliler, Anna Maria"	Malinowka	60	Malinowka 1918-1937	00054	1	I. Timm				Klas (Glass)	"Witwe, 77 Y"		
+		Fehler	Olga	D	1922	Apr	Matthias		"Genschak, Christine"	Podglebokie	60	Malinowka 1918-1937	00055	4	I. Timm				"Schulz, Heinrich"			
+		Harke	Anna	D	1922	Apr	Johann		"Wenzel, Mathilde"	Malinowka	60	Malinowka 1918-1937	00056	5	I. Timm				Dase			
+		Apel	Karoline	D	1920	Dec	Wilhelm		Susanna	"Keckaja-Zaszczyta, Orenburg, Russland"	60	Malinowka 1918-1937	00057	2	I. Timm				Steike; Eduard			
+		Kitzmann	Olga	D	1919	Aug				"Nikolajewsk, Russland"	60	Malinowka 1918-1937	00058	3	I. Timm				"Schepke, Ferdinand"			
+		Krueger	Michael	D	1922	Apr	[Ludwig]		"[Bansemeier, Pauline]"	Malinowka	60	Malinowka 1918-1937	00059	6	I. Timm				"Sonntag, Hulda"			
+		Hein	Berta	D	1923	Jul	Johann		"Radke, Ernestine"	Malinowka	60	Malinowka 1918-1937	00061	26	I. Timm				"Guenter, Christian"			
+		Dering	Leokadia	D	1923	Sep	Andreas		"Samoski, Ottilie"	Malinowka	60	Malinowka 1918-1937	00062	27	I. Timm							
+		Kurz	Gustav	D	1923	Oct	Johann		"Ziegenhagen,Ernestine"	Malinowka	60	Malinowka 1918-1937	00063	28	I. Timm							
+		Jeske	Erna	D	1923	Oct	Adolf		"Ziegenhagen, Lidia"	Malinowka	60	Malinowka 1918-1937	00064	29	I. Timm							
+		Samoski	Marianne	D	1923	Dec				Malinowka	60	Malinowka 1918-1937	00065	31	I. Timm				"Schielke, Emanuel"			
+		Dering	Andreas	D	1923	Dec	Peter		Manke. Luise	Malinowka	60	Malinowka 1918-1937	00066	30	I. Timm				"Samoski, Ottilie"			
+		Kiemann	Herta	D	1924	Jan	Gustav		"Diestelberg, Lidia"	Malinowka	60	Malinowka 1918-1937	00067	1	I. Timm							
+		Schmitdke	Anna	D	1924	Feb	Ferdinand		"Schmidt, Ernestine"	Malinowka	60	Malinowka 1918-1937	00068	2	I. Timm							
+		Schiefelbein	Emil	D	1924	Feb	August Martin		Christine	Malinowka	60	Malinowka 1918-1937	00069	3	I. Timm				"Jung, Berta"	45 Y		
+		Beer	Ewald	D	1924	Feb	Eduard		"Rabe, Lidia"	Wola Korybutowa	60	Malinowka 1918-1937	00070	4	I. Timm							
+		Wolf	Karl	D	1922	Jan				"Feodorowka, Kustanai, Russland"	60	Malinowka 1918-1937	00071	5	I. Timm				"Wolter, Wanda"			
+		Wodzinski	Pauline	D	1924	Feb	Johann		"Diestelberg, Katharina"	Jasieniec	60	Malinowka 1918-1937	00072	6	I. Timm							
+		Schiefelbein	Adolf	D	1924	May	Gustav		"Splett, Lidia"	Malinowka	60	Malinowka 1918-1937	00074	7	I. Timm							
+		Wodzinski	Johann	D	1924	May	Martin		Salome	Jasieniec	60	Malinowka 1918-1937	00075	8	I. Timm				"[Diestelberg, Katharina]"			
+		Kurz	Leo	D	1924	Jun	Adolf		"Lokstaedt, Mathilde"	Malinowka	60	Malinowka 1918-1937	00076	9	I. Timm							
+		Elbe	Natalie	D	1924	Jun	August		"Lerch, Augustine"	Wola Korybutowa	60	Malinowka 1918-1937	00077	10	I. Timm							
+		Walter	August	D	1924	Jul	August		"Koch, Anna"	Malinowka	60	Malinowka 1918-1937	00078	11	I. Timm							
+		Fehler	Olga	D	1924	Aug	Gustav		"Walter, Leokadia"	Podglebokie	60	Malinowka 1918-1937	00079	12	I. Timm							
+		Tiede	August	D	1921	Dec	Andreas		"Link, Justine"	"Moskow, Russland"	60	Malinowka 1918-1937	00080	13	I. Timm							
+		Elbe	Marta	D	1925	Jan	August		"Lerch, Augustine"	Wola Korybutowa	60	Malinowka 1918-1937	00081		I. Timm							
+		Bansemeier	Michael	D		Nov	Karl		"Koch, Luise"	Malinowka	60	Malinowka 1918-1937	00083	12	I. Timm							
+		Krause	Heinrich	D	1915	Sep	Gustav		"Lange, Julianne"	"Kustanai, Russland"	60	Malinowka 1918-1937	00084		I. Timm							
+		Lerch	Ludwig	D	1915	Oct	Wilhelm		"Klass, Emma"	"Alt-Bulak, Orenburg, Russland"	60	Malinowka 1918-1937	00085		I. Timm							
+		Lerch	Daniel	D	1922	May				Malinowka	60	Malinowka 1918-1937	00087	7	I. Timm				"Golz, Alwine"			
+		Selig	Elmann	D	1922	Jun	August		"Stefan, Julianne"	Malinowka	60	Malinowka 1918-1937	00088	8	I. Timm							
+		Milnikel	Alwine	D	1917	Oct	Wilhelm		"Friske, Karoline"	"Kustanai, Russland"	60	Malinowka 1918-1937	00089	11	I. Timm				"Seemann, Emil"	23 Y		
+		Minke	Luise	D	1922	Aug				Jasieniec	60	Malinowka 1918-1937	00090	9	I. Timm				"Hoffmann, Friedrich"			
+		Henke	Ida Emilie	D	1922	Aug	Wilhelm		"Guenter, Julianne"	Wola Korybutowa	60	Malinowka 1918-1937	00091	12	I. Timm							
+		Walter	Artur	D	1922	Aug	August		"Harke, Emilie"	Malinowka	60	Malinowka 1918-1937	00092	13	I. Timm							
+		Milnikel	Wilhelm 	D	1921	Mar	Christoph		"Lehmann, Justine"	"Kustanai, Russland"	60	Malinowka 1918-1937	00093	10	I. Timm				"[Friske, Karoline]"			
+		Walter	Elsa	D	1922	Aug	August		"Harke, Emilie"	Malinowka	60	Malinowka 1918-1937	00094	14	I. Timm							
+		Tiede	Andreas	D	1922	Aug	Georg		"Schulz, Elisabeth"	Barki	60	Malinowka 1918-1937	00095	15	I. Timm				"Link, Justine"	49 Y		
+		Kitzmann	Johann	D	1922	Sep	Andreas		"Kuehn, Christine"	Wola Korybutowa	60	Malinowka 1918-1937	00096	16	I. Timm				"Podricki, Henriette"	53Y 4M 10D		
+		Werner	August	D	1922	Sep	Martin			Adamow	60	Malinowka 1918-1937	00097	17	I. Timm				"Mueller, Mathilde"			
+		Bansemeier	Ludwig	D	1922	Oct	Michael		"Jeske, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00098	18	I. Timm							
+		Hoffmann	August	D	1922	Nov	Friedrich		Minch. Luise	Jasieniec	60	Malinowka 1918-1937	00099	19	I. Timm				"Hoffmann, Emilie"			
+		Gatzke	Marta	D	1922	Dec	Leo		"Wilke, Berta"	Malinowka	60	Malinowka 1918-1937	00100	20	I. Timm							
+		Link	Pauline	D	1923	May	Wilhelm		"Lehmann, Anna"	Barki	60	Malinowka 1918-1937	00101	21	I. Timm				"Tiede, Daniel"	39 Y		
+		Tiemer	Ludwig	D	1922	Feb			"Hinz, Amalie"	Barki	60	Malinowka 1918-1937	00102	22	I. Timm							
+		Kaus	Emilie	D	1923	May				Jasieniec	60	Malinowka 1918-1937	00103	23	I. Timm				"Matner, Christoph"			
+		Reks	Karoline	D	1923	May				Barki	60	Malinowka 1918-1937	00104	24	I. Timm				Mueller			
+		Tiede	Julianne	D	1923	Jun	Daniel		"Link, Pauline"	Barki	60	Malinowka 1918-1937	00105	25	I. Timm							
+		Vetter	Emil	D	1925	Sep			"Vetter, Leokadia"	Wola Korybutowa	60	Malinowka 1918-1937	00108	7	I. Timm							
+		Schilke	Leokadia	D	1925	Sep	August		"Kieman, Mathilde"	Malinowka	60	Malinowka 1918-1937	00109	8	I. Timm							
+		Link	Emilie	D	1925	Sep	Wilhelm		"Lehmann, Anna"	Malinowka	60	Malinowka 1918-1937	00110	9	I. Timm				"Frank, Adolf"	19Y 3M 19D		
+		Frank	Erich	D	1925	Sep	Adolf		"Link, Emilie"	Barki	60	Malinowka 1918-1937	00111	10	I. Timm							
+		Dei	Pauline	D	1925	Nov	Jakob		"Winter, Luise"	Barki	60	Malinowka 1918-1937	00111	13	I. Timm				"Milnikel, August"	48Y 4M 18D		
+		Kiemann	Karoline	D	1925	Jun				Malinowka	60	Malinowka 1918-1937	00112		I. Timm				Schilke	"Witwe, 88 Y"		
+		Bansemeier	Eduard	D	1925	Dec	Ludwig		"Schilke, Emilie"	Malinowka	60	Malinowka 1918-1937	00113	12	I. Timm							
+		Kiler	Ferdinand	D	1926	Feb	Johann		"Mantik, Emilie"	Barki	60	Malinowka 1918-1937	00113	1	I. Timm				"Podrycki,Anna Karoline"	61Y 9M		
+		Gernat	Lidia	D	1926	Feb	Gustav		"Mantik, Anna Emilie"	Barki	60	Malinowka 1918-1937	00114	3	I. Timm				"Hinz, Gustav"	27 Y 6M 9 M		
+		Richter	Justine	D	1926	Mar				Malinowka	60	Malinowka 1918-1937	00115	4	I. Timm				Drews			
+		Seemann	Elsa	D	1926	Mar	Emil		"Jeske, Wanda"	Adamow	60	Malinowka 1918-1937	00116	5	I. Timm							
+		Marks	Ottilie Regina	D	1926	Apr	Michael		"Milbrandt, Pauline"	Malinowka	60	Malinowka 1918-1937	00117	6	I. Timm				"Jeske, Ludwig"	Witwe		
+		Jasmann	Alexander	D	1926	Oct	Adolf		"Jeske, Julianne"	Malinowka	60	Malinowka 1918-1937	00118	7	I. Timm							
+		Goerke	Baldina	D	1926	Dec	Ludwig			Malinowka	60	Malinowka 1918-1937	00119	8	I. Timm				"Lokstaedt, August"	68 Y		
+		Hoffmann	Heinrich	D	1926	Dec	Gustav		"Teske, Hulda"	Malinowka	60	Malinowka 1918-1937	00120	9	I. Timm							
+		Seemann	Lothe	D	1927	Apr	Emil		"Jeske, Wanda"	Adamow	60	Malinowka 1918-1937	00121	1	I. Timm							
+		Kukel	Ottilie	D	1927	May	Julius		"Lerch, Pauline"	Malinowka	60	Malinowka 1918-1937	00122	2	I. Timm				"Milnikel, Adolf"	26Y 4M 8D		
+		Rapczynski	Justine	D	1927	May	Martin			Malinowka	60	Malinowka 1918-1937	00123	3	I. Timm				Minke	85Y		
+		Steike	Wilhelm	D	1927	Jun	Wilhelm		"Redel, Wilhelmine"	Barki	60	Malinowka 1918-1937	00124	4	I. Timm							
+		Guenter	Christian	D	1927	Jun	Jakob		"Teis, Helene"	Jaszczow	60	Malinowka 1918-1937	00125	5	I. Timm							
+		Kantschak	Christine	D	1927	Jul	Friedrich-Wilhelm			Podglebokie	60	Malinowka 1918-1937	00126	6	I. Timm				"Fehler, Matthias"	66 Y		
+		Nachtigall	Frieda	D	1927	Jul	Julian		"Wodzinski, Lidia"	Malinowka	60	Malinowka 1918-1937	00127	7	I. Timm							
+		Jeske	Ewald	D	1927	Oct	Adolf		"Ziegenhagen, Lidia"	Malinowka	60	Malinowka 1918-1937	00128	8	I. Timm							
+		Kiemann	Gerhard	D	1927	Oct	Gustav		"Distelberger, Lidia"	Malinowka	60	Malinowka 1918-1937	00129	9	I. Timm							
+		Schiefelbein	Lidia	D	1928	Feb	Adolf		"Splett, Florentine"	Malinowka	60	Malinowka 1918-1937	00130	1	I. Timm				"Dei, Ludwig"	22Y 20D		
+		Jeske	Julianne	D	1928	Mar	Julius		"Bress, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00131	2	I. Timm				"Jasmann, Adolf"	37Y 1M 12D		
+		Gols	Hugo	D	1926	Jan	Ferdinand		"Lemke, Ernestine"	Wola Korybutowa	60	Malinowka 1918-1937	00132	1	I. Timm							
+		Erber	Julius	D	1928	Mar	Wilhelm		"Diel, Henriette"	Adamow	60	Malinowka 1918-1937	00134	3	I. Timm				"Russ, Susanne"	64Y 2M 20D		
+		Lenz	Julianne	D	1928	May			"Lenz, Julianne"	Malinowka	60	Malinowka 1918-1937	00135	4	I. Timm				"Job, Wilhelm"	62 Y		
+		Klingbeil	Edmund	D	1928	May	Julius		"Pufahl, Luise"	Barki	60	Malinowka 1918-1937	00136	5	I. Timm							
+		Pufahl	Luise	D	1928	May	August		"Schmidtke, Rosalie"	Barki	60	Malinowka 1918-1937	00137	6	I. Timm				"Klingbeil, Julius"	* 12.11.1896		
+		Richter	Ludwig	D	1928	Jun	Adam		"Kaschube, Marianne"	Jasieniec	60	Malinowka 1918-1937	00138	7	I. Timm							
+		Richter	Wilhelmine	D	1928	Aug	Gottfried		"Hinz, Karoline"	Malinowka	60	Malinowka 1918-1937	00139	8	I. Timm				"Zado, Ferdinand"	54Y 5M 16D		
+		Stefan	Johanna	D	1928	Oct	Eduard		"Kana, Emilie"	Malinowka	60	Malinowka 1918-1937	00140	9	I. Timm					* 24.06.1928		
+		Piel	Leokadia	D	1928	Dec	Michael		"Kana, Marta"	Malinowka	60	Malinowka 1918-1937	00141	10	I. Timm					* 02.10.1927		
+		Rainer	Karoline-Eva	D	1928	Dec	Christian			Podglebokie	60	Malinowka 1918-1937	00142	11	I. Timm				Ertmann	"Witwe, 83Y 3M 17D"		
+		Job	Friedrich-Wilhelm	D	1929	Mar	Andreas		"Schmidt, Christine"	Malinowka	60	Malinowka 1918-1937	00143	1	I. Timm					76Y 10M 13D		
+		Holz-Lokstaedt	Ernestine	D	1929	Apr				Malinowka	60	Malinowka 1918-1937	00144	2	I. Timm				"Lokstaedt, August"			
+		Bansemeier	Wanda	D	1929	Jul	Ludwig		"Schilke, Emilie"	Malinowka	60	Malinowka 1918-1937	00145	3	I. Timm							
+		Jeske	Mathilde	D	1929	Aug	Gottlieb		"Bulmann, Eva"	Malinowka	60	Malinowka 1918-1937	00147	4	I. Timm							
+		Link	Walter	D	1929	Sep	Eduard		"Prekalo, Lidia"	Malinowka	60	Malinowka 1918-1937	00148	5	I. Timm							
+		Dorok	Karoline	D	1929	Dec	Andreas		"Wegner, Luise"	Malinowka	60	Malinowka 1918-1937	00151	1	I. Timm					* 21.06.1886		
+		Teske	Hulda	D	1930	Mar	Friedrich		"Patzlaw, Berta"	Malinowka	60	Malinowka 1918-1937	00152	2	I. Timm				"Hoffmann, Gustav"	* 06.11.1903		
+		Schepke	Ferdinand	D	1930	Mar	Samuel		"Fandrich, Wilhelmine"	Barki	60	Malinowka 1918-1937	00153	3	I. Timm				"Markwart, Mathilde"	51 Y		
+		Sonnenberg	Artur	D	1930	May	Karl		"Klan, Augustine"	Malinowka	60	Malinowka 1918-1937	00154	4	I. Timm							
+		Rehbein	Marta	D	1930	May	Eduard		"Kohlberg, Luise"	Barki	60	Malinowka 1918-1937	00155	5	I. Timm				"Ziegenhagel, August"	29Y 4M 17D		
+		Ziegenhagel	Leo	D	1930	May	August		"Rehbein, Marta"	Barki	60	Malinowka 1918-1937	00156	6	I. Timm							
+		Schulz	Amanda	D	1930	Jun	Rudolf		"Schulz, Ottilie"	Barki	60	Malinowka 1918-1937	00157	7	I. Timm							
+		Jess	Wilhelmine	D	1930	Aug	Stefan		"Doberstein, Elisabeth"	Adamow	60	Malinowka 1918-1937	00158	8	I. Timm				"Gellert, Karl"	"Witwe, 80 Y"		
+		Wedemann	Amanda	D	1931	Jan	Wilhelm		"Krause, Wanda"	Malinowka	60	Malinowka 1918-1937	00159	9	I. Timm							
+		Wutke	August	D	1931	Jan	Martin				60	Malinowka 1918-1937	00160-61	10	I. Timm							
+		Hundt	Otto	D	1931	Feb	Adolf			Malinowka	60	Malinowka 1918-1937	00161	11	I. Timm							
+		Busse	Leo	D	1931	Mar	Gustav		"Schiefelbein, Rosamunde"	Malinowka	60	Malinowka 1918-1937	00162	12	I. Timm							
+		Bansemeier	Friederike	D	1931	Mar	Karl		"Koch, Anna"	Malinowka	60	Malinowka 1918-1937	00163-64	13	I. Timm				"Walter, August"			
+		Matner	Heinrich	D	1931	May	Rudolf		"Kunkel, Mathilde"	Jasieniec	60	Malinowka 1918-1937	00164	14	I. Timm							
+		Kujat	Emilie	D	1931	May	Karl-Gustav		"Schmidt, Elisabeth"	Malinowka	60	Malinowka 1918-1937	00166	15	I. Timm				Stefan	Witwe * 10.09.1862		
+		Wolfert	Adelgunde	D	1931	Jul	Rudolf		"Jeske, Emilie"	Malinowka	60	Malinowka 1918-1937	00167	16	I. Timm							
+		Matner	Sigismund	D	1931	Aug	Rudolf		"Kunkel, Mathilde"	Jasieniec	60	Malinowka 1918-1937	00168	17	I. Timm							
+		Kana	Lidia	D	1931	Aug	Gottlieb		"Dering, Pauline"	Malinowka	60	Malinowka 1918-1937	00169	18	I. Timm				"Kuehn, Adolf"			
+		Jeske	Lidia	D	1931	Aug	Gottlieb		"Pulmann, Eva"	Malinowka	60	Malinowka 1918-1937	00170	19	I. Timm							
+		Lange	Elsa	D	1931	Nov	Adolf		"Groth, Lidia"	Malinowka	60	Malinowka 1918-1937	00171	20	I. Timm							
+		Hoffmann	Alexander	D	1931	Dec	Johann		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1918-1937	00172	21	I. Timm							
+		Mantik	Alexander	D	1932	Feb	Daniel		"Job, Olga"	Malinowka	60	Malinowka 1918-1937	00173	22	I. Timm							
+		Job	Olga	D	1932	Mar	Friedrich		"Lenz, Julianne"	Malinowka	60	Malinowka 1918-1937	00174	23	I. Timm				"Mantik, Daniel"			
+		Matner	Eduard	D	1932	May	Rudolf		"Kunkel, Mathilde"	Jasieniec	60	Malinowka 1918-1937	00175	24	I. Timm							
+		Walter	Helmut	D	1932	May	Ludwig		"Grams, Julianne"	Malinowka	60	Malinowka 1918-1937	00176	25	I. Timm							
+		Wak	Hanna	D	1932	Jun	Ludwig		"Sader, Karoline"	Malinowka	60	Malinowka 1918-1937	00177	26	I. Timm				"Klan, Gustav"	25Y 5M 15D		
+		Oelke	Artur	D	1932	Jun	Eduard		"Klan, Lidia"	Malinowka	60	Malinowka 1918-1937	00178	27	I. Timm							
+		Hoffmann	Gerhard	D	1932	Oct	Gustav		"Jobs, Johanna"	Malinowka	60	Malinowka 1918-1937	00180	28	I. Timm							
+		Winter	Helene	D	1932	Dec				Barki	60	Malinowka 1918-1937	00181	29	I. Timm					* 11.06.1926		
+		Stefan	Adolf	D	1932	Dec	Eduard		"Kana, Emilie"	Malinowka	60	Malinowka 1918-1937	00182	30	I. Timm							
+		Wodzinski	Karl	D	1932	Dec	Johann		"Diestelberg, Katharina"	Malinowka	60	Malinowka 1918-1937	00183	31	I. Timm				"Grams, Wilhelmine"	* 18.09.1879		
+		Kopf	Wilhelm	D	1933	Jan	Michael			Podglebokie	60	Malinowka 1918-1937	00184	32	I. Timm				"Splett, Olga"	* 27.05.1883		
+		Luedke	Gustav	D	1933	Jan	Andreas		"Wenzel, Karoline"	Malinowka	60	Malinowka 1918-1937	00186	33	I. Timm				"Rode, Mathilde"	* 14.12.1855		
+		Klan	Jakob	D	1933	Mar	Johann		"Kelm, Luise"	Malinowka	60	Malinowka 1918-1937	00187	34	I. Timm				"Samoski, Christine"	* 18.07.1857		
+		Schiefelbein	Leonia	D	1933	Mar	Eduard		"Hennig, Elsa"	Malinowka	60	Malinowka 1918-1937	00188	35	I. Timm					* 15.02.1933		
+		Stefan	Ewald	D	1933	Mar	Eduard		"Kana, Emilie"	Malinowka	60	Malinowka 1918-1937	00189	36	I. Timm					* 26.12.1932		
+		Krueger	Julianne	D	1933	Jun	Gustav		"Frank, Wilhelmine"	Malinowka	60	Malinowka 1918-1937	00191	37	I. Timm				"Pide, Julius"	* 05.01.1909		
+		Lokstaedt	August	D	1933	Aug	Daniel		"Bryk, Eleonore"	Malinowka	60	Malinowka 1918-1937	00192	38	I. Timm				"Golz, Emilie"	* 04.07.1855		
+		Samoski	Eduard	D	1933	Oct	Julius		"Bodach, Emilie"	Barki	60	Malinowka 1918-1937	00195	40	I. Timm							
+		Riemer	Leokadia	D	1933	Nov	Adolf		"Tiede, Julianne"	Albertow	60	Malinowka 1918-1937	00196	41	I. Timm							
+		Mantik	Artur	D	1934	Jan	Daniel		Olga	Malinowka	60	Malinowka 1918-1937	00197	42	I. Timm					* 04.01.1934		
+		Wolfert	Artur	D	1934	Jan	Rudolf		"Jeske, Emilie"	Malinowka	60	Malinowka 1918-1937	00198	43	I. Timm							
+		Rossnagel	Eduard	D	1934	Feb	Gottfried		"Schulz, Karoline"	Malinowka	60	Malinowka 1918-1937	00199	44	I. Timm				"Ziebart, Emilie"			
+		Apelt	female	D	1934	Feb	unknown/unbekannt		"Apelt, Olga"	Malinowka	60	Malinowka 1918-1937	00200	45	I. Timm					* 23.02.1934		
+		Ziegenhagel	Otto	D	1934	Mar	August		"Richter, Olga"	Barki	60	Malinowka 1918-1937	00201	46	I. Timm					17 D		
+		Beer	Otto	D	1934	Mar	Leo		"Roechert, Emilie"	Malinowka	60	Malinowka 1918-1937	00202	47	I. Timm							
+		Winter	Luise	D	1934	Oct	Franz			Malinowka	60	Malinowka 1918-1937	00203	48	I. Timm				"Dei, Jakob"			
+		Schiefelbein	Rudwald	D	1934	Dec	Eduard		"Hennig, Elsa"	Malinowka	60	Malinowka 1918-1937	00204	49	I. Timm							
+		Wedemann	Emil	D	1934	Dec	Wilhelm		"Krause, Wanda"	Malinowka	60	Malinowka 1918-1937	00205	50	I. Timm							
+		Rothaug	Karl	D	1935	Jan	Michael		"Hintz, Justine"	Malinowka	60	Malinowka 1918-1937	00206	51	I. Timm				"Dei, Ottilie"	* 10.07.1888		
+		Kurzmann	Johann	D	1935	Feb	Andreas		"Wolter, Julianne"	Barki	60	Malinowka 1918-1937	00207	52	I. Timm					* 01.09.1877		
+		Kuehn	Gottlieb	D	1935	Apr	August			Barki	60	Malinowka 1918-1937	00208	53	I. Timm				"Kaschube, Justine"	* 06.04.1856		
+		Ziegenhagel	Paul	D	1935	Apr	August		"Richter, Olga"	Barki	60	Malinowka 1918-1937	00209	54	I. Timm					* 27.03.1935		
+		Krause	Leo	D	1935	Jun	Julius		"Repp, Ottilie"	Jasieniec	60	Malinowka 1918-1937	00210	55	I. Timm					* 19.05.1935		
+		Rode	Mathilde	D	1935	Sep	Andreas			Malinowka	60	Malinowka 1918-1937	00211	56	I. Timm				Luedke	* 02.10.1861		
+		Jobs	Emil	D	1935	Sep	Adolf		"Schmidtke, Wanda"	Malinowka	60	Malinowka 1918-1937	00212	57	I. Timm					* 09.02.1935		
+		Hinz	Wilhelmine	D	1935	Oct				Malinowka	60	Malinowka 1918-1937	00213	58	I. Timm				Zado	"Witwe, 92 Y"		
+		Kuehn	Justine	D	1935	Jun	Friedrich		"Rodecki, Rosalie"	Barki	60	Malinowka 1918-1937	00214	59	I. Timm					85 Y		
+		Drews	Lidia	D	1935	Oct	Julius		"Beer, Berta"	Malinowka	60	Malinowka 1918-1937	00215	60	I. Timm					* 08.10.1935		
+		Gerhard	Paul	D	1935	Nov	Emil		"Wutke, Emma"	Malinowka	60	Malinowka 1918-1937	00216	61	I. Timm					* 24.09.1935		
+		Friske	Emilie	D	1935	Nov	Gottlieb			Malinowka	60	Malinowka 1918-1937	00217	62	I. Timm				"Tomasczewski, Jakob"	"Witwe, 58 Y"		
+		Drews	Elli	D	1935	Nov	Julius		"Beer, Berta"	Malinowka	60	Malinowka 1918-1937	00218	63	I. Timm					* 08.10.1935		
+		Milnikel	Georg	D	1936	Jan	Johann		"Gross, Terese"	Barki	60	Malinowka 1918-1937	00219	65	I. Timm					* 28.09.1935		
+		Schulz	Karoline	D	1935	Dec	Michael		"Filip, Karoline"	Malinowka	60	Malinowka 1918-1937	00220	64	I. Timm				Rossnagel	* 26.04.1853		
+		Milnikel	August	D	1936	Mar	Christoph		"Lehmann, Justine"	Barki	60	Malinowka 1918-1937	00221	67	I. Timm				"[Schultz], Emilie"	58Y 7M 12D		
+		Riemer	Johann	D	1936	Mar	Adolf		"Tiede, Julianne"	Albertow	60	Malinowka 1918-1937	00222	68	I. Timm					2 h gelebt		
+		Henke	Willi	D	1936	May	Rudolf		"Frank, Emilie"	Jasieniec	60	Malinowka 1918-1937	00223	69	I. Timm							
+		Richter	Otto	D	1936	Jun	Emil		"Engel, Johanna"	Jasieniec	60	Malinowka 1918-1937	00224	70	I. Timm							
+		Makus	Rudolf	D	1936	Aug	Andreas		"Marks, Emilie"	Malinowka	60	Malinowka 1918-1937	00225	71	I. Timm				Wilhelmine	* 22.06.1875		
+		Schachtschneider	August	D	1936	Nov	Michael		"Deiter, Apolonia"	Malinowka	60	Malinowka 1918-1937	00226	72	I. Timm				Rosalie			
+		Hapke (married name)	Rosalie	D	1936	Dec	Gottlieb		"Winkler, Karoline"	Malinowka	60	Malinowka 1918-1937	00227	73	I. Timm				"Hapke, Gustav"	67Y 2M 5D		
+		Fehler	Gustav	D	1936	Dec	Matthias		"Kantschak, Christine"	Podglebokie	60	Malinowka 1918-1937	00228	74	I. Timm				Leokadia	* 09.11.1895		
+		Kitzmann	Ferdinand	D	1936	Dec	Reinhold		"Zuknik, Hilda"	Malinowka	60	Malinowka 1918-1937	00229	75	I. Timm					14 D 		
+		Dei	[female]	D	1936	Dec	Ludwig		"Frank, Amanda"	Malinowka	60	Malinowka 1918-1937	00230	76	I. Timm					ohne Taufe gestorben		
+		Hartfil (married name)	Julianne	D	1936	Dec				Malinowka	60	Malinowka 1918-1937	00231	77	I. Timm				"Hartfil, Wilhelm"	68Y 4M 25D		
+		Hoffmann	Friedrich August	D	1937	Mar	August		Rosalie	Malinowka	60	Malinowka 1918-1937	00232	78	I. Timm				Rosalie	* 03.10.1868		
+		Kessub (married name)	Alwine	D	1937	Apr	Christoph		"Kaus, Emilie"	Wesolowka	60	Malinowka 1918-1937	00233	79	I. Timm				"Kessub, August"	* 25.10.1895		
+		Bodach	Leo	D	1937	May	unknown/unbekannt		"Bodach, Olga"	Barki	60	Malinowka 1918-1937	00234	80	I. Timm					30 D		
+		Nachtigal	Sigismund	D	1937	Jun	Julius		"Wodzinski, Lidia"	Malinowka	60	Malinowka 1918-1937	00235	81	I. Timm							
+		Wentland	Lidia	B	1920	Oct	Gustav		"Kopf, Amalie"	Malinowka	60	Malinowka 1920-1928 	00002	45	I. Timm							
+		Klingbeil	Erich-Sigismund	B	1920	Nov	Julius		"Pufahl, Luise"	Barki	60	Malinowka 1920-1928 	00003	46	I. Timm							
+		Frank	Martha	B	1920	Oct	Wilhelm		"Meier, Augustine"	Wola Korybutowa	60	Malinowka 1920-1928 	00004	47	I. Timm							
+		Bansemeier	Emil	B	1920	Dec	Robert		"Dorok, Karoline"	Malinowka	60	Malinowka 1920-1928 	00005	48	I. Timm							
+		Schmidtke	Eduard	B	1920	Dec	Ferdinand		"Rabe, Emilie"	Wola Korybutowa	60	Malinowka 1920-1928 	00006	49	I. Timm							
+		Lange	Elsa	B	1920	Dec	Friedrich		"Krause, Mathilde"	Malinowka	60	Malinowka 1920-1928 	00007	50	I. Timm							
+		Milnikel	Ewald	B	1920	Dec	Adolf		"Kukel, Ottilie"	Malinowka	60	Malinowka 1920-1928 	00008	51	I. Timm							
+		Busse	Helene	B	1921	Jan	Friedrich		"Roechert, Emilie"	Malinowka	60	Malinowka 1920-1928 	00009	52	I. Timm							
+		Dering	Natalie	B	1921	Jan	Andreas		"Samoski, Ottilie"	Malinowka	60	Malinowka 1920-1928 	00010	53	I. Timm							
+		Schilke	Leokadia	B	1921	Jan	August		"Kitzmann, Mathilde"	Malinowka	60	Malinowka 1920-1928 	00011	54	I. Timm							
+		Milnikel	Olanda	B	1921	Feb	Ferdinand		"Piel, Amalie"	Barki	60	Malinowka 1920-1928 	00012	55	I. Timm							
+		Piel	Lidia	B	1921	Feb	Gottlieb		"Fehler, Emma"	Malinowka	60	Malinowka 1920-1928 	00013	56	I. Timm							
+		Krause	Ludwig	B	1921	Feb	Eduard		"Scheske, Olga"	Wola Korybutowa	60	Malinowka 1920-1928 	00014	57	I. Timm							
+		Kien	Leo	B	1921	Feb	Wilhelm		Anna-Lidia	Barki	60	Malinowka 1920-1928 	00015	58	I. Timm							
+		Tiede	Emma	B 	1921	Mar	Daniel		"Link, Pauline"	Barki	60	Malinowka 1920-1928 	00016	59	I. Timm							
+		Wilke	Helene	B	1921	Mar	Johann		"Fenske, Luise"	Wola Korybutowa	60	Malinowka 1920-1928 	00017	60	I. Timm							
+		Lokstaedt	Helene-Frieda	B	1921	Mar	Ludwig		"Lutz, Amanda"	Wola Korybutowa	60	Malinowka 1920-1928 	00018	61	I. Timm							
+		Jasmann	Olga	B 	1921	Mar	Adolf		"Jesse, Julianna"	Malinowka	60	Malinowka 1920-1928 	00019	62	I. Timm							
+		Zimmermann	Artur	B	1921	Apr	Robert		"Bansemeier, Hulda"	Jasieniec	60	Malinowka 1920-1928 	00021	63	I. Timm							
+		Kurz	Wanda	B 	1921	May	Adolf		"Lokstein, Mathilde"	Malinowka	60	Malinowka 1920-1928 	00022	64	I. Timm							
+		Piel	stillborn	D	1921	Jun	Gustav		"Erber, Natalie"	Malinowka	60	Malinowka 1920-1928 	00023	65	I. Timm					birth record		
+		Steike	Edmund	B	1921	Jun	Wilhelm		"Redel, Wilhelmine"	Barki	60	Malinowka 1920-1928 	00024	66	I. Timm							
+		Walter	Artur	B	1921	Jul	August		"Harke, Emilie"	Malinowka	60	Malinowka 1920-1928 	00024	67	I. Timm					twin/Zwilling		
+		Walter	Elsa	B	1921	Jul	August		"Harke, Emilie"	Malinowka	60	Malinowka 1920-1928 	00025	68	I. Timm					twin/Zwilling		
+		Golz	Adelgunde	B	1921	Jul	Ferdinand		"Lemke, Ernestine"	Wola Korybutowa	60	Malinowka 1920-1928 	00026	69	I. Timm							
+		Benke	Leonard	B	1921	Aug	August		"Link, Julianna"	Malinowka	60	Malinowka 1920-1928 	00027	70	I. Timm							
+		Zuknik	Leo	B	1921	Sep	Julius		"Kitzmann, Emilie"	Malinowka	60	Malinowka 1920-1928 	00028	71	I. Timm							
+		Bansemeier	Eduard	B	1921	Oct	Ludwig		"Schilke, Emilie"	Malinowka	60	Malinowka 1920-1928 	00029	72	I. Timm							
+		Kuehn	Talita	B	1921	Oct	Johann		"Splett, Emilie"	Malinowka	60	Malinowka 1920-1928 	00030	73	I. Timm							
+		Dei	Helene	B	1921	Oct	Ludwig		"Schiefelbein, Martha"	Malinowka	60	Malinowka 1920-1928 	00031	74	I. Timm							
+		Lerch	Ewald-Edmund	B	1921	Oct	Heinrich		"Fitz, Pauline"	Jasieniec	60	Malinowka 1920-1928 	00033	75	I. Timm							
+		Krueger	Olga	B	1921	Dec	Wilhelm		"Walter, Lidia"	Malinowka	60	Malinowka 1920-1928 	00034	76	I. Timm							
+		Hoffmann	Lidia	B	1921	Dec	Michael		"Hoffmann, Pauline"	Malinowka	60	Malinowka 1920-1928 	00035	77	I. Timm							
+		Frank	Ida	B	1921	Dec	Michael		"Kitzmann, Amalie"	Malinowka	60	Malinowka 1920-1928 	00035	78	I. Timm							
+		Kopf 	Lidia	B	1921	Dec	Wilhelm		"Splett, Olga"	Malinowka	60	Malinowka 1920-1928 	00036	1	I. Timm							
+		Gesell	Lidia	B	1921	Nov	Gustav		"Rode, Emilie"	Wola Korybutowa	60	Malinowka 1920-1928 	00037	2	I. Timm							
+		Guenter	Leokadia	B	1921	Dec	Christian		"Hein, Berta"	Malinowka	60	Malinowka 1920-1928 	00038	3	I. Timm							
+		Schilke	Artur	B	1922	Jan	Emanuel		"Samoski, Marianne"	Malinowka	60	Malinowka 1920-1928 	00039	4	I. Timm							
+		Henke	Ida-Emilie	B	1922	Jan	Wilhelm		"Guenter, Julianna"	Wola Korybutowa	60	Malinowka 1920-1928 	00040	5	I. Timm							
+		Hoffmann	Natalie	B	1922	Jan	Johann		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1920-1928 	00041	6	I. Timm							
+		Wiesenberg	Natalie	B	1922	Jan	Gustav		"Richter, Johanna Mathilde"	Malinowka	60	Malinowka 1920-1928 	00042	7	I. Timm							
+		Elbe	Olga	B	1922	Jan	August		"Lerch, Augustine"	Wola Korybutowa	60	Malinowka 1920-1928 	00043	8	I. Timm							
+		Rolof	Erich	B	1922	Mar	Friedrich		"Wedemann, Mathilde"	Malinowka	60	Malinowka 1920-1928 	00044	9	I. Timm							
+		Kaschub	Leokadia	B	1922	Feb	August		"Matner, Alwine"	Malinowka	60	Malinowka 1920-1928 	00045	10	I. Timm							
+		Schmidtke	Olga	B	1918	Mar	Gustav		"Patzlaw, Wanda"	"Kustanai, Russland"	60	Malinowka 1920-1928 	00046	11	I. Timm							
+		Krueger	Radina	B	1920	Mar	Rudolf		"Richter, Emilie"	"Feodorowka, Russland"	60	Malinowka 1920-1928 	00047	12	I. Timm							
+		Reichwald	Edmund	B	1922	Apr	Julius		"Walter, Olga"	Malinowka	60	Malinowka 1920-1928 	00048	13	I. Timm							
+		Streibel	Helene	B	1916	Feb	Adolf		"Rode, Wilhelmine"	"Troitsk, Russland"	60	Malinowka 1920-1928 	00049	14	I. Timm							
+		Selig	Ellmann	B	1922	May	August		"Stefan, Julianna"	Malinowka	60	Malinowka 1920-1928 	00050	15	I. Timm							
+		Krause	Alwine	B	1922	Jun	Karl		"Ikert, Emma Ernestine"	Wola Korybutowa	60	Malinowka 1920-1928 	00051	16	I. Timm							
+		Milnikel	Elsa	B	1922	Jul	August		"Zabel, Mathilde"	Barki	60	Malinowka 1920-1928 	00052	17	I. Timm							
+		Hoffmann	Wilhelm	B	1922	Jul	Martin		"Wolter, Pauline"	Malinowka	60	Malinowka 1920-1928 	00053	18	I. Timm							
+		Milnikel	Emma	B	1922	Aug	Ferdinand		"Piel, Amalie"	Barki	60	Malinowka 1920-1928 	00054	19	I. Timm							
+		Benke	Elsa	B	1922	Jul	August		"Link, Julianna"	Malinowka	60	Malinowka 1920-1928 	00055	20	I. Timm					twin/Zwilling		
+		Benke	Erika	B	1922	Jul	August		"Link, Julianna"	Malinowka	60	Malinowka 1920-1928 	00056	21	I. Timm					twin/Zwilling		
+		Piel	Emilie	B	1922	Sep	Gottlieb		"Fehler, Emma"	Malinowka	60	Malinowka 1920-1928 	00057	22	I. Timm							
+		Jeske	Erna	B	1922	Sep	Adolf		"Ziegenhagen, Lidia"	Malinowka	60	Malinowka 1920-1928 	00058	22	I. Timm							
+		Mueller	Artur	B	1922	Oct	Wilhelm		"Ziebart, Wanda"	Malinowka	60	Malinowka 1920-1928 	00059	23	I. Timm							
+		Steik 	Ottilie	B	1922	Oct	Eduard		"Rogan, Marta"	Barki	60	Malinowka 1920-1928 	00060	24	I. Timm							
+		Hoffmann	Elsa	B	1922	Nov	Michael		"Hoffmann, Pauline"	Malinowka	60	Malinowka 1920-1928 	00061	25	I. Timm							
+		Schwenke	Talita	B	1922	Nov	Heinrich		"Bluemke, Mathilde"	Wola Korybutowa	60	Malinowka 1920-1928 	00062	26	I. Timm							
+		Brikmann	Meta	B	1922	Dec	Fritz		"Lechelt, Pauline"		60	Malinowka 1920-1928 	00063	27	I. Timm							
+		Dei	Emilie	B	1923	Jan	Ludwig		"Schiefelbein, Martha"	Malinowka	60	Malinowka 1920-1928 	00064	2	I. Timm							
+		Busse	Gustav Robert	B	1923	Jan	Gustav		Klingbeil. Helene	Wola Korybutowa	60	Malinowka 1920-1928 	00065	3	I. Timm							
+		Kopp	Leo	B	1923	Feb	Wilhelm		"Splett, Olga"		60	Malinowka 1920-1928 	00066	5	I. Timm							
+		Buchholz	Artur	B	1923	Feb	Wilhelm		"Richter, Wanda"		60	Malinowka 1920-1928 	00067	3	I. Timm							
+		Schmidtke	Edmund	B	1923	Jan	Gustav		"Patzlaw, Wanda"	Wola Korybutowa	60	Malinowka 1920-1928 	00068	4	I. Timm							
+		Piel	Emilie	B	1923	Apr	Gustav		"Erber, Nathalie"	Malinowka	60	Malinowka 1920-1928 	00069	5	I. Timm					twin/Zwilling		
+		Piel	Lidia	B	1923	Apr	Gustav		"Erber, Nathalie"	Malinowka	60	Malinowka 1920-1928 	00070	6	I. Timm					twin/Zwilling		
+		Krause	Emma	B	1923	Apr	Julius		"Rap, Ottilie"	Wola Korybutowa	60	Malinowka 1920-1928 	00071	7	I. Timm							
+		Schmidtke	Adolf	B	1923	Apr	Ferdinand		"Rap, Emilie"	Wola Korybutowa	60	Malinowka 1920-1928 	00072	8	I. Timm							
+		Kurz	Leo	B	1923	May	Adolf		"Lokstaedt, Mathilde"		60	Malinowka 1920-1928 	00073	9	I. Timm							
+		Mantik	Herta	B	1923	May	Daniel		"Job, Olga"		60	Malinowka 1920-1928 	00074	10	I. Timm							
+		Golz	Otto	B	1923	May	Ferdinand		"Lemke, Ernestine"		60	Malinowka 1920-1928 	00075	11	I. Timm							
+		Klingbeil	Hilda	B	1923	May	Julius		"Pufahl, Luise"		60	Malinowka 1920-1928 	00076	12	I. Timm							
+		Streibel	Artur	B	1923	May	Adolf		"Rode, Wilhelmine"	Wola Korybutowa	60	Malinowka 1920-1928 	00077	13	I. Timm							
+		Schiefelbein	Adolf	B	1923	Jun	Gustav		"Splett, Lidia"	Malinowka	60	Malinowka 1920-1928 	00078	14	I. Timm							
+		Walter	Hermann	B	1923	May	August		"Harke, Emilie"		60	Malinowka 1920-1928 	00079	15	I. Timm							
+		Drews	Adele	B	1923	Apr	unknown/unbekannt		"Drews, Berta"	Malinowka	60	Malinowka 1920-1928 	00080	16	I. Timm							
+		Stefan	Lidia	B	1923	Jun	Eduard		"Kana, Emilie"	Malinowka	60	Malinowka 1920-1928 	00081	17	I. Timm							
+		Sonnenberg	Adele	B	1923	Aug	Karl		"Klann, Auguste"		60	Malinowka 1920-1928 	00082	18	I. Timm							
+		Platt	Artur	B	1923	Sep	Adolf		"Steinke, Emma"	Malinowka	60	Malinowka 1920-1928 	00083	19	I. Timm							
+		Riemer	Leokadia	B	1923	Sep	Adolf		"Tiede, Julianne"	Albertow	60	Malinowka 1920-1928 	00084	20	I. Timm							
+		Selnig	Frieda	B	1923	Sep	August		"Stefan, Julianna"	Malinowka	60	Malinowka 1920-1928 	00085	21	I. Timm							
+		Krause	Leokadia	B	1923	Oct	August		"Janke, Natalie"	Malinowka	60	Malinowka 1920-1928 	00086	22	I. Timm							
+		Wiesenberg	Emma	B	1923	Oct	Gustav		"Richter, Johanna Mathilde"		60	Malinowka 1920-1928 	00087	23	I. Timm							
+		Beer	Ewald	B	1923	Nov	Eduard		"Rabe, Lidia"	Malinowka	60	Malinowka 1920-1928 	00088	24	I. Timm							
+		Steike	Wilhelm	B	1923	Nov	Wilhelm		"Redel, Wilhelmine"	Barki	60	Malinowka 1920-1928 	00089	25	I. Timm							
+		Busse	Ida Valentine	B	1924	Jan	Gustav		"Klingbeil, Helene"	Wola Korybutowa	60	Malinowka 1920-1928 	00091	2	I. Timm							
+		Kitzmann	Herta	B	1924	Jan	Gustav		"Diestelberg, Lidia"		60	Malinowka 1920-1928 	00092	1	I. Timm							
+		Hoffmann	Artur	B	1923	Dec	Martin		"Wolter, Pauline"	Jasieniec	60	Malinowka 1920-1928 	00093	3	I. Timm							
+		Hundt	Elsa	B	1923	Dec	Adolf		"Lokstaedt, Wanda"	Stefanow	60	Malinowka 1920-1928 	00094	4	I. Timm							
+		Wolfert	Adolf	B	1922	Mar	Rudolf		"Jeske, Emilie"	Malinowka	60	Malinowka 1920-1928 	00095	5	I. Timm							
+		Milnikel	Edmund	B	1924	Feb	Daniel		"[Krueger], Lidia"	Malinowka	60	Malinowka 1920-1928 	00096	6	I. Timm							
+		Hoffmann	Herta	B	1924	Mar	Johann		"Bansemeier, Pauline"		60	Malinowka 1920-1928 	00097	7	I. Timm							
+		Lerch	Adolf	B	1924	Mar	Heinrich		"Fitz, Pauline"		60	Malinowka 1920-1928 	00098	8	I. Timm							
+		Kien	Siegismund	B	1924	Apr	Wilhelm		"Link, Anna Lidia"		60	Malinowka 1920-1928 	00099	9	I. Timm							
+		Krause	Edmund	B	1924	Mar	Karl		"Ikert, Emma Ernestine"	Wola Korybutowa	60	Malinowka 1920-1928 	00100	10	I. Timm							
+		Schwenke	Leokadia	B	1924	Feb	Heinrich		"Bluemke, Mathilde"	Wola Korybutowa	60	Malinowka 1920-1928 	00101	11	I. Timm							
+		Stefan	Siegismund	B	1924	Apr	Gottfried		"Schulz, Lidia"	Malinowka	60	Malinowka 1920-1928 	00102	12	I. Timm							
+		Zimmermann	Wanda	B	1924	Apr	Robert		"Bansemeier, Hulda"	Malinowka	60	Malinowka 1920-1928 	00103	13	I. Timm							
+		Jeske	Ewald	B	1924	May	Adolf		"Ziegenhagen, Lidia"	Malinowka	60	Malinowka 1920-1928 	00104	14	I. Timm							
+		Fehler	Olga	B	1923	Oct	Gustav		"Walter, Leokadia"		60	Malinowka 1920-1928 	00105	15	I. Timm							
+		Piel	Adolf	B	1924	Jul	Gottlieb		"Fehler, Emma"		60	Malinowka 1920-1928 	00106	16	I. Timm							
+		Hinz	Siegmund	B	1924	Aug	Gustav		"Gernat, Lidia"		60	Malinowka 1920-1928 	00107	17	I. Timm							
+		Kuehn	Erich 	B	1924	Aug	Johann		Splett. Emilie		60	Malinowka 1920-1928 	00108	18	I. Timm							
+		Wendland	Ida	B	1924	Jul	Gustav		"Kopp, Amalie"		60	Malinowka 1920-1928 	00109	19	I. Timm							
+		Frank	Reinhold	B	1924	Aug	Adolf		"Link, Emilie"		60	Malinowka 1920-1928 	00110	20	I. Timm							
+		Zuknik	Siegfried	B	1924	Sep	Julius		"Kitzmann, Emilie"		60	Malinowka 1920-1928 	00111	21	I. Timm							
+		Henke	Hilda-Talita	B 	1924	Oct	Wilhelm		"Guenter, Julianna"	Wola Korybutowa	60	Malinowka 1920-1928 	00112	22	I. Timm							
+		Busse	Wanda	B	1916	Apr	Friedrich		"Roechert, Emilie"	"Charkow, Russland"	60	Malinowka 1920-1928 	00113		I. Timm							
+		Ziebart	Blandine	B	1916	Aug	Gustav		"Wendland, Mathilde"	"Kustanai, Russland"	60	Malinowka 1920-1928 	00114		I. Timm							
+		Milnikel	Erwin	B	1924	Oct	Adolf		"Kukel, Ottilie"		60	Malinowka 1920-1928 	00115	23	I. Timm							
+		Schilke	Erla	B	1924	Nov	Emanuel		"Moltz, Olga"		60	Malinowka 1920-1928 	00116	24	I. Timm							
+		Dering	Meta-Waldina	B	1924	Nov			"Samoski, Ottilie"		60	Malinowka 1920-1928 	00117	25	I. Timm					born out of wedlock?		
+		Dei	Marianne	B		Jan	Ludwig		"Schiefelbein, Martha"	Wola Korybutowa	60	Malinowka 1920-1928 	00118		I. Timm							
+		Krueger	Waldina	B	1924	Nov	August		"Fitz, Auguste"	Malinowka	60	Malinowka 1920-1928 	00119	25	I. Timm							
+		Golz	Ida	B	1924	Nov	Ferdinand		"Lemke, Ernestine"	Wola Korybutowa	60	Malinowka 1920-1928 	00120	26	I. Timm							
+		Elbe	Martha	B	1924	Oct	August		"Lerch, Augustine"		60	Malinowka 1920-1928 	00121	27	I. Timm							
+		Schulz	Erna	B	1924	Nov	Rudolf		"Schulz, Ottilie"		60	Malinowka 1920-1928 	00122	28	I. Timm							
+		Baumgart	Christoph Karl	B	1924	Dec	Christoph		"Wolter, Wanda"		60	Malinowka 1920-1928 	00123	1	I. Timm							
+		Bansemeier	Adele	B	1924	Dec	Ludwig		"Schilke, Emilie"		60	Malinowka 1920-1928 	00124	2	I. Timm							
+		Lange	August	B	1925	Jan	Friedrich		"Krause, Mathilde"		60	Malinowka 1920-1928 	00125	3	I. Timm							
+		Fehler	Natalie	B	1925	Feb	Gustav		"Walter, Leokadia"		60	Malinowka 1920-1928 	00126	4	I. Timm							
+		Wolfert	Friedrich	B	1925	Jan	Rudolf		"Jeske, Emilie"		60	Malinowka 1920-1928 	00127	5	I. Timm							
+		Schilke	Eduard	B	1925	Dec	Emmanuel		"Molzahn, Olga"	Malinowka	60	Malinowka 1920-1928 	00129	2	I. Timm							
+		Golz	Hugo	B	1925	Dec	Ferdinand		"Lemke, Ernestine"	Wola Korybutowa	60	Malinowka 1920-1928 	00130	1	I. Timm							
+		Beer	Erich	B 	1926	Nov	Leo		"Reichelt, Emilie"	Jasieniec	60	Malinowka 1920-1928 	00131	28	I. Timm	R						
+		Milnikel	Artur	B	1926	Jan	Ferdinand		"Piel, Amalie"	Barki	60	Malinowka 1920-1928 	00132	3	I. Timm	R						
+		Piel	Emil	B	1926	Jan	Gottlieb		"Fehler, Emma"		60	Malinowka 1920-1928 	00133	4	I. Timm	R						
+		Henke	Erich Adolf	B	1926	Jan	Wilhelm		"Guenter, Julianna"		60	Malinowka 1920-1928 	00134	5	I. Timm	R						
+		Seemann	Elsa	B	1926	Jan	Emil		"Jeske, Wanda"		60	Malinowka 1920-1928 	00135	6	I. Timm							
+		Podrycki	Emil	B	1925	Aug	Boleslaw		"Depner, Wanda"	Wola Korybutowa	60	Malinowka 1920-1928 	00136	11	I. Timm							
+		Bodach	Lina	B	1924	Nov	Gustav		"Schulz, Lidia"	Barki	60	Malinowka 1920-1928 	00137	7	I. Timm							
+		Hoffmann	Alexander	B	1926	Feb	Johann		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1920-1928 	00138	8	I. Timm							
+		Rindfleisch	Wanda	B	1926	Mar	Karl		"Jasmann, Cornelia"	Barki	60	Malinowka 1920-1928 	00139	9	I. Timm	R						
+		Fehler	Wanda	B	1926	Feb	Gustav		"Walter, Leokadia"	Malinowka	60	Malinowka 1920-1928 	00140	10	I. Timm	R						
+		Lerch	Rudolf	B	1926	Mar	Heinrich		"Fitz, Pauline"	Jasieniec	60	Malinowka 1920-1928 	00141	12	I. Timm	R						
+		Klingbeil	stillborn female	D	1926	Mar	Julian		"Pufert, Luise"	Barki	60	Malinowka 1920-1928 	00142	13	I. Timm					birth record		
+		Hundt	Helmut	B	1926	Mar	Adolf		"Lokstaedt, Wanda"		60	Malinowka 1920-1928 	00143	14	I. Timm	R						
+		Scheffel	Gerhard	B	1926	May	Gustav		"Splett, Lidia"	Malinowka	60	Malinowka 1920-1928 	00144	15	I. Timm	R						
+		Milnikel	Edna	B	1926	May	Daniel		"Krueger, Lidia"	Malinowka	60	Malinowka 1920-1928 	00145	16	I. Timm	R						
+		Genzler	Hilda 	B	1926	Apr	Erdmann		"Albrecht, Emilie"	Malinowka	60	Malinowka 1920-1928 	00146	17	I. Timm	R						
+		Walter	Hilda	B	1926	Jun	Ludwig		"Grams, Julianne"		60	Malinowka 1920-1928 	00147	18	I. Timm	R						
+		Buchholz	Friedrich	B	1926	Jul	Wilhelm		"Richter, Wanda"	Malinowka	60	Malinowka 1920-1928 	00148	19	I. Timm	R						
+		Wendland	Artur	B	1926	Jul	Gustav		"Kopp, Amalie"		60	Malinowka 1920-1928 	00149	20	I. Timm	R						
+		Kurzmann	Lidia	B	1926	Aug	Johann		"Golz, Alwine"		60	Malinowka 1920-1928 	00150	21	I. Timm	R						
+		Jasmann	Alexander	B	1926	Aug	Adolf		"Jeske, Julianne"		60	Malinowka 1920-1928 	00151	22	I. Timm							
+		Hoffmann	Heinrich	B	1926	Sep	Gustav		"Teske, Hulda"		60	Malinowka 1920-1928 	00152	23	I. Timm							
+		Zimmermann	Siegmund	B	1926	Sep	Robert		"Bansemeier, Hulda"		60	Malinowka 1920-1928 	00153	24	I. Timm	R						
+		Kopp	Ottilie	B	1926	Sep	Wilhelm		"Splett, Olga"		60	Malinowka 1920-1928 	00154	25	I. Timm	R						
+		Kuehn	Edmund	B	1926	Nov	Adolf		"Kana, Lidia"		60	Malinowka 1920-1928 	00155	26	I. Timm	R						
+		Link	Lidia	B	1926	Nov	Johann		"Bald, Wanda"		60	Malinowka 1920-1928 	00156		I. Timm	R						
+		Hoffmann	Leo	B	1926	Oct	Michael		"Hoffmann, Pauline"		60	Malinowka 1920-1928 	00157	27	I. Timm	R						
+		Steike	Artur	B	1926	Nov	Wilhelm		"Radel, Wilhelmine"	Barki	60	Malinowka 1920-1928 	00158	1	I. Timm	R						
+		Wolfert	Martha	B	1926	Dec	Rudolf		"Jeske, Emilie"	Malinowka	60	Malinowka 1920-1928 	00159	2	I. Timm	R						
+		Schulz	Siegmund	B	1927	Jan	Rudolf		"Schulz, Ottilie"		60	Malinowka 1920-1928 	00160	3	I. Timm	R						
+		Stefan	Elsa	B	1927	Jan	Eduard		"Kana, Emilie"		60	Malinowka 1920-1928 	00161	4	I. Timm	R						
+		Brikmann	Erich	B	1927	Jan	Fritz		"Lechelt, Pauline"	Jasieniec	60	Malinowka 1920-1928 	00162	5	I. Timm	R						
+		Riemer	Siegmund	B	1927	Feb	Adolf		"Tiede, Julianne"	Albertow	60	Malinowka 1920-1928 	00163	6	I. Timm	R						
+		Bansemeier	Lidia	B	1927	Mar	Ludwig		"Schilke, Emilie"		60	Malinowka 1920-1928 	00164	7	I. Timm	R						
+		Seemann	Lotte	B	1927	Apr	Emil		"Jeske, Wanda"		60	Malinowka 1920-1928 	00165	8	I. Timm							
+		Piel	Natalie	B	1927	Apr	Gottlieb		"Fehler, Emma"	Malinowka	60	Malinowka 1920-1928 	00166	9	I. Timm	R						
+		Klan	Adolf	B	1927	Jun	Gustav		"Wak, Hanna"		60	Malinowka 1920-1928 	00167	10	I. Timm	R						
+		Rogan	Edmund	B	1927	Jul	Gottfried		"Noerenberg, Ottilie"		60	Malinowka 1920-1928 	00168	11	I. Timm	R						
+		Kitzmann	Gerhard	B	1927	Jul	Gustav		"Diestelberg, Lidia"		60	Malinowka 1920-1928 	00169	12	I. Timm							
+		Krueger	Ida	B	1927	Jul	August		"Fitz, Auguste"		60	Malinowka 1920-1928 	00170	13	I. Timm	R						
+		Redel	Helmut	B	1927	Jul	Gustav		"Tomaszewski, Marianne"		60	Malinowka 1920-1928 	00171	14	I. Timm	R						
+		Henke	Erich	B	1927	Aug	Rudolf		"Frank, Emilie"		60	Malinowka 1920-1928 	00172	15	I. Timm	R						
+		Fehler	Edmund	B	1927	Aug	Gustav		"Walter, Leokadia"	Malinowka	60	Malinowka 1920-1928 	00173	16	I. Timm	R						
+		Lange	Leo	B 	1927	Aug	Adolf		"Groth, Lidia"	Malinowka	60	Malinowka 1920-1928 	00174	17	I. Timm	R						
+		Reichwald	Samuel	B	1927	Sep	Julius		"Walter, Olga"	Malinowka	60	Malinowka 1920-1928 	00175	18	I. Timm	R						
+		Steike	Siegmund	B	1927	Sep	Eduard		"Rogan, Marta"	Barki	60	Malinowka 1920-1928 	00176	19	I. Timm	R						
+		Piel	Leokadia	B	1927	Oct	Michael		"Kana, Marta"		60	Malinowka 1920-1928 	00177	20	I. Timm							
+		Bloch	Frieda	B	1927	Aug	Rudolf		"Jasmann, Ottilie"	Malinowka	60	Malinowka 1920-1928 	00178	21	I. Timm	R						
+		Fritsch	Ewald	B	1927	Aug	Rudolf		"Rapp, Emma"	Malinowka	60	Malinowka 1920-1928 	00179	22	I. Timm	R						
+		Drews	Alexander	B	1927	Aug	unknown/unbekannt		"Drews, Berta"	Malinowka	60	Malinowka 1920-1928 	00180	23	I. Timm	R						
+		Link	Emil	B	1927	Dec	Johann		"Bald, Wanda"	Malinowka	60	Malinowka 1920-1928 	00181	24	I. Timm	R						
+		Milnikel	Hugo	B	1927	Nov	Ferdinand		"Piel, Amalie"	Barki	60	Malinowka 1920-1928 	00182	25	I. Timm	R						
+		Platt	Frieda	B	1927	Nov	Adolf		"Steinke, Emma"		60	Malinowka 1920-1928 	00183	26	I. Timm	R						
+		Walter	Amanda	B	1927	Dec	Ludwig		"Grams, Julianne"	Malinowka	60	Malinowka 1920-1928 	00184	1	I. Timm	R						
+		Nachtigal	Adolf	B	1927	Dec	Julian		"Wodzinski, Lidia"	Malinowka	60	Malinowka 1920-1928 	00185	2	I. Timm	R						
+		Piel	Waldina	B	1927	Dec	Gustav		"Erber, Natalie"		60	Malinowka 1920-1928 	00186	3	I. Timm	R						
+		Hoffmann	Artur	B	1928	Jan	Gustav		"Teske, Hulda"		60	Malinowka 1920-1928 	00187	4	I. Timm	R						
+		Schiefelbein	Elsa	B	1928	Jan	Gustav		"Splett, Lidia"		60	Malinowka 1920-1928 	00188	5	I. Timm	R						
+		Kurzmann	Rosamunde	B	1927	Nov	Johann		"Golz, Alwine"		60	Malinowka 1920-1928 	00189	6	I. Timm	R						
+		Hoffmann	Lidia	B	1928	Jan	Johann		"Bansemeier, Pauline"	Malinowka	60	Malinowka 1920-1928 	00190	7	I. Timm	R						
+		Schilke	Waldina	B	1928	Jan	Emanuel		"Molzahn, Olga"		60	Malinowka 1920-1928 	00191	8	I. Timm	R						
+		Richter	Adolf	B	1928	Feb	Emil		"Engel, Johanna"		60	Malinowka 1920-1928 	00192	9	I. Timm	R						
+		Jasmann	stillborn	D	1928	Mar	Adolf		"Jeske, Julianne"		60	Malinowka 1920-1928 	00193	10	I. Timm					birth record		
+		Erber	Alexander	B	1928	Mar	Julius		"Richter, Emilie"	Malinowka	60	Malinowka 1920-1928 	00194	11	I. Timm	R						
+		Schwarz	Wanda	B	1928	Mar	Gerhard		"Zado, Natalie"		60	Malinowka 1920-1928 	00195	12	I. Timm	R						
+		Kuehn	Artur	B	1928	Mar	Adolf		"Kana, Lidia"	Malinowka	60	Malinowka 1920-1928 	00196	13	I. Timm	R						
+		Dreis	Erich Oskar	B	1928	Apr	Siegmund		"Hintenberg, Julianne"		60	Malinowka 1920-1928 	00197	14	I. Timm	R						
+		Jeske	Helmut	B	1928	May	Adolf		"Hundt, Maria Marta"		60	Malinowka 1920-1928 	00198	15	I. Timm	R						
+		Oelke	Paul	B	1928	May	Eduard		"Klan, Lidia"		60	Malinowka 1920-1928 	00199	16	I. Timm	R						
+		Hoffmann	Waldina	B	1928	May	Martin		"Wolter, Pauline"		60	Malinowka 1920-1928 	00200	17	I. Timm	R						
+		Stefan	Johanna	B	1928	Jun	Eduard		"Kana, Emilie"		60	Malinowka 1920-1928 	00201	18	I. Timm							
+		Seemann	Edmund	B	1928	Jun	Emil		"Jeske, Wanda"		60	Malinowka 1920-1928 	00202	19	I. Timm	R						
+		Klingbeil	Edmund	B	1928	May	Julius		"Pufahl, Luise"	Barki	60	Malinowka 1920-1928 	00203	20	I. Timm							
+		Kukel	Ewald	B	1928	Sep	Eduard		"Friedrich, Martha"		60	Malinowka 1920-1928 	00204	21	I. Timm	R						
+		Zuknik	Emil	B	1928	Oct	Julius		"Kitzmann, Emilie"		60	Malinowka 1920-1928 	00205	22	I. Timm	R						
+		Kopf 	Adolf	B	1928	Oct	Wilhelm		"Splett, Olga"		60	Malinowka 1920-1928 	00206	23	I. Timm	R						
+		Stefan	Otto	B	1928	Oct	Gottfried		"Schulz, Lidia"		60	Malinowka 1920-1928 	00207	24	I. Timm	R						
+		Steik	Lina	B	1928	Jun	Wilhelm		"Redel, Wilhelmine"		60	Malinowka 1920-1928 	00208	25	I. Timm	R						
+		Milnikel	Frieda	B	1928	Nov	Daniel		"Krueger, Lidia"	Barki	60	Malinowka 1920-1928 	00209	26	I. Timm	R						
+		Walter	Gerhard	B	1928	Oct	Emil		"Krueger, Emilie"	Malinowka	60	Malinowka 1920-1928 	00210	27	I. Timm							
+		Riemer	Helene	B	1928	Jul	Adolf		"Tiede, Julianne"	Albertow	60	Malinowka 1920-1928 	00211	28	I. Timm	R						
+		Lerch	Linda	B	1928	Jul	Heinrich		"Fitz, Pauline"	Jasieniec	60	Malinowka 1920-1928 	00212	29	I. Timm	R						
+		Luedke	Edmund	B	1928	Nov	Adolf		"Philipp, Ottilie"	Malinowka	60	Malinowka 1920-1928 	00213	30	I. Timm	R						
+		Fehler	Eduard	B	1928	Nov	Gustav		"Walter, Leokadia"	Podglebockie	60	Malinowka 1920-1928 	00214	31	I. Timm	R						
+		Klan	Edmund	B	1928	Nov	Gustav		"Wak, Hanna"	Malinowka	60	Malinowka 1920-1928 	00215	32	I. Timm	R						
+		Lange	Ewald	B	1928	Nov	Adolf		"Groth, Lidia"	[Malinowka]	60	Malinowka 1920-1928 	00216	33	I. Timm	R						
+		Beer	Otto	B	1928	Dec	Leo		"Roechert, Emilie"		60	Malinowka 1920-1928 	00217	34	I. Timm							
+		Bodach	Reinhold	B	1928	Jul	Gustav		"Schulz, Lidia"	Barki	60	Malinowka 1920-1928 	00218	35	I. Timm	R						
+		Wernik	Elisabeth Wilhelmine	D	1924	Jan	Adam		"Teckeron, Maria"		60	Lublin 1924	00005-6		I. Timm				Padde			
+		Krueger	Helene	D	1923	Nov	Adolf		"Hein, Martha"	Wladyslawow	60	Lublin 1924	00007-8	2	I. Timm							
+		Seidens	Wilhelm	D	1922	Feb	Adam		"Schmidtke, Katharina"	"Troitzk, Russland"	60	Lublin 1924	00010	169	I. Timm				"Becker, Berta"			
+		Endler	August	D	1924	Jan	Reinhold		"Schmidtke, Mathilde"	Chelm	60	Lublin 1924	00011-12		I. Timm							
+		Schendel	Maria	D	1924	Jan	Hermann		"Stenzel, Kamilla"	Radziejow	60	Lublin 1924	00013		I. Timm							
+		Ziegler	Adolf	D	1924	Jan	Julius		"Hoffmann, Julianne"	Dubeczno	60	Lublin 1924	00014-15	170	I. Timm							
+		Mittelstaedt	Michael	D	1920	Jan	Michael		"Biedler, Marie"	"Kustanai, Russland"	60	Lublin 1924	00016-17		I. Timm				"Schendel, Christine"			
+		Koberstein	Lydia	D	1924	Jan	Gustav		"Seidlitz, Emilie"	Kamien	60	Lublin 1924	00018-19	13	I. Timm							
+		Dreger	Maria	D	1924	Jan	Michael		"Jeske, Maria"	Bukowski Las	60	Lublin 1924	00020	21	I. Timm							
+		Fitz	Adelheide	D	1924	Jan	Rudolf		"Henschke, Alice"	Karolinow	60	Lublin 1924	00021-22	36	I. Timm							
+		Kinas	Adolf	D	1923	Dec	David		"Albrecht, Christine"	Mogilnica	60	Lublin 1924	00023-24	2	I. Timm							
+		Hetke	Christoph	D	1924	Jan	Ludwig		"Wendland, Rosalie"	Kroczyn	60	Lublin 1924	00025-26	1	I. Timm				"Hetke, Pauline"			
+		Tonn	Leokadia	D	1924	Jan	August		"Jess, Luise"	Aleksandria Krzywowolska	60	Lublin 1924	00027-28	32	I. Timm							
+		Buls	Ludwig	D	1915	Wrz	Christian		Rosalie Neumann	"Kobryn, Russland"	60	Lublin 1924	00029	15								
+		Beier	Kamilla	D	1924	Jan	Samuel		"Eisbrenner, Marianne"	Radziejow	60	Lublin 1924	00030	2	I. Timm				Krueger	Witwe		
+		Klatt	Eva	D	1924	Feb	Michael		"Sperber, Julianne"	Nowosiolki	60	Lublin 1924	00031-32	71	I. Timm				Schummer			
+		Misch	Julius	D	1922	Jan	Heinrich		"Gahl, Anna"		60	Lublin 1924	00033-34		I. Timm				"Kuemmel, Marianne"			
+		Schlippert	Mathilde	D	1923	Dec	Adolf		"Damrau, Emilie"	Marianka	60	Lublin 1924	00035	6	I. Timm							
+	Wladyslaw	Mueller	Walter	D	1923	Dec	Wilhelm		"Maske, Mathilde"	Puszki	60	Lublin 1924	00038	47	I. Timm							
+		Neumann	Emma	D	1924	Jan	Gottlieb		"Meier, Helene"	Dubeczno	60	Lublin 1924	00039-40	171	I. Timm				"Kraszewski, Johann"			
+		Busenius	Wilhelm	D	1924	Feb	Rudolf		"Schmidtke, Natalie"	Skorodnica	60	Lublin 1924	00041-42		I. Timm							
+		Rogalski	Leokadia	D	1924	Feb	Theodor		"Krueger, Natalie"	Karolinow	60	Lublin 1924	00043-44	37	I. Timm							
+		Kamenz	Viktor	D	1924	Feb	Hugo		"Drat, Hulda"	Chelm	60	Lublin 1924	00045-46	24	I. Timm							
+		Henschel	Lidia	D	1915	Dec	Ludwig		"Guenter, Mathilde"	"Kustanai, Russland"	60	Lublin 1924	00047	25	I. Timm							
+		Schendler	August	D	1924	Feb	August		"Herter, Christine"	Karolinow	60	Lublin 1924	00048-49	38	I. Timm				"Luther, Natalie"			
+		Scholze	Wilhelm-Julian	D	1924	Feb	Franz		"Luedtke, Friederike"	Rejowiec	60	Lublin 1924	00050-51	27	I. Timm				"Repert, Adolfa"			
+		Ziemer	Wanda	D	1924	Feb	Rudolf		"Hund, Ernestine"	Tomaszowka	60	Lublin 1924	00052-53	28	I. Timm							
+		Schmidt	Karoline	D	1923	Aug	Karl		"Schilke, Emilie"	Michelsdorf	60	Lublin 1924	00054-55	17	I. Timm				Bonach	65 Y		
+		Badke	Theodor	D	1915	Aug	Johann		"Zerecki, Therese"	"Timaszewo, Samara, Russland"	60	Lublin 1924	00056	30	I. Timm							
+		Fruk	Ferdinand	D	1923	Sep	Gottlieb		"[Schulz, Anna Susanne]"	Michelsdorf	60	Lublin 1924	00057-58	18	I. Timm				"[Schulz, Henriette]"	78y/J; mother indicated as Ernestine		
+		Schulz	Marta Johanna	D	1923	Nov	Hermann		"Schuh, Minna"	Michelsdorf	60	Lublin 1924	0059-60	19	I. Timm					5 m		
+		Doberstein	Rosalie	D	1924	Jan	Ferdinand		"Wesenberg, Johanna"	Wladyslawow	60	Lublin 1924	00061-62	1	I. Timm				"Redmann, Wilhelm"			
+		Bahl	Lydia	D	1924	Feb	Samuel		"Knopf, Julianne"	Bukowski Las	60	Lublin 1924	00064	22	I. Timm							
+		Reichwald	Lydia	D	1923	Feb	Johann		"Schnell, Henriette"	Michelsdorf	60	Lublin 1924	00065	16	I. Timm							
+		Lange	Herta	D	1924	Feb	Rudolf		"Buss, Auguste"	Udalec	60	Lublin 1924	00066-67	14	I. Timm							
+		Puhl	Theodor	D	1924	Feb	Samuel		"Reich, Karoline"	Annopol	60	Lublin 1924	00068-69	46	I. Timm							
+		Fercho	Ludwig	D	1924	Feb	August		"Ankerwert?,Christine"	Marjanka	60	Lublin 1924	00070-71	7	I. Timm				"Fercho, Eva"			
+		Lemke	Gottlieb	D	1921	Dec	Johann		"Huf, Wilhelmine"	"Feodorowka, Russland"	60	Lublin 1924	00072	39	I. Timm				"Teichgraeber, Leokadia"			
+		Krueger	Eduard	D	1924	Feb	Daniel		"Hetmann, Emma"	Radziejow	60	Lublin 1924	00073	3	I. Timm							
+		Dreier	Paul	D	1924	Feb				Ruda	60	Lublin 1924	00074-75	41	I. Timm				"Paul, Susanne"			
+		Sturm	Gottlieb	D	1915	Aug				"Orenburg, Russland"	60	Lublin 1924	00076	42	I. Timm				"Zismann, Luise"	52y/J		
+		Luedke	Heinrich	D	1917	Sep	Johann Ludwig		"Witkowski, Amalie"	"Kustanai, Russland"	60	Lublin 1924	00077	43	I. Timm							
+		Fester	Renate	D	1924	Mar	August		"Mantei, Julianne"	Janow	60	Lublin 1924	0078-79	44	I. Timm							
+		Jeske	Christoph	D	1924	Mar	Martin		"Asmus, Wilhelmine"	Tomaszowka	60	Lublin 1924	00080-81	45	I. Timm				"Schesler?, Justine"			
+		Wolf	Friedrich	D	1924	Mar	Samuel		Rosalie	Teosin	60	Lublin 1924	00082	48	I. Timm							
+		Gross	Gustav	D	1924	Mar	Samuel		"Boehnke, Ida"	Wola Potocka	60	Lublin 1924	00083-84	47	I. Timm							
+		Radke	Emilie	D	1924	Mar	Peter			Olenowka	60	Lublin 1924	00085-86		I. Timm				Felz			
+		Schmidt	Reinhold	D	1924	Mar	Daniel		"Rinas, Julianne"	Syczow	60	Lublin 1924	00087-88		I. Timm							
+		Lerch	Rudolf	D	1924	Mar	Johann		"Schoenefeld, Josefine"	Karolinow	60	Lublin 1924	00089-90	39	I. Timm				"Kutz, Auguste Karoline"			
+		Busenius	Eduard	D	1924	Mar	Ludwig		"Frei, Emilie"	Skorodnica	60	Lublin 1924	00091-92	2	I. Timm				"Zinn, Renate"			
+		Nitz	Wilhelmine	D	1924	Mar	Christian		"Neumann, Karoline"	Kulczyn	60	Lublin 1924	00093-94	30	I. Timm				Krueger	"83y/J, Flatow,Germany"		
+		Fandrich	August	D	1915	Aug	Stefan		"Krause, Ernestine"	"Marinkow-Beresk, Kiselin, Russland"	60	Lublin 1924	00095		I. Timm							
+		Fandrich	Natalie	D	1915	Sep	Stefan		"Krause, Ernestine"	"Marinkow-Beresk, Kiselin, Russland"	60	Lublin 1924	00096		I. Timm							
+		Schwarz	Jakob	D	1924	Mar	Daniel		"Walter, Rosalie"	Chromowka	60	Lublin 1924	00097-98		I. Timm				"Schepke, Julianne"			
+		Redel	Edmund	D	1924	Mar					60	Lublin 1924	00100		I. Timm							
+		Friske	Johann	D	1924	Mar	Friedrich		"Blech, Eva Rosina"	Chelm	60	Lublin 1924	00101-2	31	I. Timm				"Wendt, Emilie"	died in Lazarette		
+		Hein (married name)	Justine	D	1924	Mar				Kamien	60	Lublin 1924	00103-4	3	I. Timm				Hein	74y/J		
+		Heckert	August	D	1924	Mar				Ruda	60	Lublin 1924	00105-6		I. Timm				"Schulz, Karoline"	65y/J		
+		Biedler	Ottilie	D	1924	Mar	Ludwig		"Schalm, Albertine"	Teresin	60	Lublin 1924	00107-8	3	I. Timm							
+		Keding	Hermann	D	1924	Mar	Christian		"Weich, Wanda"	Sredni Lan	60	Lublin 1924	00109-10	21	I. Timm							
+		Schlender	Lidia	D	1924	Mar	Daniel		"Reich, Pauline"	Syczow	60	Lublin 1924	00111-12	4	I. Timm							
+		Streich	Helene	D	1924	Apr	unknown/unbekannt		"Streich, Emilie"	Chelm 	60	Lublin 1924	00113-14		I. Timm							
+		Richter	Gottfried	D	1915	Jul	Johann		Weber. Luise	"Kobryn, Russland"	60	Lublin 1924	00115		I. Timm				"Briegert, Karoline"			
+		Wenzel	Ferdinand	D	1924	Apr	August		"Krumrueck, Pauline"	Kroczyn	60	Lublin 1924	00116-17	3	I. Timm					37 Y		
+		Lenz	Anna Karoline	D	1924	Mar	Johannes August			Janow	60	Lublin 1924	00118-19	72	I. Timm				Kalisch	"Witwe, 57 Y"		
+		Gerstberger	Lidia	D	1924	Mar	Ernst		"Schimanski,Pauline"	Kroczyn	60	Lublin 1924	00120-21	2	I. Timm							
+		Romunt	Gustav	D	1924	Mar	Emil		"Wendland, Auguste"	Ruda	60	Lublin 1924	00122		I. Timm							
+		Leske	Ludwig	D	1924	Apr	Martin		"Abram, Justine"	Kamien	60	Lublin 1924	00123-24	16	I. Timm				"Klose, Renate"			
+		Assmann	Friedrich	D	1924	Apr	Gustav		"Schur, Ottilie"	Kroczyn	60	Lublin 1924	00125-26	4	I. Timm							
+		Ratz	Artur	D	1924	Apr	Ferdinand		"Jankowski, Berta"	Henrysin	60	Lublin 1924	00127-28		I. Timm							
+		Schmeck	Pauline	D	1924	Apr	Friedrich		"Schulz, Julianne"	Gotowka	60	Lublin 1924	00129-30	40	I. Timm				"Becker, Rudolf"	36 Y		
+		Czernik	August	D	1918	Jan	August		Karoline	"Pokojna, Russland"	60	Lublin 1924	00131		I. Timm				"Riewe, Pauline"	50 Y		
+		Sele	August	D	1924	Apr	Anton		"Oster, Pauline"	Bukowa-Piaski (nr. Piaski Uhruskie)	60	Lublin 1924	00132-33		I. Timm				"Krol, Ernestine"	76 Y		
+		Kols	Olga	D	1924	Apr	Johann		"Seifert, Marianne"	Swierze	60	Lublin 1924	00134-35	48	I. Timm							
+		Linde	Emilie	D	1924	Apr	Martin		Karoline	Chutcze Bakus	60	Lublin 1924	00136-37	22	I. Timm				"Gross, Alexander"	70 Y		
+		Bussler	Erwin	D	1924	Feb	Ferdinand		"Zepel, Helene"	Wojciechow	60	Lublin 1924	00138-39	18	I. Timm							
+		Zissmann	Samuel	D	1924	Apr	Gottfried		Katharina	Karolinow	60	Lublin 1924	00140-41	41	I. Timm				"Krueger, Luise"	69 Y		
+		Linke	Wilhelm	D	1924	May	Dienegott		Julianne	Aleksandria Krzywowolska	60	Lublin 1924	00142-43	33	I. Timm				"Schulz, Pauline"	56 Y		
+		Wojan	Auguste Wilhelmine	D	1924	Apr	Friedrich		"Boehm, Auguste"	Kulczyn	60	Lublin 1924	00144-45	32	I. Timm				"Will, August"			
+		Friedrich	Sigismund	D	1924	May	Eduard		"Streib, Anna"	Henrysin	60	Lublin 1924	00146-47	72	I. Timm							
+		Siewert	Friedrich	D	1924	May	Friedrich		"Glut, Hulda"	Krzywiczki	60	Lublin 1924	00148-49		I. Timm							
+		Kaus	Anna  	D 	1924	May	Gottlieb		"Schilert, Katharina"	Kulczyn	60	Lublin 1924	00150-51		I. Timm				"Arndt, Heinrich"	40 Y		
+		Nachtigal	Maria	D	1924	May	Gottfried		Maria	Swierze	60	Lublin 1924	00152-53	49	I. Timm				Ratz	55y/J		
+		Krentz	Eduard	D	1922	Dec	Wilhelm		"Stoek, Mathilde Natalie"	Wanda Bakus	60	Lublin 1924	00154		I. Timm				"Redmann, Martha"	32 Y		
+		Jasmer?	Anna	D	1919	Aug				"Kustanai, Russland"	60	Lublin 1924	00155-56	86					"Reichwald, Wilhelm"	27y/J		
+		Schmidtke	Martha	D	1924	May	Ludwig		"Kant, Wanda"	Siedliszcze	60	Lublin 1924	00157	4	I. Timm							
+		Kazmierski	Stanislaus	D	1924	May	Simon		"Liebert, Anna"	Dubeczno	60	Lublin 1924	00158-59	172	I. Timm				"Brestrich, Luise"	53 Y		
+		Lehmann	Gustav	D	1924	May	Samuel		"Beier, Auguste"	Rostoka	60	Lublin 1924	00160-61	5	I. Timm							
+		Arndt	Auguste  	D	1924	May	August		"Arndt, Elisabeth"	Piaski Bukowa	60	Lublin 1924	00163		I. Timm				Sturm	67 Y		
+		Schmidt	Berta	D	1924	May	Johann		"Heff, Emilie"	Teosin	60	Lublin 1924	00164-65	50	I. Timm							
+		Reiter	Alwine	D	1924	May	Michael		"Henschel, Wilhelmine"	Budki-Niedzialowski	60	Lublin 1924	00166-67	34	I. Timm				"Giese, Johann"	33 Y		
+		Icker	Natalie	D	1924	May	Daniel		"Begalke, Erdmine"	Tomaszowka	60	Lublin 1924	00168-69	35	I. Timm							
+		Hinz	Elsa	D	1915	Aug	Christian		"Samoski, Julianne"	"Troitsk, Russland"	60	Lublin 1924	00170		I. Timm							
+		Schmidt	Adolf	D	1919	Feb	August		"Pipke, Emilie"	"Karakuba, Russland"	60	Lublin 1924	00171		I. Timm				"Klukas, Hulda"			
+		Gross	Alexander	D	1924	May	Gottlieb		"Dreger, Henriette"	Chutcze Bakus	60	Lublin 1924	00172-74	23	I. Timm					Witwer		
+		Langner	Wanda	D	1924	May	unknown/unbekannt		"Langner, Mathilde"	Tomaszowka	60	Lublin 1924	00175-76	3	I. Timm							
+		Schachtschneider	Rudolf	D	1924	Jun	Michael		"Schroeder, Julianne"	Annopol	60	Lublin 1924	00177-78	5	I. Timm							
+		Lothis	Erdmann	D	1924	Jun	Gottfried			Pogranicza	60	Lublin 1924	00179-80	5	I. Timm					"Witwer, 69 Y"		
+		Friedrich	Eduard	D	1924	May	Jakob			Skorodnica	60	Lublin 1924	00181-82	6	I. Timm							
+		Rader	Wanda	D	1924	May	Eduard		"Frei, Emma"	Kamien	60	Lublin 1924	00183-84		I. Timm							
+		Mittelstaedt	Robert	D	1924	May	Rudolf		"Nitzel or Nikel, Martha"	Skorodnica	60	Lublin 1924	00185-86	5	I. Timm							
+		Friedrich	Lidia	D	1924	Jun	unknown/unbekannt		"Friedrich, Pauline"	Chelm	60	Lublin 1924	00187-88		I. Timm							
+		Richter	Leo Julius	D	1924	Jun	Wilhelm		"Hartwich, Johanna"	Tarnowka	60	Lublin 1924	00189-90	42	I. Timm							
+		Herbst	Edmund	D	1924	Jun	Ludwig		"Koncoacki, Marie"	Henrysin	60	Lublin 1924	00191-92	74	I. Timm							
+		Duesterhoeft	Ludwig	D	1916	May	Martin			"Orenburg, Russland"	60	Lublin 1924	00193		I. Timm				"Litke, Karoline"			
+		Pide	Olga	D	1924	Jun	Adolf		"Lerch, Lidia"	Karolinow	60	Lublin 1924	00194-95	43	I. Timm							
+		Ziebart	Lina	D	1924	Jun	Johann		"Mueller, Julianne"	Kamien	60	Lublin 1924	00196-97	17	I. Timm							
+		Goldnik	Emil 	D	1924	Jun	Daniel		"Schendler, Julianne"	Rostoka	60	Lublin 1924	00198	6	I. Timm							
+		Engelhardt	Lina Anna	D	1924	Jul	Gottfried		"Bulz, Helene"	Karolinow	60	Lublin 1924	00200-01	44	I. Timm							
+		Winkel	August	D	1924	Jul				Gotowka	60	Lublin 1924	00203	45	I. Timm				"Balkon, Wilhelmine"	73 Y		
+		Krueger	Friedrich	D	1924	Jul				Puszki	60	Lublin 1924	00204-05	46	I. Timm							
+		Hartstock	Gottlieb	D	1924	Jul	Wilhelm		"Patzer, Regina"	Gotowka	60	Lublin 1924	00206-07	46	I. Timm				"Schulz, Ottilie"	34 Y		
+		Krueger	Gottfried	D	1922	Jan	Gustav		"Schmidt, Karoline"	"Chelyabinsk, Russland"	60	Lublin 1924	00208		I. Timm				"Schindel, Karoline"	59 Y		
+		Schulz	Friedrich	D	1916	Jun	Eduard		"Gross, Karoline"	"Erzurum, Russland"	60	Lublin 1924	00209		I. Timm				"Witkowski, Wanda"	28 Y		
+		Schroeder	Lidia	D	1924	Jan	Ludwig		"Jesse, Helene"	Serniawy	60	Lublin 1924	00210	19	I. Timm							
+		Lenz	Helene	D	1924	Jul	Christoph		"Eschner, Julianne"	Malinowka	60	Lublin 1924	00213-14	24	I. Timm							
+		Diem	Martha	D	1915	Sep	Ludwig		"Stefani, Florentine"	"Kustanai, Russland"	60	Lublin 1924	00215		I. Timm							
+		Frei	Andreas	D	1919	Jan	Friedrich		Christine	"Saratov, Russland"	60	Lublin 1924	00216		I. Timm				"Lehmann, Pauline"	57 Y		
+		Lehmann	Pauline	D	1921	Jun	Christoph		"Gatzke, Eva"	"Saratov, Russland"	60	Lublin 1924	00217		I. Timm				Frei	50 Y		
+		Riewe	Pauline	D	1918	Jan	Peter		"Strauch, Luise"	"Pakojna, Russland"	60	Lublin 1924	00218		I. Timm				Czernik	42 Y		
+		Beier	Luise	D	1916	Feb	Gottlieb		"Schulz, Justine"	Zarudnia	60	Lublin 1924	00219	62	I. Timm				"Schoening, Wilhelm"			
+		Priebe	Waldemar	D	1924	Jul	Rudolf		"Modrow, Lidia"	Bielin	60	Lublin 1924	00220	3	I. Timm							
+		Priebe	Elsa	D	1924	Jul	Rudolf		"Modrow, Lidia"	Bielin	60	Lublin 1924	00221	4	I. Timm							
+		Klause	Ernestine	D	1924	Jul	Daniel		"Kinitz, Luise"	Bielin	60	Lublin 1924	00223	2	I. Timm				"Neumann, Gustav"			
+		Pahl	Wanda	D	1924	May	Emil		"Doering, Julianne"	Debowiec	60	Lublin 1924	00224	1	I. Timm							
+		Kopp	Justine	D	1924	Jul	August		"Rolof, Marianne"	Wola Uhruska	60	Lublin 1924	00225-26		I. Timm				"Brokopp, Friedrich"	46 Y		
+		Wechsel	Leo	D	1924	Aug	Wilhelm		"Schulz, Wanda"	Nowy Andrzejow	60	Lublin 1924	00227-28	2	I. Timm							
+		Bartz	Gustav	D	1924	Jul	Gustav		"Fitz, Martha"	Karolinow	60	Lublin 1924	00229-30	47	I. Timm							
+		Woljan	Julianne	D	1915	Aug				"Penza, Russland"	60	Lublin 1924	00231		I. Timm				Stresing	"80 Y, lived in Kulczyn"		
+		Gruenke	Adelheid Waltraut	D	1924	Aug	Hermann		"Rolof, Hulda"	Ignatow	60	Lublin 1924	00232-33	1	I. Timm							
+		Schafrik	Rosalie	D	1924	Aug	Friedrich		"Radke, Marianne"	Teosin	60	Lublin 1924	00234-35	51	I. Timm				"Laudoski, Emil"	27 Y		
+		Litke	Karoline	D	1915	Jul				Russland?	60	Lublin 1924	00236		I. Timm				"Duesterhoeft, Ludwig"	50 Y		
+		Mertin	Emma	D	1924	Jul	Gustav Adam		"Patzer, Elise Henriette"	Dubeczno	60	Lublin 1924	00237-38	173	I. Timm				"Mertin, Andreas"	25 Y		
+		Kubsch	Rudolf	D	1924	Jul	Gottlieb		"Lecht, Leokadia"	Beniow	60	Lublin 1924	00239-40	36	I. Timm							
+		Gefreiter	Christine	D	1924	Aug	Johann		"Neumann, Julianne"	Radziejew	60	Lublin 1924	00241	7	I. Timm				Isbrecht			
+		Jantz	Samuel	D	1924	Aug	Christoph		"Dresner, Wilhelmine"	Radziejew	60	Lublin 1924	00242	8	I. Timm					"Witwer, 81 Y, 7 M"		
+		Grams	Edmund	D	1924	Aug	Gustav Hermann		"Wendland, Olga"	Tomaszowka	60	Lublin 1924	00243-44	37	I. Timm							
+		Wolf	Eduard	D	1924	Aug	Walter		"Schmidt, Olga"	Piaski-Bukowa (nr. Piaski-Uhruskie)	60	Lublin 1924	00245		I. Timm							
+		Marczewkowski	Wilhelm	D	1924	Aug	Johann		"Arndt, Emilie"	Krzywice	60	Lublin 1924	00247		I. Timm				"Henschelcader?, Emilie"			
+		Hauser	Anna Susanna	D	1924	Aug	Friedrich		"Wolf, Anna"	Ruda	60	Lublin 1924	00248-50	5	I. Timm				"Meckelburg, Friedrich"			
+		Gruenke	Adele	D	1924	Aug	Adolf		"Herzog, Adelgunde"	Dubeczno	60	Lublin 1924	00251-52	174	I. Timm							
+		Abram	Adolf	D	1924	Aug	unknown/unbekannt		"Abram, Mathilde"	Luta	60	Lublin 1924	00253	175	I. Timm							
+		Ziebart	Friedrich Johann	D	1921	Nov	Wilhelm		"Sieg?, Justine"	"Orenburg, Russland"	60	Lublin 1924	00254		I. Timm				"Boss, Pauline"	"56 Y, (Zyg)"		
+		Epinger	Reinhold	D	1924	Aug	Johann		"Singbeil, Julianna"	Piaski-Bukowa (nr. Piaski-Uhruskie)	60	Lublin 1924	00255-56		I. Timm							
+		Schimkoski	Leokadia	D	1924	Aug	Gustav		"Schilke, Wilhelmine"	Kroczyn	60	Lublin 1924	00257-58	6	I. Timm							
+		Stark	August	D	1919	Mar				"Kustanai, Russland"	60	Lublin 1924	00259		I. Timm				"Tan, Rosalie"			
+		Tan	Rosalie	D	1919	May	August			"Kustanai, Russland"	60	Lublin 1924	00260		I. Timm				"Stark, [August]"	Witwe		
+		Taube	Andreas	D	1924	Sep	Peter		"Beze?, Anna"	Kamien	60	Lublin 1924	00261-62	18	I. Timm				"Lemke, Hulda"	47 Y		
+		Lueck	Adolf	D	1924	Sep	Rudolf		"Herter, Hulda Wilhelmine"	Ujazdow	60	Lublin 1924	00263-64	5	I. Timm							
+		Domke	Eduard	D	1924	Sep	Ferdinand		"Kutz, Mathilde"	Janow	60	Lublin 1924	00265-66		I. Timm							
+		Duerr	Else	D	1924	Sep	August		"Schmidt, Susanna"	Radziejew	60	Lublin 1924	00267	9	I. Timm							
+		Beier	Olga	D	1915	Oct	Otto		"Biedler, Lidia"	"Kustanai, Russland"	60	Lublin 1924	00268		I. Timm							
+		Dorok	Mathilde	D	1921	Feb	Michael			"Ileck, Russland"	60	Lublin 1924	00269		I. Timm				Grieb			
+		Treichel	Christian	D	1924	Aug	Friedrich		"Zielke, Marianne"	Zarudnia	60	Lublin 1924	00270-71	6	I. Timm					Witwer		
+		Lenz	Wilhelm	D	1924	Sep	Christoph		"Eschner, Julianne"	Malinowka	60	Lublin 1924	00272-73	25	I. Timm							
+		Wensel	Leokadia	D	1924	Sep	Friedrich		"Schendel, Olga"	Pogranicza	60	Lublin 1924	00274	7	I. Timm							
+		Stibbe	Ottilie	D	1924	Sep	Ferdinand		"Steinke, Luise"	Pogranicza	60	Lublin 1924	00276	8	I. Timm							
+		Stebner	Leokadia	D	1924	Aug	Gustav		"Biedler, Emilie"	Teresin	60	Lublin 1924	00278-79	6	I. Timm							
+		Schulz	Edmund	D	1915	Aug	Gottlieb		"Krueger, Rosalie"	"Pensa, Russland"	60	Lublin 1924	00280	177	I. Timm							
+		Biedler	Lidia	D	1916	Jan	Samuel		"Heger, Susanne"	"Kustanai, Russland"	60	Lublin 1924	00281		I. Timm				Beier			
+		Hansch	Ludwig	D	1917	Apr	Stefan		Maria	"Askin, Birsk, Ufa, Russland"	60	Lublin 1924	00282	34	I. Timm				"Preis, Pauline"			
+		Maske	Karl	D	1917	Oct	Johann		"Jesse, Emilie Cecilia"	"Samara, Russland"	60	Lublin 1924	00283		I. Timm				"Stark, Kunigunde"			
+		Kerczynski	Eduard	D	1920	Dec	Wilhelm		"Steinke, Julianne"	"Saratov, Russland"	60	Lublin 1924	00284		I. Timm							
+		Semrock	stillborn male	D	1924	Jul	Adolf		"Bloch, Amalie"	Janow	60	Lublin 1924	00285	76	I. Timm					ohne Taufe gestorben		
+		Asmuss	Marianne	D	1924	Aug	Michael		"Reich, Julianne"	Tomaszowka	60	Lublin 1924	00286	4	I. Timm				Schmidt	"Witwe, 75 Y"		
+		Deutschlaender	Ernestine	D	1915	sierp	Wilhelm		"Koberstein, Maria"	"Tula, Russland"	60	Lublin 1924	00287		I. Timm				"Knakowski, [Jakob]"			
+		Knakowski	Jakob	D	1913	Jun	Martin			Krzywiczki	60	Lublin 1924	00288		I. Timm				"Deutschlaender, Ernestine"			
+		Henschel	Otto	D	1924	Sep	Andreas		"Frank, Rosalie"	Zarudnia	60	Lublin 1924	00289-90	7	I. Timm							
+		Radke	Johann	D	1924	Sep	Ludwig		"Wendland, Julianne"	Bukowski Las	60	Lublin 1924	00291	23	I. Timm							
+		Lachmann	Daniel	D	1924	Oct	Daniel		"Becker, Christine"	Ujazdow	60	Lublin 1924	00292-93	6	I. Timm				"Wapler, Pauline"			
+		Dorok	Berta	D	1924	Oct	Richard		"Ludwig, Olga"	Chutcze Bakus	60	Lublin 1924	00294	26	I. Timm							
+		Fritz	Ottilie	D	1915	Sep	Samuel		"Baganz, Emilie"	"Klubnikow, Orenburg, Russland"	60	Lublin 1924	00295	37	I. Timm							
+		Fritz	Samuel	D	1920	Nov	Johann		"Ebner, Anna Elisabeth"	"Olscharowka, Samara, Russland"	60	Lublin 1924	00296	35	I. Timm				"[Baganz, Emilie]"			
+		Baganz	Emilie	D	1920	Apr	Wilhelm		"Much, Christine"	"Olscharowka, Samara, Russland"	60	Lublin 1924	00297	36	I. Timm				"Fritz, Samuel"			
+		Hirsekorn	Alwine Johanna	D	1915	Jan	Karl		"Pfeiffer, Mathilde"	"Saratov, Russland"	60	Lublin 1924	00298	16	I. Timm							
+		Hirsekorn	Karl	D	1915	Mar	Andreas		"[Belke], Anna"	"Saratow, Russland"	60	Lublin 1924	00299	15	I. Timm					Witwer		
+		Hirsekorn	Gustav	D	1915	Aug	Karl		"Pfeiffer, Mathilde"	"Saratow, Russland"	60	Lublin 1924	00300	14	I. Timm							
+		Peter	Gustav	D	1920	Dec	Georg		"Kwasbart, Marianne"	"Baraczew, Wolhynien, Russland"	60	Lublin 1924	00301		I. Timm				"Schwanke, Hulda"			
+		Schroeder	Julian 	D	1924	Oct	Wilhelm		Karoline	Chelm	60	Lublin 1924	00303-05		I. Timm					died in hospital		
+		Buls	Ernestine	D	1916	Sep	Karl		"Endler, Pauline"	Lesniczowka	60	Lublin 1924	00306		I. Timm							
+		Stenzel	Karl-August	D	1915	Aug				"Kustanai, Russland"	60	Lublin 1924	00307		I. Timm				"Henschel, Julianne"			
+		Nachtigal	Mathilde	D	1915	Sep	Gottlieb		"Bohn, Maria"	"Wasilewka, Russland"	60	Lublin 1924	00308		I. Timm				"Stenzel, Adolf"			
+		Abram	Leo	D	1924	Nov	Gustav		"Schlender, Justine"	Bielin	60	Lublin 1924	00309-10	4	I. Timm							
+		Kapczinski	Johanna	D	1924	Nov	Julius		"Schindler, Natalie"	Bielin	60	Lublin 1924	00311-12	5	I. Timm							
+		Weiss	Ferdinand	D	1916	wrz	Johann		"Koenig, Katharina"	"Erzurum, Russland"	60	Lublin 1924	00313		I. Timm				"Seidlitz, Ottilie"			
+		Semrock	Eduard	D	1924	Oct	Julius		"Fitz or Titz, Pauline"	Janow	60	Lublin 1924	00314-15	77	I. Timm							
+		Seidlitz	Natalie	D	1924	Oct	Ludwig		"Koenig, Elisabeth"	Teosin	60	Lublin 1924	00316-17	52	I. Timm				"Fege, Heinrich"			
+		Eggert	Pauline	D	1924	Oct	Michael		"Noerenberg, Rosalie"	Teosin	60	Lublin 1924	00318-19	53	I. Timm				"Nass, Heinrich"			
+		Hoffmann	Emma	D	1924	Nov	Gottlieb		"Hess, Julianne"	Rostoka	60	Lublin 1924	00320	6	I. Timm							
+		Gefreiter	Gottlieb	D	1924	Nov	Johann		"Neumann, Julianne"	Konotopa	60	Lublin 1924	00321-22	3	I. Timm				"Friedrich, Pauline"			
+		Klan	Karl	D	1924	Nov				Bukowa Male	60	Lublin 1924	00323		I. Timm					52 Y		
+		Krueger	Bronislawa	D	1918	Oct	Wilhelm		Karoline	"Gomel, Russland"	60	Lublin 1924	00325		I. Timm				"Semler, Eduard"	29 y		
+		Bittner	August	D	1914	Sep	Michael		"Hirsekorn, Rosalie"	Komarow	60	Lublin 1924	00326		I. Timm				"Hublick, Julianne"	died in battle; 38y/J		
+		Lueck	Mathilde	D	1917	Jun	Michael		"Matz, Regina"	"Pieszenka, Russland"	60	Lublin 1924	00327		I. Timm				"Nachtigal, Ludwig"	47 Y		
+		Biedler	Julianne	D	1915	Sep	Samuel		"Heger, Susanna"	"Pinsk, Russland"	60	Lublin 1924	00328		I. Timm				"Koenig, Daniel"			
+		Heft	Emilie	D	1924	Nov	Friedrich		"Buss, Anna"	Teosin	60	Lublin 1924	00329-30	55	I. Timm				"Schmidt, Johann"	34 Y		
+		Krapp	Ludwig Ferdinand	D	1924	Oct	Ludwig		"Pielz, Wilhelmine"	Piaski-Bukowa (nr. Piaski-Uhruskie)	60	Lublin 1924	00331-32		I. Timm					"Witwer, 90 Y"		
+		Bader	Edmund Walter	D	1924	Nov	Wilhelm		"Krueger, Olga"	Lesniczowka	60	Lublin 1924	00333-34	48	I. Timm							
+		Krause	Rosalie	D	1924	Nov	August		"Schepke, Ernestine"	Tomaszowka	60	Lublin 1924	00335-36	38	I. Timm				Betker	 51 Y		
+		Schulz	Alfons	D	1924	Nov	Daniel		"Wendland, Julianne"	Bukowski Las	60	Lublin 1924	00337	24	I. Timm							
+		Samoski	Wanda	D	1924	Nov	Josef		"Treske, Luise"	Janow	60	Lublin 1924	00338-39	79	I. Timm				"Gesell, Rudolf"	28 Y		
+		Oelke	Justine	D	1924	Nov	Andreas		"Kramer, Dorothea"	Felczyn	60	Lublin 1924	00340-41						Begalke			
+		Giese	Pauline	D	1924	Nov	Ferdinand		"Rogan, Julianne"	Rybie	60	Lublin 1924	00342	41	I. Timm							
+		Schmidt	Gustav	D	1913	Jun	Friedrich		"Pahl, Natalie"	Kroczyn	60	Lublin 1924	00343	11	I. Timm							
+		Schendler	Pauline	D	1922	Mar	Johann		Susanne	Bialystok	60	Lublin 1924	00344-45		I. Timm				"Mittelstaedt, [Johann]"	 died in hospital; 45 Y		
+		Mittelstaedt	Johann	D	1922	Feb	Michael		Ernestine	Bialystok	60	Lublin 1924	00346-47		I. Timm				"Schendler, Pauline"	 died in hospital; 48 Y		
+		Wolfert	Natalie	D	1924	Nov	Jakob		"Janke, Christine"	Wojciechow	60	Lublin 1924	00348-49	20	I. Timm				"Badke, Friedrich Wilhelm"			
+		Diem	Edmund	D	1924	Nov	Johann		"Bujak, Martha"	Wanda Bakus	60	Lublin 1924	00350	1	I. Timm							
+		Jeske	Martha	D	1924	Nov	Gustav		"Weinert, Emilie"	Wojciechow	60	Lublin 1924	00351-52	42	I. Timm							
+		Jess	Robert	D	1924	Jul	Johann		"Bloch, Lidia"	Skorodnica	60	Lublin 1924	00353-54	7	I. Timm							
+		Lenz	Emma	D	1924	Sep	Adolf		"Wolski, Mathilde"	Nowina	60	Lublin 1924	00355-56	9	I. Timm							
+		Hapke	Heinrich	D	1924	Sep	Ferdinand		"Kunkel, Emilie"	Debowiec	60	Lublin 1924	00357	3	I. Timm							
+		Schrank	Adolf	D	1924	Nov	Emanuel		"Schiller, Dorothea"	Roskosch	60	Lublin 1924	00358-59	9	I. Timm				"Schulz, Pauline"			
+		Geisler	Hulda Wilhelmine	D	1924	Oct	Eduard		"Neumann, Alwine"	Wladyslawow	60	Lublin 1924	00360	3	I. Timm							
+		Ott	Eugenie	D	1924	Nov	Adolf		"Radke, Olga"	Zalucze	60	Lublin 1924	00361		I. Timm							
+		Dorok	Alice	D	1924	Dec	unknown/unbekannt		"Dorok, Emilie"	Tomaszowka	60	Lublin 1924	00362-63	42	I. Timm							
+		Sperling	Anna Christine	D	1924	Dec	Karl		"Lechelt, Anna Christine"	Lesniczowka	60	Lublin 1924	00364-65	49	I. Timm				"Richter, Ernst"			
+		Ernst	Sigismund	D	1924	Dec	Adolf		"Schwanke, Wanda"	Bukowski Las	60	Lublin 1924	00366	25	I. Timm							
+		Peter	Eduard	D	1924	Dec	Eduard		"Kletke, Karoline"	Malinowka	60	Lublin 1924	00367	22	I. Timm							
+		Hinz	Christine	D	1924	Dec	Gustav		"Reich, Susanne"	Ignatow	60	Lublin 1924	00368-69		I. Timm							
+		Zielke	Olga	D	1924	Dec	Adam		Auguste	Gotowka	60	Lublin 1924	00370-71	50	I. Timm							
+		Wagner	Auguste	D	1924	Dec	Gustav		"Schilke, Emilie"	Kroczyn	60	Lublin 1924	00372-73	12	I. Timm				"Schmidt, Wilhelm"	39 Y		
+		Hapke	Ida	D	1924	Oct	Gottfried		"Bluemke, Wilhelmine"	Debowiec	60	Lublin 1924	00374	2	I. Timm							
+		Schalin	Magdalene	D	1924	Dec	Gottfried		"Puhl, Julianne"	Syszow	60	Lublin 1924	00375	7	I. Timm							
+		Buss 	Alexander	D	1924	Dec	Emil		"Giese, Wanda"	Aleksandrowka	60	Lublin 1924	00376	2	I. Timm							
+		Redmann	Gerhard	D	1924	Dec	Julius		"Wendland, Martha"	Wanda Bakus	60	Lublin 1924	00377	3	I. Timm							
+		Begalke	Wilhelm	D	1924	Dec	Wilhelm		"Oelke, Justine"	Felczyn	60	Lublin 1924	00378	43	I. Timm				"Brendel, Emilie"	50 Y		
+		Luedke	Leokadia	D	1924	Dec	Julius		"Boks, Helene"	Kulczyn	60	Lublin 1924	00379	56	I. Timm							
+		Zerbin	Leo	D	1924	Dec	Wilhelm		"Spohn, Emma"	Rudolfin	60	Lublin 1924	00380-81	19	I. Timm							
+		Schinke	Lidia	D	1924	Dec	Adolf		"Kautz, Florentine"	Rudolfin	60	Lublin 1924	00382-83		I. Timm							
+		Klingspohn	Frieda	D	1924	Dec	Daniel		"Rolof, Emilie"	Bielin	60	Lublin 1924	00384	7	I. Timm							
+		Klingspohn	Christian	D	1918	Jan	Christian		Karoline	"Jesiorna, Russland"	60	Lublin 1924	00385		I. Timm				"Schendel, Marianne"	72 Y		
+		Kuehn	Christoph	D	1918	Jul				"Kustanai, Russland"	60	Lublin 1924	00386		I. Timm				"Becker, Wilhelmine"			
+		Klingbeil	Ferdinand	D	1917	Feb	August			"Ruda Grecina, Orenburg, Russland"	60	Lublin 1924	00387		I. Timm				"Priebe, Luise"			
+		Hauf	Daniel	D	1917	Feb	Gottfried		"Friedrich, Auguste"	"Bugulma, Russland"	60	Lublin 1924	00388		I. Timm				"Hannes, Emilie"			
+		Riewe	Sigismund	D	1918	Mar	Ludwig		"Fruk, Wilhelmine"	"Timashevo, Samara, Russland"	60	Lublin 1924	00389	17	I. Timm							
+		Ristau	Ferdinand	D	1917	Apr	Ferdinand		"Hildebrandt, Emilie"	"Erzurum, Russland"	60	Lublin 1924	00390	52	I. Timm				"Thron, Lidia"			
+		Kluge	Auguste	D	1918	Jun				Russland	60	Lublin 1924	00392		I. Timm				"Herter, Friedrich"			
+		Langner	Marianne	D	1918	Aug	Friedrich		"Schulz, Katharina"	"Kustanai, Russland"	60	Lublin 1924	00393		I. Timm				"Juck, Samuel"			
+		Arndt	Adolf	D	1918	Sep	Ludwig		"Manz, Luise"	"Troitsk, Russland"	60	Lublin 1924	00394		I. Timm				"Doberstein, Ottilie"			
+		Jess	Gottfried	D	1918	Oct	Gottlieb			"Samara, Russland"	60	Lublin 1924	00395	189	I. Timm							
+		Klammer	Auguste	D	1917	Oct	Johann		"Meister, Amalie"	"Ogorna, Kustanai, Russland"	60	Lublin 1924	00396		I. Timm				"Rode, Josef"			
+		Rode	Johann	D	1917	Oct				"Kustanai, Russland"	60	Lublin 1924	00397						"Klemens, Auguste"			
+		Heise	Luise	D	1918	Oct	Gottlieb			"Samara, Russland"	60	Lublin 1924	00398	190	I. Timm				"Helmer, August"			
+		Kuehn	Wanda	D	1917	Oct	Wilhelm		"Deutschlaender, Theophile"	"Konstantin, Russland"	60	Lublin 1924	00399		I. Timm				"Schiller, Emil"	Witwe		
+		Kropp	August 	D	1918	Oct	Christoph		"Nering, Christine"	"Feodorowka, Russland"	60	Lublin 1924	00400		I. Timm				"Freimark, Emilie"	44 Y		
+		Schmidtke	Albertine	D	1918	Nov	Daniel		"Kern, Kamilla"	"Kustanai, Russland"	60	Lublin 1924	00401		I. Timm							
+		Kern	Kamilla	D	1918	Nov	Andreas		"Schwenige, Emilie"	"Kustanai, Russland"	60	Lublin 1924	00402		I. Timm				"Schmidke, Daniel"			
+		Schmidtke	Dorothea	D	1918	Nov	Daniel		"Kern, Kamilla"	"Kustanai, Russland"	60	Lublin 1924	00403		I. Timm							
+		Radke	Gustav	D	1919	Feb	Michael		"Eschner, Justine"	Majdan	60	Lublin 1924	00404		I. Timm					Witwer		
+		Horn	Auguste	D	1924	Dec	August		"Pohl, Julianne"	Dubeczno	60	Lublin 1924	00405	191	I. Timm				"Schweichler, Georg"			
+		Ziegenhagel	Emil	D	1918	Nov	Friedrich		"Stanke, Luise"	"Kustanai, Russland"	60	Lublin 1924	00407	192	I. Timm							
+		Ristau	Ferdinand	D	1919	Jul	Ferdinand			"Kustanai, Russland"	60	Lublin 1924	00408	49	I. Timm				"Hildebrandt, Emilie"	72 Y		
+		Keding	Johann	D	1919	Aug				"Samara, Russland"	60	Lublin 1924	00409	188	I. Timm					50 Y		
+		Lukstein	Ludwig	D	1919	Sep	Peter		Amalie	"Kustanai, Russland"	60	Lublin 1924	00410		I. Timm					"Witwer, 60 Y"		
+		Puchert	Adolf	D	1919	Sep				"Arneburg, Deutschland"	60	Lublin 1924	00411	35	I. Timm				"Rudat, Wilhelmine"	54 Y		
+		Muth	Auguste	D	1919	Nov	Adolf		"Betker, Karoline"	"Emba, Russland"	60	Lublin 1924	00412		I. Timm							
+		Geister	Christoph	D	1919	Dec	Wilhelm		Luise	"Kustanai, Russland"	60	Lublin 1924	00413		I. Timm				"Fenner, Albertine"			
+		Schiewe	Ernestine	D	1919	Dec	Gottlieb		"Jesse, Christine"	"Kustanai, Russland"	60	Lublin 1924	00414-15		I. Timm				"Schroeder, Gottfried"			
+		Krueger	Gustav	D	1919	Dec	August		"Kern, Susanne"	"Kustanai, Russland"	60	Lublin 1924	00416-17		I. Timm					"Witwer, 29 Y"		
+		Krueger	August	D	1920	Feb	Michael		"Nachtigall, Pauline"	"Kustanai, Russland"	60	Lublin 1924	00418-19		I. Timm					"Witwer, 50 Y"		
+		Schmidtke	Justine	D	1920	Mar	Martin		"Klause, Karoline"	"Lawrenkowska, Russland"	60	Lublin 1924	00420		I. Timm				"Eschner, Johann"			
+		Schrank	Michael	D	1920	Mar				"Bomowka, Kustanai, Russland"	60	Lublin 1924	00421		I. Timm				"Schlag, Emma"	73 Y		
+		Lokstein	Eduard	D	1920	Apr	Ludwig		"Fuchs, Emilie"	"Kustanai, Russland"	60	Lublin 1924	00422		I. Timm							
+		Witkowski	Michael	D	1920	Jun	Friedrich		"Bloch, Anna"	"Dawidinowka, Kustanai, Russland"	60	Lublin 1924	00423		I. Timm							
+		Huff	Emilie	D	1920	Jun	Ludwig		"Lippert, Justine"	"Groest, Weissenfels, Germany"	60	Lublin 1924	00424		I. Timm				"Bittner, Christoph"			
+		Herzog	Emilie	D	1920	Aug	Wilhelm		"Ziebart, Alwine"	"Obzarowka, Samara, Russland"	60	Lublin 1924	00425		I. Timm				"Kubsch, Gottlieb"	27 Y		
+		Jaeck	Michael	D	1920	Sep				"Orenburg, Russland"	60	Lublin 1924	00426		I. Timm				"Felscher, Julianne"	68 Y		
+		Betker	Karoline	D	1920	Dec	Johann		"Hein, Wilhelmine"	"Ileck, Russland"	60	Lublin 1924	00427		I. Timm				Muth	Witwe		
+		Ristau	Lidia	D	1920	Dec	Ferdinand		"Hildebrandt, Emilie"	"Kustanai, Russland"	60	Lublin 1924	00428	50	I. Timm							
+		Kapczynski	Emil	D	1921	Mar	Johann		"Bracke, Wilhelmine"	"Kustanai, Russland"	60	Lublin 1924	00429		I. Timm				"Wendland, Berta"	35 Y		
+		Henschel	Anna	D	1921	May	Michael		"Witt, Luise"	"Odscharowka, Samara, Russland"	60	Lublin 1924	00430		I. Timm				"Schmidtke, Gottlieb"	43 Y		
+		Klappstein	Eduard	D	1921	May	Gottfried		"Lange, Anna"	"Kottan, Russland"	60	Lublin 1924	00431		I. Timm							
+		Schilberg	Adolf	D	1921	Aug	Martin		Pauline	"Orenburg, Russland"	60	Lublin 1924	00432	180	I. Timm				"Schmidtke, Maria"	48 Y		
+		Geister	Olga	D	1921	Aug	Christoph		"Fenner, Albertine"	"Kustanai, Russland"	60	Lublin 1924	00433		I. Timm							
+		Essmann	Friedrich Gottlieb Rudolf	D	1921	Oct	Friedrich		"Ziemer, Ernestine"	"Orscha, Russland"	60	Lublin 1924	00434	41	I. Timm				"Essmann, Lidia"	33 Y		
+		Eschner	Johann	D	1921	Nov	Jakob		"Seeler, Julianne"	"Kustanai, Russland"	60	Lublin 1924	00435		I. Timm					"Witwer, 58 Y"		
+		Molketin	Emil	D	1921	Dec	August		"Albrecht, Wilhelmine"	Chelm	60	Lublin 1924	00436	40	I. Timm				"Essmann, Albertine"	died in Sawin hospital; 36 Y		
+		Geister	Martha	D	1922	Jan	Christoph		"Fenner, Albertine"	"Kustanai, Russland"	60	Lublin 1924	00437		I. Timm					"14Y, 10M"		
+		Schmidtke	Daniel	D	1922	Jan	Michael		"Petrich, Renate"	"Kustanai, Russland"	60	Lublin 1924	00438		I. Timm					"Witwer, 44 Y"		
+		Lukstein	Edmund	D	1922	Jan	Ludwig		"Fuchs, Emilie"	"Kustanai, Russland"	60	Lublin 1924	00439		I. Timm					20 Y		
+		Buerger	Daniel	D	1922	Feb	Michael		"Mertin, Eva"	"Kustanai, Russland"	60	Lublin 1924	00440	181	I. Timm				"Arndt, Julianne"	48 Y		
+		Arndt	Julianne	D	1922	Feb	Daniel		Therese	"Kustanai, Russland"	60	Lublin 1924	00441	182	I. Timm				"Buerger, [Daniel]"	48 Y		
+		Geister	Ferdinand	D	1922	Feb	Christoph		"Fenner, Albertine"	"Kustanai, Russland"	60	Lublin 1924	00442		I. Timm							
+		Briske	Ludwig	D	1922	Feb	Gottfried			"Akbulak, Russland"	60	Lublin 1924	00443		I. Timm				"Dorok, Alwine"	45 Y		
+		Klingspohn	Wilhelm	D	1922	Mar	Gottfried		"Marks, Christine"	"Kustanai, Russland"	60	Lublin 1924	00444		I. Timm							
+		Schiewe	Rudolf	D	1922	Mar	Gottlieb		Christine	"Kustanai, Russland"	60	Lublin 1924	00445		I. Timm				"Schachtschneider, Emilie"	38 Y		
+		Lukstein	Gustav	D	1922	Mar	Ludwig		"Fuchs, Emilie"	"Kustanai, Russland"	60	Lublin 1924	00446		I. Timm					18 Y		
+		Hildebrandt	Emilie	D	1922	Apr	Ludwig			"Kustanai, Russland"	60	Lublin 1924	00447	51	I. Timm				Ristau	"Witwe, 64 Y"		
+		Kubsch	Julianne-Anna	D	1922	Apr	Gustav		"Drebsch, Aniola"	"Kisyodsk, Russland"	60	Lublin 1924	00448		I. Timm				Lidke	"Witwe, 51 Y"		
+		Ristau	Adolf	D	1922	May	Ferdinand			"Kustanai, Russland"	60	Lublin 1924	00449	55	I. Timm					"Witwer, 48 Y"		
+		Eschner	Ottilie	D	1922	May	Johann		"Schmidtke, Justine"	"Syzran, Russland"	60	Lublin 1924	00450		I. Timm					9 Y		
+		Gellert	Sigismund	D	1924	Dec	Adolf		Uebel. Henriette	Janow	60	Lublin 1924	00451	82	I. Timm					22 Y		
+		Schimkowski	Ottilie	D	1924	Dec	Christian		"Kropp, Ottilie"	Nowy Andrzejow	60	Lublin 1924	00452	1	I. Timm					1M 25D		
+		Preuss	Gustav	M	1910	Jan			"Noerenberg, Julianne"	Sobolew 	60	Lublin 1910-1911	00004	5	I. Timm			"Noerenberg (married name), Emilie"		Marriage Permission		
+		Hahn	Adolf	M	1910	Jan			"Keding, Mathilde"	Jagodna	60	Lublin 1910-1911	00005-6	6	I. Timm		"Hahn, August"			Marriage Permission		
+		Lokstädt	Gustav	M	1910	Jan			"Wedemann, Maria"	Wolka Zablocka	60	Lublin 1910-1911	00007	9	I. Timm			"Wedemann, Ludwig"		Marriage Permission		
+		Radke	Gustav	M	1910	Jan			"Kropp, Olga"	Trojnia	60	Lublin 1910-1911	00008-9	14	I. Timm			"Kropp, Wilhelm"		Marriage Permission		
+		Meier	Johann	M	1910	Jan			"Neudorf, Karoline"	Antonin	60	Lublin 1910-1911	00010	15	I. Timm					Marriage Permission		
+		Pekrul	Eduard	M	1910	Jan			"Streibel, Auguste"	Wladyslawow	60	Lublin 1910-1911	00011	16	I. Timm					Marriage Permission		
+		Müller	Eduard	M	1910	Jan			"Grüning, Julianne"	Zuraweniec	60	Lublin 1910-1911	00012	17	I. Timm					Marriage Permission		
+		Harke	Eduard	M	1910	Jan			"Kunkel, Julianne"	Wolka Mieczyslawska	60	Lublin 1910-1911	00013-14	18	I. Timm			"Kunkel, Heinrich"		Marriage Permission		
+		Siering	Johann	M	1910	Jan			"Siering, Barbara"	Borkowiczna	60	Lublin 1910-1911	00015	19	I. Timm					Marriage Permission		
+		Matz	Gustav Ferdinand	M	1910	Jan			"Piontas, Valerie"	Jozefow	60	Lublin 1910-1911	00016	20				"Piontas, Stanislaus"		Marriage Permission		
+		Punzel	Adolf	M	1910	Jan			"Mittelstädt, Mathilde"	Juliopol	60	Lublin 1910-1911	00017	20	I. Timm			"Mittelstaedt (married name), Julianne"		Marriage Permission		
+		Hirsekorn	Johann	M	1910	Jan			"Briks, Wanda"	Jagodna	60	Lublin 1910-1911	00018	21	I. Timm			"Briks, Emil"		Marriage Permission		
+		Bilau	Karl	M	1910	Jan			"Riemer, Wanda"	Ujazdow	60	Lublin 1910-1911	00019	28	I. Timm					Marriage Permission		
+		Radke	Adolf	M	1910	Jan			"Rolof, Lidia"	Zabitek	60	Lublin 1910-1911	00020	29	I. Timm					Marriage Permission		
+		Kitzmann	Theodor	M	1910	Jan			"Wendland, Emilie"	Barki	60	Lublin 1910-1911	00021	30	I. Timm			"Wendland, Friedrich Wilhelm"		Marriage Permission		
+		Hermann	Ernst Karl Rudolf	M	1910	Jan			"Lippert, Julianne"	Ujazdow	60	Lublin 1910-1911	00022	32	I. Timm					Marriage Permission		
+		Krüger	Julius	M	1910	Apr			"Benke, Emilie"	Debowiec	60	Lublin 1910-1911	00023-24	36	I. Timm			"Benke, Ferdinand"		Marriage Permission		
+		Fenske	Adolf	M	1910	Apr			"Fenske, Euphrosine"	Cycow	60	Lublin 1910-1911	00025	38	I. Timm			"Fenske, Julius"	Polnau (1st husband)	Marriage Permission		
+		Rapsch	Gottlieb	M	1910	Apr			"Fehler, Maria"	Jagodna	60	Lublin 1910-1911	00026	39	I. Timm			"Fehler, Daniel"		Marriage Permission		
+		Krüger	Michael	M	1910	May			"Schubert, Emilie"	Zuraweniec	60	Lublin 1910-1911	00027	48	I. Timm			"Schubert, August"		Marriage Permission		
+		Hek	Julius	M	1910	May			"Neumann, Emilie"	Wola Lisowska	60	Lublin 1910-1911	00028	50	I. Timm			"Neumann, Ludwig"		Marriage Permission		
+		Kuehn	Wilhelm	M	1910	Jun			"Preiss, Emilie"	Wola Lisowska	60	Lublin 1910-1911	00030	53	I. Timm			"Preiss, Ludwig"		Marriage Permission		
+		Pusch	Albert	M	1910	Jul			"Schulz, Amalie"	Ludwinow	60	Lublin 1910-1911	00031	59	I. Timm					Marriage Permission		
+		Abram	Gottfried	M	1910	Aug			"Strohschein, Pauline"	Bekiesza	60	Lublin 1910-1911	00032	60	I. Timm			"Strohschein, Ludwig"		Marriage Permission		
+		Priebe	Friedrich	M	1910	Aug			"Riemer, Emilie"	Zarobka	60	Lublin 1910-1911	00033	61	I. Timm			"Riemer, August"		Marriage Permission		
+		Schief	Gustav	M	1910	Aug			"Müller, Berta"	Streczyn Nowy	60	Lublin 1910-1911	00034	63	I. Timm			"Mueller, Gustav"		Marriage Permission		
+		Kozischke	Ludwig	M	1910	Sep			"Rindfleisch, Wanda"	Jagodna	60	Lublin 1910-1911	00035	67	I. Timm			"Rindfleisch, Adam"		Marriage Permission		
+		Schramm	Christian	M	1911	Jan			"Schmalz, Wanda"	Grabniak	60	Lublin 1910-1911	00036	68	I. Timm		"Schendler, Marianna"			Marriage Permission		
+		Berg	August	M	1910	Sep			"Lüdke, Auguste"	Zuraweniec	60	Lublin 1910-1911	00037	70	I. Timm			"Schubert, Augustine"		Marriage Permission		
+		Falkenberg	Gustav	M	1910	Sep			"Potritzki, Lidia"	Adolfin	60	Lublin 1910-1911	00038	71	I. Timm					Marriage Permission		
+		Luedke	Ludwig	M	1910	Oct			"Abend, Wanda"	Ujazdow	60	Lublin 1910-1911	00039-40	74	I. Timm			"Abend, Andreas"		Marriage Permission		
+		Disselberger	Emanuel	M	1910	Oct			"Fröhlich, Lidia"	Ujazdow	60	Lublin 1910-1911	00041	82	I. Timm					Marriage Permission		
+		Ratter	Karl	M	1910	Nov			"Blümke, Ottilie"		60	Lublin 1910-1911	00042	85	I. Timm			"Bluemke, Gottlieb"		Marriage Permission		
+		Kaus	Edmund	M	1910	Nov			"Bloch, Wilhelmine"	Malinowka	60	Lublin 1910-1911	00043-44	86	I. Timm					Marriage Permission		
+		Dering	Michael	M	1910	Nov			"Lecht, Adolfine"	Bogdanka	60	Lublin 1910-1911	00045	88	I. Timm					Marriage Permission		
+		Wendland	Gustav	M	1910	Nov			"Kitzmann, Amanda"	Janow	60	Lublin 1910-1911	00046	89	I. Timm					Marriage Permission		
+		Meier	Ferdinand	M	1910	Nov			"Gesell, Emilie"	Streczyn Nowy	60	Lublin 1910-1911	00047	90	I. Timm					Marriage Permission		
+		Bachmann	Gustav	M	1910	Nov			"Welke, Wanda"	Cycow	60	Lublin 1910-1911	00049	92	I. Timm			"Welke, Gustav"		Marriage Permission		
+		Schulz	Adolf	M	1910	Nov			"Bansemeier, Martha"	Malinowka	60	Lublin 1910-1911	00050	94	I. Timm		"Jung, Emilie"			Marriage Permission		
+		Kunkel	August	M	1910	Dec			"Duesterhoeft, Helene"	Franzdorf	60	Lublin 1910-1911	00051	95	I. Timm			"Duesterhoeft, Gottlieb"		Marriage Permission		
+		Fitz	Karl	M	1911	Jan			"Krause, Seraphine"	Bogdanka	60	Lublin 1910-1911	00052	96	I. Timm					Marriage Permission		
+		Selig	August	M	1911	Jan			"Stefan, Julianne"	Malinowka	60	Lublin 1910-1911	00053	97	I. Timm			"Stefan, August"		Marriage Permission		
+		Seimann	August	M	1911	Jan			"Günter, Mathilde"	Wola Lisowska	60	Lublin 1910-1911	00054	4	I. Timm			"Guenter, Gottlieb"		Marriage Permission		
+		Luedke	Alexander	M	1911	Jan			"Sokolowski,Florentine"	Juliopol	60	Lublin 1910-1911	00055	5	I. Timm			"Sololowski, Michael"		Marriage Permission		
+		Dei	Ludwig	M	1911	Jan			"Lehmann, Leokadia"	Bekiesza	60	Lublin 1910-1911	00056	7	I. Timm				Jess (1st husband)	Marriage Permission		
+		Schachtschneider	Wilhelm	M	1911	Jan			"Abel, Julianne"	Rozplucie	60	Lublin 1910-1911	00057	8	I. Timm		Karoline			Marriage Permission		
+		Jekel	Alexander	M	1911	Feb			"Machel, Pauline"	Juliopol	60	Lublin 1910-1911	00058	12	I. Timm			"Machel, Johann"		Marriage Permission		
+		Hein	Eduard	M	1911	Feb			"Schmidt, Berta"	Bekiesza	60	Lublin 1910-1911	00059	14	I. Timm			"Schmidt, Adolf"		Marriage Permission		
+		Meier	Gustav	M	1911	Feb			"Kühn, Helene"	Trojnia	60	Lublin 1910-1911	00060	15	I. Timm			"Kuehn, Ludwig"		Marriage Permission		
+		Neumann	Peter	M	1911	Feb			"Zielke, Ida"	Janowiec	60	Lublin 1910-1911	00061	16	I. Timm					Marriage Permission		
+		Hapke	Daniel	M	1911	Feb			"Winkler, Wanda"	Streczyn Nowy	60	Lublin 1910-1911	00062	17	I. Timm			"Winkler, Johann"		Marriage Permission		
+		Hapke	Johann	M	1911	Feb			"Krüger, Ottilie"	Malinowka	60	Lublin 1910-1911	00064	19	I. Timm			"[Schultz], Wilhelmine"		Marriage Permission		
+		Krüger	Wilhelm	M	1911	Feb			"Walter, Lidia"	Malinowka	60	Lublin 1910-1911	00065-66	21	I. Timm		"Krueger, Ludwig"	"Walter, Franz"		Marriage Permission		
+		Schulz	Ludwig	M	1911	Feb			"Schreiber, Auguste"	Jagodna  	60	Lublin 1910-1911	00067	23	I. Timm			"Schreiber, Julius"		Marriage Permission		
+		Klukas	Adam	M	1911	Feb			"Arndt, Ottilie"	Juliopol	60	Lublin 1910-1911	00068	24	I. Timm			"Arndt, Johann Eduard"		Marriage Permission		
+		Grünning	Julius	M	1911	Feb			"Rinas, Julianne"	Okalew	60	Lublin 1910-1911	00069	29	I. Timm			"Rinas, Daniel"		Marriage Permission		
+		Jäger	Ludwig	M	1911	Feb			"Templin, Helene"	Sobolew 	60	Lublin 1910-1911	00070	31	I. Timm			"Tempelin, Christian"		Marriage Permission		
+		Preuss	Adam	M	1911	Feb			"Nerlich, Ernestine"	Zuraweniec	60	Lublin 1910-1911	00071	32	I. Timm			"Nerlich, Johann"		Marriage Permission		
+		Wedemann	Gottlieb	M	1911	Feb			"Schulz, Natalie"	Bekiesza	60	Lublin 1910-1911	00072	33	I. Timm					Marriage Permission		
+		Ziebart	Gottlieb	M	1911	Feb			"Konrad, Lidia"	Stefanow	60	Lublin 1910-1911	00073	34	I. Timm			Justine		Marriage Permission		
+		Lange	Ludwig	M	1911	Feb			"Patzlaw, Berta"	Rozplucie	60	Lublin 1910-1911	00074	35	I. Timm			"Patzlaw, Johann"		Marriage Permission		
+		Neumann	Emil	M	1911	Feb			"Rolof, Theophile"	Zarobka	60	Lublin 1910-1911	00075	36	I. Timm			Pauline Auguste		Marriage Permission		
+		Schönknecht	Julius	M	1911	Feb			"Fürst, Emilie"	Cycow	60	Lublin 1910-1911	00077	38	I. Timm		"Schoenknecht, Martin & Friedrich, Mathilde"	"Fuerst, Friedrich & Schroeder, Karoline"		Marriage Permission		
+		Jubin	Gottfried	M	1911	Feb			"Rode, Emilie"	Bekiesza	60	Lublin 1910-1911	00078-79	39	I. Timm			"Rode, Wilhelm"		Marriage Permission		
+		Fruk	Rudolf	M	1911	Feb			"Meier, Mathilde"	Michelsdorf	60	Lublin 1910-1911	00080	40	I. Timm					Marriage Permission		
+		Zielke	Heinrich	M	1911	Apr			"Hubert, Mathilde"	Janowiec	60	Lublin 1910-1911	00082	43	I. Timm			"Hubert, Karl"		Marriage Permission		
+		Luedke	Reinhold	M	1911	May			"Raunest, Dorothea"	Zilostow	60	Lublin 1910-1911	00084	52	I. Timm			"Raunest, Friedrich"		Marriage Permission		
+		Zirke	Johann	M	1911	May			"Hanisch, Mathilde"	Streczyn Nowy	60	Lublin 1910-1911	00085	53	I. Timm			"Hanisch, David"		Marriage Permission		
+		Hemmerling	Gustav	M	1911	Jun			"Lindik, Emilie"	Cycow	60	Lublin 1910-1911	00086	54	I. Timm			"Bloch, Karl Ludwig (stepfather)"		Marriage Permission		
+		Lüdke	Gustav	M 	1911	Jun			"Bogs, Albertine"	Kamien	60	Lublin 1910-1911	00087-88	60	I. Timm			"Bogs, Wilhelm"		Marriage Permission		
+		Reiter	Ferdinand	M	1911				"Harter, Berta"		60	Lublin 1910-1911	00089	72	I. Timm		"Reiter, Michael"			Marriage Permission		
+		Kwirant	Ludwig	M	1911	Aug			"Meile, Karoline"	Cichostow	60	Lublin 1910-1911	00090	73	I. Timm			"Meile, Ferdinand"		Marriage Permission		
+		Walter	Johann	M	1911	Aug			"Mertin, Olga"	Janowiec	60	Lublin 1910-1911	00091	75	I. Timm			"Mertin, Gottfried"		Marriage Permission		
+		Ziebart	Gustav	M	1911	Sep			"Wendland, Mathilde"	Bekiesza	60	Lublin 1910-1911	00092	78	I. Timm			"Wendland, Wilhelm Friedrich"		Marriage Permission		
+		Wendland	Adolf	M	1911	Sep			"Nehring, Albertine"	Bekiesza	60	Lublin 1910-1911	00093-94	80	I. Timm			"Nehring, Gottlieb"		Marriage Permission		
+		Nerling	Karl	M	1911	Sep			"Schlag, Albertine"	Cichostow	60	Lublin 1910-1911	00095	82	I. Timm			"Schlag, Andreas"		Marriage Permission		
+		Ladwig	Johann	M	1911	Oct			"Neumann, Olga"	Jagodno	60	Lublin 1910-1911	00096	85	I. Timm			"Neumann, Gustav"		Marriage Permission		
+		Liske	Ludwig	M	1911				"Riske, Helene"		60	Lublin 1910-1911	00098	89	I. Timm			"Riske, Ludwig"		Marriage Permission		
+		Nötzel	Michael	M	1911	Nov			"Zerbin, Mathilde"	Sobolew 	60	Lublin 1910-1911	00099	91	I. Timm			Emilie		Marriage Permission		
+		Spohn	Johann	M	1911	Oct			"Beier, Emilie"	Cycow	60	Lublin 1910-1911	00100-01	93	I. Timm			"Beier, Daniel"		Marriage Permission		
+		Markwardt	Adolf	M	1911	Nov			"Müller, Wanda"	Okalew	60	Lublin 1910-1911	00105	99	I. Timm					Marriage Permission		
+		Sachweh	Rudolf	M	1911				"Luther, Pauline"		60	Lublin 1910-1911	00106	100	I. Timm		Wilhelmine			Marriage Permission		
+		Groth	August	M	1911	Nov			"Hintz, Helene"	Kobylki	60	Lublin 1910-1911	00107	102	I. Timm			"Hintz, Matthias"		Marriage Permission		
+		Neumann	Hermann	M	1911	Oct			"Rinas, Rosalie"	Wolka Tyrzynska	60	Lublin 1910-1911	00108	103	I. Timm					Marriage Permission		
+		Fröhlich	Friedrich	M	1911	Nov			"Schönfisch, Mathilde"	Ujazdow	60	Lublin 1910-1911	00109-11	106	I. Timm			"Schoenfisch, August"		Marriage Permission		
+		Kwirant	Friedrich	M	1911	Nov			"Reinik, Martha"	Leonardow	60	Lublin 1910-1911	00112	108	I. Timm			"Reinik, August"		Marriage Permission		
+		Zielke	Johann	M	1911	Nov			"Krueger, Pauline"	Zarobka	60	Lublin 1910-1911	00113	109	I. Timm				Rolof (1st husband)	Marriage Permission		
+		Stein	Eduard	M	1911	Nov			"Freiter, Olga"		60	Lublin 1910-1911	00114	111	I. Timm			"Freiter, Gottlieb"		Marriage Permission		
+		Bulitz	Gustav	M	1911	Jul			"Harke, Wanda"	Malinowka	60	Lublin 1910-1911	00115		I. Timm					Marriage Permission		
+		Schönknecht	Adolf	M	1911	Apr			"Schmidtke, Emilie"	Jagodno	60	Lublin 1910-1911	00116		I. Timm			"Schmidtke, Samuel"		Marriage Permission		
+		Maile	Eduard	M	1911				"Heimann, Emilie"		60	Lublin 1910-1911	00117		I. Timm			"Heimann, Gottlieb"		Marriage Permission		
+		Lampitzki	Emil	M	1911	Jul			"Wendland, Amalie"	Malkow	60	Lublin 1910-1911	00118		I. Timm			"Wendland, Samuel"		Marriage Permission		
+		Barke	Theophil	B	1925	Nov	Adolf		"Pohl, Pauline"	Tomaszowka	60	Lublin 1925-1926	00002	22	I. Timm							
+		Wolf	Eduard	B	1925	Dec	Sigismund		"Jeske, Karoline"	Tomaszowka	60	Lublin 1925-1926	00003	21	I. Timm							
+		Priebe	Gustav	B	1925	Nov	Wilhelm		"Koberstein, Ottilie"	Kamien	60	Lublin 1925-1926	00005		I. Timm							
+		Bichtner	Artur	B	1925	Dec	Johann		"Mueller, Lidia"	Henrysin	60	Lublin 1925-1926	00006	10	I. Timm							
+		Bernd	Friedrich	B	1925	Dec	Heinrich		"Herzog, Karoline"	Kroczyn	60	Lublin 1925-1926	00007	27	I. Timm							
+		Steinke	Helene	B	1925	Dec	Rudolf		"Albrecht, Wanda"	Kroczyn	60	Lublin 1925-1926	00008	28	I. Timm							
+		Geselln	Elfriede	B	1925	Dec	Rudolf		"Bittner, Lidia"	Henrysin	60	Lublin 1925-1926	00009	11	I. Timm							
+		Liske	Olga	B	1925	Dec	Ferdinand		"Bliwert, Karoline"	Janow	60	Lublin 1925-1926	00010	185	I. Timm							
+		Radke	Olga	B	1925	Nov	Wilhelm		"Maerz, Ottilie"	Malinowka	60	Lublin 1925-1926	00011	62	I. Timm							
+		Schepke	Sigismund	B	1925	Dec	Gustav		"Bretzke, Mathilde"	Tomaszowka	60	Lublin 1925-1926	00012	108	I. Timm							
+		Jantz	Linda	B	1925	Dec	Gottfried		"Hanert, Auguste"	Radziejow	60	Lublin 1925-1926	00013	14	I. Timm							
+		Reichwald	Lidia	B	1925	Dec	Rudolf		"Kombein, Wanda"	Bukowski Las	60	Lublin 1925-1926	00014	86	I. Timm							
+		Arndt	Arnold	B	1925	Nov	Gustav		"Assmann, Albertine"	Puszki	60	Lublin 1925-1926	00015	26	I. Timm							
+		Schilmann	Hermann	B	1925	Dec	Jakob		"Schmidt, Mathilde"	Zabudnowo	60	Lublin 1925-1926	00016	32	I. Timm							
+		Duesterhoeft	Eduard	B	1925	Dec	Andreas		"Domke, Auguste"	Aleksandria Krzywowolska	60	Lublin 1925-1926	00017	110	I. Timm							
+		Teske	Sigismund	B	1925	Oct	Ferdinand		"Hauf, Emma"	Klementynow	60	Lublin 1925-1926	00018	109	I. Timm							
+		Gottschling	Friedrich	B	1925	May	Hermann		"Golowski, Sophie"	Szetyska	60	Lublin 1925-1926	00019	25	I. Timm							
+		Priebe	Martha	B	1925	Dec	Hermann		"Luther, Natalie"	Karolinow	60	Lublin 1925-1926	00020	144	I. Timm							
+		Bader	Olga	B	1925	Dec	Gottlieb		"Schulz, Pauline"	Gotowka	60	Lublin 1925-1926	00021	145	I. Timm							
+		Matz	Olga	B	1908	Oct	Friedrich		"Molzahn, Hulda"	"Kurmahlen, Kurland"	60	Lublin 1925-1926	00022-23		I. Timm							
+		Matz	Gustav	B	1910	Apr	Friedrich		"Molzahn, Hulda"	"Kurmahlen, Kurland"	60	Lublin 1925-1926	00024-25		I. Timm							
+		Zerbin	Rudolf	B	1926	Jan	Wilhelm		"Spohn, Emma"	Rudolfin	60	Lublin 1925-1926	00026		I. Timm							
+		Schmidt	Wilhelm	B	1925	Dec	Rudolf		"Hetmann, Emma"	Radziejow	60	Lublin 1925-1926	00027	13	I. Timm							
+		Edelberg	Otto	B	1925	Dec	Rudolf		"Lepholz, Adele"	Antonin	60	Lublin 1925-1926	00028	12	I. Timm							
+		Mekelburg	Otto	B	1925	Nov	Julius		"Jerke, Wanda"	Ruda	60	Lublin 1925-1926	00029	28	I. Timm							
+		Mekelburg	Lidia	B	1925	Nov	Johann		"Noerenberg, Johanna"	Ruda	60	Lublin 1925-1926	00030	27	I. Timm							
+		Lemke	Friedrich Reinhold	B	1924	Apr	Rudolf		"Klause, Wanda"	Bukowa Male	60	Lublin 1925-1926	00031	26	I. Timm							
+		Lehmann	Eduard	B	1926	Jan	Emil		"Wak, Wanda"	Karolinow	60	Lublin 1925-1926	00032	146	I. Timm							
+		Ostroski	Artur	B	1925	Dec	Friedrich		"Redmann, Wanda"	Pogranicze	60	Lublin 1925-1926	00033	1	I. Timm							
+		Skalej	Else	B	1925	Dec	Johann		"Deutschlaender, Wanda"	Malinowka	60	Lublin 1925-1926	00034	63	I. Timm							
+		Fitz	Friedrich	B	1920	Dec	Ludwig		"Kukasch, Wanda"	"Kustanai, Russland"	60	Lublin 1925-1926	00035-36		I. Timm							
+		Biedler	Albertine	B	1925	Sep	Gustav		"Jantz, Theophile"	Teresin	60	Lublin 1925-1926	00037	33	I. Timm							
+		Arndt	Ewald	B	1926	Jan	Emil		"Grimm, Leokadia"	Zarudnia	60	Lublin 1925-1926	00038	29	I. Timm							
+		Nass	Leokardia	B	1926	Jan	Rudolf		"Arndt, Hulda"	Teosin	60	Lublin 1925-1926	00039	119	I. Timm							
+		Tiede	Walter	B	1926	Jan	Eduard		"Kubsch, Julianne"	Henrysin	60	Lublin 1925-1926	00040	13	I. Timm							
+		Friedrich	Adele	B	1926	Jan	Gustav		"Krueger, Dorothea"	Kroczyn	60	Lublin 1925-1926	00041	3	I. Timm							
+		Schmeck	Emil	B	1926	Jan	Wilhelm		"Kuemmel, Pauline"	Janow	60	Lublin 1925-1926	00042	1	I. Timm							
+		Riske	Natalie	B	1926	Jan	Eduard		"Schilmann, Ottilie"	Roskosz	60	Lublin 1925-1926	00043	4	I. Timm							
+		Miks	Ella	B	1926	Jan	Rudolf		"Diem, Ottilie"	Kamien	60	Lublin 1925-1926	00044		I. Timm							
+		Kubsch	Martha	B	1926	Feb	Julius		"Buchholz, Auguste"	Rudolfin	60	Lublin 1925-1926	00045		I. Timm							
+		Glor	Alfred	B	1926	Jan	Johann		"Fehlau, Emma"	Chelm	60	Lublin 1925-1926	00046		I. Timm							
+		Degen	Adolf	B	1926	Jan	Rudolf		"Stelzer, Karoline"	Lesniczowka	60	Lublin 1925-1926	00047	147	I. Timm							
+		Hetmann	Martha	B	1926	Feb	Gustav		"Stiller, Mathilde"	Radziejow	60	Lublin 1925-1926	00048	1	I. Timm							
+		Czajkowski	Ottilie	B	1926	Feb	Rudolf		"Hauser, Natalie"	Kamien	60	Lublin 1925-1926	00049		I. Timm							
+		Gruenke	Robert-Felix	B	1926	Jan	Gustav		"Seib, Emma"	Ignatow	60	Lublin 1925-1926	00050		I. Timm							
+		Dreger	Ewald	B	1926	Jan	Martin		"Krueger, Anna"	Kroczyn	60	Lublin 1925-1926	00051	5	I. Timm							
+		Buss	Friedrich	B	1926	Jan	Albert		"Wensel, Helene"	Kozly	60	Lublin 1925-1926	00052	6	I. Timm							
+		Selent	Eduard	B	1925	Dec	unknown/unbekannt		"Selent, Bronislawa"	Marysin	60	Lublin 1925-1926	00053	33	I. Timm					unehelich		
+		Mincho	Viktor	B	1926	Feb	Paul		"Stefani, Olga"	Karolinow	60	Lublin 1925-1926	00054	149	I. Timm							
+		Falkenberg	Hermann	B	1916	Feb	Ludwig		"Milke, Martha"	Pogranicze	60	Lublin 1925-1926	00055	7	I. Timm							
+		Kisser	Lidia	B	1926	Jan	August		"Lemke, Christine"	Karolinow	60	Lublin 1925-1926	00056	148	I. Timm							
+		Albrecht	Artur	B	1926	Jan	Ferdinand		"Reich, Wanda"	Kroczyn	60	Lublin 1925-1926	00057	8	I. Timm							
+		Lapkowski	Eugenie	B	1926	Feb	Nikolaus		"Pide, Rosalie"	Ruda	60	Lublin 1925-1926	00058	30	I. Timm							
+		Rosin	Richard Samuel	B	1926	Feb	unknown/unbekannt		"Rosin, Sophie"	Karolinow	60	Lublin 1925-1926	00059	150	I. Timm					unehelich		
+		Meier	Martha	B	1926	Mar	Andreas		"Spohn, Berta"	Rudolfin	60	Lublin 1925-1926	00060		I. Timm							
+		Schimkowski	Lidia	B	1926	Jan	Christian		"Kropp, Ottilie"	Andrzejow	60	Lublin 1925-1926	00061	2	I. Timm							
+		Schroeder	Adolf	B	1925	Dec	Otto		"Felberg, Emilie"	Serniawy	60	Lublin 1925-1926	00062	64	I. Timm							
+		Seidlitz	Edmund	B	1925	Dec	unknown/unbekannt		"Seidlitz, Wilhelmine"	Borysow	60	Lublin 1925-1926	00063	9	I. Timm					unehelich		
+		Fandrich	Ewald	B	1925	Dec	Ferdinand		"Glesmann, Elsa"	Janin	60	Lublin 1925-1926	00064	13	I. Timm							
+		Missal	Emma	B	1926	Jan	Johann		"Lubas, Ida"	Kazimierowka	60	Lublin 1925-1926	00065	14	I. Timm							
+		Lueck	Robert 	B	1926	Jan	Adolf		"Golke, Julianne"	Malinowka	60	Lublin 1925-1926	00066	65	I. Timm							
+		Mueller	Otto	B	1926	Feb	Adolf		"Jeske, Ernestine"	Tomaszowka	60	Lublin 1925-1926	00067	23	I. Timm							
+		Goldnik	Eduard	B	1925	Nov	Daniel		"Schendler, Julianne"	Rostoka	60	Lublin 1925-1926	00068	2	I. Timm							
+		Pachal	Rudolf	B	1926	Feb	Ferdinand		"Riewe, Lidia"	Bukowski Las	60	Lublin 1925-1926	00069	87	I. Timm							
+		Hinz	Rudolf	B	1926	Feb	Gustav		"Reich, Susanne"	Ignatow	60	Lublin 1925-1926	00070	10	I. Timm							
+		Hase	Reinhold	B	1926	Feb	Adolf		"Beier, Emilie"	Bukowski Las	60	Lublin 1925-1926	00071	88	I. Timm							
+		Krell	Reinhold	B	1926	Feb	Karl		"Rachu, Emma"	Mszanna	60	Lublin 1925-1926	00072	10	I. Timm							
+		Puhl	Lidia	B	1926	Feb	Rudolf		"Kamenz, Wanda"	Annopol	60	Lublin 1925-1926	00073	34	I. Timm							
+		Schulz	Eugenie	B	1926	Feb	Ferdinand		"Schulz, Rosalie"	Chromowka	60	Lublin 1925-1926	00074	31	I. Timm							
+		Hintz	Reinhold	B	1926	Feb	Eduard		"Besler, Marianne"	Beniow	60	Lublin 1925-1926	00075	111	I. Timm							
+		Barke	Otto	B	1926	Feb	Karl		"Klingbeil, Lidia"	Gotowka	60	Lublin 1925-1926	00076	151	I. Timm							
+		Selent	Katharina	B	1915	Dec	Adolf		"Hineborg, Katharina"	"Syczow?, Swierze"	60	Lublin 1925-1926	00077	34	I. Timm							
+		Ryl	Eduard	B	1926	Feb	Gustav		"Witt, Leokadia"	"Syczow?, Swierze"	60	Lublin 1925-1926	00078	35	I. Timm							
+		Sommerfeld	Edmund	B	1926	Feb	August		"Neumann, Alwine"	Teresin	60	Lublin 1925-1926	00079	35	I. Timm							
+		Treichel	Waldemar	B	1926	Mar	Adolf		"Golke, Lidia"	Lowcza	60	Lublin 1925-1926	00080	24	I. Timm							
+		Golke	Irma	B	1926	Mar	Ludwig		"Treichel, Ottilie"	Tomaszowka	60	Lublin 1925-1926	00081	25	I. Timm							
+		Stein 	Olga	B	1926	Mar	Wilhelm		"Schulz, Justine"	Tomaszowka	60	Lublin 1925-1926	00082	26	I. Timm							
+		Schatkowski	Otto	B	1926	Feb	Gustav		"Kweck, Helene"	Radziejow	60	Lublin 1925-1926	00083	4	I. Timm							
+		Matz	Erich Samuel	B	1924	Jan	Samuel		"Henschel, Julianne"	Bukowa Male	60	Lublin 1925-1926	00084	32	I. Timm							
+		Heider	Adolf	B	1925	Jun	unknown/unbekannt		"Gefreiter, Karoline"	Borysow	60	Lublin 1925-1926	00085	10	I. Timm				born out of wedlock	unehelich		
+		Schmidtke	Robert	B	1926	Mar	Emil		"Pahl, Dorothea"	Syczow	60	Lublin 1925-1926	00086	36	I. Timm							
+		Rolof	Lidia	B	1926	Mar	Hermann		"Krueger, Emma"	Ruda	60	Lublin 1925-1926	00087	34	I. Timm							
+		Pahl	Else	B	1926	Mar	Wilhelm		"Lauersdorf, Amanda"	Ruda	60	Lublin 1925-1926	00088	35	I. Timm							
+		Kuemmel	Karl	B	1926	Mar	Johann		"Konojatzki, Emilie"	Janow	60	Lublin 1925-1926	00089		I. Timm							
+		Zitlau	Magdalene	B	1926	Mar	Wilhelm		"Kurz, Ottilie"	Karolinow	60	Lublin 1925-1926	00090	152	I. Timm							
+		Lueck	Leo 	B	1926	Mar	Sigmund		"Ruppel, Helene"	Karolinow	60	Lublin 1925-1926	00091	153	I. Timm							
+		Zissmann	Klara	B	1918	Aug	Christian		"Klatt, Julianne"	Chelm	60	Lublin 1925-1926	00092	33	I. Timm							
+		Wechsel	Ottilie	B	1926	Mar	Wilhelm		"Schulz, Wanda"	Andrziejew	60	Lublin 1925-1926	00093	11	I. Timm							
+		Fitz	Charlotte Hildegard	B	1926	Feb	Ferdinand		"Kluge, Amanda"	Czulcycze	60	Lublin 1925-1926	00094	66	I. Timm							
+		Jek	Erich  	B	1926	Mar	Gustav		"Duesterhoeft, Lidia"	Zarudnia	60	Lublin 1925-1926	00095	36	I. Timm							
+		Lippert	Helene	B	1926	Mar	Gustav		"Schulz, Karoline"	Ruda	60	Lublin 1925-1926	00096	38	I. Timm							
+		Buls	Helene	B	1926	Mar	Gustav		"Friss, Pauline"	Gotowka	60	Lublin 1925-1926	00097	154	I. Timm							
+		Henschel	Arnold	B	1926	Mar	Andreas		"Frank, Rosalie"	Zarudnia	60	Lublin 1925-1926	00098	37	I. Timm							
+		Wiese	Emanuel	B	1925	Apr	Julius		"Rutkowski, Rosalie"	Rudolfin	60	Lublin 1925-1926	00099		I. Timm							
+		Kielert	Leo	B	1926	Jan	Julius		"Klatt, Olga"	Rudka	60	Lublin 1925-1926	00100	186	I. Timm							
+		Polzin	Lina	B	1926	Mar	Jakob		"Wegert, Helene Christine"	Gotowka	60	Lublin 1925-1926	00101	156	I. Timm				twin	Zwiling/twin		
+		Polzin	Lucia	B	1926	Mar	Jakob		"Wegert, Helene Christine"	Gotowka	60	Lublin 1925-1926	00102	155	I. Timm				twin	Zwiling/twin		
+		Iker	Emilie	B	1926	Mar	Daniel		"Begalke, Erdmine"	Tomaszowka	60	Lublin 1925-1926	00103	112	I. Timm							
+		Liske	Wilhelm	B	1926	Mar	Julius		"Kolm, Emma"	Kroczyn	60	Lublin 1925-1926	00104	12	I. Timm							
+		Hoeft	Martha	B	1926	Mar	Adolf		"Stange, Pauline"	Ruda	60	Lublin 1925-1926	00105	39	I. Timm							
+		Zippel	Lidia	B	1926	Apr	Hermann		"Knakowski, Wanda-Lina"	Kamien	60	Lublin 1925-1926	00106		I. Timm							
+		Schulz	Robert	B	1926	Mar	Wilhelm		"Noerenberg, Kamilla"	Ruda	60	Lublin 1925-1926	00107	40	I. Timm							
+		Lehmann	Gustav	B	1926	Mar	Ludwig		"Gerster, Lidia"	Syczow	60	Lublin 1925-1926	00108	37	I. Timm							
+		Biedler	Maria Hildegard	B	1926	Mar	Rudolf		"Jantz, Ottilie"	Ignatow	60	Lublin 1925-1926	00109	11	I. Timm							
+		Rose	Erna	B	1926	Jan	Michael		"Arndt, Emma"	Gotowka	60	Lublin 1925-1926	00110	157	I. Timm							
+		Rogalski	Johanna	B	1926	Apr	Theodor		"Krueger, Natalie"	Karolinow	60	Lublin 1925-1926	00111	158	I. Timm							
+		Kautz	Hilda	B	1926	Feb	unknown/unbekannt		"Kautz, Olga"	Karolinow	60	Lublin 1925-1926	00112	159	I. Timm							
+		Werner	Waldemar	B	1926	Apr	Rudolf		"Zitlau, Julianne"	Teosin	60	Lublin 1925-1926	00113	121	I. Timm							
+		Stach	Edmund	B	1926	Feb	Daniel		"Hanert, Wanda"	Radziejow	60	Lublin 1925-1926	00114	3	I. Timm							
+		Semrok	Julianne	B	1926	Mar	Julius		"Fitz, Pauline"	Janow	60	Lublin 1925-1926	00115		I. Timm							
+		Schmidt	Adolf	B	1918	Jan	Johann		"Lippert, Emma"	"Bugulma, Samara, Russland"	60	Lublin 1925-1926	00116	114	I. Timm							
+		Schulz	Martha Magdalene	B	1925	Dec	Wilhelm		"Krause, Emma"	Julianow	60	Lublin 1925-1926	00117	1	I. Timm							
+		Ziemer	Robert	B	1926	Feb	Rudolf		"Hund, Ernestine"	Tomaszowka	60	Lublin 1925-1926	00118	116	I. Timm							
+		Krueger	Bernhard	B	1926	Mar	Theodor		"Kern, Hulda"	Radziejow	60	Lublin 1925-1926	00119	5	I. Timm							
+		Fischer	Adelheid	B	1926	Feb	Ferdinand		"Witt, Justine"	Teosin	60	Lublin 1925-1926	00120	120	I. Timm							
+		Mueller	Euphrosine	B	1926	Feb	August		"Stibbe, Natalie"	Konotopa	60	Lublin 1925-1926	00121	13	I. Timm							
+		Schmidt	Tone	B	1926	Jan	Johann		"Lippert, Emma"	Mszanna	60	Lublin 1925-1926	00122	120	I. Timm							
+		Wagner?	Elsa	B	1926	Apr	Hermann?		"Krampitz, Euphrosine"	Nowosiolki	60	Lublin 1925-1926	00123	14	I. Timm							
+		Mantik	Elsa	B	1926	Apr	Wilhelm		"Lehmann, Alwine"	Jankowice	60	Lublin 1925-1926	00124	2	I. Timm							
+		Jantz	Frieda	B	1926	Apr	Rudolf		"Sonnenberg, Emilie"	Zabudnowo	60	Lublin 1925-1926	00125	38	I. Timm							
+		Noerenberg	Leonhard	B	1926	Apr	Emanuel		"Koenig, Olga"	Puszki	60	Lublin 1925-1926	00126	122	I. Timm							
+		Hartwich	Adelgunde	B	1911	Oct	Johann		"Wendland, Natalie"	Karolinow	60	Lublin 1925-1926	00127	160	I. Timm							
+		Endler	Reinhold	B	1926?	Apr	Reinhold		"Schmidtke, Mathilde"	Chelm	60	Lublin 1925-1926	00128		I. Timm							
+		Puhl	Leopold	B	1926	Apr	August		"Puhl, Beate"	Syczow	60	Lublin 1925-1926	00129	39	I. Timm							
+		Semrok	Eduard	B	1926	May	Gustav		"Kuehn, Theophile"	Aleksandria Krzywowolska	60	Lublin 1925-1926	00130	114	I. Timm							
+		Ortel	Leokadia	B	1926	May	Christian		"Schulz, Natalie"	Lesniczowka	60	Lublin 1925-1926	00131	129	I. Timm							
+		Palke	Eduard	B	1926	Apr	Eduard		"Klingbeil, Emma"	Ignatow	60	Lublin 1925-1926	00132		I. Timm							
+		Puhl	Elsa	B	1926	Apr	Hermann		"Diede, Olga"	Kroczyn	60	Lublin 1925-1926	00133	6	I. Timm							
+		Treichel	Sophie	B	1926	May	Benjamin		"Golke, Emma"	Lowcza	60	Lublin 1925-1926	00134	28	I. Timm							
+		Kolm	Ewald	B	1926	May	Emil Hermann		"Lepholz, Wanda"	Antonin	60	Lublin 1925-1926	00135	14	I. Timm							
+		Sonnenberg	Maria  	B	1926	May	Gustav		"Ziemer, Susanne"	Radziejow	60	Lublin 1925-1926	00136	40	I. Timm							
+		Kroll	Charlotte  	B	1926	May	Gustav		"Jabs, Wilhelmine"	Karolinow	60	Lublin 1925-1926	00137	135	I. Timm							
+		Krueger	Leo	B	1926	May	Gottlieb		"Zauder, Maria"	Zalisocze	60	Lublin 1925-1926	00138	123	I. Timm							
+		Kopp	Erna	B	1926	Apr	Adolf		"Henschel, Alwine"	Ruda	60	Lublin 1925-1926	00139	41	I. Timm							
+		Romund	Johanna	B	1926	May	Emil		"Wendland, Auguste"	Ruda	60	Lublin 1925-1926	00140	42	I. Timm							
+		Lotholz	Maria	B	1926	Apr	Gustav		"Krueger, Pauline"	Zabudnowo	60	Lublin 1925-1926	00141	41	I. Timm							
+		Puhl	Viktor	B	1926	May	Gottfried		"Pahl, Albertine"	Radziejow	60	Lublin 1925-1926	00142	7	I. Timm							
+		Fels	Martha	B	1926	May	Siegmund		"Lewandowski, Lidia"	Rudolfin	60	Lublin 1925-1926	00143		I. Timm							
+		Schutt	Edmund	B	1926	May	Adolf		"Henschke, Helene"	Kamien	60	Lublin 1925-1926	00144		I. Timm							
+		Matner	Adele	B	1926	Apr	Rudolf		"Semrok, Pauline"	Beniow	60	Lublin 1925-1926	00145	113	I. Timm							
+		Huebscher	Sigismund	B	1896	Oct	Gottlieb		"Giese, Julianne"	Lesniczowka	60	Lublin 1925-1926	00146	299	I. Timm							
+		Schulz	Ottilie	B	1926	Apr	Wilhelm		"Grams, Julianne"	Serniawy	60	Lublin 1925-1926	00147	68	I. Timm							
+		Zielke	Ida	B	1926	May	Adolf		"Siewert, Helene"	Serniawy	60	Lublin 1925-1926	00148	69	I. Timm							
+		Frank	Leokadia	B	1926	May	Wilhelm		"Biedler, Emilie"	Nowy Andrzejow	60	Lublin 1925-1926	00149	15	I. Timm							
+		Goldnik	Anna	B	1926	Jun	Martin		"Kliese, Antonina"	Marynin	60	Lublin 1925-1926	00150	43	I. Timm							
+		Beler	Heinrich	B	1926	Apr	Gottlieb		"Konecki, Christine"	Chelm	60	Lublin 1925-1926	00151	163	I. Timm							
+		Zink	Rudolf	B	1926	May	Wilhelm		"Krueger, Ottilie"	Kamien	60	Lublin 1925-1926	00152		I. Timm							
+		Schmidtke	Alexander	B	1926	Jun	Samuel		"Dulder, Natalie"	Ruda	60	Lublin 1925-1926	00153	44	I. Timm							
+		Kussmaul	Lea	B	1926	May	Heinrich		"Mueller, Johanna Ferdinanda"	Rudolfin	60	Lublin 1925-1926	00154		I. Timm							
+		Tomm	Eduard	B	1926	Jun	Gustav		"Dembinski, Emilie-Johanna"	Rudolfin	60	Lublin 1925-1926	00155		I. Timm							
+		Jerke	Richard  	B	1926	Jun	Gottfried		"Lodzinski, Josefine"	Ignatow	60	Lublin 1925-1926	00156		I. Timm							
+		Zissmann	Reinhold	B	1926	Jun	Adolf		"Bomke, Wilhelmine"	Gotowka	60	Lublin 1925-1926	00157	164	I. Timm							
+		Schmalz	Lidia	B	1926	Jun	Ferdinand		"Machel, Pauline"	Tarnowka	60	Lublin 1925-1926	00158	165	I. Timm							
+		Kubsch	Alma	B	1926	May	Hermann		"Leske, Olga"	Henrysin	60	Lublin 1925-1926	00159	17a	I. Timm					Zwilling/twin		
+		Kubsch	Elsa	B	1926	May	Hermann		"Leske, Olga"	Henrysin	60	Lublin 1925-1926	00159	17b	I. Timm					Zwilling/twin		
+		Peter	Wilhelm	B	1926	May	August		"Gefreiter, Natalie"	Radziejow	60	Lublin 1925-1926	00160	8	I. Timm							
+		Scheske	Eduard	B	1926	May	Julius		"Pohl, Berta"	Janow	60	Lublin 1925-1926	00161	187	I. Timm							
+		Kluge	Leokadia	B	1926	Jun	August		"Bernd, Alwine"	Czulczyce	60	Lublin 1925-1926	00162	70	I. Timm							
+		Juengling 	Adelgunde	B	1926	Jun	Emil		"Stach, Martha"	Roskosz	60	Lublin 1925-1926	00163	16	I. Timm							
+		Domke	Herta	B	1926	May	Adolf		"Tiede, Olga"	Janow	60	Lublin 1925-1926	00164	188	I. Timm							
+		Kelm	Eduard	B	1926	May	Rudolf		"Hetke, Natalie"	Teosin	60	Lublin 1925-1926	00165	124	I. Timm							
+		Schrank	Robert	B	1926	Jun	Julius		"Jesswein, Olga"	Janow	60	Lublin 1925-1926	00166	189	I. Timm							
+		Buss	Ewald	B	1926	Jun	Hermann		"Frank, Natalie"	Borysow	60	Lublin 1925-1926	00167	17	I. Timm							
+		Steinke	Johanna	B	1926	Jun	Ferdinand		"Knopp, Auguste"	Bukowski Las	60	Lublin 1925-1926	00168	89	I. Timm							
+		Linmann	Leokadia	B	1926	May	Adolf		"Jerke, Natalie"	Czulczyce	60	Lublin 1925-1926	00169	71	I. Timm							
+		Albrecht	Martha	B	1926	Jun	Julius		"Lubas, Natalie"	Piatki Niedzialkowskie	60	Lublin 1925-1926	00170	45	I. Timm							
+		Schimkoski	Ewald	B	1926	Jun	Gustav		"Schilke, Wilhelmine"	Kroczyn	60	Lublin 1925-1926	00171	18	I. Timm							
+		Kurzmann	Heinrich	B	1926	Jun	Ludwig		"Lotto, Auguste"	Lesniczowka	60	Lublin 1925-1926	00172	173	I. Timm							
+		Kaut 	Paul	B	1926	Jun	Christian		"Steinke, Rosalie"	Bukowski Las	60	Lublin 1925-1926	00173	90	I. Timm							
+		Ortel	Sigmund	B	1926	Jun	Adolf		"Lange, Stefanie"	Karolinow	60	Lublin 1925-1926	00174	167	I. Timm							
+		Krueger	Lina Lucia	B	1926	May	Adolf		"Schulz, Rosalie"	Bukowski Las	60	Lublin 1925-1926	00175	91	I. Timm							
+		Faelker	Emil	B	1926	Jun	Sigismund		"Matz, Rosalie"	Sohulzitz  ?	60	Lublin 1925-1926	00176	15	I. Timm							
+		Domres	Helmut	B	1926	Jun	Gottlieb		"Busch, Ida"	Rudolfin	60	Lublin 1925-1926	00177		I. Timm							
+		Klatt	Elsa Emma	B	1926	Jun	Johann		"Klingspohn, Julianne"	Kroczyn	60	Lublin 1925-1926	00178	19	I. Timm							
+		Kant	Kamilla	B	1880	Nov	Gottfried		"Beier, Justine"	Radziejow	60	Lublin 1925-1926	00179	180	I. Timm							
+		Reipert	Karl Alexander	B	1886	May	Karl Alexander		"Koroch, Justine"	Swierze	60	Lublin 1925-1926	00180	181	I. Timm							
+		Krueger	Gottfried	B	1891	Jan	Andreas		"Loszynski, Wilhelmine"	Janow	60	Lublin 1925-1926	00181		I. Timm							
+		Pide	Hilda	B	1926	Jun	Edmund		"Lukstein, Wanda"	Stanislawow	60	Lublin 1925-1926	00182	42	I. Timm							
+		Heft	Margarete	B	1926	Jun	Wilhelm Eduard		"Steinebel, Emma"	Teosin	60	Lublin 1925-1926	00183	125	I. Timm							
+		Lotholz	Robert	B	1926	Jul	Alexander		"Schmidtke, Wilhelmine"	Rudolfin	60	Lublin 1925-1926	00184		I. Timm							
+		Rolof	Alexander	B	1926	Jun	Friedrich		"Rehbein, Helene"	Ruda	60	Lublin 1925-1926	00185	19	I. Timm							
+		Friedrich	Margarete	B	1926	Jul	Ludwig		"Ickert, Emma"	Tomaszowka	60	Lublin 1925-1926	00186	116	I. Timm							
+		Bluemke	Bruno	B	1926	Jul	Adolf Eduard		"Maerz, Albertine"	Janow	60	Lublin 1925-1926	00187		I. Timm							
+		Oelke	Erna	B	1926	Jul	Wilhelm		"Tonn, Wanda"	Aleksandria Krzywowolska	60	Lublin 1925-1926	00188	118	I. Timm					Zwilling		
+		Oelke	Edmund	B	1926	Jul	Wilhelm		"Tonn, Wanda"	Aleksandria Krzywowolska	60	Lublin 1925-1926	00189	117	I. Timm					Zwilling		
+		Nachtigall	Wilhelm	B	1915	Feb	Rudolf		"Klatt, Ottilie"	Poczekajka	60	Lublin 1925-1926	00190	191	I. Timm							
+		Kisser	Sigismund	B	1926	Jun	Wilhelm		"Witt, Ottilie"	Teosin	60	Lublin 1925-1926	00191	126	I. Timm							
+		Ziebart	Erna	B	1926	Jul	Johann		"Mueller, Julianne"	Kamien	60	Lublin 1925-1926	00192		I. Timm							
+		Busch	Gertrud-Leokadia	B	1926	Jul	Bernard		"Koerber, Edolina"	Rudolfin	60	Lublin 1925-1926	00193		I. Timm							
+		Hinz	Elsa	B	1926	Jul	Daniel		Kinas. Luise	Ignatow	60	Lublin 1925-1926	00194	12	I. Timm							
+		Giese	Leokadia	B	1926	Jul	Ferdinand		"Rogan, Julianne"	Rybie	60	Lublin 1925-1926	00195	120	I. Timm							
+		Bruchner	Wilhelm	B	1926	Jun	Ludwig		"Witzke, Eleonore"	Zalisocze	60	Lublin 1925-1926	00196	127	I. Timm							
+		Lobas	Julianne	B	1926	Jul	August		"Rupel, Mathilde"	Piatki	60	Lublin 1925-1926	00197	119	I. Timm							
+		Bauer	Maria	B	1926	Aug	Waldemar		"Kubasch, Lydia"	Kamien	60	Lublin 1925-1926	00198	199	I. Timm							
+		Otto	Adolf Bernard	B	1909	Jan	Daniel		"Schmidt, Lidia"	Radziejow	60	Lublin 1925-1926	00199	200	I. Timm							
+		Burstall	Waldemar	B	1926	Jul	Hermann		"Nachtigall, Pauline"	Teosin	60	Lublin 1925-1926	00200	128	I. Timm							
+		Schindler	Theodor	B	1926	Jul	Johann		"Wegner, Emilie"	Gotowka	60	Lublin 1925-1926	00201	166	I. Timm							
+		Kamentz	Tamara	B	1922	Jan	Artur		"Zawarow, Jermonia"	Chelm	60	Lublin 1925-1926	00202	203	I. Timm							
+		Kant	Wanda	B	1883	Jan	Gottfried		"Beier, Justine"	Radziejow	60	Lublin 1925-1926	00203		I. Timm							
+		Lauersdorf	Helene	B	1926	Jun	August		"Sturm, Lidia"	Mszanna	60	Lublin 1925-1926	00204	13	I. Timm							
+		Stebner	Ella	B	1926	Jul	Gustav		"Biedler, Emilie"	Teresin	60	Lublin 1925-1926	00205	43	I. Timm							
+		Arndt	Eduard	B	1926	Jul	Karl		"Kujat, Wanda"	Mszanna	60	Lublin 1925-1926	00206	14	I. Timm							
+		Holland	Lidia	B	1926	Jul	Ludwig		"Splett, Emilie"	Bukowski Las	60	Lublin 1925-1926	00207-08	92	I. Timm							
+		Schmalz	Herta	B	1926	Jul	Julius		"Winyczek, Pauline"	Tarnowka	60	Lublin 1925-1926	00209	209	I. Timm							
+		Semrok	Julianne	B	1926	Jul	Ferdinand		"Samoski, Amalie"	Janow	60	Lublin 1925-1926	00210	91	I. Timm							
+		Semrok	Emil	B	1926	Aug	Adolf		"Bloch, Amalie"	Janow	60	Lublin 1925-1926	00211	92	I. Timm							
+		Bader	Anastasia	B	1926	Aug	Wilhelm		"Krueger, Olga"	Lesniczowka	60	Lublin 1925-1926	00212	213	I. Timm							
+		Hiller	Erik Herbert	B	1926	Mar	Karl		"Schmidtke, Martha"	Gotowka	60	Lublin 1925-1926	00213	212	I. Timm							
+		Pfeiffer	Ida	B	1926	Aug	Martin		"Kelbert, Hulda"	Karolinow	60	Lublin 1925-1926	00214	211	I. Timm							
+		Britzke	Else	B	1926	Jun	Rudolf		"Schmidtke, Olga"	Siedliszcze	60	Lublin 1925-1926	00215	9	I. Timm							
+		Hildebrandt	Johanna	B	1926	Juli	Rudolf		"Richter, Pauline"	Zarudnia	60	Lublin 1925-1926	00216	20	I. Timm							
+		Kern	Elsa	B	1925	Jan	unknown/unbekannt		"Kern, Emilie"	Syczow	60	Lublin 1925-1926	00217	44	I. Timm							
+		Mueller	Edmund	B	1926	Aug	Johann		"Heger, Pauline"	Klementynow	60	Lublin 1925-1926	00218	121	I. Timm							
+		Schilke	Erich	B	1926	Aug	Adolf		"Wenzel, Auguste"	Kroczyn	60	Lublin 1925-1926	00219	219	I. Timm					Zwilling/twin		
+		Schilke	Martha	B	1926	Aug	Adolf		"Wenzel, Auguste"	Kroczyn	60	Lublin 1925-1926	00220	220	I. Timm					Zwilling/twin		
+		Moritz	Regina	B	1926	Jul	Adolf		"Jedan, Leokadia"	Jamne	60	Lublin 1925-1926	00221	36	I. Timm							
+		Bleich	Gustav	B	1926	Aug	Eduard		"Neumann, Emilie"	Teosin	60	Lublin 1925-1926	00222	129	I. Timm							
+		Geissheimer	Gustav-Eduard	B	1926	Jun	Georg		"Hetke, Wanda"	Kroczyn	60	Lublin 1925-1926	00223	22	I. Timm							
+		Krueger	Martha	B	1926	Jul	Hermann		"Treichel, Lidia"	Zarudnia	60	Lublin 1925-1926	00224	21	I. Timm							
+		Eschner	Wilhelm	B	1926	Aug	Julius		"Langner, Mathilde"	Tomaszowka	60	Lublin 1925-1926	00225	225	I. Timm							
+		Kissmann	Wilhelm	B	1926	Aug	Rudolf		"Ziemer, Natalie"	Bukowa Male	60	Lublin 1925-1926	00226	22	I. Timm							
+		Brueckner	Julius-Eduard	B	1926	Aug	Julius		"Bittner, Ottilie"	Zarudnia	60	Lublin 1925-1926	00227	23	I. Timm							
+		Kubsch	Elsa	B	1926	Aug	Gottlieb		"Lecht, Leokadia"	Beniow	60	Lublin 1925-1926	00228	123	I. Timm							
+		Duesterhoeft	Eduard	B	1926	Aug	Ferdinand		"Betker, Wanda"	Aleksandria Krzywowolska	60	Lublin 1925-1926	00229	122	I. Timm							
+		Huebscher	Mathilde	B	1908	Nov	Gustav		"Behler, Auguste"	Gotowka	60	Lublin 1925-1926	00230		I. Timm							
+		Ratschu	Gustav	B	1915	Oct	Daniel Otto		"Schmidt, Lidia"	"Kustanai, Russland"	60	Lublin 1925-1926	00231		I. Timm							
+		Ratschu	Ferdinand	B	1916	Oct	Daniel Otto		"[Schmidt, Lidia]"	"Kustanai, Russland"	60	Lublin 1925-1926	00232		I. Timm							
+		Ratschu	Oskar	B	1918	Jan	Daniel Otto		"[Schmidt, Lidia]"	"Kustanai, Russland"	60	Lublin 1925-1926	00233		I. Timm							
+		Grieb	Ferdinanda	B	1926	Aug	Gottlieb		"Wegner, Luise"	Felczyn	60	Lublin 1925-1926	00234		I. Timm							
+		Rose	Helene	B	1916	Nov	Michael		"Arndt, Emma"	"Chelyabinsk, Russland"	60	Lublin 1925-1926	00235		I. Timm					#00236 Addendum		
+		Ernst	Arnold	B	1926	Aug	Friedrich		"Rosin, Mathilde"	Bukowski Las	60	Lublin 1925-1926	00236	236	I. Timm							
+		Rose	Martha	B	1918	May	Michael		"Arndt, Emma"	"Padryn, Russland"	60	Lublin 1925-1926	00237		I. Timm							
+		Reich 	Olga	B	1908	Jul	Wilhelm		"Pahl, Natalie"	Kazimierowka	60	Lublin 1925-1926	00238		I. Timm							
+		Freund	Martha	B	1908	Sep	Wilhelm		"Ludwig, Elisabeth"	Bukowa Male	60	Lublin 1925-1926	00239	239	I. Timm							
+		Priebe	Hulda	B	1896	Jun	Friedrich		"Derferlois?, Amalie"	Wojciechow	60	Lublin 1925-1926	00240	240	I. Timm							
+		Sichau	August	B	1926	May	Gustav		"Koberstein, Emma"	Rudolfin	60	Lublin 1925-1926	00241		I. Timm							
+		Koberstein	Robert	B	1921	Jan	Ferdinand		"Krueger, Wanda"	Rudolfin	60	Lublin 1925-1926	00242		I. Timm					Koberstein vel Schwarz		
+		Moritz	Hildegard	B	1926	May	Friedrich		"Lauersdorf, Wanda"	Mszanna	60	Lublin 1925-1926	00243-44	243	I. Timm					illegimate		
+		Priebe	Ludwig	B	1882	Nov	Michael		"Werner, Katharina"	Bukowski Las	60	Lublin 1925-1926	00245	244	I. Timm							
+		Koroch	Erhard Reinhold	B	1926	Jul	Johann		"Krueger, Olga"	Malinowka	60	Lublin 1925-1926	00246	73	I. Timm							
+		Albrecht	Adolf	B	1926	Jul	Thomas		"Freik, Rosalie"	Malinowka	60	Lublin 1925-1926	00247	72	I. Timm							
+		Zilke	Lidia	B	1926	Jul	Heinrich		"Reiter, Anna"	Chutcze Bakus	60	Lublin 1925-1926	00248	74	I. Timm							
+		Kutz	Elsa	B	1926	Aug	Emil		"Freck, Olga"	Janow	60	Lublin 1925-1926	00249	93	I. Timm							
+		Puhl	Reinhard	B	1926	Aug	Rudolf		"Krueger, Kamilla"	Radziejow	60	Lublin 1925-1926	00250	10	I. Timm							
+		Jaworski	Walter Robert	B	1926	Aug	Alexander		"Biedler, Olga"	Radziejow	60	Lublin 1925-1926	00251	11	I. Timm							
+		Schalm	Theophil	B	1926	Aug	Gottfried		"Puhl, Julianne"	Syczow	60	Lublin 1925-1926	00252	45	I. Timm							
+		Leske	Karl	B	1926	Aug	Adolf		"Busch, Helene"	Plawanice	60	Lublin 1925-1926	00253		I. Timm							
+		Jantz	Ferdinand	B	1926	Sep	Wilhelm		"Netzlaw, Emma"	Zalisocze	60	Lublin 1925-1926	00254	110	I. Timm							
+		Strunk	Leokadia	B	1926	Sep	Rudolf		"Schwarz, Natalie"	Karolinow	60	Lublin 1925-1926	00255	173	I. Timm							
+		Dei	Eduard	B	1926	Jun	Gustav		"Endler, Wanda"	Gotowka	60	Lublin 1925-1926	00256	174	I. Timm							
+		Klammer	Lina	B	1926	Sep	Adolf		"Hiller, Emma"	Gotowka	60	Lublin 1925-1926	00257	175	I. Timm							
+		Stanke	Wally	B	1926	Sep	Leo Heinrich		"Schabert, Emma"	Marysin	60	Lublin 1925-1926	00258	37	I. Timm							
+		Zielke	Leohard	B	1926	Sep	Emil		"Sauerbier, Ottilie"	Zarudnia	60	Lublin 1925-1926	00259	26	I. Timm							
+		Schuhmacher	Otto-Reinhold	B	1926	Feb	Hermann		"Knakoski, Olga"	Bukowa Male	60	Lublin 1925-1926	00260	25	I. Timm							
+		Jerke	Lidia	B	1926	Sep	Gustav		"Czaikowski, Emilie"	Ignatow	60	Lublin 1925-1926	00261	13	I. Timm							
+		Kinas	Erna	B	1926	Jun	Wilhelm		"Wegner, Berta"	Bukowa Male	60	Lublin 1925-1926	00262	24	I. Timm							
+		Gruenke	Kunigunde	B	1926	Sep	Hermann		"Buss, Ottilie"	Ignatow	60	Lublin 1925-1926	00263	14	I. Timm							
+		Lentz	Emilie	B	1891	May	August		"Ziebart, Julianne"	Wladyslawow	60	Lublin 1925-1926	00264		I. Timm							
+		Petrich	Helene	B	1926	Apr	Michael		"Gernat, Olga"	Chutcze Bakus	60	Lublin 1925-1926	00265		I. Timm							
+		Bartz	stillborn	D	1926	Sep	Samuel		"Engelhard, Auguste"	Beniow	60	Lublin 1925-1926	00266	125	I. Timm					birth record		
+		Mielke	Helene	B	1926	Sep	Edmund		"Onas, Emilie"	Chelm	60	Lublin 1925-1926	00267	194	I. Timm							
+		Wermann	Rudolf	B	1926	Sep	Andreas		"Jantz, Wanda"	Zalisocze	60	Lublin 1925-1926	00268	131	I. Timm							
+		Kaut	Hilda	B	1925	Sep	Heinrich		"Pachal, Wanda"	Bukowski Las	60	Lublin 1925-1926	00269		I. Timm							
+		Buss	August	B	1908	Oct	Julius		"Marcinkowski, Emilie"	Pogranicze	60	Lublin 1925-1926	00270		I. Timm							
+		Schmidt	Hildegard	B	1926	Aug	Hermann		"Schendel, Olga"	Pogranicze	60	Lublin 1925-1926	00271	91	I. Timm							
+		Gross	Hanna	B	1926	Sep	Ferdinand		"Rigert, Emma"	Mszanna	60	Lublin 1925-1926	00272	14	I. Timm							
+		Weichhold	Eduard	B	1926	Sep	Emil		"Hubert, Alwine"	Malinowka	60	Lublin 1925-1926	00273	76	I. Timm							
+		Wendland	Artur	B	1926	Sep	Adolf		"Eschner, Auguste"	Tomaszowka	60	Lublin 1925-1926	00274		I. Timm							
+		Hoeft	Waldemar	B	1926	Sep	Emil		"Edelberg, Emilie"	Konotopa	60	Lublin 1925-1926	00275	1	I. Timm							
+		Lange	Helene	B	1908	Nov	Gottfried		"Molke, Mathilde"	Tomaszowka	60	Lublin 1925-1926	00276		I. Timm							
+		Mueller	Friedrich	B	1926	Oct	Friedrich		"Zimmer, Martha"	Chelm	60	Lublin 1925-1926	00277		I. Timm							
+		Schiller	Elsa Wladyslawa	B	1917	Jan	Gottlieb		"Matz, Auguste"	"Romanowka, Russland"	60	Lublin 1925-1926	00278		I. Timm							
+		Jankowski	Mathilde	B	1916	Aug	Julius		"Schulz, Mathilde"	"Troitzk, Russland"	60	Lublin 1925-1926	00279		I. Timm							
+		Bluegenthal	Magdalene	B	1926	Sep	Daniel		"Weber, Wilhelmine"	Tomaszowka	60	Lublin 1925-1926	00280	126	I. Timm							
+		Jantz	Wilhelm	B	1926	Oct	Ferdinand		"Schulz, Augustine"	Swierszczow?	60	Lublin 1925-1926	00281	27	I. Timm					Las-Swierzowski		
+		Hetke	Wilhelm Gerhard	B	1926	Sep	Friedrich		"Bruckner, Wanda"	Ruda	60	Lublin 1925-1926	00282	29	I. Timm							
+		Hiller	Hermann	B	1926	Sep	Julius		"Kronenberg, Emilie"	Zarudnia	60	Lublin 1925-1926	00283	28	I. Timm							
+		Klingspohn	Johanna	B	1926	Jul	Hermann		"Klingspohn, Theophile"	Bielin	60	Lublin 1925-1926	00284	2	I. Timm							
+		Fege	stillborn	D	1926	Oct	Heinrich		"Schulz, Martha"	Teosin	60	Lublin 1925-1926	00285	132	I. Timm					birth record		
+		Hoeft	Martha	B	1916	Oct	Emil		"Edelberg, Emilie"	"Nadiezdas, Russland"	60	Lublin 1925-1926	00286		I. Timm							
+		Ruks	Lidia	B	1908	Apr	Gustav		"Reich, Albertine"	Andrziejew	60	Lublin 1925-1926	00287	286	I. Timm							
+		Trarbach	Leo	B	1926	Sep	Heinrich		"Pahl, Albertine"	Kazimierowka	60	Lublin 1925-1926	00288	3	I. Timm							
+		Schlender	Valentine	B	1926	Jul	Adolf		"Schmidtke, Emma"	Bielin	60	Lublin 1925-1926	00289	1	I. Timm							
+		Netke	Reinhold	B	1908	Mar	Ludwig		"Brunke, Marianne"	Perekraszcze	60	Lublin 1925-1926	00290	289	I. Timm							
+		Wendland	Otto	B	1926	Oct	Gustav		"Kitzmann, Amanda"	Janow	60	Lublin 1925-1926	00291	290	I. Timm							
+		Kapczynski	Waldemar	B	1926	Aug	Daniel		"Klingspohn, Kamilla"	Bielin	60	Lublin 1925-1926	00292	4	I. Timm							
+		Weikum	Helene	B	1926	Aug	Christoph		"Schiller, Martha"	Roskosz	60	Lublin 1925-1926	00293	23	I. Timm							
+		Matz	Eduard	B	1926	Sep	Rudolf		"Krueger, Susanne"	Kroczyn	60	Lublin 1925-1926	00294	24	I. Timm							
+		Matz	Lidia	B	1926	Sep	Heinrich		"Foelker, Julianne"	Bukowa Male	60	Lublin 1925-1926	00295	31	I. Timm							
+		Wegert	Heinrich	B	1926	Sep	Eduard		"Mislak, Johanna Berta"	Marynin	60	Lublin 1925-1926	00296	32	I. Timm							
+		Patz	Karl	B	1926	Oct	Robert		"Rehbein, Emilie"	Ruda	60	Lublin 1925-1926	00297	30	I. Timm							
+		Jantz	stillborn male	D	1926	Oct	Gustav		"Pahl, Fridericke"	Zabudnowo	60	Lublin 1925-1926	00298	26	I. Timm					birth record		
+		Mincho	Siegmund	B	1926	Oct	Wilhelm		"Kopp, Wanda"	Karolinow	60	Lublin 1925-1926	00299	176	I. Timm							
+		Friedrich	Hulda	B	1908	Mar	Christoph		"Tierling, Rosalie"	Janow	60	Lublin 1925-1926	00300-01	299	I. Timm							
+		Juengling 	Eduard	B	1926	Oct	Ludwig		"Schulz, Helene"	Julianow	60	Lublin 1925-1926	00302		I. Timm							
+		Kant	Erwin	B	1926	Jul	Ludwig		"Goldnik, Beate"	Rostoka	60	Lublin 1925-1926	00303	12	I. Timm							
+		Engelhardt	Hilde	B	1926	Nov	Alexander		"Schulz, Wanda"	Karolinow	60	Lublin 1925-1926	00304	179	I. Timm							
+		Hetke	Julius  	B	1881	Oct	Ferdinand		"Tucholke, Christine"	Pogranicze	60	Lublin 1925-1926	00305	303	I. Timm							
+		Lentz	Gottlieb	B	1891	Sep	Samuel		"Krueger, Karoline"	Janow	60	Lublin 1925-1926	00306	304	I. Timm							
+		Biedler	Helene	B	1914	May	Emil		"Schoepke, Emma"	Julianow	60	Lublin 1925-1926	00307	305	I. Timm							
+		Kuhn	Wilhelm	B	1926	Oct	Emil		"Bress, Alwine"	Teosin	60	Lublin 1925-1926	00308	133	I. Timm							
+		Hermann	Hermann	B	1926	Sep	Friedrich		"Krueger, Amalie"	Zarudnia	60	Lublin 1925-1926	00309	33	I. Timm							
+		Klingbeil	Otto	B	1926	Oct	Julius		"Gerlach, Helene"	Gotowka	60	Lublin 1925-1926	00310	177	I. Timm							
+		Wegner	Elfriede	B	1926	Oct	Wilhelm		"Kroll, Pauline"	Karolinow	60	Lublin 1925-1926	00311	178	I. Timm							
+		Zitlau	Emilie	B	1926	Sep	Emil		"Lokstein, Martha"	Stanislawow	60	Lublin 1925-1926	00312	47	I. Timm							
+		Wenzel	Artur	B	1926	Nov	Friedrich		"Schendel, Olga"	Pogranicze	60	Lublin 1925-1926	00313	3	I. Timm							
+		Fischer	Frieda	B	1926	Nov	Ferdinand		"Weiss, Olga"	Roskosz	60	Lublin 1925-1926	00314	134	I. Timm							
+		Jerke	Leo	B	1926	Oct	Ludwig		"Berg, Emma"	Kamien	60	Lublin 1925-1926	00315		I. Timm							
+		Steinebel	Martha	B	1926	Nov	Gustav		"Heft, Elisabeth"	Teosin	60	Lublin 1925-1926	00316	135	I. Timm							
+		Weiss	Natalie	B	1926	Nov	Emil		"Hetke, Ottilie"	Pogranicze	60	Lublin 1925-1926	00317	4	I. Timm							
+		Alwin	Elsa	B	1926	Nov	Rudolf		"Dei, Pauline"	Zarudnia	60	Lublin 1925-1926	00318	35	I. Timm					Zwilling/twin		
+		Alwin	Waldemar	B	1926	Nov	Rudolf		"Dei, Pauline"	Zarudnia	60	Lublin 1925-1926	00319	34	I. Timm					Zwilling/twin		
+		Jantz	Eugenie	B	1926	Nov	Wilhelm		"Biedler, Natalie"	Kamien	60	Lublin 1925-1926	00320		I. Timm							
+		Koberstein-Schwarz	Leo	B	1926	Nov	Gustav		"Seidlitz, Emilie"	Kamien	60	Lublin 1925-1926	00321		I. Timm							
+		Wager	Friedrich Wilhelm	B	1891	Mar	Gustav		"Schilke, Emilie"	Werejce 	60	Lublin 1925-1926	00322		I. Timm							
+		Wojan	Sigismund	B	1926	Nov	Friedrich		"Krueger, Amalie"	Katy	60	Lublin 1925-1926	00323	135	I. Timm							
+		Winter	Herta	B	1926	Nov	Hermann		"Kopp, Auguste"	Karolinow	60	Lublin 1925-1926	00324	180	I. Timm							
+		Machel	Adele	B	1926	Nov	Gustav		"Hirsekorn, Wanda"	Karolinow	60	Lublin 1925-1926	00325	181	I. Timm							
+		Semrok	Lidia	B	1926	Nov	Adolf		"Schulz, Emma"	Klementynow	60	Lublin 1925-1926	00326	127	I. Timm							
+		Sader	Adoline	B	1926	Nov	Heinrich		"Tonn, Hulda"	Rybie	60	Lublin 1925-1926	00327	128	I. Timm							
+		Radke	Melida	B	1926	Nov	Adolf		"Grieb, Wanda"	Aleksandrowka	60	Lublin 1925-1926	00328	129	I. Timm							
+		Schwarz	Johann 	B	1926	Oct	Adolf		"Henschel, Auguste"	Rudka	60	Lublin 1925-1926	00329	198	I. Timm							
+		Schmeck	Wilhelm	B	1886	Jan	Friedrich		"Schulz, Julianne"	Gotowka	60	Lublin 1925-1926	00330	328	I. Timm							
+		Kuemmel	Pauline	B	1891	Jun	Johann		"Maidan, Karoline"	Bankowszczyczna	60	Lublin 1925-1926	00331	329	I. Timm							
+		Schmeck	Sigmund	B	1913	Oct	Wilhelm		"Kuemmel, Pauline"	Gotowka	60	Lublin 1925-1926	00332	330	I. Timm							
+		Krueger	Lidia	B	1915	Oct	Efraim Rudolf		"Stange, Euphrosine"	"Troitzk, Russland"	60	Lublin 1925-1926	00333	331	I. Timm							
+		Arndt	Maria	B	1913	Feb	Michael		"Kurzmann, Luise"	Olenowka?	60	Lublin 1925-1926	00334	332	I. Timm							
+		Kern	Wanda	B	1926	Nov	Theodor		"Dei, Ottilie"	Annopol	60	Lublin 1925-1926	00335	48	I. Timm							
+		Tuerling	Gertrud 	B	1926	Oct	Adolf		"Krause, Wanda"	Janow	60	Lublin 1925-1926	00336	196	I. Timm							
+		Peter	Ida	B	1923	Jul	Gustav		"Schwanke, Hulda"	Tomaszowka	60	Lublin 1925-1926	00337	31	I. Timm							
+		Richter	Adelgunde	B	1926	Sep	Wilhelm		"Rosin, Luise"	Bukowski Las	60	Lublin 1925-1926	00338	95	I. Timm							
+		Missal	Frieda	B	1926	Oct	Michael		"Hubert, Emma"	Bukowski Las	60	Lublin 1925-1926	00339	96	I. Timm							
+		Seidens	Olga	B	1926	Sep	Rudolf Ludwig		"Wojczuk, Katharina "	Depultycze Ruskie (=Nowe Depultycze)	60	Lublin 1925-1926	00340	197	I. Timm							
+		Reiter	Artur	B	1926	Oct	Adolf		"Luedke, Wanda"	Chutcze Bakus	60	Lublin 1925-1926	00341	97	I. Timm							
+		Lange 	Wanda	B	1926	Nov	Hermann		"Lehmann, Margarete"	Bukowski Las	60	Lublin 1925-1926	00342	340	I. Timm							
+		Noerenberg	Waldemar	B	1926	Sep	Gustav		"Rolof, Lidia"	Bielin	60	Lublin 1925-1926	00343	5	I. Timm							
+		Schafrik	Martha	B	1926	Oct	Johann		"Schlender, Dorothea"	Bielin	60	Lublin 1925-1926	00344	6	I. Timm							
+		Keding	Olga	B	1926	Nov	Christian		"Weich, Wanda"	Sredni Lan	60	Lublin 1925-1926	00345	77	I. Timm							
+		Pahl	Gustav	B	1926	Sep	Gottlieb		"Kern, Albertine"	Syczow	60	Lublin 1925-1926	00346	49	I. Timm							
+		Nachtigall	Elisabeth	B	1926	Nov	Samuel		"Krueger, Emma"	Bielin	60	Lublin 1925-1926	00347	7	I. Timm							
+		Ziemer	Lidia	B	1926	Nov	Gottlieb		"Lehmann, Emma"	Radziejow	60	Lublin 1925-1926	00348	50	I. Timm							
+		Schindel	Elisabeth	B	1926?	Oct	Gustav		"Herzog, Wanda"		60	Lublin 1925-1926	00349		I. Timm							
+		Engelhardt	Lina	B	1926	Dec	Rudolf		"Lemke, Emilie"	Karolinow	60	Lublin 1925-1926	00350	182	I. Timm							
+		Krueger	Frieda Elisabeth	B	1926	Nov	Emil		"Braun, Anna"	Gotowka	60	Lublin 1925-1926	00351	183	I. Timm							
+		Reich	Lidia	B	1926	Nov	Rudolf		"Schendel, Christine"	Ignatow	60	Lublin 1925-1926	00352	15	I. Timm							
+		Schulz	Natalie	B	1926	Dec	Julius		"Schachtschneider, Berta"	Tytusin	60	Lublin 1925-1926	00353		I. Timm							
+		Machel	Lidia	B	1926	Dec	Rudolf		"Ziegenhagel, Natalie"	Marynin	60	Lublin 1925-1926	00354	37	I. Timm							
+		Kubsch	Julius	B	1926	Dec	Julius		"Buchholz, Auguste"	Rudolfin	60	Lublin 1925-1926	00355		I. Timm							
+		Liske	Ewald	B	1926	Oct	Michael		"Klatt, Natalie"	Janow	60	Lublin 1925-1926	00356	199	I. Timm							
+		Janke	Helene	B	1926	Dec	Rudolf		"Handwerker, Kamilla"	Chelm	60	Lublin 1925-1926	00357		I. Timm							
+		Krampitz	Helene	B	1926	Aug	Emil		"Sonntag, Martha"	Pinsk	60	Lublin 1925-1926	00358	17	I. Timm							
+		Luther	Leo	B	1926	Dec	Julius		"Seidlitz, Karoline"	Janin	60	Lublin 1925-1926	00359	8	I. Timm							
+		Schroeder	Adele	B	1925	Dec	Julian		"Schumacher, Luise"	Chelm	60	Lublin 1925-1926	00360	184	I. Timm							
+		Fitz	Leo	B	1924	Sep	unknown/unbekannt		"Fitz, Anna"	Chromowka	60	Lublin 1925-1926	00361	38	I. Timm							
+		Schiller	Anela-Viktoria	B	1926	Oct	Julius		"Kohn, Emilie"	Annopol	60	Lublin 1925-1926	00362	51	I. Timm							
+		Helfer	Erna	B	1926	Dec	Josef		"Stuermer, Margarete"	Teosin	60	Lublin 1925-1926	00363	126	I. Timm							
+		Flemke	Martha Emilie	B	1926	Dec	Emil		"Jantz, Emilie"	Teosin	60	Lublin 1925-1926	00364	137	I. Timm							
+		Streich	Leo	B	1926	Sep	Ferdinand		"Lemke, Olga"	Nowosiolki	60	Lublin 1925-1926	00365	200	I. Timm							
+		Scheske	Reinhold	B	1926	Sep	Michael		"Mueller, Olga"	Janow	60	Lublin 1925-1926	00366	201	I. Timm							
+		Puhl	Leo	B	1926	Dec	Daniel		"Schulz, Ottilie"	Syczow	60	Lublin 1925-1926	00367	52	I. Timm							
+		Rehbein	Wilhelmine	B	1926	Dec	Eduard		"Wedmann, Pauline"	Zarudnia	60	Lublin 1925-1926	00368	36	I. Timm							
+		Rippin	Julius	B	1886	Feb	Johann		"Henschke, Wilhelmine"	Strupin	60	Lublin 1925-1926	00369	367	I. Timm							
+		Krueger	Ewald	B	1918	Nov	Emil		"Braun, Anna"	Gotowka	60	Lublin 1925-1926	00370	368	I. Timm							
+		Braun	Anna	B	1881	Jun	Jakob		"Tetzlaf, Luise"	Gotowka	60	Lublin 1925-1926	00371	369	I. Timm							
+		Krueger	Emil	B	1916	Aug	Emil		"Braun, Anna"	"Melekes, Samara, Russland"	60	Lublin 1925-1926	00372	370	I. Timm							
+		Schrank	Julius	B	1886	May	Michael		"Semler, Pauline"	Janow	60	Lublin 1925-1926	00373	371	I. Timm							
+		Jesswein	Olga	B	1897	Feb	Wilhelm		"Lueck, Wilhelmine"	Janow	60	Lublin 1925-1926	00374	372	I. Timm							
+		Mittelstaedt	Wilhelm	B	1917	Sep	Michael		"Schendel, Christine"	"Kustanai, Russland"	60	Lublin 1925-1926	00375	373	I. Timm							
+		Wanke	Elsa	B	1919	Mar	Karl		"Scheske, Wanda"	"Troitzk, Russland"	60	Lublin 1925-1926	00376	374	I. Timm							
+		Kwistek	Aurelia	B	1915	Feb	Martin Adolf		"Maske, Maria"	Chelm	60	Lublin 1925-1926	00377	375	I. Timm							
+		Marcinkowski	Thadeus	B	1926	Aug	Friedrich		"Jeske, Olga"	Krzywice	60	Lublin 1925-1926	00378	376	I. Timm							
+		Flemke	Wilhelm	B	1913	Jun	Daniel		"Heckendorf, Emilie"	Kamien	60	Lublin 1925-1926	00379	377	I. Timm							
+		Flemke	Sigismund	B	1908	Jan	Daniel		"Heckendorf, Emilie"	Kamien	60	Lublin 1925-1926	00380	378	I. Timm							
+		Falkenberg	Elsa	B	1926	Nov	Gottlieb		"Deutschlaender, Berta"	Malinowka	60	Lublin 1925-1926	00381	379	I. Timm							
+		Weiss	Elsa	B	1926	Dec	Hermann		"Heider, Olga"	Borysow	60	Lublin 1925-1926	00382	7	I. Timm							
+		Wirth	Friederike	D	1935	Aug	Heinrich		"Egzinger, Katharina"	Kamien	60	Lublin 1935	00002	16	I. Timm				Kussmaul	"74 y/J, 11M"		
+		Lehmann	Margarete	D	1935	Aug	Josef		"Betker, Pauline"	Bukowski Las	60	Lublin 1935	00003	85	I. Timm				"Lange, Hermann"			
+		Fester	Nikasius	D	1935	Aug	Robert		"Markwart, Helene"	Janow	60	Lublin 1935	00004	97	I. Timm							
+		Lapsch	Ernestine	D	1935	Aug	Wilhelm		"Grabke, Karolina"	Bukowski Las	60	Lublin 1935	00005	86	I. Timm				Ernst (surname)			
+		Schimkowski	Andreas	D	1935	Apr	Hermann		"Biedler, Wanda"	Radziejow	60	Lublin 1935	00006	52	I. Timm							
+		Huebscher	Leo	D	1935	Apr	Friedrich		"Krueger, Albertine"	Lesniczowka	60	Lublin 1935	00007	4	I. Timm					"1y/J,10d/T"		
+		Schatkowski	Rosalie	D	1935	Apr	Adolf		"Pahl, Ottilie"	Rudolfin	60	Lublin 1935	00008	11	I. Timm					1w		
+		Gottschalk	Wilhelmine	D	1935	Dec	Christian		"Schmidt, Maria"	Borysowiec	60	Lublin 1935	00009	52	I. Timm				Rosin	"73y/J,11d/T"		
+		Lueck	August-Heinrich	D	1935	Apr	Michael		"Matz, Regina"	Pogranicze	60	Lublin 1935	00010	49	I. Timm				"Fenske, Pauline"	"68y/J,5m"		
+		Frank	Dorothea	D	1934	Dec	Rudolf		"Kerber, Olga"	Borysow 	60	Lublin 1935	00011	45	I. Timm					"6m,28d/T"		
+		Witt	Luise	D	1935	Jan	Friedrich			Piaski	60	Lublin 1935	00012	4	I. Timm				Henschel	84 y/J		
+		Stenzel	Kamilla	D	1935	Jan	August		 Julianne	Radziejow	60	Lublin 1935	00013	59	I. Timm				"Schendel,Hermann"	35 y/J		
+		Liebert	Irma	D	1935	Feb	Gustav		"Bruchno, Nathalie"	Swierze	60	Lublin 1935	00014	143	I. Timm					"1 y/J, 11 M"		
+		Molzan	Alwine	D	1935	Jan	unbekannt		unbekannt	Zarudnia	60	Lublin 1935	00015	82	I. Timm				Fitz	74 y/J		
+		Lehmann	Eduard	D	1935	Jan	Rudolf		"Keter, Hildegard"	Tomaszowka	60	Lublin 1935	00016	12	I. Timm					23 d/T		
+		Janot	Wanda	D	1935	Jan	August		"Fitz, Josefine"	Zarudnia	60	Lublin 1935	00017	83	I. Timm					"1 M, 15 d/T"		
+		Jubin	Bruno	D	1935	Jan	Robert		"Speichermann,Olga"	Roskosch	60	Lublin 1935	00018	73	I. Timm					"1m,26d/T"		
+		Wegner	Edmund	D	1935	Jan	Ferdinand		"Duesterhoeft, Hulda"	Aleksandrow Krwyw	60	Lublin 1935	00019	132	I. Timm					1 M		
+		Pide	Rudolf	D	1935	Jan	Edmund		"Lukstein, Wanda"	Stanislawow	60	Lublin 1935	00020	35	I. Timm							
+		Lange	Emma	D	1935	Jan	Wilhelm		"Mertin, Justine"	Plawanice	60	Lublin 1935	00021		I. Timm				"Schmidtke, Heinrich"	"39 y/J, 10 M"		
+		Lerch	Lydia	D	1935	Jan	Johann		"Schoenfeld, Josefine"	Karolinow	60	Lublin 1935	00022	190	I. Timm				"Pide, Adolf"	34 y/J		
+		Edelberg	Ella	D	1935	Jan	Heinrich-Julius		"Schmidt, Emilie"	Skordiow	60	Lublin 1935	00023	46	I. Timm					"1y/J,5m"		
+		Semrok	Emilie	D	1935	Jan	Ferdinand		"Schulz, Emma"	Janow	60	Lublin 1935	00024	73	I. Timm							
+		Pide	Leo	D	1935	Jan	Adolf		"Lerch, Lydia"	Karolinow	60	Lublin 1935	00025	191	I. Timm					1 M		
+		Semrok	Martha	D	1935	Jan	Ferdinand		"Schulz, Emma"	Janow	60	Lublin 1935	00026		I. Timm					3 d/T		
+		Kelm	Karl-Robert	D	1935	Jan	Ludwig		"Hebig, Rosalie"	Ignatow	60	Lublin 1935	00027	2	I. Timm					"51 y/J, 9 M"		
+		Tonn	Edmund	D	1935	Jan	Eduard		"Iker, Julianne"	Felczyn	60	Lublin 1935	00028	133	I. Timm					3w		
+		Krueger	Edith	D	1935	Jan	Gustav		"Wendland, Lydia"	Marynin	60	Lublin 1935	00029	84	I. Timm					3y/J		
+		Meister	Karoline	D	1935	Jan	Michael		"Cybucki, Karoline"	Brzczowiec	60	Lublin 1935	00030		I. Timm				"Wawryniak, Andreas"	"59 y/J, 10 M"		
+		Haubus	Ferdinand	D	1935	Jan	Johann		"Lange, Rosalie"	Janow	60	Lublin 1935	00031	75	I. Timm				"Sader, Auguste"	69 y/J		
+		Wandel	Reinhold	D	1935	Jan	Hermann		"Bittner, Olga"	Chutcze Bakus	60	Lublin 1935	00032	86	I. Timm							
+		Pide	August 	D	1935	Feb	Johann		"Betke, Justine"	Poczekojka	60	Lublin 1935	00033	85	I. Timm				"Friedrich, Pauline"	80 y/J		
+		Klingspohn	Siegmund	D	1915	Sep	August		"Lueck, Julianne"	"Kustanai, Russland"	60	Lublin 1935	00034	4	I. Timm					10 y/J		
+		Klingspohn	Eduard	D	1915	Jun	August		"Lueck, Julianne"	Kazimierowka	60	Lublin 1935	00035	5	I. Timm					7m		
+		Bartz	stillborn female	D	1935	Jan	Gustav		"Fitz, Martha"	Karolinow	60	Lublin 1935	00036	192	I. Timm					22h/S		
+		Weikum	Philipp	D	1935	Feb	Martin		Katharina	Gotowka	60	Lublin 1935	00037	3	I. Timm				"Nerling, Ewa"	77 y/J		
+		Knakoski	Ottilie	D	1935	Feb	Emil		"Schulz, Albertine"	Zalizocze	60	Lublin 1935	00038	144	I. Timm					5y/J		
+		Buss	Amalie	D	1935	Feb	Julius		"Marcinkowski, Emilie"	Pogranicze	60	Lublin 1935	00039	47	I. Timm				"Schulz, Adolf"	"40y/J, 11M, 17d/T"		
+		Schalm	Albertine	D	1915	Nov	Gustav		"Schmidt, Wanda"	"Kustanai, Russland"	60	Lublin 1935	00040	6	I. Timm					"1 y/J, 5 M"		
+		Wegner	Amalie	D	1935	Feb	Gottlieb		"Grieb, Christine"	Aleksandria Krzywowolska	60	Lublin 1935	00041	134	I. Timm				"Heger, Adolf"	40 y/J		
+		Noerenberg	Justine	D	1914	May	Gottlieb		"Jesse, Julianne"	Kamien	60	Lublin 1935	00042	7	I. Timm				"Zink, Johann Friedrich"	46y/J		
+		Czense	Daniel	D	1935	Mar				Chelm	60	Lublin 1935	00043	4	I. Timm				"Kuhn, Emilie"	56 y/J		
+		Schuhmacher	Luise	D	1935	Feb				Chutcze Bakus	60	Lublin 1935	00044	87	I. Timm				"Becker, Wilhelm"	60 y/J		
+		Winiczek	Michael	D	1935	Feb	Josef		Julianne	Pogranicze	60	Lublin 1935	00045	48	I. Timm				"Gefreiter, Maria"	"61y/J, 5M, 19d/T"		
+		Schmidt	Dietrich	D	1935	Feb	Wilhelm		"Sommerfeld, Margarete"	Radziejow	60	Lublin 1935	00046	61	I. Timm					20 d/T		
+		Gast	Waldemar	D	1935	Mar	Julius		"Heger, Kunigunde"	Tomaszowka	60	Lublin 1935	00047	135	I. Timm					15 d/T		
+		Romund	Emil 	D	1935	Mar	Michael		Rosalie	Ruda	60	Lublin 1935	00048	86	I. Timm				"Wendland, Auguste"	47 y/J		
+		Schlecht	Julianne	D	1935	Mar	Gottlieb		"Schlecht, Wilhelmine"	Kamien	60	Lublin 1935	00049	8	I. Timm				"Spohn, Erdmann"	74 y/J		
+		Reiter	Edward Siegmund	D	1935	Mar	Julian		"Hermann, Berta"	Kamien	60	Lublin 1935	00050	9	I. Timm				"Maske, Julianne"	57 y/J		
+		Priebe	Friedrich	D	1935	Apr	Christoph		"Rets, Anna Dorothea"	Zalisocze	60	Lublin 1935	00051	145	I. Timm				"Knoth, Hulda"	72 y/J		
+		Wegner	Gottlieb	D	1935	Apr	Michael		"Heger, Marianne"	Aleksandria Krzywowolska	60	Lublin 1935	00052	136	I. Timm				"Grieb, Anna Christine"	82 y/J		
+		Wurster	Emilie	D	1935	Apr	Rudolf		"Baraszkiewicz, Rosalie"	Rybie	60	Lublin 1935	00053	137	I. Timm				Wak	46 y/J		
+		Schendler	Wilhelm 	D	1935	Mar	August		"Herter, Christina"	Chelm	60	Lublin 1935	00054	5	I. Timm				"Stefan, Berta"	55 y/J		
+		Jess	Julius	D	1919	Oct	Michael		"Rosentreter,Anna Luise"	"Kustanai, Russland"	60	Lublin 1935	00055	10	I. Timm					48 y/J		
+		Markwart	August	D	1935	Apr	Friedrich		Euphrosine	Janow	60	Lublin 1935	00056	78	I. Timm				"Hinz, Justine"	73 y/J		
+		Kautz	Rudolf	D	1935	Apr	Michael		"Kitzmann, Christine"	Puszki	60	Lublin 1935	00057	22	I. Timm				"Kukasch, Emilie"	49 y/J		
+		Dresner	Justine	D	1916	Sep	Ludwig		"Klemm, Nadine"	"Samara, Russland"	60	Lublin 1935	00058	13	I. Timm				"Schmidt, Gustav"	59 y/J		
+		Reich	August	D	1917	Feb	Martin			"Zyrawlow, Kustanai, Russland"	60	Lublin 1935	00059		I. Timm				"Rosin, Emilie"	89 y/J		
+		Ortlieb	Rudolf	D	1935	Apr	Christian		"Beier, Elisabeth"	Lowcza	60	Lublin 1935	00060	13	I. Timm				"Keter, Olga"	43 y/J		
+		Mueller	Klara	D	1935	Apr	Artur		"Betker, Olga"	Czulczyce	60	Lublin 1935	00061	89	I. Timm							
+		Missal	August	D	1935	Apr	Ludwig		"Krueger, Karoline"	Bielin	60	Lublin 1935	00062	29	I. Timm				"Litke, Christine"	60 y/J		
+		Wechsel	Emma-Elisabeth	D	1935	Aug	Wilhelm		"Schulz, Wanda"	Pogranicze	60	Lublin 1935	00063	50	I. Timm					21 d/T		
+		Romund	Reinhard	D	1935	Apr	Emil		"Wendland, Auguste"	Ruda	60	Lublin 1935	00064	87	I. Timm					2 M		
+		Markwart	Waltraud Irmgard	D	1935	Apr	Sigismund		"Steinke, Emilie"	Zarudnia	60	Lublin 1935	00065	88	I. Timm					2 d/T		
+		Noerenberg	Alfred	D	1935	Apr	Gottfried		"Puhl, Hulda"	Annopol	60	Lublin 1935	00066	37	I. Timm					11 M		
+		Krueger	Adele	D	1935	Apr	Michael		"Hahnert, Nathalie"	Annopol	60	Lublin 1935	00067	61	I. Timm					12 y/J		
+		Rahn	Pauline	D	1935	Apr	Adam		Auguste	Serniawy	60	Lublin 1935	00068	62	I. Timm				Glut	 67 y/J		
+		Betker	Elfriede	D	1935	Apr	Friedrich		"Bloch, Wanda"	Tomaszowka	60	Lublin 1935	00069	63	I. Timm					12 d/T		
+		Jung	Pauline	D	1935	May	Gustav		"Batzlaw, Julianne"	Serniawy	60	Lublin 1935	00070	90	I. Timm				Batzlaw	62 y/J		
+		Oelke	Christine	D	1935	May	Friedrich		"Peter, Christine"	Gotowka	60	Lublin 1935	00071	5	I. Timm				"Huebscher, Johann"	54 y/J		
+		Zielke	Rudolf	D	1935	May	Adolf		"Siewert, Helene"	Serniawy	60	Lublin 1935	00072	91	I. Timm							
+		Jantz	Leo	D	1935	May	Ferdinand		"Schulz, Augustine"	Teosin	60	Lublin 1935	00073	146	I. Timm					16 d/T		
+		Klemer	Lina	D	1935	May	Sigmund		"Arndt, Alwine"	Karolinow	60	Lublin 1935	00074	193	I. Timm					"1 y/J, 8 M"		
+		Hubert	August	D	1935	May				Malinowka	60	Lublin 1935	00075	92	I. Timm				"Hauptstein, Rosalie"	86 y/J		
+		Domke	Adolf	D	1935	May	August		"Jubin, Hulda"	Janow	60	Lublin 1935	00076		I. Timm					7 d/T		
+		Schwarz	Daniela	D	1935	May	Friedrich		"Wendland, Magdalene"	Klementynow	60	Lublin 1935	00077	139	I. Timm					22 d/T		
+		Pahl	Justine	D	1935	May	Ludwig		"Krueger, Susanne"	Bielin	60	Lublin 1935	00078		I. Timm				Klingspohn. Ludwig	35 y/J		
+		Jankowski	Mathilde	D	1935	May	Julius		"Schulz, Mathilde"	Swierze	60	Lublin 1935	00079	47	I. Timm					18 y/J		
+		Link	Luise	D	1935	May	Dangot		"Geisler, Julianne"	Aleksandria Krzywowolska	60	Lublin 1935	00080	140	I. Timm				"Bloch, Friedrich"	56 y/J		
+		Ortel	Lydia	D	1935	Jun	Theophil		"Otto, Emilie"	Janow	60	Lublin 1935	00081	79	I. Timm					2 M		
+		Schalm	Karoline	D	1935	Jun	Ludwig		"Puhl, Elisabeth"	Annopol	60	Lublin 1935	00082		I. Timm				Ziemer	62 y/J		
+		Henschel	Lina	D	1935	Jun	Edmund		"Guenter, Leokadia"	Krzyzno	60	Lublin 1935	00083	22	I. Timm					1 M		
+		Schoenknecht	(illegible)	D	1935	Jun	unknown/unbekannt		"Schoenknecht, Pauline"	Jamne?	60	Lublin 1935	00084	6	I. Timm							
+		Henschel	Reinhold	D	1935	Jun	Leopold		"Scheske, Else"	Janow	60	Lublin 1935	00085	79	I. Timm					1 M 15 d/T		
+		Steinke	Helene	D	1935	Jun	unknown/unbekannt		"Steinke, Mathilde"	Aleksandria Krzywowolska	60	Lublin 1935	00086	80	I. Timm					15 d/T		
+		Missal	Otto	D	1935	Jun	Gustav		"Friske, Justine"	Annopol	60	Lublin 1935	00087	81	I. Timm					"21y/J,10m,2d/T"		
+		Eschner	Ottilie	D	1915	May	Emil		"Kaus, Julianne"	Malinowka	60	Lublin 1935	00088	82	I. Timm					"2y/J,2m"		
+		Lodwig	August	D	1935	Jun	Andreas		Maria	Suczkow	60	Lublin 1935	00089	83	I. Timm				"Wolski, Pauline"	63 y/J		
+		Haubus	Waldemar	D	1935	Jun	Emil		"Schmidt, Olga"	Adolfin	60	Lublin 1935	00090	84	I. Timm							
+		Molzan	Adolf	D	1935	Jul	Wilhelm		"Richert, Mathilde"	Janow	60	Lublin 1935	00091	85	I. Timm							
+		Machel	Marie	D	1935	Jul	Rudolf		"Ziegenhagel, Nathalie"	Marynin	60	Lublin 1935	00092	86	I. Timm							
+		Pahl	Johann	D	1935	Jul	Michael		"Klemann, Christine"	Karolinow	60	Lublin 1935	00093	87	I. Timm					90 y/J		
+		Przibilski	Theophil	D	1935	Jul				Janow	60	Lublin 1935	00094	88	I. Timm				"Schmidt, Henriette"	aus Waisenhaus		
+		Winter	Emilie	D	1935	Jul	Adolf		Karoline	Ruda	60	Lublin 1935	00095	89	I. Timm				"Machel, Wilhelm"	68 y/J		
+		Semrok	Friedrich	D	1935	Jul	Michael		Rosalie	Janow	60	Lublin 1935	00096	90	I. Timm				"Schulz, Julianne"	63 y/J		
+		Dittmeier?	Emilie	D	1935	Jul	Jakob		Josefa	Bytyn	60	Lublin 1935	00097	91	I. Timm				Bzowski?	76 y/J		
+		Walter	Michael	D	1935	Aug	August		Eva	Rudolfin	60	Lublin 1935	00098	92	I. Timm				"Jerke, Martha"	"60 y/J,10m"		
+		Witzke	Ottilie	D	1935	Aug	Samuel		"Distelberger, Wanda"	Jamne	60	Lublin 1935	00099	93	I. Timm							
+		Gellert	Wanda	D	1935	Aug	Julian		Emilie	Janow	60	Lublin 1935	00100	94	I. Timm				"Reiter, Wilhelm"	29 y/J		
+		Jubin	Fridolin	B	Dec	1936	Rudolf		"Krebs, Emma"	Ludwinow	60	Ludwinow 1937	00002	12	I. Timm	R						
+		Matz	Lina	B	Jan	1937	Hermann		"Felker, Natalie"	Ludwinow	60	Ludwinow 1937	00003	13	I. Timm	R						
+		Bloch	Eduard	B	Jan	1937	Rudolf		"Zimmermann, Mathilde"	Ludwinow	60	Ludwinow 1937	00004	14	I. Timm	R						
+		Zempel	Rosamunde	B	Apr	1937	Robert		"Malzan, Wilhelmine"	Ludwinow	60	Ludwinow 1937	00005	15	I. Timm	R						
+		Reiter	Arthur	B	May	1937	Julius		"Zuknik, Ottilie"	Ludwinow	60	Ludwinow 1937	00006	16	I. Timm	R						
+		Taron	Sophie	B	May	1937	Wilhelm		"Powroznik, Regina"	Ludwinow	60	Ludwinow 1937	00007	17	I. Timm							
+		Badke	Oda	B	Jun	1937	Rudolf		"Bussler, Amalie"	Ludwinow	60	Ludwinow 1937	00008	18	I. Timm	R						
+		Jeske	Erich	B	Feb	1936	Alexander		"Hanisch, Natalie"	Ludwinow	60	Ludwinow 1937	00009	19	I. Timm	R						
+		Riedel	Gertrud	B	Aug	1937	Siegmund		"Kaus, Leokadia"	Ludwinow	60	Ludwinow 1937	00010	20	I. Timm	R						
+		Banik	Herta-Erika	B	Sep	1937	Adolf		"Gross, Elsa"	Ludwinow	60	Ludwinow 1937	00011	21	I. Timm	R				Zwilling/twin		
+		Banik	Ida	B	Sep	1937	Adolf		"Gross, Elsa"	Ludwinow	60	Ludwinow 1937	00012	22	I. Timm	R				Zwilling/twin		
+		Kubke	Arnold	B	Aug	1937	Eduard		"Zuknik, Lidia"	Ludwinow	60	Ludwinow 1937	00013	23	I. Timm							
+		Janke	Kurt	B	Sep	1937	Julius		"Becker, Ottilie"	Ludwinow	60	Ludwinow 1937	00014	24	I. Timm	R						
+		Zempel	Herlanda	B	Sep	1937	Emil		"Schmidtke, Martha"	Ludwinow	60	Ludwinow 1937	00015	25	I. Timm							
+		Taron	Sophie	D	Sep	1937	Wilhelm		"Powroznik, Regina"	Ludwinow	60	Ludwinow 1937	00016	5	I. Timm							
+		Kubke	Arnold	D	Sep	1937	Eduard		"Zuknik, Lidia"	Ludwinow	60	Ludwinow 1937	00017	6	I. Timm							
+		Zempel	Herlanda	D	Sep	1937	Emil		"Schmidtke, Martha"	Ludwinow	60	Ludwinow 1937	00018	7	I. Timm							
+		Jeske	Maria	B	Feb	1918	Karl		"Skol?, Marianna"	"Charkow, Russland"	60	Lublin 1929 urodzenia	00002		I. Timm							
+		Jeske	Karl	B	1898	Mar	Gottlieb		"Bauzen, Katharina"	Woronzyn	60	Lublin 1929 urodzenia	00003	2	I. Timm							
+		Banik	August	B	1914	Apr	Wilhelm		"Schulz, Mathilde"	"Remeshof, Russland"	60	Lublin 1929 urodzenia	00004	33	I. Timm							
+		Banik	Hermann	B	1916	Jan	Wilhelm		"Schulz, Mathilde"	Alt Drogen	60	Lublin 1929 urodzenia	00005	4	I. Timm							
+		Banik	Ewald	B	1918	Jul	Wilhelm		"Schulz, Mathilde"	Wangen Lotwo	60	Lublin 1929 urodzenia	00006	55	I. Timm							
+		Banik	Erich	B	1921	Dec	Wilhelm		"Schulz, Mathilde"	Wangen Lotwo	60	Lublin 1929 urodzenia	00007	29	I. Timm							
+		Zyg?	Artur Robert	B	1913	Jul	Thomas		"Klenke, Anna"	Drewnik	60	Lublin 1929 urodzenia	00008	7	I. Timm							
+		Kwirant	Leokadia	B	1914	Dec	Daniel		"Schulz, Luise"	Zawada	60	Lublin 1929 urodzenia	00009	8	I. Timm					#00010 Addendum		
+		Liring	Otto	B	1916	Mar	Philipp		"Maretzki, Elisabeth"	"Charkow, Russland"	60	Lublin 1929 urodzenia	00010	9	I. Timm							
+		Schultz	Elsa	B	1928	Dec	Adolf		"Frank, Anna"	Zawada	60	Lublin 1929 urodzenia	00011	10	I. Timm	R				#00012 Addendum		
+		Romond	Eduard	B	1928	Dec	Adolf		"Klingbeil, Mathilde"	Sewerynowka	60	Lublin 1929 urodzenia	00012	11	I. Timm	R				#00013 Addendum		
+		Kaus	Eduard	B	1928	Dec	Julius		"Jung, Natalie"	Wolka Zablocka	60	Lublin 1929 urodzenia	00013	94	I. Timm	R				#00014 Addendum		
+		Wutzke	Ewald	B	1929	Jan	Wilhelm		"Schultz, Anna"	Zawada	60	Lublin 1929 urodzenia	00014	36	I. Timm	R				#00015 Addendum		
+		Jeske	Sigmund	B	1929	Jan	Ernst		"Schmidt, Martha"	Wolka Mieczyslawska	60	Lublin 1929 urodzenia	00015	32	I. Timm	R				#00016 Addendum		
+		Sonnenburg	Arnold	B	1929	Jan	Viktor		"Janetzki, Ronnalda"	Lublin	60	Lublin 1929 urodzenia	00016		I. Timm	R						
+		Mage	Ella	B	1918	May	Reinhold		"Denski, Leokadia"	Janopol	60	Lublin 1929 urodzenia	00017	89	I. Timm							
+		Duelge	Otto Wilhelm	B	1918	Mar	Wilhelm Friedrich		"Mittelstaedt, Amalie"	"Kornyzewo?, Russland"	60	Lublin 1929 urodzenia	00018		I. Timm							
+		Malicki	Elsa	B	1928	Dec	Johann		"Golz, Emilie"	Cichostow	60	Lublin 1929 urodzenia	00019	181	I. Timm	R				#00020 Addendum		
+		Fitzner	Linda	B	1929	Jan	Edmund		"Noetzel, Lidia"	Juliopol	60	Lublin 1929 urodzenia	00020	101	I. Timm	R				#00021 Addendum		
+		Markwart	Adam	B	1929	Jan	Gustav		"Patzer, Auguste"	Zurawiniec	60	Lublin 1929 urodzenia	00021	94	I. Timm	R						
+		Schultz	Siegfried	B	1929	Jan	Samuel		"Brandt, Wanda"	Zawada	60	Lublin 1929 urodzenia	00022	37	I. Timm	R				#00023 Addendum		
+		Mueller	Edmund	B	1915	Sep	Ludwig		"Mittelstaedt, Henriette"	"Bazylew, Russia"	60	Lublin 1929 urodzenia	00023		I. Timm							
+		Czarnecki	Leokadia	B	1929	Jan	August		"Gruening, Julianne"	Zawada	60	Lublin 1929 urodzenia	00024	88	I. Timm	R				#00025 Addendum		
+		Kropp	Lidia	B	1929	Feb	Gottlieb		"Schubert, Emilie"	Lipniak	60	Lublin 1929 urodzenia	00025	71	I. Timm	R				#00026 Addendum		
+		Hein	Adolf	B	1929	Jan	Benjamin		"Mueller, Berta"	Przewloka	60	Lublin 1929 urodzenia	00026	182	I. Timm	R				#00027 Addendum		
+		Noerenberg	Martha	B	1929	Jan	Adolf		"Riske, Pauline"	Wola Lisowska	60	Lublin 1929 urodzenia	00027	95	I. Timm	R				#00028 Addendum		
+		Kurtz	Adam	B	1929	Mar	Eduard		"Kuehn, Sophie"	Antoniowka	60	Lublin 1929 urodzenia	00028	102	I. Timm	R				#00029 Addendum		
+		Heimann	Linda	B	1929	Jan	Karl		"Blum, Albertine"	Zurawiniec	60	Lublin 1929 urodzenia	00029	95	I. Timm	R				#00030 Addendum		
+		Dotzlaw	Herbert	B	1929	Mar	Karl		"Pachal, Nathalie"	Sewerynowka	60	Lublin 1929 urodzenia	00030	103	I. Timm	R				#00031 Addendum		
+		Radke	Regina	B	1929	Feb	Paul		"Reinig, Alexandra"	Okalew	60	Lublin 1929 urodzenia	00031	183	I. Timm	R				#00032 Addendum		
+		Bluecher	Alwine Leokadia	B	1928	Sep	Eduard		"Weltz?, Theophile"	Sobieszczany	60	Lublin 1929 urodzenia	00032		I. Timm	R				#00033 Addendum		
+		Witek	Karl	B	1929	Feb	Heronim		"Adam, Julianne"	Cichostow	60	Lublin 1929 urodzenia	00033	184	I. Timm	R				#00034 Addendum		
+		Klan	Eduard	B	1916	Oct	Rudolf Eduard		"Machel, Julianne"	"Rozylin, Russland"	60	Lublin 1929 urodzenia	00034		I. Timm					#00035 Addendum		
+		Kitzmann	Otto	B	1929	Mar	Eduard		"Noetzel, Ottilie"	Dzialyn	60	Lublin 1929 urodzenia	00035	104	I. Timm	R				#00036 Addendum		
+		Koepke	Waldine	B	1929	Feb	August		"Jung, Julianne"	Antoniowka	60	Lublin 1929 urodzenia	00036	105	I. Timm	R				#00037 Addendum		
+		Dering	Margarete	B	1929	Jan	Michael		"Meier, Auguste"	Antonin	60	Lublin 1929 urodzenia	00037	72	I. Timm	R				#00038 Addendum		
+		Frank	Lucie	B	1929	Mar	Heinrich		"Kwirant, Mathilde"	Jozefow	60	Lublin 1929 urodzenia	00038	73	I. Timm	R				#00039 Addendum		
+		Sonnenberg	Frieda	B	1929	Mar	Ludwig		"Mantik, Wilhelmine"	Jozefow	60	Lublin 1929 urodzenia	00039	74	I. Timm	R				#00040 Addendum		
+		Librenz	Regina	B	1929	Feb	Alexander		"Muth, Leokadia"	Serokomla	60	Lublin 1929 urodzenia	00040	75	I. Timm	R				#00041 Addendum		
+		Tews	Ewald	B	1929	Apr	Reinhold		"Labrenz, Rosalie"	Jozefow	60	Lublin 1929 urodzenia	00041	76	I. Timm	R				#00042 Addendum		
+		Krampitz	Alexander	B	1929	Apr	Daniel		"Pinkowski, Olga"	Wolka Siemienska	60	Lublin 1929 urodzenia	00042	106	I. Timm	R				#00043 Addendum		
+		Hintz	Wilhelm	B	1929	Mar	Edmund		"Lachetzki, Helene"	Niedrzwica	60	Lublin 1929 urodzenia	00043		I. Timm	R				#00044 Addendum		
+		Librenz	Linda	B	1929	Mar	Rudolf		"Vogt, Wilhelmine"	Cichostow	60	Lublin 1929 urodzenia	00044	185	I. Timm	R				#00045 Addendum		
+		Markwart	Hermann	B	1929	Apr	Gustav		"Nerling, Emilie"	Wolka Siemienska	60	Lublin 1929 urodzenia	00045	107	I. Timm	R				#00046 Addendum		
+		Filip	Alexius	B	1929	Apr	Alexander		"Schultz, Emilie"	Zawada	60	Lublin 1929 urodzenia	00046	39	I. Timm	R				#00047 Addendum		
+		Boss	Alwine	B	1929	Apr	Eduard		"Hund, Luise"	Okalew	60	Lublin 1929 urodzenia	00047	188	I. Timm	R				#00048 Addendum		
+		Zielke	Ida	B	1929	Mar	Emil		"Mass, Olga"	Cichostow	60	Lublin 1929 urodzenia	00048	186	I. Timm	R				#00049 Addendum		
+		Hein	Richard	B	1929	Apr	Johann		"Keller, Emilie"	Okalew	60	Lublin 1929 urodzenia	00049	187	I. Timm	R				#00050 Addendum		
+		Luedke	Erich Adolf	B	1929	Feb	Adolf		"Fitzner, Wanda"	Marynin	60	Lublin 1929 urodzenia	00050		I. Timm	R				#00051 Addendum		
+		Nickel	Artur	B	1929	Mar	Gustav		"Strauch, Emma"	Wolka Siemienska	60	Lublin 1929 urodzenia	00051	108	K Krueger	R				#00052 Addendum		
+		Jedrzejewski	Eduard	B	1929	Jan	Wilhelm		"Jedrzejewski, Leokadia"	Stefanow	60	Lublin 1929 urodzenia	00052	241	K Krueger	R				#00053 Addendum		
+		Schulz	Witold	B	1929	Feb	Hermann Gustav		"Rymland, Helene"	Lukow	60	Lublin 1929 urodzenia	00053	242	K Krueger	R				#00054 Addendum		
+		Hekel	Richard	B	1929	Apr	Johann		"Arndt, Emilie"	Okalew	60	Lublin 1929 urodzenia	00054	189	K Krueger	R				#00055 Addendum		
+		Schmidt	Alfreda	B	1929	Apr	unknown/unbekannt		"Schmidt, Lidia"	Lubartow	60	Lublin 1929 urodzenia	00055	33	K Krueger	R				#00056 Addendum		
+		Hintz	Erich	B	1929	May	August		"Schulz, Natalie"	Antonin	60	Lublin 1929 urodzenia	00056	73	K Krueger	R				twin; #00057 Addendum		
+		Hintz	stillborn female	D	1929	May	August		"Schulz, Natalie"	Antonin	60	Lublin 1929 urodzenia	00057	74	K Krueger					twin; #00058 Addendum; birth record - #00056 is twin's record		
+		Luedke	Elsa	B	1929	Apr	Gottlieb		"Mittelstaedt, Lidia"	Sewerynowka	60	Lublin 1929 urodzenia	00058	109	K Krueger	R				#00059 Addendum		
+		Strauch	Waldemar	B	1929	May	Friedrich		"Rutsch, Natalie"	Antonin	60	Lublin 1929 urodzenia	00059	75	K Krueger	R				#00060 Addendum		
+		Sokolowski	Elsa	B	1929	May	Emil		"Getz, Lidia"	Cichostow	60	Lublin 1929 urodzenia	00060	190	K Krueger	R				#00061 Addendum		
+		Duelge	Eduard	B	1929	Apr	Adolf		"Noerenberg, Emilie"	Juliopol	60	Lublin 1929 urodzenia	00061	110	K Krueger	R				#00062 Addendum		
+		Kuehn	Olga	B	1929	May	Julius		"Seidens, Julianna"	Lubartow	60	Lublin 1929 urodzenia	00062	96	K Krueger	R				#00063 Addendum		
+		Klingbeil	Eduard	B	1929	May	Emil		"Hintz, Christine"	Antonin	60	Lublin 1929 urodzenia	00063	76	K Krueger	R				#00064 Addendum		
+		Klukas	Regina	B	1929	May	Adam		"Kaufmann, Rosalie"	Antoniowka	60	Lublin 1929 urodzenia	00064	111	K Krueger	R				#00065 Addendum		
+		Adam	Rudolf	B	1928	Dec	Ferdinand		"Dreger, Olga"	Justynow	60	Lublin 1929 urodzenia	00065	77	K Krueger	R				#00066 Addendum		
+		Goltz	Olga	B	1929	May	Wilhelm		"Mittelstaedt, Auguste"	Cichostow	60	Lublin 1929 urodzenia	00066	191	K Krueger	R				#00067 Addendum		
+		Braun	Pauline	B	1929	Apr	Josef		"Berlin, Sophie"	Dabrowa	60	Lublin 1929 urodzenia	00067	243	K Krueger	R				#00068 Addendum		
+		Schultz	Elfrieda	B	1929	Jun	Adolf		"Dykow, Olga"	Cichostow	60	Lublin 1929 urodzenia	00068	192	K Krueger	R				#00069 Addendum		
+		Reimer	Johann	B	1929	Jun	Edmund Albin		"Jahn, Emilie"	Piastow	60	Lublin 1929 urodzenia	00069	244	K Krueger	R				#00070 Addendum		
+		Nehrling	Edmund	B	1929	Jun	Karl		"Schlak, Albertine"	Zurawiniec	60	Lublin 1929 urodzenia	00070	96	K Krueger	R				#00071 Addendum		
+		Frank	Alfons	B	1929	Jun	Julius		"Filip, Natalie"	Zawada	60	Lublin 1929 urodzenia	00071	40	K Krueger	R				#00072 Addendum		
+		Appel	Adele Leokadia	B	1929	Jul	Stefan		"Krause, Magdalene"	Piastow	60	Lublin 1929 urodzenia	00072	245	K Krueger	R				#00073 Addendum		
+	Jerzy	Kunkel	Georg	B	1929	May	Heinrich		"Weiss, Helene"	Mielnica?	60	Lublin 1929 urodzenia	00073	72	K Krueger	R						
+		Brandenburg	Wanda	B	1914	Oct	Christian		"Heinrich, Katharina"	Cichostow	60	Lublin 1929 urodzenia	00074	193	K Krueger					#00075 Addendum		
+		Duelge	Auguste	B	1916	Sep	Adolf		"Noerenberg, Emilie"	"Chuter Wolynk?, Russland"	60	Lublin 1929 urodzenia	00076	74	K Krueger							
+		Sokolowski	Eduard	B	1929	Jul	August		"Noerenberg, Lidia"	Wola Lisowska	60	Lublin 1929 urodzenia	00077	97	K Krueger	R				#00078 Addendum		
+		Schwarz	Julius	B	1929	May	Julian		"Bluecher?, Florentine"	Sobieszczany	60	Lublin 1929 urodzenia	00078	76	K Krueger	R				#00079 Addendum		
+		Wagner	Wilhelm	B	1929	Jul	Friedrich		"Dreger, Olga"	Borkowizna	60	Lublin 1929 urodzenia	00079	54	K Krueger	R				#00080 Addendum		
+		Gruening	Edmund	B	1929	Jul	August		"Orlowski, Natalie"	Zurawiniec	60	Lublin 1929 urodzenia	00080	97	K Krueger	R				#00081 Addendum		
+		Ekert	Otto	B	1929	Aug	Ludwig		"Labrentz, Ottilie"	Zawada	60	Lublin 1929 urodzenia	00081	41	K Krueger	R				#00082 Addendum		
+		Patzer	Ewald	B	1929	Aug	Rudolf		"Mass, Natalie"	Okalew	60	Lublin 1929 urodzenia	00082	194	K Krueger	R				#00083 Addendum		
+		Kaus	Erhard	B	1929	Jun	Eduard		"Preiss, Ottilie"	Okalew	60	Lublin 1929 urodzenia	00083	195	K Krueger	R				#00084 Addendum		
+		Noerenberg	Rudolf	B	1929	Aug	Adolf		"Noerenberg, Luise"	Sewerynowka	60	Lublin 1929 urodzenia	00084	113	K Krueger	R				#00085 Addendum		
+		Kaufmann	Viktor	B	1916	Feb	Walter Artur		"Teodorowski, Maria?"	"Tarolino?, Bessarabia, Russland"	60	Lublin 1929 urodzenia	00085-88	83	K Krueger							
+		Mueller	Elisa Erna	B	1929	May	Adolf		"Malicki, Mathilde"	Juliopol	60	Lublin 1929 urodzenia	00089	112	K Krueger	R				#00090 Addendum		
+		Jabusch	Linda	B	1929	Sep	Edmund		"Schultz, Hulda"	Antonin	60	Lublin 1929 urodzenia	00090	77	K Krueger	R				#00091 Addendum		
+		Betker	Daniel	B	1929	Aug	Emil		"Noerenberg, Ottilie"	Trojnia	60	Lublin 1929 urodzenia	00091	99	K Krueger	R				#00092 Addendum		
+		Neumann	Alexander	B	1929	Sep	Emil		"Kassner, Wanda"	Trojnia	60	Lublin 1929 urodzenia	00092	98	K Krueger	R				#00093 Addendum		
+		Filip	Alexander	B	1929	Sep	Ludwig		"Patzer, Wanda"	Zawada	60	Lublin 1929 urodzenia	00093	42	K Krueger	R				#00094 Addendum		
+		Orlowski	Renate	B	1929	Sep	Gottlieb		"Jabusch, Olga"	Antonin	60	Lublin 1929 urodzenia	00094	78	K Krueger	R				#00095 Addendum		
+		Brandenburg	Maria	B	1916	Mar	Christian		"Heinrich, Katharina"	"Nikolajewski, Russland"	60	Lublin 1929 urodzenia	00095		K Krueger					#00096 Addendum		
+		Kitzmann	stillborn female	D	1929	Sep	Michael		"Machel, Emilie"	Sewerynowka	60	Lublin 1929 urodzenia	00096	114	K Krueger					#00097 Addendum; birth record		
+		Rassner	Otto	B	1929	Jul	Ludwig		"Rassner, Marta"	Jozefow	60	Lublin 1929 urodzenia	00097	78	K Krueger	R				#00098 Addendum		
+		Heck	Gustav	B	1929	Jul	Gustav		"Strauch, Berta"	Jozefow	60	Lublin 1929 urodzenia	00098	79	K Krueger	R				#00099 Addendum		
+		Glinski	Lidia	B	1929	Aug	Johann		"Rinas, Friederike Rosamunde"	Stefanow	60	Lublin 1929 urodzenia	00100	246	K Krueger	R				#00101 Addendum		
+		Siering	Friedrich	B	1929	Sep	Johann		"Becker, Olga"	Borkowizna	60	Lublin 1929 urodzenia	00102	96	K Krueger	R				#00103 Addendum		
+		Buchstein	Erich Dietrich	B	1929	Sep	Rudolf		"Wedmann, Alicia"	Jozefow	60	Lublin 1929 urodzenia	00104	80	K Krueger	R				#00105 Addendum		
+		Bultz	Olga	B	1929	Jun	unknown/unbekannt		"Bultz, Wanda"	Antoniowka	60	Lublin 1929 urodzenia	00105	115	K Krueger	R				#00106 Addendum		
+		Martin	Adele	B	1929	Sep	Rudolf		"Klan, Leokadia"	Juliopol	60	Lublin 1929 urodzenia	00106	116	K Krueger	R				#00107 Addendum		
+		Orlowski	Edmund	B	1929	Oct	Eduard		"Hoffmann, Wanda"	Cichostow	60	Lublin 1929 urodzenia	00107	196	K Krueger	R				#00108 Addendum		
+		Reinig	Erwin	B	1929	Sep	Johann		"Huff, Amalie"	Okalew	60	Lublin 1929 urodzenia	00108	197	K Krueger	R				#00109 Addendum		
+		Kitzmann	Julianne	B	1929	Oct	Adolf		"Orlowski, Natalie"	Sobolew	60	Lublin 1929 urodzenia	00109	94	K Krueger	R				#00110 Addendum		
+		Ostrowski or Michalek	Eduard	B	1929	Oct	unknown/unbekannt or Michael Michalek		"Streich, Martha"	Antonin	60	Lublin 1929 urodzenia	00110-12	79	K Krueger	R				born out of wedlock		
+		Knakowski	Irena	B	1929	Oct	Peter		"Bittner, Marta"	Lublin	60	Lublin 1929 urodzenia	00112	2	K Krueger	R						
+		Lietz	Hanna? Iwona?	B	1929	Apr	Georg Karl		"Reiff, Sophie Maria"	Lublin	60	Lublin 1929 urodzenia	00113	2	K Krueger	R				#00114 Addendum		
+		Schulz	Emma	B	1929	Oct	Gustav		"Jabusch, Ottilie"	Antonin	60	Lublin 1929 urodzenia	00114	80	K Krueger	R				#00115 Addendum		
+		Muth	Friedrich	B	1916	Aug	Emil		"Petrich, Karoline"	"Norka, Nowoczensk, Samara, Russland"	60	Lublin 1929 urodzenia	00115	77	K Krueger					#00116 Addendum		
+		Gudrian	Elsa	B	1925	Jan	Gustav		"Milbrat, Helene"	"Lavan?, Firlej"	60	Lublin 1929 urodzenia	00116	7	K Krueger					#00117 Addendum		
+		Schultz	Sigismund	B	1929	Oct	Eduard		"Duelge, Lidia"	Juliopol	60	Lublin 1929 urodzenia	00117	117	K Krueger	R				#00118 Addendum		
+		Mittelstaedt	Linda	B	1929	Nov	Albert		"Neumann, Lidia"	Juliopol	60	Lublin 1929 urodzenia	00118	118	K Krueger	R				#00119 Addendum		
+		Weiss	Emanuel	B	1929	Oct	Daniel		"Jobs, Pauline"	Zawada	60	Lublin 1929 urodzenia	00119	43	K Krueger	R				#00120 Addendum		
+		Heck	Andreas	B	1929	Nov	Edmund		"Dreger, Wanda"	Jozefow	60	Lublin 1929 urodzenia	00120	81	K Krueger	R				#00121 Addendum; twin		
+		Heck	Berta	B	1929	Nov	Edmund		"Dreger, Wanda"	Jozefow	60	Lublin 1929 urodzenia	00121	82	K Krueger	R				twin		
+		Tews	Artur	B	1929	Oct	August		"Przygoda, Anna"	Jozefow	60	Lublin 1929 urodzenia	00122	83	K Krueger	R				#00123 Addendum		
+		Luedke	Herta Sophie	B	1929	Nov	Ludwig		"Wutzke, Ernestine"	Juliopol	60	Lublin 1929 urodzenia	00123	119	K Krueger	R				#00124 Addendum		
+		Tews	Elfriede?	B	1929	Nov	Wilhelm		Marta	Sobolew	60	Lublin 1929 urodzenia	00124	35	K Krueger	R				#00125 Addendum		
+		Dreger	Adina Adelgunde	B	1929	Nov	Rudolf		"Reschke, Berta"	Jozefow	60	Lublin 1929 urodzenia	00125	84	K Krueger	R				#00126 Addendum		
+		Beck	Eugenie	B	1929	Oct	Adolf Heinrich		"Wegner, Olga"	Lublin	60	Lublin 1929 urodzenia	00126	4	K Krueger	R						
+		Riske	Adoline	B	1929	Nov	August		"Grams, Olga"	Wola Lisowska	60	Lublin 1929 urodzenia	00127	100	K Krueger	R				#00128 Addendum		
+		Petrich	Helmut	B	1929	Sep	Eduard		"Patzer, Olga"	Okalew	60	Lublin 1929 urodzenia	00128	198	K Krueger	R				#00129 Addendum		
+		Labrentz	Erna	B	1929	Dec	Adolf		"Beier, Wanda"	Cichostow	60	Lublin 1929 urodzenia	00129	199	K Krueger	R				#00130 Addendum		
+		Luedke	Heinrich	B	1929	Nov	Eduard		"Bultz, Emilie"	Okalew	60	Lublin 1929 urodzenia	00130	200	K Krueger	R				#00131 Addendum		
+		Hiller	Alfriede	B	1929	Dec	Adolf		"Hiller, Julianne"	Antoniowka	60	Lublin 1929 urodzenia	00131	120	K Krueger	R				#00132 Addendum		
+		Meier	Sigmund	B	1929	Dec	Friedrich		"Meier, Theophile"	Wolka Mieczyslawska	60	Lublin 1929 urodzenia	00132	36	K Krueger	R				#00133 Addendum		
+		Orlowski	Arnold	B	1929	Nov	Eduard		"Lorentz, Natalie"	Cichostow	60	Lublin 1929 urodzenia	00134	201	K Krueger	R				#00135 Addendum		
+																						
+																						
+																						

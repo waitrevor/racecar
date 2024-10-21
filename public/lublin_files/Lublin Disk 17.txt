@@ -1,0 +1,985 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki				
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater	Mutter oder Braut (P)	Mutter oder Braut (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Bräutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen				
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event Type	Year	Month	Father	Mother or Bride (P)	Mother or Bride (D)	Village	Disk	Folder	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes				
+Muth	Julijanna	Muth	Julianna	B	1886	Jan	Wilhelm	"Appel, Emilia"	"Appel, Emilie"	Janopol	17	Lublin 1886	00002	1	K Krueger									
+Krueger	Julijanna	Krueger	Julianna	B	1886	Jan	Wilhelm	"Falkenberg, Amalia"	"Falkenberg, Amalie"	Jozefow	17	Lublin 1886	00002	2	K Krueger									
+Ott	Aleksander	Ott	Alexander	B	1886	Jan	Eduard	"Kasner, Ewa"	"Kasner, Eva"	Wolka Siemienska	17	Lublin 1886	00003	3	K Krueger									
+Luedke	Edmund	Luedke	Edmund	B	1886	Jan	Karl	"Schubert, Augustyna"	"Schubert, Augustine"	Zurawiniec	17	Lublin 1886	00003	4	K Krueger									
+Priebe	Wanda	Priebe	Wanda	B	1886	Jan	Wilhelm	"Kaschub, Justyna"	"Kaschub, Justine"	Wolka Nadrybska	17	Lublin 1886	00003	5	K Krueger									
+Siewert	Emanuel	Siewert	Emanuel	B	1886	Jan	August	"Reiter, Justyna"	"Reiter, Justine"	Antonin	17	Lublin 1886	00003	6	K Krueger									
+Gregolai	Juliusz Teodor	Gregolai	Julius Theodor	B	1886	Jan	Adolf	"Mueller, Emilia"	"Mueller, Emilie"	Antoniowka	17	Lublin 1886	00004	7	K Krueger									
+Buff	Dorota Paulina	Buff	Dorothea Pauline	B	1886	Jan	Ludwig	"Senf, Augusta"	"Senf, Auguste"	Lublin	17	Lublin 1886	00004	8	K Krueger									
+Schroeder	Paulina	Schroeder	Pauline	B	1886	Jan	Michael	"Martin, Katarzyna"	"Martin, Katharina"	Sewerynowka	17	Lublin 1886	00004	9	K Krueger									
+Fierus	Wilhelmina	Firus	Wilhelmine	B	1886	Jan	Ludwig	"Janke, Krystyna"	"Janke, Christine"	Czarny Las	17	Lublin 1886	00004	10	K Krueger									
+Fierus	Adolfina	Firus	Adolfine	B	1886	Jan	Ludwig	"Janke, Krystyna"	"Janke, Christine"	Czarny Las	17	Lublin 1886	00005	11	K Krueger									
+Schmidtke	Emilija	Schmidtke	Emilie	B	1886	Jan	Johann Daniel	"Szymanski, Anna"	"Schimanski, Anna"	Wolka Kijanska	17	Lublin 1886	00005	12	K Krueger									
+Buss	Fryderyk	Buss	Friedrich	B	1886	Jan	Michael	"Tiede, Karolina"	"Tiede, Karoline"	Jelino	17	Lublin 1886	00005	13	K Krueger									
+Mittelstaedt	Albert	Mittelstaedt	Albert	B	1886	Jan	Samuel	"Pudwel, Henryka"	"Pudwel, Henriette"	Juliopol	17	Lublin 1886	00005	14	K Krueger									
+Ziemer	Emilija	Ziemer	Emilie	B	1886	Jan	Michael	"Beer, Helena"	"Beer, Helene"	Jasieniec	17	Lublin 1886	00006	15	K Krueger									
+Koch	Juliusz	Koch	Julius	B	1886	Jan	Friedrich	"Klatt, Zuzanna"	"Klatt, Susanna"	Cycow	17	Lublin 1886	00006	16	K Krueger									
+Zielke	Emma Augusta	Zielke	Emma Auguste	B	1886	Jan	Andreas	"Gregolai, Emilia"	"Gregolai, Emilie"	Antoniowka	17	Lublin 1886	00006	17	K Krueger									
+Ewert	Jan Fryderyk	Ewert	Johann Friedrich	B	1886	Jan	Johann	"Jeske, Ludwika"	"Jeske, Luise"	Stefanow	17	Lublin 1886	00006	18	K Krueger									
+Wagner	Krystyna	Wagner	Christine	B	1886	Jan	Valentin	"Schmidt, Katarzyna"	"Schmidt, Katharina"	Borkowizna	17	Lublin 1886	00007	19	K Krueger									
+Jesske	Adolf	Jeske	Adolf	B	1886	Jan	Gottfried	"Jesske, Regina"	"Jeske, Regina"	Bekiesza	17	Lublin 1886	00007	20	K Krueger									
+Noerenberg	Emil	Noerenberg	Emil	B	1886	Jan	Michael	"Arndt, Karolina"	"Arndt, Karoline"	Rozplucie	17	Lublin 1886	00007	21	K Krueger									
+Kitzmann	Lidyja	Kitzmann	Lidia	B	1886	Jan	Gottlieb	"Figur, Emilia"	"Figur, Emilie"	Adamow	17	Lublin 1886	00007	22	K Krueger									
+Haake	Helena Marta	Haake	Helene Marta	B	1886	Jan	Karl	"Fisch, Ulrike"	"Fisch, Ulrike"	Lublin	17	Lublin 1886	00008	23	K Krueger									
+Kowalski	Emilija	Kowalski	Emilie	B	1886	Jan	Josef	"Schiewe, Anna Dorota"	"Schiewe, Anna Dorothea"	Janowica	17	Lublin 1886	00008	24	K Krueger									
+Templin	Emilija	Templin	Emilie	B	1886	Jan	Christian	"Friss, Justyna"	"Friss, Justine"	Wolka Mieczyslawska	17	Lublin 1886	00008	25	K Krueger									
+Kuehn	Gustaw	Kuehn	Gustav	B	1886	Jan	Anton	"Klingspon, Wilhelmina"	"Klingspohn, Wilhelmine"	Lipniak	17	Lublin 1886	00008	26	K Krueger									
+Schmidt	Julijanna	Schmidt	Julianna	B	1886	Jan	Adolf	"Welke, Karolina"	"Welke, Karoline"	Albertow	17	Lublin 1886	00009	27	K Krueger									
+Fitzner	Ewa Justyna	Fitzner	Eva Justine	B	1886	Jan	Christian	"Hiller, Krystyna"	"Hiller, Christine"	Juliopol	17	Lublin 1886	00009	28	K Krueger									
+Kien	Rozalia	Kuehn	Rosalie	B	1886	Jan	Gottfried	"Muster, Rozalia"	"Muster, Rosalie"	Bekiesza	17	Lublin 1886	00009	29	K Krueger									
+Glinski	Karol	Glinski	Karl	B	1886	Jan	Johann	"Jendrzejewski, Maria"	"Jendrzejewski, Maria"	Zadybie	17	Lublin 1886	00009	30	K Krueger									
+Siering	Elzbieta	Siering	Elisabeth	B	1886	Jan	Heinrich	"Deker, Malgorzata"	"Decker, Margarete"	Borkowizna	17	Lublin 1886	00010	31	K Krueger									
+Isbrecht	Maryjanna	Isbrecht	Marianna	B	1886	Jan	Heinrich	"Kreczmann, Karolina"	"Kretschmann, Karoline"	Hermanow	17	Lublin 1886	00010	32	K Krueger									
+Prel	Wanda	Proehl	Wanda	B	1886	Feb	Johann	"Tarrun, Ludwika"	"Taron, Luise"	Nadrybie	17	Lublin 1886	00010	33	K Krueger									
+Sonnenberg	Juliusz	Sonnenberg	Julius	B	1886	Feb	Karl	"Kopyschki, Emilia"	"Kopischke, Emilie"	Kamionka	17	Lublin 1886	00010	34	K Krueger									
+Telker	Jan Hermann	Telker	Johann Hermann	B	1886	Feb	Johann	"Pusch, Paulina"	"Pusch, Pauline"	Wolka Mieczyslawska	17	Lublin 1886	00011	35	K Krueger									
+Heppner	Jozef	Hepner	Josef	B	1886	Feb	Friedrich	"Fenski, Emilia"	"Fenske, Emilie"	Nadrybie	17	Lublin 1886	00011	36	K Krueger									
+Kreter	Anna	Kreter	Anna	B	1886	Feb	Martin	"Krimm, Paulina"	"Krimm, Pauline"	Zakrzowek	17	Lublin 1886	00011	37	K Krueger									
+Kinitz	Emil	Kinitz	Emil	B	1886	Feb	Michael	"Cepik, Justyna"	"Zepik, Justine"	Cycow	17	Lublin 1886	00011	38	K Krueger									
+Nachtigal		Nachtigal	stillborn male	D	1886	Feb	Ludwig	"Gruening, Emilia"	"Gruening, Emilie"	Brzeziny 	17	Lublin 1886	00012	39	K Krueger					birth record				
+Hintz	Matylda	Hintz	Mathilde	B	1886	Feb	Matthias	"Rieske, Wilhelmina"	"Rieske, Wilhelmine"	Antonin	17	Lublin 1886	00012	40	K Krueger									
+Lieske	Helena	Lieske	Helene	B	1886	Feb	Michael	"Neumann, Emilia"	"Neumann, Emilie"	Wolka Rozwadowska	17	Lublin 1886	00012	41	K Krueger									
+Lueck	Paulina	Lueck	Pauline	B	1886	Feb	Karl	"Pufahl, Maryjanna"	"Pufahl, Marianna"	Antonin	17	Lublin 1886	00012	42	K Krueger									
+Fitzner	Wilhelm Krystyan	Fitzner	Wilhelm Christian	B	1886	Feb	Friedrich	"Krieger, Matylda"	"Krueger, Mathilde"	Juliopol	17	Lublin 1886	00013	43	K Krueger									
+Oelke	Wanda	Oelke	Wanda	B	1886	Feb	Ludwig	"Rode, Henryka"	"Rode, Henriette"	Wola Korybutowa	17	Lublin 1886	00013	44	K Krueger									
+Milchner	Gustaw	Milchner	Gustav	B	1886	Feb	August	"Kirsch, Emilia"	"Kirsch, Emilie"	Ludwinow	17	Lublin 1886	00013	45	K Krueger									
+Diem	Maryjanna	Diem	Marianne	B	1886	Feb	Johann	"Binder, Elzbieta"	"Binder, Elisabeth"	Ludwinow	17	Lublin 1886	00013	46	K Krueger									
+Schindel	Matylda	Schindel	Mathilde	B	1886	Feb	Michael	"Thiede, Zerafine"	"Tiede, Serafine"	Janowica	17	Lublin 1886	00014	47	K Krueger									
+Siebert	Teofilija	Siebert	Theophile	B	1886	Feb	Johann	"Lange, Emilia"	"Lange, Emilie"	Dzialyn	17	Lublin 1886	00014	48	K Krueger									
+Nerling	Wilhelm	Nerling	Wilhelm	B	1886	Feb	Julius	"Schmidtke, Justyna"	"Schmidtke, Justine"	Leonardow	17	Lublin 1886	00014	49	K Krueger									
+Polnau	Wandalina	Polnau	Wandaline	B	1886	Feb	Adam	"Fenski, Eufrozyna"	"Fenske, Euphrosine"	Cycow	17	Lublin 1886	00014	50	K Krueger									
+Pfeifer	Hulda	Pfeiffer	Hulda	B	1886	Feb	Wilhelm	"Wilke, Justyna"	"Wilke, Justine"	Wola Korybutowa	17	Lublin 1886	00015	51	K Krueger									
+Marczenski	Natalija	Marczenski	Natalie	B	1886	Feb	Adolf	"Schmidt, Julijanna"	"Schmidt, Julianna"	Rabatki	17	Lublin 1886	00015	52	K Krueger									
+Reich	Ludwik	Reich	Ludwig	B	1886	Feb	Johann	"Majewski, Julijanna"	"Majewski, Julianna"	Bogdanka	17	Lublin 1886	00015	53	K Krueger									
+Schmidt	Emilija	Schmidt	Emilie	B	1886	Feb	Friedrich	"Lentz, Ernestyna"	"Lentz, Ernestine"	Wola Korybutowa	17	Lublin 1886	00015	54	K Krueger									
+Pahl	Augustyna	Pahl	Augustine	B	1886	Feb	Johann	"Ratter, Julijanna"	"Ratter, Julianna"	Baran	17	Lublin 1886	00016	55	K Krueger									
+Elke	Justyna	Oelke	Justine	B	1886	Feb	Gottfried	"Jahnke, Karolina"	"Janke, Karoline"	Radzyn	17	Lublin 1886	00016	56	K Krueger									
+Cybart	Jan	Ziebart	Johann	B	1886	Feb	Johann	"Mancej, Wilhelmina"	"Manzei, Wilhelmine"	Nadrybie	17	Lublin 1886	00016	57	K Krueger									
+Martin		Martin	stillborn female	D	1886	Feb	Elias	"Fuhrmann, Barbara"	"Fuhrmann, Barbara"	Wieniawka	17	Lublin 1886	00016	58	K Krueger					birth record				
+Kopischke	Juliusz	Kopischke	Julius	B	1886	Feb	Theodor	"Deido, Karolina"	"Deido, Karoline"	Bachus (=Wanda Bakus)	17	Lublin 1886	00017	59	K Krueger									
+Doering	Rudolf	Dering	Rudolf	B	1886	Feb	Ludwig	"Balkau, Karolina"	"Balkau, Karoline"	Juliopol	17	Lublin 1886	00017	60	K Krueger									
+Neumann	Emilija	Neumann	Emilie	B	1886	Feb	Martin	"Kuehn, Karolina"	"Kuehn, Karoline"	Antonin	17	Lublin 1886	00017	61	K Krueger									
+Martin	Emilija	Martin	Emilie	B	1886	Feb	Andreas	"Sperling, Justyna"	"Sperling, Justine"	Albertow	17	Lublin 1886	00017	62	K Krueger									
+Schmidt	August	Schmidt	August	B	1886	Feb	Gottlieb	"Noerenberg, Anna"	"Noerenberg, Anna"	Wolka Rozwadowska	17	Lublin 1886	00018	63	K Krueger									
+Lieske	Berta	Lieske	Berta	B	1886	Feb	Gottlieb	"Pinkoski, Emilia"	"Pinkowski, Emilie"	Wolka Rozwadowska	17	Lublin 1886	00018	64	K Krueger									
+Schwarzwald	Augustyna	Schwartzwald	Augustine	B	1886	Feb	Johann	"Schiewe, Rozalia"	"Schiewe, Rosalie"	Antonin	17	Lublin 1886	00018	65	K Krueger									
+Haise	Adolf	Heise	Adolf	B	1886	Feb	August	"Radke, Paulina"	"Radke, Pauline"	Jasieniec	17	Lublin 1886	00018	66	K Krueger									
+Tim	Emilija	Timm	Emilie	B	1886	Feb	Reinhold	"Pusch, Matylda"	"Pusch, Mathilde"	Czerwonka Gozdow	17	Lublin 1886	00019	67	K Krueger									
+Steinke	Alexander	Steinke	Alexander	B	1886	Feb	Theodor	"Duelge, Augusta"	"Duelge, Auguste"	Kaniwola	17	Lublin 1886	00019	68	K Krueger									
+Seemann	August	Seemann	August	B	1886	Feb	Ludwig	"Sommerfeld, Rozlaia"	"Sommerfeld, Rosalie"	Trojnia	17	Lublin 1886	00019	69	K Krueger									
+Hein	Henryka	Hein	Henriette	B	1886	Feb	August	"Lange, Paulina"	"Lange, Pauline"	Malinowka	17	Lublin 1886	00019	70	K Krueger									
+Ziegenhagel	Samuel	Ziegenhagel	Samuel	B	1886	Feb	August	"Krebs, Wilhelmina"	"Krebs, Wilhelmine"	Janowica	17	Lublin 1886	00020	71	K Krueger									
+Schubert	Fryderyk	Schubert	Friedrich	B	1886	Feb	Wilhelm	"Rode, Wilhelmina"	"Rode, Wilhelmine"	Zurawiniec	17	Lublin 1886	00020	72	K Krueger									
+Schwartz	Adolf	Schwartz	Adolf	B	1886	Feb	Ludwig	"Krebs, Ludwika"	"Krebs, Luise"	Cycowski Katy (=Wolka Cycowska)	17	Lublin 1886	00020	73	K Krueger									
+Blank	Rudolf	Blank	Rudolf	B	1886	Feb	Christian	"Luetke, Adolina"	"Luetke, Adoline"	Jagodne	17	Lublin 1886	00020	74	K Krueger									
+Pepke	Matylda	Pepke	Mathilde	B	1886	Feb	Gottlieb	"Laub, Maryjanna"	"Laub, Marianna"	Zarobka	17	Lublin 1886	00021	75	K Krueger									
+Jubin	Zuzanna	Jubin	Susanne	B	1886	Feb	Gottfried	"Janke, Anna Krystyna"	"Janke, Anna Christine"	Ludwinow	17	Lublin 1886	00021	76	K Krueger									
+Kerntopf	Edward Samuel	Kerntopf	Eduard Samuel	B	1886	Feb	Eduard Andreas	"Jung, Amalia"	"Jung, Amalie"	Cycow	17	Lublin 1886	00021	77	K Krueger									
+Krueger	Edward	Krueger	Eduard	B	1886	Feb	Samuel	"Huepp, anna"	"Huepp, Anna"	Zadole	17	Lublin 1886	00021	78	K Krueger									
+Jobs	August	Jobs	August	B	1886	Mar	Georg	"Ulmer, Elzbieta"	"Ulmer, Elisabeth"	Zawada	17	Lublin 1886	00022	79	K Krueger									
+Flatt	Filip	Flatt	Philipp	B	1886	Mar	Andreas	"Flatt, Elzbieta"	"Flatt, Elisabeth"	Potok	17	Lublin 1886	00022	80	K Krueger									
+Endert	Emilija Matylda	Endert	Emilie Mathilde	B	1886	Mar	Johann	"Wiess, Paulina"	"Wiess, Pauline"	Ludwinow	17	Lublin 1886	00022	81	K Krueger									
+Siering	Barbara	Siering	Barbara	B	1886	Mar	Michael	"Hassinger, Elzbieta"	"Hassinger, Elisabeth"	Borkowizna	17	Lublin 1886	00022	82	K Krueger									
+Adam	Emil	Adam	Emil	B	1886	Mar	Eduard	"Zibart, Ewa"	"Ziebart, Eva"	Jagodne	17	Lublin 1886	00023	83	K Krueger									
+Schmidtke	Juliusz	Schmidtke	Julius	B	1886	Mar	Karl	"Oswald, Katarzyna"	"Oswald, Katharina"	Jagodne	17	Lublin 1886	00023	84	K Krueger									
+Milbrandt	Fryderyk	Milbrandt	Friedrich	B	1886	Mar	Ernst	"Becker, Ewa"	"Becker, Eva"	Jelino	17	Lublin 1886	00023	85	K Krueger									
+Preuss	Ernestyna	Preuss	Ernestine	B	1886	Mar	Gottlieb	"Rehbein, Paulina"	"Rehbein, Pauline"	Wola Korybutowa	17	Lublin 1886	00023	86	K Krueger									
+Mantik	Ferdynand	Mantik	Ferdinand	B	1886	Mar	Ferdinand	"Silbermann, Eleonora"	"Silbermann, Eleonore"	Jozefow	17	Lublin 1886	00024	87	K Krueger									
+Lehmann	Julijanna	Lehmann	Julianna	B	1886	Mar	Wilhelm	"Gruening, Krystyna"	"Gruening, Christine"	Jelino	17	Lublin 1886	00024	88	K Krueger									
+Rieske	Emilija	Rieske	Emilie	B	1886	Mar	Ludwig	"Krebs, Paulina"	"Krebs, Pauline"	Antonin	17	Lublin 1886	00024	89	K Krueger									
+Lieske	Gotlib	Lieske	Gottlieb	B	1886	Mar	Gottlieb	"Kaus, Julijanna"	"Kaus, Julianna"	Wolka Rozwadowska	17	Lublin 1886	00024	90	K Krueger									
+Riedel	August	Riedel	August	B	1886	Mar	Gottlieb	"Ruehmer, Julijanna"	"Riemer, Julianna"	Ludwinow	17	Lublin 1886	00025	91	K Krueger									
+Jaeger	Franc	Jaeger	Franz	B	1886	Mar	Gottlieb	"Wegner, Paulina"	"Wegner, Pauline"	Amelin	17	Lublin 1886	00025	92	K Krueger									
+		Beier	stillborn female	D	1886	Mar	Wilhelm	"Filip, Karolina"	"Filipp, Karoline"	Zawada	17	Lublin 1886	00025	93	K Krueger					birth record				
+Jaeger	Wanda	Jaeger	Wanda	B	1886	Mar	Karl	"Schmidt, Ernestyna"	"Schmidt, Ernestine"	Kaniwola	17	Lublin 1886	00025	94	K Krueger									
+Benke	Ernestyna	Benke	Ernestine	B	1886	Mar	Johann Friedrich	"Fender, Maryjanna"	"Fender, Marianna"	Sobieszczany	17	Lublin 1886	00026	95	K Krueger									
+Benke	Zuzanna	Benke	Susanna	B	1886	Mar	Johann Friedrich	"Fender, Maryjanna"	"Fender, Marianne"	Sobieszczany	17	Lublin 1886	00026	96	K Krueger									
+Oraszewski	Emil	Oraszewski	Emil	B	1886	Mar	Gustav	"Bloede, Julijanna"	"Bloede, Julianna"	Niedrzwica Duza	17	Lublin 1886	00026	97	K Krueger									
+Luetke	Augusta	Luetke	Auguste	B	1886	Mar	Friedrich	"Hemmerling, Henryka"	"Hemmerling, Henriette"	Sewerynowka	17	Lublin 1886	00026	98	K Krueger									
+Draeger	Gustaw	Draeger	Gustav	B	1886	Mar	Ludwig	"Schmidtke, Wilhelmina"	"Schmidtke, Wilhelmine"	Szczecin	17	Lublin 1886	00027	99	K Krueger									
+Sommerfeld	August	Sommerfeld	August	B	1886	Mar	August	"Pede, Julijanna"	"Pide, Julianna"	Trojnia	17	Lublin 1886	00027	100	K Krueger									
+Sieg	Matylda	Sieg	Mathilde	B	1886	Mar	Karl	"Luetke, Emilia Augusta"	"Luetke, Emilie Auguste"	Jelino	17	Lublin 1886	00027	101	K Krueger									
+Wolter	Adolfina	Wolter	Adolfine	B	1886	Mar	Andreas	"Minke, Krystyna"	"Minke, Christine"	Bogdanka	17	Lublin 1886	00027	102	K Krueger									
+Domres	Emil	Domres	Emil	B	1886	Mar	August	"Krentz, Wilhelmina"	"Krentz, Wilhelmine"	Stefanow	17	Lublin 1886	00028	103	K Krueger									
+Gitzel	Gustaw	Gitzel	Gustav	B	1886	Mar	August	"Klukas, Julijanna"	"Klukas, Julianna"	Komarowka	17	Lublin 1886	00028	104	K Krueger									
+Kurtz	Rozyna	Kurtz	Rosine	B	1886	Mar	Johann	"Daunheimer, Magdalene"	"Daunheimer, Magdalene"	Potok	17	Lublin 1886	00028	105	K Krueger									
+Weiss	Paulina	Weiss	Pauline	B	1886	Mar	Karl	"Fenski, Anna"	"Fenske, Anna"	Cycow	17	Lublin 1886	00028	106	K Krueger									
+Widawski	Edward	Widawski	Eduard	B	1886	Mar	unknown/unbekannt	"Widawski, Paulina"	"Widawski, Pauline"	Uniszowice	17	Lublin 1886	00029	107	K Krueger									
+Selig	Rudolf	Selig	Rudolf	B	1886	Mar	Adam	"Koepke, Augusta"	"Koepke, Auguste"	Aleksandrowka	17	Lublin 1886	00029	108	K Krueger									
+Gross	Maryja Krystyjanna	Gross	Maria Christianna	B	1886	Mar	Emanuel	"Mundt, Karolina"	"Mundt, Karoline"	Ludwinow	17	Lublin 1886	00029	109	K Krueger									
+Poleski	Augusta	Poleski	Auguste	B	1886	Mar	August	"Winkel, Emilia"	"Winkel, Emilie"	Juliopol	17	Lublin 1886	00029	110	K Krueger									
+Zippel	Teofilija	Zippel	Theophile	B	1886	Mar	Friedrich	"Badke, Paulina"	"Badke, Pauline"	Sobolew	17	Lublin 1886	00030	111	K Krueger									
+Mueller		Mueller	stillborn female	D	1886	Mar	August	"Hintz, Fryderyka"	"Hintz, Friederike"	Adamow	17	Lublin 1886	00030	112	K Krueger					birth record				
+Poleski	August	Poleski	August	B	1886	Mar	August	"Hagel, Wilhelmina"	"Hagel, Wilhelmine"	Bronislawow	17	Lublin 1886	00030	113	K Krueger									
+Paustian	Fryderyk	Paustian	Friedrich	B	1886	Mar	Ludwig	"Schmidtke, Amalia"	"Schmidtke, Amalie"	Jagodne	17	Lublin 1886	00030	114	K Krueger									
+Dreger	Gotlib	Draeger	Gottlieb	B	1886	Mar	Michael	"Mass, Emilia"	"Mass, Emilie"	Ludwinow	17	Lublin 1886	00031	115	K Krueger									
+Steingill	Hulda	Steingill	Hulda	B	1886	Mar	Gottlieb	"Richter, Henryka"	"Richter, Henriette"	Malinowka	17	Lublin 1886	00031	116	K Krueger									
+Bress	Juliusz	Bress	Julius	B	1886	Mar	Michael	"Maler, Wilhelmina"	"Mahler, Wilhelmine"	Barki	17	Lublin 1886	00031	117	K Krueger									
+Deppner	Wilhelm	Depner	Wilhelm	B	1886	Mar	Friedrich	"Schmidt, Teofilia"	"Schmidt, Theophile"	Szczecin	17	Lublin 1886	00031	118	K Krueger									
+Wilke	Matylda	Wilke	Mathilde	B	1886	Mar	Gottfried		"Krause, Emma"	Wola Korybutowa	17	Lublin 1886	00032	119	K Krueger									
+Lentz	Matylda	Lentz	Mathilde	B	1886	Mar	Ludwig	"Braun, Karolina"	"Braun, Karoline"	Bogdanka	17	Lublin 1886	00032	120	K Krueger									
+Benke	Fryderyk	Benke	Friedrich	B	1886	Apr	Ferdinand	"Krueger, Julijanna"	"Krueger, Julianna"	Wola Korybutowa	17	Lublin 1886	00032	121	K Krueger									
+Fryderyk	Adolf	Friedrich	Adolf	B	1886	Apr	Gottlieb	"Erdmann, Rozalia"	"Erdmann, Rosalie"	Szczekarkow	17	Lublin 1886	00032	122	K Krueger									
+Henke	Augusta	Henke	Augusta	B	1886	Apr	Ludwig	"Egert, Rozalia"	"Egert, Rosalie"	Szczekarkow	17	Lublin 1886	00033	123	K Krueger									
+Patzlaw	Ernestyna	Patzlaw	Ernestine	B	1886	Apr	Friedrich	"Wilke, Rozalia"	"Wilke, Rosalie"	Wola Korybutowa	17	Lublin 1886	00033	124	K Krueger									
+Wentzel	Berta	Wenzel	Berta	B	1886	Apr	Jakob	"Lehmann, Karolina"	"Lehmann, Karoline"	Zarobka	17	Lublin 1886	00033	125	K Krueger									
+Jeske	Emilija Matylda	Jeske	Emilie Mathilde	B	1886	Apr	Ludwig	"Ziegenhagel, Matylda"	"Ziegenhagel, Mathilde"	Malinowka	17	Lublin 1886	00033	126	K Krueger									
+Bloch	Daniel	Bloch	Daniel	B	1886	Apr	August	"Schultz, Karolina"	"Schultz, Karoline"	Ludwinow	17	Lublin 1886	00034	127	K Krueger									
+Lemke	Anna	Lemke	Anna	B	1886	Apr	Christian	"Schmeichel, Karolina"	"Schmeichel, Karoline"	Cycow	17	Lublin 1886	00034	128	K Krueger									
+Krueger	Ludwik	Krueger	Ludwig	B	1886	Apr	August	"Erdmann, Albertyna"	"Erdmann, Albertine"	Szczekarkow	17	Lublin 1886	00034	129	K Krueger									
+Lisak	Julijanna	Lisak	Julianna	B	1886	Apr	Samuel	"Schiewe, Henryka"	"Schiewe, Henriette"	Kobylki	17	Lublin 1886	00034	130	K Krueger									
+Krueger	Lidyja	Krueger	Lidia	B	1886	Apr	unknown/unbekannt	"Krueger, Karolina"	"Krueger, Karoline"	Malinowka	17	Lublin 1886	00035	131	K Krueger				possible Krueger spouse	out of wedlock				
+Kitzmann	Ernestyna	Kitzmann	Ernestine	B	1886	Apr	August	"Manthei, Anna Krystyna"	"Mantei, Anna Christine"	Wola Korybutowa	17	Lublin 1886	00035	132	K Krueger									
+Dering	Wilhelm	Dering	Wilhelm	B	1886	Apr	Friedrich	"Schliefke, Karolina"	"Schliefke, Karoline"	Wolka Mieczyslawska	17	Lublin 1886	00035	133	K Krueger									
+Rathke	Paulina	Ratke	Pauline	B	1886	Apr	Johann	"Gudrian, Wilhelmina"	"Gudrian, Wilhelmine"	Wolka Mieczyslawska	17	Lublin 1886	00035	134	K Krueger									
+Barabas	Henryk	Barabas	Heinrich	B	1886	Apr	Philipp Jakob	"Mantei, Eufrozyna"	"Mantei, Euphrosine"	Cycow	17	Lublin 1886	00036	135	K Krueger									
+Grams		Grams	stillborn male	D	1886	Apr	Wilhelm	"Lehmann, Augusta"	"Lehmann, Auguste"	Lesniczowka	17	Lublin 1886	00036	136	K Krueger					birth record				
+Buss	Jozef	Buss	Josef	B	1886	Apr	Martin	"Luetke, Emilia"	"Luetke, Emilie"	Biskupice	17	Lublin 1886	00036	137	K Krueger									
+Boese	Paulina	Boese	Pauline	B	1886	Apr	unknown/unbekannt	"Boese, Augustyna"	"Boese, Augustine"	Jasieniec	17	Lublin 1886	00036	138	K Krueger									
+Krueger	Edward	Krueger	Eduard	B	1886	Apr	Christoph	"Ambrust, Emilia"	"Ambrust, Emilie"	Cycow	17	Lublin 1886	00037	139	K Krueger									
+Klingbeil	Paulina	Klingbeil	Pauline	B	1886	Apr	August	"Kufert, Ewa"	"Kufert, Eva"	Sewerynowka	17	Lublin 1886	00037	140	K Krueger									
+Fergin	Adela	Fergin	Adele	B	1886	Apr	Ludwig	"Lutz, Paulina"	"Lutz, Pauline"	Plouszowice	17	Lublin 1886	00037	141	K Krueger									
+Krumruek	August	Krumrich	August	B	1886	Apr	Eduard	"Redmann, Florentyna"	"Redmann, Florentine"	Ludwinow	17	Lublin 1886	00037	142	K Krueger									
+Schultz	Karolina	Schultz	Karoline	B	1886	Apr	Tadeus	"Frank, Emilia"	"Frank, Emilie"	Zawada	17	Lublin 1886	00038	143	K Krueger									
+Preuss	Adam	Preuss	Adam	B	1886	Apr	August	"Lange, Emilia"	"Lange, Emilie"	Wolka Zablocka	17	Lublin 1886	00038	144	K Krueger									
+Fogt	Jan	Vogt	Johann	B	1886	Apr	Johann	"Brauch, Barbara"	"Brauch, Barbara"	Jozefin	17	Lublin 1886	00038	145	K Krueger									
+Huebner	Adolf	Huebner	Adolf	B	1886	Apr	Gottlieb	"Rindfleisch, Ewa"	"Rindfleisch, Eva"	Jelino	17	Lublin 1886	00038	146	K Krueger									
+Klingbeil	Juliusz	Klingbeil	Julius	B	1886	Apr	Ludwig		"Pacholke, Rosalie"	Sobieszczany	17	Lublin 1886	00039	147	K Krueger									
+Jahn	Juliusz	Jahn	Julius	B	1886	Apr	Karl	"Bauer, Berta"	"Bauer, Berta"	Janopol	17	Lublin 1886	00039	148	K Krueger									
+Godecki	Jan Michal	Godecki	Johann Michael	B	1886	Apr	Walter Michael	"Sznierstejn, Marya Zofia"	"Schnierstein, Maria Sophie"	Lublin	17	Lublin 1886	00039	149	K Krueger									
+Kletke	Emilija	Kletke	Emilie	B	1886	Apr	Martin	"Maler, Anna"	"Mahler, Anna"	Malinowka	17	Lublin 1886	00039	150	K Krueger									
+Gross	Helena	Gross	Helene	B	1886	Apr	Friedrich	"Scheler, Fryderyka"	"Scheler, Friederike"	Justynow	17	Lublin 1886	00040	151	K Krueger									
+Schaefer	Karol Juliusz	Schaefer	Karl Julius	B	1886	Apr	Andreas	"Hoffmann, Augusta"	"Hoffmann, Auguste"	Baran	17	Lublin 1886	00040	152	K Krueger									
+Golz	Emilija	Goltz	Emilie	B	1886	Apr	Gottlieb	"Meier, Emilia"	"Meier, Emilie"	Czerwonka	17	Lublin 1886	00040	153	K Krueger									
+Prochnau		Prochnau	stillborn female	D	1886	Apr	Georg	"Zietlau, Ludwika"	"Zitlau, Luise"	Cycow	17	Lublin 1886	00040	154	K Krueger					birth record				
+Wegner	Emilija	Wegner	Emilie	B	1886	Apr	Gottfried	"Nehrenberg, Krystyna"	"Noerenberg, Christine"	Wola Lisowska	17	Lublin 1886	00041	155	K Krueger									
+Peter	Emilija	Peter	Emilie	B	1886	May	Johann	"Rode, Julijanna"	"Rode, Julianna"	Lubartow	17	Lublin 1886	00041	156	K Krueger									
+Markwart	Julijanna	Markwart	Julianna	B	1886	May	August	"Schmidt, Emilia"	"Schmidt, Emilie"	Wolka Siemienska	17	Lublin 1886	00041	157	K Krueger									
+Klukas	Adam	Klukas	Adam	B	1886	May	Ludwig	"Nerenberg, Regina"	"Noerenberg, Regina"	Antoniowka	17	Lublin 1886	00041	158	K Krueger									
+Mahlke	Anna	Malke	Anna	B	1886	May	Friedrich	"Milbrand, Paulina"	"Milbrandt, Pauline"	Plouszowice	17	Lublin 1886	00042	159	K Krueger									
+Heller	Fryderyk Wilhelm	Heller	Friedrich Wilhelm	B	1886	May	Julius	"Bredlau, Julijanna"	"Bredlau, Julianna"	Janopol	17	Lublin 1886	00042	160	K Krueger									
+Flatt	Julijanna	Flatt	Julianna	B	1886	May	Andreas	"Schmidt, Katarzyna"	"Schmidt, Katharina"	Potok	17	Lublin 1886	00042	161	K Krueger									
+Siering	Dorota	Siering	Dorothea	B	1886	May	Andreas	"Lauber, Katarzyna"	"Lauber, Katharina"	Borkowizna	17	Lublin 1886	00042	162	K Krueger									
+Mueller	Juliusz	Mueller	Julius	B	1886	May	Johann	"Schultz, Ludwika"	"Schultz, Luise"	Zawada	17	Lublin 1886	00043	163	K Krueger									
+Meier	Gustaw	Meier	Gustav	B	1886	May	Michael	"Becker, Matylda"	"Becker, Mathilde"	Zarobka	17	Lublin 1886	00043	164	K Krueger									
+Labrentz	Gotfryd	Labrentz	Gottfried	B	1886	May	Christoph	"Jantz, Emilia"	"Jantz, Emilie"	Cycow	17	Lublin 1886	00043	165	K Krueger									
+Bloch	Rozalia	Bloch	Rosalie	B	1886	May	Samuel	"Bloch, Karolina"	"Bloch, Karoline"	Cycow	17	Lublin 1886	00043	166	K Krueger									
+Buss	Michal	Buss	Michael	B	1886	May	Ludwig	"Tiede, Zuzanna"	"Tiede, Susanna"	Rozplucie	17	Lublin 1886	00044	167	K Krueger									
+Henkel	Julijanna	Henkel	Julianna	B	1886	May	Karl	"Mendag, Karolina"	"Mendach, Karoline"	Bogdanka	17	Lublin 1886	00044	168	K Krueger									
+Friedrich	Emilija	Friedrich	Emilie	B	1886	May	Gustav	"Markwardt, Krystyna"	"Markwart, Christine"	Cycow	17	Lublin 1886	00044	169	K Krueger									
+Klingbeil	August	Klingbeil	August	B	1886	May	Samuel	"Muth, Justyna"	"Muth, Justine"	Kaznow	17	Lublin 1886	00044	170	K Krueger									
+Peltzer	Adolf	Peltzer	Adam	B	1886	May	Ferdinand	"Jeske, Amalia"	"Jeske, Amalie"	Malinowka	17	Lublin 1886	00045	171	K Krueger									
+Tonn	Wilhelm	Tonn	Wilhelm	B	1886	May	Adolf	"Priebe, Wilhelmina"	"Priebe, Wilhelmine"	Wolka Nadrybska	17	Lublin 1886	00045	172	K Krueger									
+Wensel	Ludwik	Wensel	Ludwig	B	1886	May	August	"Bittner, Emilia"	"Bittner, Emilie"	Adamow	17	Lublin 1886	00045	173	K Krueger									
+Grimmig	Adolf	Grimmich	Adolf	B	1886	May	Heinrich	"Rosentraeger, Hulda"	"Rosentraeger, Hulda"	Ludwinow	17	Lublin 1886	00045	174	K Krueger									
+Mueller	Elzbieta	Mueller	Elisabeth	B	1886	May	Martin	"Sach, Ludwika"	"Sach, Luise"	Lublin	17	Lublin 1886	00046	175	K Krueger									
+Mitzner	Emil	Mitzner	Emil	B	1886	May	August	"Behnke, Karolina"	"Benke, Karoline"	Belzyce	17	Lublin 1886	00046	176	K Krueger									
+Siering	Malgorzata	Siering	Margarete	B	1886	May	Ludwig	"Martin, Krystyna"	"Martin, Christine"	Borkowizna	17	Lublin 1886	00046	177	K Krueger									
+Koberstein	Zerafina	Koberstein	Serafine	B	1886	May	unknown/unbekannt	"Koberstein, Emilia"	"Koberstein, Emilie"	Czerwonka Gozdow	17	Lublin 1886	00046	178	K Krueger									
+Petrich	Wilhelm	Petrich	Wilhelm	B	1886	May	Gottfried Hermann	"Mund, Emilia"	"Mundt, Emilie"	Janopol	17	Lublin 1886	00047	179	K Krueger									
+Domres	Gustaw	Domres	Gustav	B	1886	May	Andreas	"Kuehn, Justyna"	"Kuehn, Justine"	Bogdanka	17	Lublin 1886	00047	180	K Krueger									
+Hassner	Julijanna	Hassner	Julianna	B	1886	May	Gottlieb	"Hibner, Rozalia"	"Huebner, Rosalie"	Wolka Siemienska	17	Lublin 1886	00047	181	K Krueger									
+Bloch	Emilija	Bloch	Emilie	B	1886	May	Eduard	"Bader, Maryjanna"	"Bader, Marianna"	Szczecin	17	Lublin 1886	00047	182	K Krueger									
+Schiewe	Julijusz	Schiewe	Julius	B	1886	May	Gottfried	"Mantik, Julijanna"	"Mantik, Julianna"	Wilczopole	17	Lublin 1886	00048	183	K Krueger									
+Kaupke	Emil	Kaupke	Emil	B	1886	May	Johann August	"Fengler, Julijanna"	"Fengler, Julianna"	Zakrzowek	17	Lublin 1886	00048	184	K Krueger									
+Vogt	Gustaw	Vogt	Gustav	B	1886	May	Wilhelm	"Schief, Julijanna"	"Schief, Julianna"	Stara Wies	17	Lublin 1886	00048	185	K Krueger									
+Lauber	Fryderyk	Lauber	Friedrich	B	1886	May	Friedrich	"Vogt, Krystyna"	"Vogt, Christine"	Borkowizna	17	Lublin 1886	00048	186	K Krueger									
+Klein	Edward Wiktor	Klein	Eduard Viktor	B	1886	May	Ferdinand	"Borkenhagen, Joanna"	"Borkenhagen, Johanna"	Piaski Lublinskie	17	Lublin 1886	00049	187	K Krueger									
+Kretschmann	Juliusz	Kretschmann	Julius	B	1886	May	Friedrich	"Rohde, Wilhelmina"	"Rode, Wilhelmine"	Jagodne	17	Lublin 1886	00049	188	K Krueger									
+Wenzel	Otylija	Wenzel	Ottilie	B	1886	May	Eduard	"Osinski, Rozalia"	"[R]osinski, Rosalie"	Adamow	17	Lublin 1886	00049	189	K Krueger					see 00174 #74; 00220 #113; 00233 #194				
+Petrich	Juliusz August	Petrich	Julius August	B	1886	May	Adolf Gustav	"Kos, Anna"	"Koss, Anna"	Janopol	17	Lublin 1886	00049	190	K Krueger									
+Appelt	Gotfryd	Appelt	Gottfried	B	1886	May	Andreas	"Mattner, Julijanna"	"Matner, Julianna"	Jasieniec	17	Lublin 1886	00050	191	K Krueger									
+Grehnke	Edward	Grenke	Eduard	B	1886	May	Wilhelm	"Banik, Rozalia"	"Banik, Rosalie"	Wola Korybutowa	17	Lublin 1886	00050	192	K Krueger									
+Wendland	Rozalia	Wendland	Rosalie	B	1886	May	Gustav	"Ludke, Julijanna"	"Luedke, Julianna"	Bekiesza	17	Lublin 1886	00050	193	K Krueger									
+Bansemeier	Lidia	Bansemeier	Lidia	B	1886	Jun	Michael	"Jeske, Wilhelmina"	"Jeske, Wilhelmine"	Malinowka	17	Lublin 1886	00050	194	K Krueger									
+Bansemeier	Paulina	Bansemeier	Pauline	B	1886	Jun	Michael	"Jeske, Wilhelmina"	"Jeske, Wilhelmine"	Malinowka	17	Lublin 1886	00051	195	K Krueger									
+Hintz	Adolf	Hintz	Adolf	B	1886	Jun	Ferdinand	"Gruening, Augusta"	"Gruening, Auguste"	Adamow	17	Lublin 1886	00051	196	K Krueger									
+Roechert	Lidia	Roechert	Lidia	B	1886	Jun	Ludwig	"Guenter, Wilhelmina"	"Guenter, Wilhelmine"	Bekiesza	17	Lublin 1886	00051	197	K Krueger									
+Grams	Emilija	Grams	Emilie	B	1886	Jun	Andreas	"Neumann, Julijanna"	"Neumann, Julianna"	Sobolew	17	Lublin 1886	00051	198	K Krueger									
+Brandenburg	Juliusz	Brandenburg	Julius	B	1886	Jun	August	"Wegner, Justyna"	"Wegner, Justine"	Czerwonka	17	Lublin 1886	00052	199	K Krueger									
+Naetzel	Juliusz	Netzel	Julius	B	1886	Jun	Jakob	"Dering, Augustyna"	"Dering, Augustine"	Malinowka	17	Lublin 1886	00052	200	K Krueger									
+Marksalt	Lidyja	Marksalt	Lidia	B	1886	Jun	Michael	"Buchholtz, Justyna"	"Buchholtz, Justine"	Cycowski Katy (=Wolka Cycowska)	17	Lublin 1886	00052	201	K Krueger									
+Klim	Anna	Klim	Anna	B	1886	Jun	Gottlieb	"Richter, Henryka"	"Richter, Henriette"	Nadrybie	17	Lublin 1886	00052	202	K Krueger									
+Wutzke	Henryk	Wutzke	Heinrich	B	1886	Jun	Gottlieb	"Heimann, Henryka"	"Heimann, Henriette"	Sobieszczany	17	Lublin 1886	00053	203	K Krueger									
+Jordan	Wladyslaw	Jordan	Walter	B	1886	Jun	Franz	"Krokier, Joanna"	"Krokier, Johanna"	Snopkow	17	Lublin 1886	00053	204	K Krueger									
+Jensz	Edward	Jensch	Eduard	B	1886	Jun	Josef Xavier	"Petznik, Anna Karolina"	"Petznik, Anna Karoline"	Lublin	17	Lublin 1886	00053	205	K Krueger									
+Pusch	Matylda	Pusch	Mathilde	B	1886	Jun	Matthias	"Zielke, Julijanna"	"Zielke, Julianna"	Sobolew	17	Lublin 1886	00053	206	K Krueger									
+Lokstaedt	Ferdynand	Lokstaedt	Ferdinand	B	1886	Jun	August	"Kerlin, Justyna"	"Kerlin, Justine"	Neudorf	17	Lublin 1886	00054	207	K Krueger									
+Schmidtke	Daniel	Schmidtke	Daniel	B	1886	Jun	Johann	"Hintz, Ludwika"	"Hintz, Luise"	Wola Korybutowa	17	Lublin 1886	00054	208	K Krueger									
+Born	Jan	Born	Johann	B	1886	Jun	Georg	"Nargang, Jozefa"	"Nargang, Josefa"	Potok	17	Lublin 1886	00054	209	K Krueger									
+Loewe	Elzbieta	Loewe	Elisabeth	B	1886	Jun	Johann	"Martin, Teresa"	"Martin, Therese"	Potok	17	Lublin 1886	00054	210	K Krueger									
+Lueck	Gustaw	Lueck	Gustav	B	1886	Jun	Gustav	"Buss, Ernestyna"	"Buss, Ernestine"	Bogdanka	17	Lublin 1886	00055	211	K Krueger									
+Frank	Wilhelmina	Frank	Wilhelmine	B	1886	Jun	Wilhelm	"Meier, Julijanna"	"Meier, Julianna"	Wola Korybutowa	17	Lublin 1886	00055	212	K Krueger									
+Depner	Gustaw	Depner	Gustav	B	1886	Jun	Gottlieb	"Zelmer, Wilhelmina"	"Zelmer, Wilhelmine"	Kobylki	17	Lublin 1886	00055	213	K Krueger									
+Markwart	Emilija	Markwart	Emilie	B	1886	Jun	August	"Kuehn, Anna Elzbieta"	"Kuehn, Anna Elisabeth"	Stefanow	17	Lublin 1886	00055	214	K Krueger									
+Schmidt	Jakob	Schmidt	Jakob	B	1886	Jun	Karl	"Schultz, Julijanna"	"Schultz, Julianna"	Wyganow	17	Lublin 1886	00056	215	K Krueger									
+Bogdan	Rosamunda	Bogdan	Rosamunde	B	1886	Jun	Michael	"Fischer, Anna Justyna"	"Fischer, Anna Justine"	Kaniwola	17	Lublin 1886	00056	216	K Krueger									
+Brodehl	Adelgunda	Brodel	Adelgunde	B	1886	Jun	Ludwig	"Rissmann, Augusta"	"Rissmann, Auguste"	Kaniwola	17	Lublin 1886	00056	217	K Krueger									
+Leib	Alfred	Leib	Alfred	B	1886	Jun	Johann	"Flatt, Krystyna"	"Flatt, Christine"	Popkowice	17	Lublin 1886	00056	218	K Krueger									
+Jernatt	Emil	Gernat	Emil	B	1886	Jun	Andreas	"Manski, Ewa"	"Manski, Eva"	Rozplucie	17	Lublin 1886	00057	219	K Krueger									
+Fandrych	Henryk Piotr	Fandrich	Heinrich Peter	B	1886	Jun	Martin	"Fandrich, Julijanna"	"Fandrich, Julianna"	Trojaczkowice 	17	Lublin 1886	00057	220	K Krueger									
+Lewinski	Henryk Felix	Lewinski	Heinrich Felix	B	1886	Jun	Walter	"Kaminski, Maryia"	"Kaminski, Maria"	Wrotkow	17	Lublin 1886	00057	221	K Krueger									
+Radke	Gustaw	Radke	Gustav	B	1886	Jun	Ludwig	"Zeretzki, Karolina"	"Zeretzki, Karoline"	Kocia Gora	17	Lublin 1886	00057	222	K Krueger									
+Peter	Natalija Zofia	Peter	Natalie Sophie	B	1886	Jun	Christoph	"Dawid, Jozefa"	"David, Josefa"	Milanow	17	Lublin 1886	00058	223	K Krueger									
+Beier	Matylda	Beier	Mathilde	B	1886	Jun	August	"Dei, Elzbieta"	"Dei, Elisabeth"	Baran	17	Lublin 1886	00058	224	K Krueger									
+Brautz	Emma	Brautz	Emma	B	1886	Jun	Christian	"Strauch, Paulina"	"Strauch, Pauline"	Jozefow	17	Lublin 1886	00058	225	K Krueger									
+Radke	Adolf	Radke	Adolf	B	1886	Jun	August	"Schmidt, Maryjanna"	"Schmidt, Marianna"	Bogdanka	17	Lublin 1886	00058	226	K Krueger									
+Kissmann	Michal	Kissmann	Michael	B	1886	Jun	Johann	"Tiede, Ewa"	"Tiede, Eva"	Rozplucie	17	Lublin 1886	00059	227	K Krueger									
+Pokrant	Adolf	Pokrant	Adolf	B	1886	Jun	August	"Schendel, Julijanna"	"Schendel, Julianna"	Wolka Mieczyslawska	17	Lublin 1886	00059	228	K Krueger									
+Schimmel	Karol	Schimmel	Karl	B	1886	Jun	Karl	"Apelt, Julijanna"	"Appelt, Julianna"	Juliopol	17	Lublin 1886	00059	229	K Krueger									
+Wahnke	Maryjanna	Wanke	Marianne	B	1886	Jun	Gottfried	"Duesterhoeft, Julijanna"	"Duesterhoeft, Julianna"	Fajslawice	17	Lublin 1886	00059	230	K Krueger									
+Fuchs	Olga	Fuchs	Olga	B	1886	Jun	Michael	"Jesse, Emilia Augusta"	"Jesse, Emilie Auguste"	Cycow	17	Lublin 1886	00060	231	K Krueger									
+Oswald	Paulina	Oswald	Pauline	B	1886	Jun	Ferdinand	"Schmidtke, Marya"	"Schmidtke, Maria"	Cycow	17	Lublin 1886	00060	232	K Krueger									
+Ledt	Helena	Ledt	Helene	B	1886	Jun	Friedrich Wilhelm	"Burman, Rozalia"	"Burmann, Rosalie"	Stefanow	17	Lublin 1886	00060	233	K Krueger									
+Hiller	Emil Edward	Hiller	Emil Eduard	B	1886	Jun	Jakob	"Rosenberg, Emilia"	"Rosenberg, Emilie"	Sewerynowka	17	Lublin 1886	00060	234	K Krueger									
+Elbe		Elbe	stillborn male	D	1886	Jun	unknown/unbekannt	"Elbe, Maryjanna"	"Elbe, Marianne"	Malinowka	17	Lublin 1886	00061	235	K Krueger					illegitimate; birth record				
+Rozin	Gustaw	Rosin	Gustav	B	1886	Jun	Gottlieb	"Kublik, Florentyna"	"Kublik, Florentine"	Pryszczowa Gora	17	Lublin 1886	00061	236	K Krueger									
+Holland	Emilija	Holland	Emilie	B	1886	Jun	August	"Blech, Julijanna"	"Blech, Julianna"	Zakrzowek	17	Lublin 1886	00061	237	K Krueger									
+Schultz	Gotlib	Schultz	Gottlieb	B	1886	Jun	Friedrich	"Harmel, Eleonora"	"Harmel, Eleonore"	Galezow	17	Lublin 1886	00061	238	K Krueger									
+Pide	Lidyja	Pide	Lidia	B	1886	Jun	Martin	"Linde, Emma"	"Linde, Emma"	Bekiesza	17	Lublin 1886	00062	239	K Krueger									
+Zielke	August	Zielke	August	B	1886	Jun	August	"Kropp, Emilia"	"Kropp, Emilie"	Baran	17	Lublin 1886	00062	240	K Krueger									
+Hintz	Emilija	Hintz	Emilie	B	1886	Jun	August	"Tepper, Emilia"	"Tepper, Emilie"	Majdan Krasieninski	17	Lublin 1886	00062	241	K Krueger									
+Meier	Gustaw	Meier	Gustav	B	1886	Jun	Gottlieb	"Sommerfeld, Emilia"	"Sommerfeld, Emilie"	Lipniak	17	Lublin 1886	00062	242	K Krueger									
+Kinitz	Jan	Kinitz	Johann	B	1886	Jun	Friedrich	"Markwart, Henryka"	"Markwart, Henriette"	Piaseczno	17	Lublin 1886	00063	243	K Krueger									
+Domres	Wilhelm	Domres	Wilhelm	B	1886	Jun	Johann	"Keding, Julijanna"	"Keding, Julianna"	Stefanow	17	Lublin 1886	00063	244	K Krueger									
+Schwartz	Alwina	Schwartz	Alwine	B	1886	Jun	Gottlieb	"Riewe, Justyna"	"Riewe, Justine"	Bekiesza	17	Lublin 1886	00063	245	K Krueger									
+Pyde	Emilija	Pide	Emilie	B	1886	Jun	Ludwig	"Wilde, Paulina"	"Wilde, Pauline"	Ludwinow	17	Lublin 1886	00063	246	K Krueger									
+Lieske	Julijanna	Lieske	Julianna	B	1886	Jun	Adam	"Lieske, Julijanna"	"Lieske, Julianna"	Wolka Rozwadowska	17	Lublin 1886	00064	247	K Krueger									
+Lieske	Paulina	Lieske	Pauline	B	1886	Jun	August	"Arndt, Wilhelmina"	"Arndt, Wilhelmine"	Wolka Rozwadowska	17	Lublin 1886	00064	248	K Krueger									
+Markwart	Matylda	Markwart	Mathilde	B	1886	Jun	Johann	"Arndt, Matylda"	"Arndt, Mathilde"	Rozplucie	17	Lublin 1886	00064	249	K Krueger									
+Friedrich		Friedrich	stillborn female	D	1886	Jun	Heinrich	"Selke, Zuzanna"	"Selke, Susanna"	Wolka Rozwadowska	17	Lublin 1886	00064	250	K Krueger					birth record				
+Grams	Matylda	Grams	Mathilde	B	1886	Jun	Ludwig	"Kot, Augusta Adolfina"	"Kott, Auguste Adolfine"	Jagodne	17	Lublin 1886	00065	251	K Krueger									
+Krumrik	Juliusz	Krumrich	Julius	B	1886	Jul	Johann	"Maertin, Anna"	"Mertin, Anna"	Wola Korybutowa	17	Lublin 1886	00065	252	K Krueger									
+Koch	Ewa	Koch	Eva	B	1886	Jul	Christoph	"Meier, Justyna"	"Meier, Justine"	Jaroszewice	17	Lublin 1886	00065	253	K Krueger									
+Schief	Justyna	Schief	Justine	B	1886	Jul	Gottfried	"Mantei, Julijanna"	"Mantei, Julianna"	Wilczopole	17	Lublin 1886	00065	254	K Krueger									
+Schief	Augustyna	Schief	Augustine	B	1886	Jul	Gottfried	"Mantei, Julijanna"	"Mantei, Julianna"	Wilczopole	17	Lublin 1886	00066	255	K Krueger									
+Kitzmann	Helena	Kitzmann	Helene	B	1886	Jul	Gottlieb	"Wutke, Paulina"	"Wutke, Pauline"	Wola Korybutowa	17	Lublin 1886	00066	256	K Krueger									
+Kiri	Henryk	Kiri	Heinrich	B	1886	Jul	Phillipp	"Baecker, Katarzyna"	"Becker, Katharina"	Borkowizna	17	Lublin 1886	00066	257	K Krueger									
+Filip	Fryderyk	Phillip	Friedrich	B	1886	Jul	Christian	"Heimann, Paulina"	"Heimann, Pauline"	Zawada	17	Lublin 1886	00066	258	K Krueger									
+Kisser	August Henryk	Kisser	August Heinrich	B	1886	Jul	unknown/unbekannt	"Kisser, Ernestyna"	"Kisser, Ernestine"	Jagodne	17	Lublin 1886	00067	259	K Krueger									
+Fenski	Julijanna	Fenske	Julianna	B	1886	Jul	Adam	"Haupt, Eufrozyna"	"Haupt, Euphrosine"	Janopol	17	Lublin 1886	00067	260	K Krueger									
+Mueller	Anna	Mueller	Anna	B	1886	Jul	unknown/unbekannt	"Mueller, Paulina"	"Mueller, Pauline"	Ostrowek	17	Lublin 1886	00067	261	K Krueger									
+Klan		Klan	stillborn male	D	1886	Jul	Ferdinand	"Schmaltz, Emilia"	"Schmaltz, Emilie"	Grady	17	Lublin 1886	00067	262	K Krueger					birth record				
+Schroeder	Lidyja	Schroeder	Lidia	B	1886	Jul	Gottlieb	"Gruening, Krystyna"	"Gruening, Christine"	Albertow	17	Lublin 1886	00068	263	K Krueger									
+Boroski	Julijanna	Borowski	Julianna	B	1886	Jul	August	"Breit, Emilia"	"Breit, Emilie"	Rozplucie	17	Lublin 1886	00068	264	K Krueger									
+Splett	Ludwik	Splett	Ludwig	B	1886	Jul	Ludwig	"Lobstein, Ludwika"	"Lobstein, Luise"	Cycow	17	Lublin 1886	00068	265	K Krueger									
+Domke	Fryderyk	Domke	Friedrich	B	1886	Jul	Gottlieb	"Kwast, Julijanna"	"Kwast, Julianna"	Wola Lisowska	17	Lublin 1886	00068	266	K Krueger									
+Hoffmann	Karolina	Hoffmann	Karoline	B	1886	Jul	Gottfried	"Muench, Ludwika"	"Muench, Luise"	Jasieniec	17	Lublin 1886	00069	267	K Krueger									
+Jaeger	Lidyja	Jaeger	Lidia	B	1886	Jul	Johann	"Stewin, Karolina"	"Stewin, Karoline"	Kobylki	17	Lublin 1886	00069	268	K Krueger									
+Rosin	Lidyja	Rosin	Lidia	B	1886	Jul	Johann	"Buss, Wilhelmina"	"Buss, Wilhelmine"	Janowica	17	Lublin 1886	00069	269	K Krueger									
+Jesse	Emma	Jesse	Emma	B	1886	Jul	Johann	"Lusch, Paulina"	"Lusch, Pauline"	Cycow	17	Lublin 1886	00069	270	K Krueger									
+Hermann		Hermann	stillborn male	D	1886	Jul	Gottlieb	"Werner, Ewa"	"Werner, Eva"	Cycow	17	Lublin 1886	00070	271	K Krueger					birth record				
+Draheim	Julijanna	Draheim	Julianna	B	1886	Jul	Friedrich	"Wilke, Julijanna"	"Wilke, Julianna"	Zarobka	17	Lublin 1886	00070	272	K Krueger									
+Lentz	Samuel	Lentz	Samuel	B	1886	Jul	Christian	"Neumann, Ludwika"	"Neumann, Luise"	Cycow	17	Lublin 1886	00070	273	K Krueger									
+Lentz	Paulina	Lentz	Pauline	B	1886	Jul	Christian	"Neumann, Ludwika"	"Neumann, Luise"	Cycow	17	Lublin 1886	00070	274	K Krueger									
+Molzahn	Matylda	Molzahn	Mathilde	B	1886	Jul	Friedrich Gottfried	"Will, Paulina"	"Will, Pauline"	Jagodne	17	Lublin 1886	00071	275	K Krueger									
+Lieske	Julijanna	Lieske	Julianna	B	1886	Jul	Julius	"Bathke, Florentyna"	"Badke, Florentine"	Wolka Rozwadowska	17	Lublin 1886	00071	276	K Krueger									
+Raunest	Filip	Raunest	Philipp	B	1886	Jul	Michael	"Martin, Katarzyna"	"Martin, Katharina"	Potok	17	Lublin 1886	00071	277	K Krueger									
+Flatt	Karolina	Flatt	Karoline	B	1886	Jul	Friedrich	"Schmidt, Klara"	"Schmidt, Klara"	Potok	17	Lublin 1886	00071	278	K Krueger									
+Dei	Rudolf	Dei	Rudolf	B	1886	Jul	Friedrich Wilhelm	"Koepke, Paulina"	"Koepke, Pauline"	Baran	17	Lublin 1886	00072	279	K Krueger									
+Schultz	Matylda	Schultz	Mathilde	B	1886	Jul	Wilhelm	"Lieske, Justyna"	"Lieske, Justine"	Wolka Rozwadowska	17	Lublin 1886	00072	280	K Krueger									
+Riemer	Adolf	Riemer	Adolf	B	1886	Jul	Friedrich	"Kisser, Dorota"	"Kisser, Dorothea"	Cycow	17	Lublin 1886	00072	281	K Krueger									
+Feifer	Jozefa	Pfeiffer	Josefa	B	1886	Jul	Josef	"Bremer, Emilia"	"Bremer, Emilie"	Cycow	17	Lublin 1886	00072	282	K Krueger									
+Schultz	Wladyslaw	Schultz	Walter	B	1886	Jul	Friedrich	"Schmidtke, Matylda"	"Schmidtke, Mathilde"	Wolka Nadrybska	17	Lublin 1886	00073	283	K Krueger									
+Nickel	Paulina	Nickel	Pauline	B	1886	Jul	Gottfried	"Jabusz, Wilhelmina"	"Jabusch, Wilhelmine"	Antonin Nowy	17	Lublin 1886	00073	284	K Krueger									
+Fester	Emilija	Fester	Emilie	B	1886	Jul	Eduard	"Krueger, Karolina"	"Krueger, Karoline"	Jasieniec	17	Lublin 1886	00073	285	K Krueger									
+Kuehn	Wilhelm	Kuehn	Wilhelm	B	1886	Jul	Otto	"Kuehn, Emilia"	"Kuehn, Emilie"	Trojnia	17	Lublin 1886	00073	286	K Krueger									
+Baumgardt	Leon	Baumgardt	Leon	B	1886	Jul	Georg	"Kinass, Alwina"	"Kinas, Alwine"	Cycow	17	Lublin 1886	00074	287	K Krueger									
+Huff	Paulina	Huff	Pauline	B	1886	Jul	Gottlieb	"Krentz, Wilhelmina"	"Krentz, Wilhelmine"	Antoniowka	17	Lublin 1886	00074	288	K Krueger									
+Wendland	Wilhelm	Wendland	Wilhelm	B	1886	Jul	Samuel	"Zeretzki, Rozalia"	"Zerecki, Rosalie"	Bekiesza	17	Lublin 1886	00074	289	K Krueger									
+Goldniak	August	Goldniak	August	B	1886	Jul	Karl	"Peltzer, Fryderyka"	"Peltzer, Friederike"	Ludwinow	17	Lublin 1886	00074	290	K Krueger									
+Mantik	Adam	Mantik	Adam	B	1886	Jul	unknown/unbekannt	"Mantik, Maryjanna"	"Mantik, Marianna"	Lesniczowka	17	Lublin 1886	00075	291	K Krueger									
+Busse	Gustaw	Buss	Gustav	B	1886	Jul	Christoph	"Wegner, Paulina"	"Wegner, Pauline"	Stefanow	17	Lublin 1886	00075	292	K Krueger									
+Neumann	Jakob Fryderyk	Neumann	Jakob Friedrich	B	1886	Jul	Friedrich	"Luedtke, Emilia"	"Luedke, Emilie"	Bystrzyca	17	Lublin 1886	00075	293	K Krueger									
+Kirsch	Julijanna	Kirsch	Julianna	B	1886	Jul	Ludwig	"Zuelke, Ludwika"	"Zielke, Luise"	Jelino	17	Lublin 1886	00075	294	K Krueger									
+Erber	Adolf	Erber	Adolf	B	1886	Jul	unknown/unbekannt	"Erber, Emilia"	"Erber, Emilie"	Adamow	17	Lublin 1886	00076	295	K Krueger									
+Steinke		Steinke	stillborn female	D	1886	Jul	Heinrich	"Hoffmann, Florentyna"	"Hoffmann, Florentine"	Sobieszczany	17	Lublin 1886	00076	296	K Krueger					birth record				
+Keding	Gustaw	Keding	Gustav	B	1886	Jul	Daniel	"Posein, Krystyna"	"Posein, Christine"	Cycow	17	Lublin 1886	00076	297	K Krueger									
+Steinke	Augusta	Steinke	Auguste	B	1886	Aug	Friedrich	"Minchen, Paulina"	"Minchen, Pauline"	Bielany	17	Lublin 1886	00076	298	K Krueger									
+Tomm	Fryderyk	Tomm	Friedrich	B	1886	Aug	Friedrich	"Polnau, Katarzyna"	"Polnau, Katharina"	Cycow	17	Lublin 1886	00077	299	K Krueger									
+Rehm	Ernestyna Karolina	Rehm	Ernestine Karoline	B	1886	Aug	Jakob	"Duelge, Joanna"	"Duelge, Johanna"	Juliopol	17	Lublin 1886	00077	300	K Krueger									
+Dreger	Ferdynand	Draeger	Ferdinand	B	1886	Aug	Ferdinand	"Machel, Wilhelmina"	"Machel, Wilhemine"	Juliopol	17	Lublin 1886	00077	301	K Krueger									
+Stachoski	Matylda	Stachowski	Mathilde	B	1886	Aug	Gustav	"Schmidt, Ludwika"	"Schmidt, Luise"	Jagodne	17	Lublin 1886	00077	302	K Krueger									
+Kufelt	Adolf	Kufeld	Adolf	B	1886	Aug	Christian	"Labrentz, Justyna"	"Labrentz, Justine"	Ostrowek	17	Lublin 1886	00078	303	K Krueger									
+Kowalski	Ludwika	Kowalski	Luise	B	1886	Aug	Michael	"Zerbin, Justyna"	"Zerbin, Justine"	Wola Korybutowa	17	Lublin 1886	00078	304	K Krueger									
+Luetke	Wilhelm Gotfryd	Luetke	Wilhelm Gottfried	B	1886	Aug	Gottfried	"Pachal, Karolina"	"Pachal, Karoline"	Sewerynowka	17	Lublin 1886	00078	305	K Krueger									
+Jasmann	Emma	Jassmann	Emma	B	1886	Aug	August	"Poeppel, Henryka"	"Poeppel, Henriette"	Malinowka	17	Lublin 1886	00078	306	K Krueger									
+Siering	Ludwik	Siering	Ludwig	B	1886	Aug	Johann	"Schweizer, Katarzyna"	"Schweitzer, Katharina"	Borkowizna	17	Lublin 1886	00079	307	K Krueger									
+Hiller	Daniel	Hiller	Daniel	B	1886	Aug	Michael	"Jeske, Ewa"	"Jeske, Eva"	Sewerynowka	17	Lublin 1886	00079	308	K Krueger									
+Gacke	Hulda	Gatzke	Hulda	B	1886	Aug	Jakob	"Froehlich, Henryka"	"Froehlich, Henriette"	Zawada	17	Lublin 1886	00079	309	K Krueger									
+Denski	Emilija	Denski	Emilie	B	1886	Aug	Friedrich	"Stein, Augusta"	"Stein, Auguste"	Janopol	17	Lublin 1886	00079	310	K Krueger									
+Rode	Fryderyk Gotlib	Rode	Friedrich Gottlieb	B	1886	Aug	Karl	"Joachim, Ernestyna"	"Joachim, Ernestine"	Antoniowka	17	Lublin 1886	00080	311	K Krueger									
+Job	Teofilija	Job	Theophile	B	1886	Aug	Ludwig	"Krentz, Julia"	"Krentz, Julia"	Antoniowka	17	Lublin 1886	00080	312	K Krueger									
+Raunest	Fryderyk	Raunest	Friedrich	B	1886	Aug	Friedrich	"Lorenz, Malgozata"	"Lorentz, Margarete"	Borkowizna	17	Lublin 1886	00080	313	K Krueger									
+Krueger	Amalia	Krueger	Amalie	B	1886	Aug	Michael	"Schultz, Wilhelmina"	"Schultz, Wilhelmine"	Malinowka	17	Lublin 1886	00080	314	K Krueger									
+Drachenberg	Michal	Drachenberg	Michael	B	1886	Aug	Heinrich	"Polnau, Elzbieta"	"Polnau, Elisabeth"	Cycow	17	Lublin 1886	00081	315	K Krueger									
+Hauf	Gustaw	Hauf	Gustav	B	1886	Aug	Daniel	"Friedrich, Justyna"	"Friedrich, Justine"	Bekiesza	17	Lublin 1886	00081	316	K Krueger									
+Jung	August	Jung	August	B	1886	Aug	Reinhard	"Galster, Emma"	"Galster, Emma"	Cycow	17	Lublin 1886	00081	317	K Krueger					twin				
+Jung	Juliusz	Jung	Julius	B	1886	Aug	Reinhard	"Galster, Emma"	"Galster, Emma"	Cycow	17	Lublin 1886	00081	318	K Krueger					twin				
+Hoffmann	August	Hoffmann	August	B	1886	Aug	Gottlieb	"Wozinski, Wilhelmina"	"Wodzinski, Wilhelmine"	Malinowka	17	Lublin 1886	00082	319	K Krueger									
+Schlabs	Ludwik	Schlaps	Ludwig	B	1886	Aug	August	"Jess, Wilhelmina"	"Jess, Wilhelmine"	Wola Korybutowa	17	Lublin 1886	00082	320	K Krueger									
+Brendel	Karolina	Brendel	Karoline	B	1886	Aug	Heinrich Friedrich	"Tober, Zuzanna"	"Tober, Susanna"	Wola Korybutowa	17	Lublin 1886	00082	321	K Krueger									
+Bloch	Edward	Bloch	Eduard	B	1886	Aug	Friedrich	"Luedke, Karolina"	"Luedke, Karoline"	Malkow	17	Lublin 1886	00082	322	K Krueger									
+Radke	Ludwik	Radke	Ludwig	B	1886	Aug	Andreas	"Jung, Paulina"	"Jung, Pauline"	Cycow	17	Lublin 1886	00083	323	K Krueger									
+Lentz	Gustaw	Lentz	Gustav	B	1886	Aug	Andreas	"Honke, Rozalia"	"Honke, Rosalie"	Zurawiniec	17	Lublin 1886	00083	324	K Krueger									
+Rachow	Juliusz	Rachow	Juliusz	B	1886	Aug	Hermann	"Heimann, Karolina"	"Heimann, Karoline"	Zawada	17	Lublin 1886	00083	325	K Krueger									
+Ristok	Michal	Ristok	Michael	B	1886	Aug	Johann	"Lieske, Anna Krystyna"	"Lieske, Anna Christine"	Trojaczkowice 	17	Lublin 1886	00083	326	K Krueger									
+Jekel	Adolf	Jekel	Adolf	B	1886	Aug	Ferdinand	"Filip, Anna"	"Filipp, Anna"	Kaznow	17	Lublin 1886	00084	327	K Krueger									
+Patzer	Natalija	Patzer	Natalie	B	1886	Aug	Karl	"Denski, Ludwika"	"Denski, Luise"	Tarkawica	17	Lublin 1886	00084	328	K Krueger									
+Kientiz	Wandalina	Kinitz	Wandaline	B	1886	Aug	Christoph	"Klukas, Rozalia"	"Klukas, Rosalie"	Cycow	17	Lublin 1886	00084	329	K Krueger									
+Splett	Fryderyk	Splett	Friedrich	B	1886	Aug	Michael	"Schmidtke, Emilia"	"Schmidtke, Emilie"	Janowica	17	Lublin 1886	00084	330	K Krueger					birth in 1881; father deceased				
+Kowalski	Augustyna	Kowalski	Augustine	B	1886	Aug	Michael	"Drews, Rozalia"	"Drews, Rosalie"	Cycow	17	Lublin 1886	00085	331	K Krueger									
+Galtz	Blondyna Paulina	Galtz	Blondine Pauline	B	1886	Aug	Johann	"Reich, Emma Rozalia"	"Reich, Emma Rosalie"	Zezulin	17	Lublin 1886	00085	332	K Krueger									
+Jekel	Emilija	Jekel	Emilie	B	1886	Aug	Adolf	"Meule, Katarzyna"	"Meule, Katharina"	Przymus	17	Lublin 1886	00085	333	K Krueger									
+Goering	Karol	Goering	Karl	B	1886	Aug	Nikolaus	"Zygmuntowicz, Karolina"	"Zygmuntowicz, Karoline"	Lublin	17	Lublin 1886	00085	334	K Krueger					born Oct 1885				
+Mittelstaedt	Augusta	Mittelstaedt	Auguste	B	1886	Aug	Martin	"Jekel, Maryjanna"	"Jekel, Marianne"	Sewerynowka	17	Lublin 1886	00086	335	K Krueger									
+Langner	Olga	Langner	Olga	B	1886	Aug	Wilhelm	"Tiede, Emilia"	"Tiede, Emilie"	Sobieszczany	17	Lublin 1886	00086	336	K Krueger									
+Brauch	Jakob	Brauch	Jakob	B	1886	Aug	Philipp	"Haak, Wilhelmina"	"Haak, Wilhelmine"	Borkowizna	17	Lublin 1886	00086	337	K Krueger									
+Winter	Emilija	Winter	Emilie	B	1886	Aug	Christoph	"Kaus, Julijanna"	"Kaus, Julianna"	Stefanow	17	Lublin 1886	00086	338	K Krueger									
+Drews	Emilija	Drews	Emilie	B	1886	Aug	August	"Richter, Justyna"	"Richter, Justine"	Malinowka	17	Lublin 1886	00087	339	K Krueger									
+Hark	Augustyna	Hark	Augustine	B	1886	Aug	Karl Friedrich	"Reich, Joanna"	"Reich, Johanna"	Jozefin	17	Lublin 1886	00087	340	K Krueger									
+Albrecht	Hermann	Albrecht	Hermann	B	1886	Aug	Peter	"Bankowski, Wilhelmina"	"Bankowski, Wilhelmine"	Jasieniec	17	Lublin 1886	00087	341	K Krueger									
+Kohl		Kohl	stillborn male	D	1886	Aug	Gottfried	"Dering, Julijanna"	"Dering, Julianna"	Antonin Stary	17	Lublin 1886	00087	342	K Krueger					birth record				
+Konrad	Emil	Konrad	Emil	B	1886	Aug	Ludwig	"Hartwich, Emilia"	"Hartwich, Emilie"	Zezulin	17	Lublin 1886	00088	343	K Krueger									
+Lange	Julijanna	Lange	Julianna	B	1886	Aug	Wilhelm	"Banik, Karolina"	"Banik, Karoline"	Wolka Siemienska	17	Lublin 1886	00088	344	K Krueger									
+Badke	Emil	Badke	Emil	B	1886	Sep	Johann	"Gruening, Wilhelmina"	"Gruening, Wilhelmine"	Ludwinow	17	Lublin 1886	00088	345	K Krueger									
+Jesske	Justyna	Jeske	Justine	B	1886	Sep	Wilhelm	"Steinke, Ludwika"	"Steinke, Luise"	Trzeszkowice	17	Lublin 1886	00088	346	K Krueger									
+Borda	Emil Edward	Borda	Emil Eduard	B	1886	Sep	unknown/unbekannt	"Borda, Augusta"	"Borda, Auguste"	Wilczopole	17	Lublin 1886	00089	347	K Krueger									
+Mitzner	Augustyna	Mitzner	Augustine	B	1886	Sep	August	"Behnke, Karolina"	"Benke, Karoline"	Trzeszkowice	17	Lublin 1886	00089	348	K Krueger									
+Zuknik	Fryderyk	Zuknik	Friedrich	B	1886	Sep	Heinrich	"Begalke, Anna Krystyna"	"Begalke, Anna Christine"	Janowica	17	Lublin 1886	00089	349	K Krueger									
+Rach	Adolf	Rach	Adolf	B	1886	Sep	Ludwig	"Luetke, Fryderyka"	"Luetke, Friederike"	Sewerynowka	17	Lublin 1886	00089	350	K Krueger									
+Duesterberg	Fryderyk	Duesterberg	Friedrich	B	1886	Sep	Jakob	"Matheis, Berta"	"Matheis, Berta"	Kamionka	17	Lublin 1886	00090	351	K Krueger									
+Kiel	Emilija	Kiel	Emilie	B	1886	Sep	Eduard	"Witzke, Emilia"	"Witzke, Emilie"	Bogdanka	17	Lublin 1886	00090	352	K Krueger									
+Ratke	Lidyja	Ratke	Lidia	B	1886	Sep	Gottlieb	"Gruening, Rozalia"	"Gruening, Rosalie"	Wolka Nadrybska	17	Lublin 1886	00090	353	K Krueger									
+Domres	Wilhelm	Domres	Wilhelm	B	1886	Sep	Christian	"Nickl, Julijanna"	"Nickel, Julianna"	Stefanow	17	Lublin 1886	00090	354	K Krueger									
+Siering		Siering	stillborn male	D	1886	Sep	Jakob	"Kurtzmann, Rozalia"	"Kurtzmann, Rosalie"	Pawlow	17	Lublin 1886	00091	355	K Krueger					birth record				
+Schiewe	Anna Ludwika	Schiewe	Anna Luise	B	1886	Sep	Andreas	"Braun, Ewa"	"Braun, Eva"	Bekiesza	17	Lublin 1886	00091	356	K Krueger									
+Drath	Emilija	Drath	Emilie	B	1886	Sep	Heinrich	"Deutschlender, Julijanna"	"Deutschlaender, Julianna"	Wilczopole	17	Lublin 1886	00091	357	K Krueger									
+Kriesel	Juliusz	Kriesel	Julius	B	1886	Sep	unknown/unbekannt	"Kriesel, Wilhelmina"	"Kriesel, Wilhelmine"	Lublin	17	Lublin 1886	00091	358	K Krueger									
+Wilke	Otylija	Wilke	Ottilie	B	1886	Sep	Johann	"Wozinski, Katarzyna"	"Wodzinski, Katharina"	Wola Korybutowa	17	Lublin 1886	00092	359	K Krueger									
+Scholtz	Jan Ludwik	Scholtz	Johann Ludwig	B	1886	Sep	Gustav Ernst	"Haberlau, Maryja Ludwika"	"Haberlau, Maria Luise"	Lublin	17	Lublin 1886	00092	360	K Krueger									
+Lieske	Juliusz	Lieske	Julius	B	1886	Sep	August	"Lokstein, Paulina"	"Lokstein, Pauline"	Wolka Rozwadowska	17	Lublin 1886	00092	361	K Krueger									
+Gesel	Henryka	Gesell	Henriette	B	1886	Sep	Ludwig	"Hanisch, Justyna"	"Hanisch, Justine"	Malinowka	17	Lublin 1886	00092	362	K Krueger									
+Lemke	Jakob	Lemke	Jakob	B	1886	Sep	Gustav	"Deutschlaender, Emilia"	"Deutschlaender, Emilie"	Sobieszczany	17	Lublin 1886	00093	363	K Krueger									
+Martin	Filip	Martin	Philipp	B	1886	Sep	Adolf	"Hahn, Krystyna"	"Hahn, Christine"	Potok	17	Lublin 1886	00093	364	K Krueger									
+Schmeltzer	Gustaw	Schmeltzer	Gustav	B	1886	Sep	Samuel	"Luther?, Ester"	"Luther, Ester"	Bogdanka	17	Lublin 1886	00093	365	K Krueger									
+Thiede	Gustaw	Tiede	Gustav	B	1886	Sep	Johann	"Thiede, Justyna"	"Tiede, Justine"	Wolka Zablocka	17	Lublin 1886	00093	366	K Krueger									
+Steinke	Olga	Steinke	Olga	B	1886	Sep	Wilhelm	"Kintopf, Emilia"	"Kintopf, Emilie"	Sobieszczany	17	Lublin 1886	00094	367	K Krueger									
+Hubert	Matylda	Hubert	Mathilde	B	1886	Sep	Johann	"Krueger, Otylia"	"Krueger, Ottilie"	Janowica	17	Lublin 1886	00094	368	K Krueger									
+Lehmann	Jan Rudolf	Lehmann	Johann Rudolf	B	1886	Sep	Wilhelm	"Wudke, Karolina"	"Wudke, Karoline"	Wola Korybutowa	17	Lublin 1886	00094	369	K Krueger									
+Braun	Wilhelm	Braun	Wilhelm	B	1886	Sep	Michael	"Deppner, Matylda"	"Depner, Mathilde"	Szczecin	17	Lublin 1886	00094	370	K Krueger									
+Potratz	Ludwik	Potratz	Ludwig	B	1886	Sep	Michael	"Schultz, Julijanna"	"Schultz, Julianna"	Juliopol	17	Lublin 1886	00095	371	K Krueger									
+Wendland	Emilija	Wendland	Emilie	B	1886	Sep	Wilhelm	"Gust, Julijanna"	"Gust, Julianna"	Ludwinow	17	Lublin 1886	00095	372	K Krueger									
+Bluemke	Emil	Bluemke	Emil	B	1886	Sep	Gottlieb	"Domres, Justyna"	"Domres, Justine"	Stefanow	17	Lublin 1886	00095	373	K Krueger									
+Schultz		Schultz	stillborn male	D	1886	Sep	Rudolf	"Chalupnik, Franciszka"	"Chalupnik, Franziska"	Jagodne	17	Lublin 1886	00095	374	K Krueger					birth record				
+Walter	Ludwik	Walter	Ludwig	B	1886	Sep	August	"Bansemeier, Fryderyka"	"Bansemeier, Friederike"	Malinowka	17	Lublin 1886	00096	375	K Krueger									
+Firus	Rudolf	Firus	Rudolf	B	1886	Sep	unknown/unbekannt	"Firus, Julijanna"	"Firus, Julianna"	Szczecin	17	Lublin 1886	00096	376	K Krueger									
+Marchwicki	Henryka	Marchwicki	Henriette	B	1886	Sep	Franz	"Beeger, Matylda"	"Beeger, Mathilde"	Lublin	17	Lublin 1886	00096	377	K Krueger									
+Sperling	Rudolf	Sperling	Rudolf	B	1886	Sep	unknown/unbekannt	"Sperling, Paulina"	"Sperling, Pauline"	Malinowka	17	Lublin 1886	00096	378	K Krueger									
+Strauch	Alwina	Strauch	Alwine	B	1886	Sep	Martin	"Jahn, Ernestyna"	"Jahn, Ernestine"	Jozefow	17	Lublin 1886	00097	379	K Krueger									
+Gutsche	Wilhelmina	Gutsche	Wilhelmine	B	1886	Sep	Johann	"Schultz, Karolina"	"Schultz, Karoline"	Lendo 	17	Lublin 1886	00097	380	K Krueger									
+Orlowski		Orlowski	stillborn male	D	1886	Sep	August	"Kurenke, Karolina"	"Kurenke, Karoline"	Zurawiniec	17	Lublin 1886	00097	381	K Krueger					birth record				
+Schmeling	Amalija	Schmeling	Amalie	B	1886	Sep	Julius	"Rolof, Elzbieta"	"Rolof, Elisabeth"	Malinowka	17	Lublin 1886	00097	382	K Krueger									
+Mueller	Edward	Mueller	Eduard	B	1886	Sep	Christoph	"Reks, Karolina"	"Reks, Karoline"	Sobieszczany	17	Lublin 1886	00098	383	K Krueger									
+Henkel	Wilhelmina	Henkel	Wilhelmine	B	1886	Sep	Gottlieb	"Eltner, Augusta"	"Eltner, Auguste"	Rozplucie	17	Lublin 1886	00098	384	K Krueger									
+Martin	Elzbieta	Martin	Elisabeth	B	1886	Sep	Christian	"Wendland, Rozalia"	"Wendland, Rosalie"	Bekiesza	17	Lublin 1886	00098	385	K Krueger									
+Kijok	Amalija Izabella	Kiok	Amalie Isabella	B	1886	Sep	Heinrich	"Moritz, Aniela Izabella"	"Moritz, Aniela Isabella"	Lublin	17	Lublin 1886	00098	386	K Krueger									
+Nickel	Gotfryd	Nickel	Gottfried	B	1886	Sep	Gottfried	"Jabus, Wilhelmina"	"Jabusch, Wilhelmine"	Nury Porosle (=Nowy Antonin?)	17	Lublin 1886	00099	387	K Krueger									
+Meier	Emilija	Meier	Emilie	B	1886	Sep	Michael	"Brandt, Wilhelmina"	"Brandt, Wilhelmine"	Lipniak	17	Lublin 1886	00099	388	K Krueger									
+Nikel	Michal	Nickel	Michael	B	1886	Sep	Ludwig	"Nuerenberg, Julijanna"	"Noerenberg, Julianna"	Wolka Siemienska	17	Lublin 1886	00099	389	K Krueger									
+Scheffler	Adolf	Scheffler	Adolf	B	1886	Sep	Daniel	"Bolmann, Emilia"	"Bolmann, Emilie"	Adamow	17	Lublin 1886	00099	390	K Krueger									
+Bluemke	Fryderyk	Bluemke	Friedrich	B	1886	Sep	Michael	"Galster, Hermina"	"Galster, Hermine"	Rozplucie	17	Lublin 1886	00100	391	K Krueger									
+Kissmann	Emilija	Kissmann	Emilie	B	1886	Sep	Gottlieb	"Manski, Julijanna"	"Manski, Julianna"	Rozplucie	17	Lublin 1886	00100	392	K Krueger									
+Haekel		Hekel	stillborn male	D	1886	Sep	Gottlieb	"Grams, Maryjanna"	"Grams, Marianne"	Stefanow	17	Lublin 1886	00100	393	K Krueger					birth record				
+Thews	Rozalia	Tews	Rosalie	B	1886	Sep	Georg	"Winter, Maryjanna"	"Winter, Marianne"	Leonardow	17	Lublin 1886	00100	394	K Krueger									
+Wels	Emilija	Wels	Emilie	B	1886	Sep	Friedrich	"Muth, Ludwika"	"Muth, Luise"	Plouszowice	17	Lublin 1886	00101	395	K Krueger									
+Busse	Maryja	Buss	Maria	B	1886	Sep	Martin	"Liedtke, Emilia"	"Liedke, Emilie"	Plouszowice	17	Lublin 1886	00101	396	K Krueger									
+Bachmann	Jozef	Bachmann	Josef	B	1886	Sep	Gottlieb	"Schultz, Emilia"	"Schultz, Emilie"	Cycow	17	Lublin 1886	00101	397	K Krueger									
+Kuehn	Michal	Kuehn	Michael	B	1886	Sep	Wilhelm	"Banik, Rozalia"	"Banik, Rosalie"	Wolka Siemienska	17	Lublin 1886	00101	398	K Krueger									
+Seib	Wilhelm	Seib	Wilhelm	B	1886	Sep	August	"Wanke, Emilia"	"Wanke, Emilie"	Ludwinow	17	Lublin 1886	00102	399	K Krueger									
+Hanisch	Justyna	Hanisch	Justine	B	1886	Sep	Michael	"Janetzki, Emilia"	"Janetzki, Emilie"	Ludwinow	17	Lublin 1886	00102	400	K Krueger									
+Jantz	Matylda	Jantz	Mathilde	B	1886	Sep	Wilhelm	"Netzel, Eufrozyna"	"Noetzel, Euphrosine"	Cycow	17	Lublin 1886	00102	401	K Krueger									
+Ulmer	Wilhelmina	Ulmer	Wilhelmine	B	1886	Sep	Friedrich	"Lau, Ewa"	"Lau, Eva"	Zawada	17	Lublin 1886	00102	402	K Krueger									
+Klemm	Karolina	Klemm	Karoline	B	1886	Oct	Karl	"Braun, Rozalia"	"Braun, Rosalie"	Jagodne	17	Lublin 1886	00103	403	K Krueger									
+Zelmer	Emilija	Zelmer	Emilie	B	1886	Oct	Ludwig	"Bloch, Justyna"	"Bloch, Justine"	Cycow	17	Lublin 1886	00103	404	K Krueger									
+Klan	Augustyna	Klan	Augustine	B	1886	Oct	Jakob	"Samoski, Krystyna"	"Samoski, Christine"	Malinowka	17	Lublin 1886	00103	405	K Krueger									
+Schiewe	Adolf	Schiewe	Adolf	B	1886	Oct	Gottlieb	"Jesse, Krystyna"	"Jesse, Christine"	Cycow	17	Lublin 1886	00103	406	K Krueger									
+Wozinski	Berta	Wodzinski	Berta	B	1886	Oct	Jakob	"Fritz, Paulina"	"Fritz, Pauline"	Malinowka	17	Lublin 1886	00104	407	K Krueger									
+Beeger	Teodor	Beeger	Theodor	B	1886	Oct	Ludwig	"Goldhaar, Anna Bronislawa"	"Goldhaar, Anna Bronislawa"	Lublin	17	Lublin 1886	00104	408	K Krueger					Russian side note from 1910				
+Gold	Jan	Gold	Johann	B	1886	Oct	Gustav	"Reske, Ludwika"	"Reske, Luise"	Pawlow	17	Lublin 1886	00104	409	K Krueger									
+Rode	Michal	Rode	Michael	B	1886	Oct	Friedrich	"Remus, Ewa"	"Remus, Eva"	Nadrybie	17	Lublin 1886	00104	410	K Krueger									
+Drews	Julijanna	Drews	Julianna	B	1886	Oct	Jakob	"Kaus, Wilhelmina"	"Kaus, Wilhelmine"	Antonin Nowy	17	Lublin 1886	00105	411	K Krueger									
+Samoski	Rudolf	Samoski	Rudolf	B	1886	Oct	August	"Schachtschneider, Julijanna"	"Schachtschneider, Julianna"	Barki	17	Lublin 1886	00105	412	K Krueger									
+Adam	Wilhelmina	Adam	Wilhelmine	B	1886	Oct	Ludwig	"Becker, Dorota"	"Becker, Dorothea"	Jelino	17	Lublin 1886	00105	413	K Krueger									
+Strauch	August	Strauch	August	B	1886	Oct	Wilhelm	"Sommerfeld, Karolina"	"Sommerfeld, Karoline"	Trojnia	17	Lublin 1886	00105	414	K Krueger									
+Pfeifer	Olga	Pfeiffer	Olga	B	1886	Oct	Johann Karl	"Meier, Emilia Paulina"	"Meier, Emilie Pauline"	Bogdanka	17	Lublin 1886	00106	415	K Krueger									
+Neudorf	Edward	Neudorf	Eduard	B	1886	Oct	Michael	"Schliefke, Wilhelmina"	"Schliefke, Wilhelmine"	Czerwonka Gozdow	17	Lublin 1886	00106	416	K Krueger									
+Schedler	Amalija	Schedler	Amalie	B	1886	Oct	Gottlieb	"Klinger, Karolina"	"Klinger, Karoline"	Cycow	17	Lublin 1886	00106	417	K Krueger									
+Beier	Wilhelm	Beier	Wilhelm	B	1886	Oct	Friedrich	"Winter, Krystyna"	"Winter, Christine"	Leonardow	17	Lublin 1886	00106	418	K Krueger									
+Lieske	Gustaw	Lieske	Gustav	B	1886	Oct	Gottlieb	"Lieske, Justyna"	"Lieske, Justine"	Wolka Rozwadowska	17	Lublin 1886	00107	419	K Krueger									
+Gill	Emma	Gill	Emma	B	1886	Oct	Gottfried	"Gutknecht, Emilia"	"Gutknecht, Emilie"	Bekiesza	17	Lublin 1886	00107	420	K Krueger									
+Hiller	Karol Ludwik	Hiller	Karl Ludwig	B	1886	Oct	Samuel	"Weiss, Marya Matylda"	"Weiss, Maria Mathilde"	Sewerynowka	17	Lublin 1886	00107	421	K Krueger									
+Abel	Augusta Adolfina	Abel	Auguste Adolfine	B	1886	Oct	Adolf	"Rode, Matylda"	"Rode, Mathilde"	Rozplucie	17	Lublin 1886	00107	422	K Krueger									
+Berlin	Maryjanna	Berlin	Marianna	B	1886	Oct	Johann	"Flint, Julijanna"	"Flint, Julianna"	Franzdorf	17	Lublin 1886	00108	423	K Krueger									
+Filip	Paulina	Filipp	Pauline	B	1886	Oct	Johann	"Ekert, Emilia"	"Eckert, Emilie"	Zawada	17	Lublin 1886	00108	424	K Krueger									
+Grimm	Wilhelm	Grimm	Wilhelm	B	1886	Oct	Philipp	"Langner, Emilia"	"Langner, Emilie"	Sobieszczany	17	Lublin 1886	00108	425	K Krueger									
+Kiri	Emilija	Kiri	Emilie	B	1886	Oct	Heinrich	"Konrad, Elzbieta"	"Konrad, Elisabeth"	Borkowizna	17	Lublin 1886	00108	426	K Krueger									
+Jeske	Edward	Jeske	Eduard	B	1886	Oct	Ferdinand	"Schmidt, Ludwika"	"Schmidt, Luise"	Wolka Siemienska	17	Lublin 1886	00109	427	K Krueger									
+Arndt	Emilija	Arndt	Emilie	B	1886	Oct	Ernst	"Kelm, Paulina"	"Kelm, Pauline"	Nowiny	17	Lublin 1886	00109	428	K Krueger									
+Sturzenbeker	Adolf	Sturtzenbecker	Adolf	B	1886	Oct	August	"Leschner, Otylia Julijanna"	"Leschner, Ottilie Julianna"	Stefanow	17	Lublin 1886	00109	429	K Krueger									
+Walter	Benjamin	Walter	Benjamin	B	1886	Oct	Erdmann Friedrich	"Piel, Paulina"	"Piel, Pauline"	Bekiesza	17	Lublin 1886	00109	430	K Krueger									
+Kurtz	Wilhelm	Kurtz	Wilhelm	B	1886	Oct	Julius	"Nuerenberg, Emilia"	"Noerenberg, Emilie"	Juliopol	17	Lublin 1886	00110	431	K Krueger									
+Machel	Rudolf Ferdynand	Machel	Rudolf Ferdinand	B	1886	Oct	Johann	"Przygoda, Wilhelmina"	"Przygoda, Wilhelmine"	Juliopol	17	Lublin 1886	00110	432	K Krueger									
+Tepper	August Andrzej	Tepper	August Andreas	B	1886	Oct	Johann	"Koch, Krystyna"	"Koch, Christine"	Egersdorf (=Dylazki)	17	Lublin 1886	00110	433	K Krueger									
+Seidel	Matylda	Seidel	Mathilde	B	1886	Oct	Emil	"Jerke, Krystyna"	"Jerke, Christine"	Siedliszcze	17	Lublin 1886	00110	434	K Krueger									
+Groth	Adolf	Groth	Adolf	B	1886	Oct	Wilhelm	"Lentz, Emilia"	"Lentz, Emilie"	Szczecin	17	Lublin 1886	00111	435	K Krueger									
+Weiss	Augustyna	Weiss	Augustine	B	1886	Oct	Sigmund	"Meister, Wilhelmina Augustyna"	"Meister, Wilhelmine Augustine"	Zarobka	17	Lublin 1886	00111	436	K Krueger									
+Bansemeier	Emilija	Bansemeier	Emilie	B	1886	Oct	Hermann	"Krimke, Karolina"	"Krinke, Karoline"	Malinowka	17	Lublin 1886	00111	437	K Krueger									
+Weiss	Berta Wilhelmina	Weiss	Berta Wilhelmine	B	1886	Oct	Karl	"Speier, Henryka"	"Speier, Henriette"	Chotynia	17	Lublin 1886	00111	438	K Krueger									
+Braun	Wladyslaw	Braun	Walter	B	1886	Oct	Johann	"Rymland, Maryjanna"	"Rimland, Marianna"	Franzdorf	17	Lublin 1886	00112	439	K Krueger									
+Sonnenberg	Teofilija	Sonnenberg	Theophile	B	1886	Oct	Michael	"Stiebner, Karolina"	"Steibner, Charlotte"	Leonardow	17	Lublin 1886	00112	440	K Krueger									
+Stapel	Zuzanna	Stapel	Susanna	B	1886	Oct	Daniel	"Hartfeld, Krystyna"	"Hartfeld, Christine"	Tarnawka	17	Lublin 1886	00112	441	K Krueger									
+Siering	Maryja Elzbieta	Siering	Maria Elisbeth	B	1886	Oct	Ludwig	"Marcinkowski, Berta"	"Martin, Berta"	Nowiny	17	Lublin 1886	00112	442	K Krueger									
+Pudwel	August	Pudwel	August	B	1886	Oct	Heinrich	"Wink, Wilhelmina"	"Wink, Wilhelmine"	Juliopol	17	Lublin 1886	00113	443	K Krueger									
+Rabe	Emilija	Rabe	Emilie	B	1886	Nov	Johann	"Patzlaw, Matylda"	"Patzlaw, Mathilde"	Ludwinow	17	Lublin 1886	00113	444	K Krueger									
+Gacke	Aleksander	Gatzke	Alexander	B	1886	Nov	Friedrich	"Schultz, Florentyna"	"Schultz, Florentine"	Zawada	17	Lublin 1886	00113	445	K Krueger									
+Zepik	Lidyja	Zepik	Lidia	B	1886	Nov	Ludwig	"Radke, Wilhelmina"	"Radke, Wilhelmine"	Albertow	17	Lublin 1886	00113	446	K Krueger									
+Drews	Emilija	Drews	Emilie	B	1886	Nov	Michael	"Gernat, Paulina"	"Gernat, Pauline"	Malinowka	17	Lublin 1886	00114	447	K Krueger									
+Schneider	Paulina	Schneider	Pauline	B	1886	Nov	Paul	"Schlak, Karolina"	"Schlak, Karoline"	Cycow	17	Lublin 1886	00114	448	K Krueger									
+Kuehn	Emilija	Kuehn	Emilie	B	1886	Nov	Wilhelm	"Zielinski, Dorota"	"Zielinski, Dorothea"	Antonin Stary	17	Lublin 1886	00114	449	K Krueger									
+Lauber	Elzbieta	Lauber	Elisabeth	B	1886	Nov	Philipp	"Mueller, Krystyna"	"Mueller, Christine"	Potok	17	Lublin 1886	00114	450	K Krueger									
+Lochstadt	Ferdynand	Lokstaedt	Ferdinand	B	1886	Nov	August	"Jaehrke, Balbina"	"Jerke, Balbine"	Malinowka	17	Lublin 1886	00115	451	K Krueger									
+Rieske	Emilija	Rieske	Emilie	B	1886	Nov	Michael	"Strauch, Anna"	"Strauch, Anna"	Cycow	17	Lublin 1886	00115	452	K Krueger									
+Groth	Gotlib	Groth	Gottlieb	B	1886	Nov	Ferdinand	"Schmidt, Henryka"	"Schmidt, Henriette"	Nadrybie	17	Lublin 1886	00115	453	K Krueger									
+Henschel	Edward	Henschel	Eduard	B	1886	Nov	Wilhelm	"Pinkowski, Eleonora Florentyna"	"Pinkowski, Eleonore Florentine"	Trojnia	17	Lublin 1886	00115	454	K Krueger									
+Segert	Juliusz	Segert	Julius	B	1886	Nov	Julius	"Maeule, Julijanna"	"Maeule, Julianna"	Zawada	17	Lublin 1886	00116	455	K Krueger									
+Luetke	Paulina	Luetke	Pauline	B	1886	Nov	David	"Fenski, Matylda"	"Fenske, Mathilde"	Cycow	17	Lublin 1886	00116	456	K Krueger									
+Bodach	Michal	Bodach	Michael	B	1886	Nov	Gottlieb	"Grenke, Paulina"	"Grenke, Pauline"	Barki	17	Lublin 1886	00116	457	K Krueger									
+Scheibner	Berta	Scheibner	Berta	B	1886	Nov	Johann Heinrich	"Zelmer, Julijanna"	"Zelmer, Julianna"	Adamow	17	Lublin 1886	00116	458	K Krueger									
+Tucholke	Adolf	Tucholke	Adolf	B	1886	Nov	Wilhelm	"Grams, Krystyna"	"Grams, Christine"	Bekiesza	17	Lublin 1886	00117	459	K Krueger									
+Fergin		Fergin	stillborn male	D	1886	Nov	August	"Schmidt, Maryjanna"	"Schmidt, Marianna"	Jastkow	17	Lublin 1886	00117	460	K Krueger					birth record				
+Ekert	Zuzanna	Eckert	Susanna	B	1886	Nov	Wilhelm	"Czarnecki, Rozalia"	"Schwarz, Rosalie"	Zawada	17	Lublin 1886	00117	461	K Krueger									
+Elbe	Gustaw	Elbe	Gustav	B	1886	Nov	Kasimir	"Leschke, Paulina"	"Leschke, Pauline"	Malinowka	17	Lublin 1886	00117	462	K Krueger									
+Luedke	Paulina	Luedke	Pauline	B	1886	Nov	Karl	"Henschel, Anna"	"Henschel, Anna"	Bekiesza	17	Lublin 1886	00118	463	K Krueger									
+Beker	Elzbieta	Becker	Elisabeth	B	1886	Nov	Jakob	"Flatt, Dorota"	"Flatt, Dorothea"	Potok	17	Lublin 1886	00118	464	K Krueger									
+Flatt	Katarzyna	Flatt	Katharina	B	1886	Nov	Andreas	"Schneider, Anna"	"Schneider, Anna"	Potok	17	Lublin 1886	00118	465	K Krueger									
+Wagner	Katarzyna	Wagner	Katharina	B	1886	Nov	Ludwig	"Schmidt, Katarzyna"	"Schmidt, Katharina"	Borkowizna	17	Lublin 1886	00118	466	K Krueger									
+Haager	Malgorzata Natalija	Haager	Margarete Natalie	B	1886	Nov	Robert	"Kupke, Paulina"	"Kupke, Pauline"	Lublin	17	Lublin 1886	00119	467	K Krueger									
+Zschornak	Ida Konstance	Schornak	Ida Konstance	B	1886	Nov	Otto Heinrich Christian	"Guse, Henryka Wilhelmina"	"Guse, Henriette Wilhelmine"	Rozplucie	17	Lublin 1886	00119	468	K Krueger									
+Lining	Wilhelmina	Lining	Wilhelmine	B	1886	Nov	Ludwig	"Fitzke, Rozalia"	"Fitzke, Rosalie"	Cycow	17	Lublin 1886	00119	469	K Krueger									
+Kotke	Ludwika	Kotke	Luise	B	1886	Nov	Karl	"Heier, Anna"	"Heier, Anna"	Ludwinow	17	Lublin 1886	00119	470	K Krueger									
+Krebs	Juliusz	Krebs	Julius	B	1886	Nov	Emil	"Lieske, Julijanna"	"Lieske, Julianna"	Trojnia	17	Lublin 1886	00120	471	K Krueger									
+Wolter	Emilija	Wolter	Emilie	B	1886	Nov	Johann	"Krueger, Justyna"	"Krueger, Justine"	Bogdanka	17	Lublin 1886	00120	472	K Krueger									
+Meier	Emilija	Meier	Emilie	B	1886	Nov	unknown/unbekannt	"Meier, Julijanna"	"Meier, Julianna"	Wola Lisowska	17	Lublin 1886	00120	473	K Krueger									
+Martin		Martin	stillborn male	D	1886	Nov	August	"Dahlke, Eufrozyna"	"Dalke, Euphrosine"	Sobolew	17	Lublin 1886	00120	474	K Krueger					birth record				
+Lining	Andrzej	Lining	Andreas	B	1886	Nov	August	"Jung, Julijanna"	"Jung, Julianna"	Cycow	17	Lublin 1886	00121	475	K Krueger									
+Maertin	Emilija	Mertin	Emilie	B	1886	Nov	Friedrich	"Pipke, Emilia"	"Pipke, Emilie"	Zarobka	17	Lublin 1886	00121	476	K Krueger									
+Gwinner	Julijanna	Gwinner	Julianna	B	1886	Nov	Johann	"Mueller, Klara"	"Mueller, Klara"	Potok	17	Lublin 1886	00121	477	K Krueger									
+Feder	Gustaw	Feder	Gustav	B	1886	Nov	Samuel	"Radke, Krystyna"	"Radke, Christine"	Bekiesza	17	Lublin 1886	00121	478	K Krueger									
+Gudrian	Gustaw	Gudrian	Gustav	B	1886	Nov	Gottfried	"Radke, Emilia"	"Radke, Emilie"	Wolka Mieczyslawska	17	Lublin 1886	00122	479	K Krueger									
+Kiel	Emilija	Kiel	Emilie	B	1886	Nov	Jakob	"Paminski, Anna"	"Paminski, Anna"	Bogdanka	17	Lublin 1886	00122	480	K Krueger									
+Schwartz	Karol	Schwartz	Karl	B	1886	Nov	Andreas	"Duesterheft, Emilia"	"Duesterhoeft, Emilie"	Dratow	17	Lublin 1886	00122	481	K Krueger									
+Kuhl	Katarzyna	Kuhl	Katharina	B	1886	Nov	Philipp	"Habich, Krystyna"	"Habich, Christine"	Borkowizna	17	Lublin 1886	00122	482	K Krueger									
+Nerenberg	Emilija	Noerenberg	Emilie	B	1886	Nov	Andreas	"Betcher, Rozalia"	"Betcher, Rosalie"	Wola Lisowska	17	Lublin 1886	00123	483	K Krueger									
+Schultz		Schultz	stillborn female	D	1886	Nov	Friedrich	"Harmel, Eleonora"	"Harmel, Eleonore"	Galezow	17	Lublin 1886	00123	484	K Krueger					birth record				
+Mantik	Emilija	Mantik	Emilie	B	1886	Nov	Samuel	"Schneider, Karolina"	"Schneider, Karoline"	Rozplucie	17	Lublin 1886	00123	485	K Krueger									
+Richter	August	Richter	August	B	1886	Nov	Adolf	"Krause, Augusta"	"Krause, Auguste"	Jelino	17	Lublin 1886	00123	486	K Krueger									
+Flatt	Filip	Flatt	Philipp	B	1886	Nov	Johann	"Flatt, Elzbieta"	"Flatt, Elisabeth"	Potok	17	Lublin 1886	00124	487	K Krueger									
+Busse	Rychard Gustaw	Buss	Richard Gustav	B	1886	Nov	Julius Wilhelm	"Kelm, Karolina"	"Kelm, Karoline"	Swidnik Maly	17	Lublin 1886	00124	488	K Krueger									
+Fenske		Fenske	stillborn male	D	1886	Nov	August	"Neumann, Anna"	"Neumann, Anna"	Cycow	17	Lublin 1886	00124	489	K Krueger					birth record				
+Schiewe	Emil	Schiewe	Emil	B	1886	Nov	Michael	"Krueger, Karolina"	"Krueger, Karoline"	Janowica	17	Lublin 1886	00124	490	K Krueger									
+Haemmerling	Juliusz Aleksander	Hemmerling	Julius Alexander	B	1886	Nov	Johann August	"Lehmann, Karolina"	"Lehmann, Karoline"	Juliopol	17	Lublin 1886	00125	491	K Krueger									
+Schoenfisch	Emilija	Schoenfisch	Emilie	B	1886	Nov	August	"Gitzel, Julijanna"	"Gitzel, Julianna"	Komarowka	17	Lublin 1886	00125	492	K Krueger									
+Rem	Fryderyk	Rehm	Friedrich	B	1886	Nov	Jakob	"Ulmer, Emilia"	"Ulmer, Emilie"	Zawada	17	Lublin 1886	00125	493	K Krueger									
+Rapp	Maryja	Rapp	Maria	B	1886	Nov	Matthias	"Zwar, Justyna"	"Zwar, Justine"	Cycow	17	Lublin 1886	00125	494	K Krueger									
+Bieler		Bieler	stillborn male	D	1886	Nov	Gottfried	"Rosentreter, Julijanna"	"Rosentreter, Julianna"	Wola Osowinska	17	Lublin 1886	00126	495	K Krueger					birth record				
+Nikel	Emilija	Nickel	Emilie	B	1886	Nov	August	"Gesell, Ludwika"	"Gesell, Luise"	Czerwonka Male	17	Lublin 1886	00126	496	K Krueger									
+Luedke	Emilija	Luedke	Emilie	B	1886	Dec	Daniel	"Duesterhoeft, Julijanna"	"Duesterhoeft, Julianna"	Bekiesza	17	Lublin 1886	00126	497	K Krueger									
+Sager	Gustaw	Sager	Gustav	B	1886	Dec	Gottlieb	"Peter, Karolina"	"Peter, Karoline"	Zurawiniec	17	Lublin 1886	00126	498	K Krueger									
+Roechert	Paulina	Roechert	Pauline	B	1886	Dec	Wilhelm	"Lucht, Karolina"	"Lucht, Karoline"	Ludwinow	17	Lublin 1886	00127	499	K Krueger									
+Beker	Barbara	Becker	Barbara	B	1886	Dec	Friedrich	"Kieri, Katarzyna"	"Kiri, Katharina"	Potok	17	Lublin 1886	00127	500	K Krueger									
+Berlin	Amalija	Berlin	Amalie	B	1886	Dec	Ludwig	"Apel, Dorota"	"Appel, Dorothea"	Franzdorf	17	Lublin 1886	00127	501	K Krueger									
+Pieper	Rudolf	Piper	Rudolf	B	1886	Dec	Karl	"Modrak, Wilhelmina"	"Modrak, Wilhelmine"	Cycow	17	Lublin 1886	00127	502	K Krueger									
+Lerke	Karol	Lerke	Karl	B	1886	Dec	Ludwig	"Gust, Julijanna"	"Gust, Julianna"	Ludwinow	17	Lublin 1886	00128	503	K Krueger									
+Winkel	Ernestyna	Winkel	Ernestine	B	1886	Dec	Friedrich	"Konrad, Karolina"	"Konrad, Karoline"	Rozplucie	17	Lublin 1886	00128	504	K Krueger									
+Bollenbach	Jakob	Bollenbach	Jakob	B	1886	Dec	Jakob	"Becker, Malgorzata"	"Becker, Margarete"	Borkowizna	17	Lublin 1886	00128	505	K Krueger									
+Grub	Katarzyna	Grub	Katharina	B	1886	Dec	Jakob	"Raunest, Malgorzata"	"Raunest, Margarete"	Potok	17	Lublin 1886	00128	506	K Krueger									
+Milbrandt	Maryja	Milbrandt	Maria	B	1886	Dec	unknown/unbekannt	"Milbrandt, Emilia"	"Milbrandt, Emilie"	Dabrowice	17	Lublin 1886	00128	507	K Krueger									
+Priebe	Gotlib	Priebe	Gottlieb	B	1886	Dec	Ferdinand	"Peter, Ernestyna"	"Peter, Ernestine"	Ostrowek	17	Lublin 1886	00128	508	K Krueger									
+Schiewe	Lidyja	Schiewe	Lidia	B	1886	Dec	Gottlieb	"Weinert, Emilia"	"Weinert, Emilie"	Cycowski Katy (=Wolka Cycowska)	17	Lublin 1886	00129	509	K Krueger									
+Harter	Leopold	Harter	Leopold	B	1886	Dec	Gottlieb	"Heffner, Paulina"	"Heffner, Pauline"	Zawada	17	Lublin 1886	00129	510	K Krueger									
+Schoepke	Emilija	Schoepke	Emilie	B	1886	Dec	Ludwig	"Gutknecht, Matylda"	"Gutknecht, Mathilde"	Sobieszczany	17	Lublin 1886	00129	511	K Krueger									
+Vetter		Vetter	stillborn female	D	1886	Dec	Julius	"Karsch-Siedlewski, Bronislawa"	"Karsch-Siedlewski, Bronislawa"	Lublin	17	Lublin 1886	00129	512	K Krueger					birth record				
+Jesse	Augustyna	Jesse	Augustine	B	1886	Dec	Ludwig	"Wolf, Matylda"	"Wolf, Mathilde"	Jozefow	17	Lublin 1886	00129	513	K Krueger									
+Strech	Otylija Natalija	Strech	Ottilie Natalie	B	1886	Dec	Eduard	"Pinkoski, Teofila"	"Pinkowski, Theophile"	Antonin Stary	17	Lublin 1886	00129	514	K Krueger									
+Hintz	Samuel	Hintz	Samuel	B	1886	Dec	Ludwig	"Schnek, Julijanna"	"Schnek, Julianna"	Wola Korybutowa	17	Lublin 1886	00130	515	K Krueger									
+Graul	Hugo Artur	Graul	Hugo Artur	B	1886	Dec	Emil Albert Wilhelm	"Ruff, Emilia Emma"	"Ruff, Emilie Emma"	Leczna	17	Lublin 1886	00130	516	K Krueger									
+Rosentreter	Florentyna	Rosentreter	Florentine	B	1886	Dec	August	"Gust, Wilhelmina"	"Gust, Wilhelmine"	Majdan Krasieninski	17	Lublin 1886	00130	517	K Krueger									
+Tilker	Paulina	Tilker	Pauline	B	1886	Dec	Christian	"Schmidt, Emilia"	"Schmidt, Emilie"	Antonin Nowy	17	Lublin 1886	00130	518	K Krueger									
+Werner	Gotlib	Werner	Gottlieb	B	1886	Dec	Gottlieb	"Jobs, Ewa Rozalia"	"Jobs, Eva Rosalie"	Cycow	17	Lublin 1886	00130	519	K Krueger									
+Orloski	Julijanna	Orlowski	Julianna	B	1886	Dec	Friedrich Wilhelm	"Neubert, Florentyna"	"Neubert, Florentine"	Wolka Siemienska	17	Lublin 1886	00130	520	K Krueger									
+Geisler	Marta	Geisler	Marta	B	1886	Dec	Michael	"Walter, Ernestyna"	"Walter, Ernestine"	Adamow	17	Lublin 1886	00131	521	K Krueger									
+Schlieske	Gotfryd	Schlieske	Gottfried	B	1886	Dec	Johann	"Pfeifer, Ludwika"	"Pfeiffer, Luise"	Jelino	17	Lublin 1886	00131	522	K Krueger									
+Bluemke	Wanda	Bluemke	Wanda	B	1886	Dec	Daniel	"Gerlach, Julijanna"	"Gerlach, Julianna"	Janowica	17	Lublin 1886	00131	523	K Krueger									
+Kelm	Gustaw	Kelm	Gustav	B	1886	Dec	Samuel	"Hedke, Augustyna"	"Hedke, Augustine"	Pryszczowa Gora	17	Lublin 1886	00131	524	K Krueger									
+Burghard	Emil	Burghard	Emil	B	1886	Dec	Heinrich	"Reich, Ludwika"	"Reich, Luise"	Stefanow	17	Lublin 1886	00131	525	K Krueger									
+Kotke	Wilhelmina	Kotke	Wilhelmine	B	1886	Dec	Christoph Erdmann	"Kaschub, Henryka"	"Kaschub, Henriette"	Malinowka	17	Lublin 1886	00131	526	K Krueger									
+Kunkel	Julijanna	Kunkel	Julianna	B	1886	Dec	Georg	"Bohlmann, Anna"	"Bohlmann, Anna"	Bogdanka	17	Lublin 1886	00132	527	K Krueger									
+Kufert		Kufert	stillborn female	D	1886	Dec	Ludwig	"Rieske, Julijanna"	"Rieske, Julianna"	Sewerynowka	17	Lublin 1886	00132	528	K Krueger					birth record				
+Prehl	Adolf	Proehl	Adolf	B	1886	Dec	Ernst	"Stelter, Wilhelmina"	"Stelter, Wilhelmine"	Nadrybie	17	Lublin 1886	00132	529	K Krueger									
+Strauch	Matylda	Strauch	Mathilde	B	1886	Dec	Ludwig	"Schultz, Wilhelmina"	"Schultz, Wilhelmine"	Jozefow	17	Lublin 1886	00132	530	K Krueger									
+Pij	Wiktor Wilhelm	Piy	Viktor Wilhelm	B	1886	Dec	Rudolf	"Leins, Karolina"	"Leins, Karoline"	Piaski Lublinskie	17	Lublin 1886	00132	531	K Krueger									
+Thiede	Julijanna	Tiede	Julianna	B	1886	Dec	Ludwig	"Kano, Henryka"	"Kano, Henriette"	Jelino	17	Lublin 1886	00132	532	K Krueger									
+Kelm	Emilija	Kelm	Emilie	B	1886	Dec	Ludwig	"Neumann, Karolina"	"Neumann, Karoline"	Cycow	17	Lublin 1886	00133	533	K Krueger									
+Mench	Anna	Muenke	Anna	B	1886	Dec	Gottlieb	"Rapczynski, Justyna"	"Rapczynski, Justine"	Malinowka	17	Lublin 1886	00133	534	K Krueger					Mench vel Muenke				
+Krueger	Anna	Krueger	Anna	B	1886	Dec	Wilhelm	"Schmidt, Karolina"	"Schmidt, Karoline"	Nadrybie	17	Lublin 1886	00133	535	K Krueger									
+Riemer	Adolf	Riemer	Adolf	B	1886	Dec	August	"Patzer, Julijanna"	"Patzer, Julianna"	Malkow	17	Lublin 1886	00133	536	K Krueger									
+Schultz	Karol	Schultz	Karl	B	1886	Dec	Ferdinand	"Lau, Ludwika"	"Lau, Luise"	Zawada	17	Lublin 1886	00133	537	K Krueger									
+Schultz	Paulina	Schultz	Pauline	B	1887	Jan	Friedrich	"Keinert, Barbara"	"Keinert, Barbara"	Lesniczowka	17	Lublin 1886	00133	538	K Krueger									
+Schmidt	Teofilija	Schmidt	Theofile	B	1887	Jan	Johann	"Schaefer, Emilia"	"Schaefer, Emilie"	Antonin Nowy	17	Lublin 1886	00134	539	K Krueger									
+Jantz	Jadwiga Alma	Jantz	Hedwig Alma	B	1887	Jan	August	"Zisak, Amanda"	"Zisak, Amanda"	Cycow	17	Lublin 1886	00134	540	K Krueger									
+Harmel		Harmel	stillborn male	D	1887	Jan	Heinrich	"Steinke, Julijanna"	"Steinke, Julianna"	Galezow	17	Lublin 1886	00134	541	K Krueger					birth record				
+Siering	Ludwik	Siering	Ludwig	B	1887	Jan	Jakob	"Baeker, Barbara"	"Becker, Barbara"	Borkowizna	17	Lublin 1886	00134	542	K Krueger									
+Podrycki	Wilhelm	Podritzki	Wilhelm	B	1887	Jan	Christian	"Gitzel, Paulina"	"Gitzel, Pauline"	Adamow	17	Lublin 1886	00134	543	K Krueger									
+Redlich	Wilhelm	Redlich	Wilhelm	B	1887	Jan	Ferdinand	"Meier, Ernestyna"	"Meier, Ernestine"	Czerwonka Male	17	Lublin 1886	00134	544	K Krueger									
+Kriese	Gustaw	Kriese	Gustav	B	1887	Jan	Wilhelm	"Gerlach, Anna Krystyna"	"Gerlach, Anna Christine"	Wola Korybutowa	17	Lublin 1886	00135	545	K Krueger									
+Wendland	Adolf	Wendland	Adolf	B	1887	Jan	August	"Aursch, Maryjanna"	"Aursch, Marianna"	Jozefow	17	Lublin 1886	00135	546	K Krueger									
+Kasner	Eufrozyna	Kassner	Euphrosine	B	1887	Jan	Ludwig	"Hek, Matylda"	"Hek, Mathilde"	Jozefow	17	Lublin 1886	00135	547	K Krueger									
+Malek	Joanna	Malek	Johanna	B	1887	Jan	Ludwig	"Wunsch, Marya"	"Wunsch, Maria"	Jelino	17	Lublin 1886	00135	548	K Krueger									
+Strauch	Florentyna	Strauch	Florentine	B	1887	Jan	Christian	"Thomke, Rozalia"	"Tomke, Rosalie"	Jozefow	17	Lublin 1886	00135	549	K Krueger									
+Klukas	Ewa	Klukas	Eva	B	1887	Jan	Michael	"Kismann, Rozalia"	"Kissmann, Rosalie"	Rozplucie	17	Lublin 1886	00135	550	K Krueger									
+Wudzke	Ernestyna	Wutzke	Ernestine	B	1887	Jan	Peter	"Neumann, Eufrozyna"	"Neumann, Euphrosine"	Jozefow	17	Lublin 1886	00136	551	K Krueger									
+Klaas	Fryderyk	Klaas	Friedrich	B	1887	Jan	Gustav	"Koberstein, Emilia"	"Koberstein, Emilie"	Skrzyniec	17	Lublin 1886	00136	552	K Krueger									
+Haak	Albertyna	Haak	Albertine	B	1887	Jan	Karl	"Friedrich, Julijanna"	"Friedrich, Julianna"	Trawniki	17	Lublin 1886	00136	553	K Krueger									
+Kwirand	Juliusz	Kwirant	Julius	B	1887	Jan	Ludwig	"Preuss, Anna"	"Preuss, Anna"	Leonardow	17	Lublin 1886	00136	554	K Krueger									
+Pachal	Fryderyk	Pachal	Friedrich	B	1887	Jan	Friedrich	"Wiese, Zuzanna"	"Wiese, Susanna"	Wolka Siemienska	17	Lublin 1886	00136	555	K Krueger									
+Behnke	Emil	Benke	Emil	B	1887	Jan	Gottlieb	"Mueller, Ernestyna"	"Mueller, Ernestine"	Sobieszczany	17	Lublin 1886	00136	556	K Krueger									
+Harmel	Henryk	Harmel	Heinrich	M	1886	Jan		"Steinke, Julijanna"	"Steinke, Julianna"	Galezow	17	Lublin 1886	00137	1	K Krueger		"Harmel, August & Harmel, Karoline"	"Steinke, Johann & Draeger, Wilhelmine"						
+Stein	Emilija	Stein	Emilie	B	1887	Jan	Friedrich	"Taeubler, Julijanna"	"Teubler, Julianna"	Cycow	17	Lublin 1886	00137	557	K Krueger									
+Wendland	Paulina	Wendland	Pauline	B	1887	Jan	Johann	"Kowalski, Zuzanna"	"Kowalski, Susanna"	Ludwinow	17	Lublin 1886	00137	558	K Krueger									
+Grams	Gotlib	Grams	Gottlieb	B	1887	Jan	Andreas	"Rathke, Karolina"	"Radke, Karoline"	Wolka Mieczyslawska	17	Lublin 1886	00137	559	K Krueger									
+Splet	August Jakob	Splett	August Jakob	M	1886	Jan		"Falkenberg, Augustyna"	"Falkenberg, Augustine"	Cycow	17	Lublin 1886	00138	2	K Krueger		"Splett, Michael & Schmidt, Wilhelmine"	"Falkenberg, Johann & Schacht, Augustine"						
+Gatzke	Krystyjan	Gatzke	Christian	M	1886	Jan		"Machel, Karolina"	"Machel, Karoline"	Zawada	17	Lublin 1886	00138	3	K Krueger		"Gatzke, Friedrich & Mehring, Rosalie"	"Machel, Wilhelm Heinrich & Hinke, Karoline"						
+Bansemaier	Hermann Gustaw	Bansemeier	Hermann Gustav	M	1886	Jan		"Krynke, Karolina Justyna"	"Krinke, Karoline Justine"	Malinowka	17	Lublin 1886	00139	4	K Krueger		"Bansemeier, Martin & Gatzke, Luise"	"Krinke, Michael & Schmaltz, Wilhelmine"						
+Risske	Michal	Riske	Michael	M	1886	Jan		"Strauch, Anna"	"Strauch, Anna"	Cycow	17	Lublin 1886	00139	5	K Krueger		"Riske, Christoph & Jantz, Wilhelmine"	"Strauch, Samuel & Stach, Marianna"						
+Tews	Piotr	Tews	Peter	M	1886	Jan		"Hek, Emilija"	"Hek, Emilie"	Jozefow	17	Lublin 1886	00140	6	K Krueger		"Tews, Samuel & Schiewe, Euphrosine"	"Hek, Ferdinand & Pfeiffer, Anna Karoline"						
+Falkenberg	Ferdynand	Falkenberg	Ferdinand	M	1886	Jan		"Froelich, Paulina"	"Froehlich, Pauline"	Jozefow	17	Lublin 1886	00140	7	K Krueger		"Falkenberg, Johann Gottlieb & Krumbein, Amalie"	"Froehlich, August & Schultz, Emilie"						
+Wolter	Fryderyk	Wolter	Friedrich	M	1886	Jan		"Rogowska, Weronika"	"Rogowski, Veronika"	Malinowka	17	Lublin 1886	00141	8	K Krueger		"Wolter, Beata"	"Rogowski, Karl & Rath, Armina"						
+Schachtschneider	Michal	Schachtschneider	Michael	M	1886	Jan		"Schroeder, Julijanna"	"Schroeder, Julianna"	Malinowka	17	Lublin 1886	00141	9	K Krueger		"Schachtschneider, Gottfried & Engel, Rosalie"	"Schroeder, Gottlieb & Gruening, Christine"						
+Nitz	Gustaw Adolf	Nitz	Gustav Adolf	M	1886	Jan		"Jantz, Rozalia"	"Jantz, Rosalie"	Deboweic	17	Lublin 1886	00142	10	K Krueger		"Nitz, Karl Ferdinand & Rolof, Dorothea"	"Jantz, Jakob & Polnau, Katharina"						
+Schief	Gustaw	Schief	Gustav	M	1886	Jan		"Behnke, Zuzanna"	"Benke, Susanna"	Stara Wies	17	Lublin 1886	00142	11	K Krueger		"Schief, Martin & Jaeger, Wilhelmine"	"Benke, Wilhelm & Kletke, Euphrosine"						
+Freitag	Emil	Freitag	Emil	M	1886	Feb		"Netzel, Ludwika"	"Netzel, Luise"	Wolka Rozwadowska	17	Lublin 1886	00143	12	K Krueger		"Freitag, Gottlieb & Freitag, Elisabeth"	"Netzel, Daniel & Jaeger, Barbara"						
+Neumann	Ludwik	Neumann	Ludwig	M	1886	Feb		"Nuerenberg, Emilija"	"Noerenberg, Emilie"	Wola Lisowska	17	Lublin 1886	00143	13	K Krueger		"Neumann, Michael & Hundt, Julianna"	"Noerenberg, August & Riske, Justine"						
+Noerenberg	Andrzej	Noerenberg	Andreas	M	1886	Feb		"Betker, Rozalia"	"Betker, Rosalie"	Wola Lisowska	17	Lublin 1886	00144	14	K Krueger		"Noerenberg, Johann & Schwartzwald, Rosine"	"Betker, August & Penno, Marianna"	"Huff, Daniel (1st husband)"					
+Mage	Adolf	Mage	Adolf	M	1886	Feb		"Erdmann, Rozalia"	"Erdmann, Rosalie"	Bielany	17	Lublin 1886	00144	15	K Krueger		"Mage, Julius & Jaeger, Friederike"	"Erdmann, Christian & Witt, Euphrosine"	"Fandrich, Pauline (1st wife)"					
+Rabe	Jan	Rabe	Johann	M	1886	Feb		"Patzlaw, Matylda"	"Patzlaw, Mathilde"	Ludwinow	17	Lublin 1886	00145	16	K Krueger		"Rabe, Anton & Lessing, Henriette"	"Patzlaw, Friedrich & Lange, Auguste"						
+Wendlandt	August	Wendland	August	M	1886	Feb		"Aursz, Maryjanna"	"Aursch, Marianna"	Wawolnica	17	Lublin 1886	00145	17	K Krueger		"Wendland, Samuel & Zelmer, Eleonore"	"Aursch, Wilhelm & Reisner, Elisabeth"						
+Kozak	Julijan	Kosak	Julian	M	1886	Feb		"Schoepke, Leokadyja Dorota"	"Schoepke, Leokadia Dorothea"	Lublin	17	Lublin 1886	00146	18	K Krueger		"Kosak, Bartholomeus & Galenzowski, Barbara"	"Schoepke, Karl Gottlieb & Vogel, Pauline"						
+Sauerbier	Michal	Sauerbier	Michael	M	1886	Feb		"Bloch, Paulina"	"Bloch, Pauline"	Malinowka	17	Lublin 1886	00146	19	K Krueger		"Sauerbier, Samuel & Kisser, Marianna"	"Bloch, Christoph & Brauer, Wilhelmine"		"Side note about March 16, 1912"				
+Schultz	Samuel	Schultz	Samuel	M	1886	Feb		"Betger, Karolina"	"Betker, Karoline"	Zawada	17	Lublin 1886	00147	20	K Krueger		"Schultz, Michael & Filipp, Karoline"	"Betker, August & Penno, Marianne"						
+Wuensch	Fryderyk Wilhelm	Wuensch	Friedrich Wilhelm	M	1886	Feb		"Hermann, Teofila"	"Hermann, Theophile"	Konskowola	17	Lublin 1886	00147	21	K Krueger		"Wuensch, Friedrich & Heide, Johanna Dorothea"	"Hermann, Rudolf & Marks, Emilie"						
+Pahl	Fryderyk	Pahl	Friedrich	M	1886	Feb		"Bartsch, Wilhelmina"	"Bartsch, Wilhelmine"	Debowiec	17	Lublin 1886	00148	22	K Krueger		"Pahl, Daniel & Ziemer, Anna Christine"	"Bartsch, Daniel & Rosin, Karoline"	"Holtz or Goltz, Karoline (1st wife); Konrad, Wilhelm (1st husband)"					
+Seemann	Michal	Seemann	Michael	M	1886	Feb		"Tischler, Rozalija"	"Tischler, Rosalie"	Adamow	17	Lublin 1886	00148	23	K Krueger		"Seemann, Andreas & Stenzel, Dorothea"	"Tischler, Michael & Kaus, Justine"	"Hintz, Friederike (1st wife)"					
+Drews	Michal	Drews	Michael	M	1886	Feb		"Gernart, Paulina"	"Gernat, Pauline"	Malinowka	17	Lublin 1886	00149	24	K Krueger		"Drews, Michael & Lentz, Elisabeth"	"Gernat, Peter & Propp, Anna"						
+Mathies	Reinhold Wilhelm	Mattis	Reinhold Wilhelm	M	1886	Feb		"Hintz, Julijanna"	"Hintz, Julianna"	Kamionka	17	Lublin 1886	00149	25	K Krueger		"Mattis, Albert & Kopischke, Alwine"	"Hintz, Friedrich & Trojan, Luise"						
+Zerbian	Michal	Zerbian	Michael	M	1886	Feb		"Klingbeil, Matylda"	"Klingbeil, Mathilde"	Wola Lisowska	17	Lublin 1886	00150	26	K Krueger		"Zerbian, Ludwig & Ziemer, Anna"	"Klingbeil, Ludwig & Zelmer, Justine"						
+Drechlser	Wilhelm	Drechsler	Wilhelm	M	1886	Feb		"Goerle, Karolina"	"Gerle, Karoline"	Marianka	17	Lublin 1886	00150	27	K Krueger		"Drechlser, Michael & Friedrich, Anna"	"Gerle, Christian & Zinn, Luise"						
+Cybart	Michal	Ziebart	Michael	M	1886	Feb		"Heppner, Emilija Szarlotta"	"Hepner, Emilie Charlotte"	Nadrybie	17	Lublin 1886	00151	28	K Krueger		"Ziebart, Karl & Reichwald, Karoline"	"Hepner, Kaspar & Piper, Henriette"						
+Kitzmann	Samuel	Kitzmann	Samuel	M	1886	Feb		"Schultz, Wilhelmina"	"Schultz, Wilhelmine"	Marianka	17	Lublin 1886	00151	29	K Krueger		"Kitzmann, Michael & Schmidtke, Anna Rosalie"	"Schultz, Johann & Schroeder, Anna"	"Nehring, Henriette (1st wife); Bloch, Johann (1st husband)"					
+Tederke	Gotfryd	Tederke	Gottfried	M	1886	Feb		"Duesterhoeft, Wilhelmina"	"Duesterhoeft, Wilhelmine"	Czerwonka Male	17	Lublin 1886	00152	30	K Krueger		"Tederke, Gottfried & Fige, Rosine"	"Duesterhoeft, August & Liefke, Wilhelmine"	"Duesterhoeft, Anna Karoline (1st wife)"					
+Pusch	Adolf	Pusch	Adolf	M	1886	Feb		"Jahnke, Paulina"	"Janke, Pauline"	Czerwonka Gozdow	17	Lublin 1886	00152	31	K Krueger		"Pusch, Gottlieb & Marke, Friederike"	"Janke, Friedrich"						
+Steinke	Henryk	Steinke	Heinrich	M	1886	Feb		"Hofmann, Florentyna"	"Hoffmann, Florentine"	Sobieszczany	17	Lublin 1886	00153	32	K Krueger		"Steinke, Johann & Drews, Wilhelmine"	"Hoffmann, Friedrich & Fandrich, Anna Dorothea"						
+Betke	Michal	Betke	Michael	M	1886	Feb		"Stachoska, Wilhelmina"	"Stachoski, Wilhelmine"	Amelin	17	Lublin 1886	00153	33	K Krueger		"Betke, Martin & Eichorst, Luise"	"Stachoski, August & Hahn, Karoline"						
+Gruening	Michal Jakob	Gruening	Michael Jakob	M	1886	Feb		"Kunkel, Augustyna"	"Kunkel, Augustine"	Kobylki	17	Lublin 1886	00154	34	K Krueger		"Gruening, Michael & Knorr, Wilhelmine"	"Kunkel, Gottfried & Burchardt, Karoline"						
+Langner	Wilhelm	Langner	Wilhelm	M	1886	Feb		"Tiede, Emilia"	"Tiede, Emilie"	Osiny (=Osina)	17	Lublin 1886	00154	35	K Krueger		"Langner, Gustav & Rosin, Julianna"	"Tiede, Pauline"						
+Kwirant	Ludwik	Kwirant	Ludwig	M	1886	Feb		"Preis, Anna"	"Preiss, Anna"	Leonardow	17	Lublin 1886	00155	36	K Krueger		"Kwirant, Johann & Henke, Anna"	"Preiss, Julius & Hermann, Emilie"						
+Kotke	Krysztof Erdmann	Kotke	Christoph Erdmann	M	1886	Mar		"Kaschube, Henryka"	"Kaschube, Henriette"	Wladyslawow	17	Lublin 1886	00155	37	K Krueger		"Kotke, Wilhelm & Schultz, Marianna"	"Kaschube, Gottfried & Radecki, Rosine"						
+Groth	Ludwik Karol	Groth	Ludwig Karl	M	1886	Mar		"Schmidt, Ludwika"	"Schmidt, Luise"	Nadrybie	17	Lublin 1886	00156	38	K Krueger		"Groth, Ernst & Proehl, Wilhelmine"	"Schmidt, August & Schultz, Karoline"						
+Braun	Henryk	Braun	Heinrich	M	1886	Mar		"Lenz, Julijanna"	"Lentz, Julianna"	Golebiow	17	Lublin 1886	00156	39	K Krueger		"Braun, Gottlieb & Bluege, Charlotte"	"Lentz, Ludwig & Heisinger, Emilie"						
+Streiber	Ludwik	Streibel	Ludwig	M	1886	Mar		"Lucius, Emilija"	"Lucius, Emilie"	Cycow	17	Lublin 1886	00157	40	K Krueger		"Streibel, Gottlieb & Hein, Luise"	"Lucius, Johann & Gitzel, Anna Elisabeth"		Streibel vel Streiber				
+Hunke	Emil	Hunke	Emil	M	1886	Mar		"Freiter, Teofila"	"Freiter, Theophile"	Zurawiniec	17	Lublin 1886	00157	41	K Krueger		"Hunke, Jakob & Strecher, Karoline"	"Freiter, Friedrich & Deutschlaender, Brigitte"						
+Minklaj	Krystyjan	Minkler	Christian	M	1886	May		"Kryger, Emilija"	"Krueger, Emilie"	Krasew	17	Lublin 1886	00158	42	K Krueger		"Minkler, Jakob & Konrad, Julianna"	"Krueger, Johann & Huk, Julianna"		Minkler vel Minklaj				
+Rabe	Antonin	Rabe	Anton	M	1886	May		"Krueger, Wilhelmina"	"Krueger, Wilhelmine"	Ludwinow	17	Lublin 1886	00158	43	K Krueger		"Rabe, Johann & Becker, Anna Rosine"	"Krueger, Gottlieb & Luedke, Wilhelmine"	"Lessing, Henriette Karoline (1st wife); Wendland, Gottfried (1st husband)"					
+Kupperwaser	Piotr	Kupferwasser	Peter	M	1886	May		"Beeger, Leokadyja Julija"	"Beeger, Leokadia Julia"	Lublin	17	Lublin 1886	00159	44	K Krueger		"Kupferwasser, Matthias & Skumlowksi, Pauline"	"Beeger, Karl & Masselkewski, Anna"		Kupferwasser vel Kupperwaser				
+Braun	Henryk	Braun	Heinrich	M	1886	May		"Haak, Paulina"	"Haak, Pauline"	Sobieszczany	17	Lublin 1886	00159	45	K Krueger		"Braun, Gottlieb & Vater, Emilie"	"Haak, Georg & Neumann, Henriette"						
+Stroschein	Ludwik	Strohschein	Ludwig	M	1886	May		"Rode, Augusta Fryderyka"	"Rode, Auguste Friederike"	Jagodne	17	Lublin 1886	00160	46	K Krueger		"Strohschein, Daniel & Riemer, Wilhelmine"	"Rode, Friedrich & Riemer, Karoline"	"Kretschmann, Euphrosine (1st wife)"					
+Neumann	Jan Adolf	Neumann	Johann Adolf	M	1886	May		"Schultz, Emilija"	"Schultz, Emilie"	Jagodne	17	Lublin 1886	00160	47	K Krueger		"Neumann, Martin & Draeger, Henriette"	"Schultz, Friedrich & Andreas, Auguste"						
+Stapel	Edward	Stapel	Eduard	M	1886	May		"Schultz, Hulda Berta"	"Schultz, Hulda Berta"	Jelino	17	Lublin 1886	00161	48	K Krueger		"Stapel, Martin & Frank, Julianna"	"Schultz, Johann & Kreh, Marianna"						
+Dering	Ferdynand	Dering	Ferdinand	M	1886	May		"Schultz, Lidyja"	"Schultz, Lidia"	Malinowka	17	Lublin 1886	00161	49	K Krueger		"Dering, Peter & Manke, Luise"	"Schultz, Christoph & Teske, Julianna"	"Lau, Marianna (1st wife)"					
+Bekker	Ferdynand Karol Fryderyk	Becker	Ferdinand Karl Friedrich	M	1886	May		"Riemer, Anna Fryderyka"	"Riemer, Anna Friederike"	Nadrybie	17	Lublin 1886	00162	50	K Krueger		"Becker, August & Piper, Emilie"	"Riemer, Ludwig & Schilke, Auguste"						
+Zielke	Michal	Zielke	Michael	M	1886	Jun		"Krueger, Paulina"	"Krueger, Pauline"	Zurawiniec	17	Lublin 1886	00162	51	K Krueger		"Zielke, Johann Friedrich & Schimming, Luise"	"Krueger, Wilhelm & Schubert, Karoline"						
+Sachweh	Fryderyk	Sachweh	Friedrich	M	1886	Jun		"Nehrenberg, Wilhelmina"	"Noerenberg, Wilhelmine"	Rozplucie	17	Lublin 1886	00163	52	K Krueger		"Sachweh, Gottfried "	"Noerenberg, Samuel & Krueger, Wilhelmine"	"Labitzki, Julianna (1st wife)"					
+Zaune	Jan	Zaune	Johann	M	1886	Jun		"Eisele, Rozalija"	"Eisele, Rosalie"	Radzyn	17	Lublin 1886	00163	53	K Krueger		"Zaune, Reinhold & Rode, Anna"	"Eisele, Jakob & Knedler, Katharina"						
+Kopp	Anton	Kopp	Anton	M	1886	Jun		"Reder, Anna Dorota"	"Reder, Anna Dorothea"	Tarnawka	17	Lublin 1886	00164	54	K Krueger		"Kopp, Elias & Kleitz?, Margarete"	"Reder, Johann & Rosenfeld, Luise"	"Ginter, Elisabeth (1st wife); Keinert, Jakob (1st husband)"					
+Klatt	Dawid	Klatt	David	M	1886	Jun		"Huf, Rozalija"	"Huff, Rosalie"	Laczki	17	Lublin 1886	00164	55	K Krueger		"Klatt, Ludwig & Schwartzwald, Justine"	"Huff, Michael & Hartmann, Luise"						
+Klatt	Gustaw	Klatt	Gustav	M	1886	Jun		"Jesse, Paulina"	"Jesse, Pauline"	Kijany	17	Lublin 1886	00165	56	K Krueger		"Klatt, Johann & Heit, Elisabeth"	"Jesse, Julius & Jobs, Julianna"	"Arndt, Karoline (1st wife)"					
+Stachowski	Gustaw	Stachowski	Gustav	M	1886	Jun		"Schmidt, Ludwika"	"Schmidt, Luise"	Jagodne	17	Lublin 1886	00165	57	K Krueger		"Stachowski, August & Hahn, Karoline"	"Schmidt, Michael & Breitkreutz, Eleonore"	"Lewin, August (1st husband)"					
+Bluemke	Michal	Bluemke	Michael	M	1886	Jun		"Krueger, Karolina"	"Krueger, Karoline"	Janowica	17	Lublin 1886	00166	58	K Krueger		"Bluemke, Franz & Pipke, Susanna"	"Krueger, Martin & Matter, Anna Christine"	"Richter, Marianna (1st wife); Badke, Johann (1st husband)"					
+Klammer	Ludwik	Klammer	Ludwig	M	1886	Jul		"Hartwich, Karolina"	"Hartwich, Karoline"	Bronislawow	17	Lublin 1886	00166	59	K Krueger		"Klammer, Christian & Rossol, Karoline"	"Hartwich, Christoph & Degner, Katharina"	"Hekel, Eduard (1st husband)"					
+Welke	Gustaw Ferdynand	Welke	Gustav Ferdinand	M	1886	Aug		"Ruehmer, Ernestyna"	"Riemer, Ernestine"	Zabrodzie	17	Lublin 1886	00167	60	K Krueger		"Welke, Ferdinand & Lange, Florentine"	"Riemer, Gottfried & Riemer, Julianna"	"Rehbein, Johann Gottfried (1st husband)"					
+Rosner	Jan	Rosner	Johann	M	1886	Aug		"Sokolowska, Julijanna"	"Sokolowski, Julianna"	Jozefow	17	Lublin 1886	00167	61	K Krueger		"Rosner, Andreas & Schuh?, Rosalie"	"Sokolowski, Josef & Kopp, Anna"						
+Bernardelli	Ludwik Leon	Bernardelli	Ludwig Leo	M	1886	Aug		"Fopp, Elzbieta"	"Fopp, Elisabeth"	Lublin	17	Lublin 1886	00168	62	K Krueger		"Bernardelli, Ernst & Bresch?, Karoline"	"Fopp, Christian & Wahler?, Berta?"						
+Lauber	Jakob	Lauber	Jakob	M	1886	Aug		"Flatt, Krystyna"	"Flatt, Christine"	Potok	17	Lublin 1886	00168	63	K Krueger		"Lauber, Matthias & Rolwagen, Barbara"	"Flatt, Philipp & Schmidt, Katharina"	"Schaefer, Katharina (1st wife)"					
+Makus	Michal	Makus	Michael	M	1886	Aug		"Tetzlaff, Paulina"	"Tetzlaff, Pauline"	Jagodne	17	Lublin 1886	00169	64	K Krueger		"Makus, Josef & Richter, Marianna"	"Tetzlaff, Karl & Benke, Amalie"	"Minke, Wilhelm (1st husband)"					
+Banik	Wilhelm	Banik	Wilhelm	M	1886	Sep		"Schiewe, Julijanna"	"Schiewe, Julianna"	Aleksandrowka	17	Lublin 1886	00169	65	K Krueger		"Banik, Gottfried & Semler, Anna Elisabeth"	"Schiewe, Gottlieb & Drews, Wilhelmine"						
+Rabe	Jakob	Rabe	Jakob	M	1886	Sep		"Mueller, Karolina"	"Mueller, Karoline"	Ludwinow	17	Lublin 1886	00170	66	K Krueger		"Rabe, Anton & Lessing, Charlotte [Henriette]"	"Mueller, Friedrich Wilhelm & Krueger, Wilhelmine"		"see file 00158, #43"				
+Braun	August	Braun	August	M	1886	Sep		"Arndt, Apollinija"	"Arndt, Apollonia"	"Janiszow, Radom"	17	Lublin 1886	00170	67	K Krueger		"Braun, Gottfried & Schultz, Karoline"	"Arndt, Daniel & Schultz, Julianna"						
+Mueller	Ludwik	Mueller	Ludwig	M	1886	Sep		"Heuer, Emilija Albertyna"	"Heuer, Emilie Albertine"	Adamow	17	Lublin 1886	00171	68	K Krueger		"Mueller, Friedrich Wilhelm & Krueger, Wilhelmine Dorothea"	"Heuer, Karl & Breitkreutz, Emilie"						
+Piper	Ernest Piotr Jan	Piper	Ernst Peter Johann	M	1886	Sep		"Cybart, Justyna"	"Ziebart, Justine"	Cycow	17	Lublin 1886	00171	69	K Krueger		"Piper, Karl & Rogan, Albertine Wilhelmine"	"Ziebart, Johann & Manzei, Wilhelmine"						
+Bartz	Gustaw	Bartz	Gustav	M	1886	Sep		"Weiss, Anna"	"Weiss, Anna"	Janowica	17	Lublin 1886	00172	70	K Krueger		"Bartz, Johann & Lemke, Pauline"	"Weiss, Gottlieb Wilhelm & Kitlitz, Elisabeth"						
+Klan	Wilhelm	Klan	Wilhelm	M	1886	Sep		"Fezner, Anna Justyna Ludwika"	"Fetzner, Anna Justine Luise"	Malinowka	17	Lublin 1886	00172	71	K Krueger		"Klan, Johann & Kelm, Rosalie"	"Fetzner, Michael & Wisner?, Elisabeth"	"Essmann, Eva (1st wife); Mantik, Heinrich (1st husband)"	see file 00228 #164				
+Bulitz	August	Bulitz	August	M	1886	Sep		"Wenzel, Augusta"	"Wenzel, Auguste"	Janowica	17	Lublin 1886	00173	72	K Krueger		"Bulitz, Gottlieb & Meier, Justine"	"Wenzel, Jakob & Lehmann, Karoline"	"Wenzel, Mathilde (1st wife)"					
+Vogt	Ludwik	Vogt	Ludwig	M	1886	Sep		"Diem, Maryjanna"	"Diem, Marianna"	Jozefin	17	Lublin 1886	00173	73	K Krueger		"Vogt, Ludwig & Rubel, Christine"	"Diem, Johann & Kreter, Jakobine"						
+Wenzel	Edward	Wenzel	Eduard	M	1886	Sep		"Erber, Emilia"	"Erber, Emilie"	Adamow	17	Lublin 1886	00174	74	K Krueger		"Wenzel, Christian & Schultheis, Luise"	"Erber, Wilhelm & Piel, Henriette"	"Rosinski, Rosalie (1st wife)"	see 00049 #189; 00220 #113; 00233 #194				
+Martin	Eliasz	Martin	Elias	M	1886	Sep		"Jahnke, Anna Justyna"	"Janke, Anna Justine"	Wieniawka	17	Lublin 1886	00174	75	K Krueger		"Martin, Georg & Wagner, Margarete"	"Janke, Gottfried & Koch, Anna"	"Fuhrmann, Barbara (1st wife)"					
+Kaus	Samuel	Kaus	Samuel	M	1886	Oct		"Luek, Julijanna"	"Lueck, Julianna"	Tarnowka	17	Lublin 1886	00175	76	K Krueger		"Kaus, Christoph & Kempin, Helene"	"Lueck, Julius & Hintz, Emilie"						
+Pudrycki	Karol	Podritzki	Karl	M	1886	Oct		"Kitzmann, Emilija"	"Kitzmann, Emilie"	Adamow	17	Lublin 1886	00175	77	K Krueger		"Podritzki, Christian & Schinkel, Karoline"	"Kitzmann, Andreas & Kuehn, Anna Christine"						
+Fietz	Albert	Fitz	Albert	M	1886	Oct		"Ladzik, Katarzyna Zuzanna"	"Ladzik, Katharina Susanna"	Wladyslawow	17	Lublin 1886	00176	78	K Krueger		"Fitz, Michael & Lentz, Emilie Rosine"	"Ladzik, Alexander & Zach, Susanna"						
+Krueger	August	Krueger	August	M	1886	Oct		"Braun, Wilhelmina"	"Braun, Wilhelmine"	Ludwinow	17	Lublin 1886	00176	79	K Krueger		"Krueger, Karoline"	"Braun, Martin & Strohschein, Wilhelmine"	"Eltmann, Albertine (1st wife)"					
+Kriesel	Jan August	Kriesel	Johann August	M	1886	Oct		"Hartwich, Emilija"	"Hartwich, Emilie"	Nowiny	17	Lublin 1886	00177	80	K Krueger		"Kriesel, Julius & Molzahn, Rosine"	"Hartwich, Luise"						
+Szmaltz	Jan Piotr	Schmaltz	Johann Peter	M	1886	Oct		"Huf, Paulina"	Huff. Pauline	Nadrybie	17	Lublin 1886	00177	81	K Krueger		"Schmaltz, Friedrich & Hoeppner, Regina"	"Huff, August & Rahn, Julianna"						
+Habich	Henryk	Habich	Heinrich	M	1886	Oct		"Pintscher, Augusta"	"Pintscher, Auguste"	Borkowizna	17	Lublin 1886	00178	82	K Krueger		"Habich, Johann & Hartfelder, Christine"	"Pintscher, Franz & Schnell, Katharina"						
+Jesse	Piotr	Jesse	Peter	M	1886	Oct		"Rathke, Julijanna"	"Ratke, Julianna"	Cycow	17	Lublin 1886	00178	83	K Krueger		"Jesse, Michael & Zepik, Rosine"	"Ratke, Gustav & Zielke, Julianna"						
+Bujak	Albert Juliusz	Bujak	Albert Julius	M	1886	Oct		"Schultz, Justyna"	"Schultz, Justine"	Wanda (=Wanda Bakus)	17	Lublin 1886	00179	84	K Krueger		"Bujak, Karl & Fenske, Luise Justine"	"Schultz, Karl & Kotke, Emilie Henriette"						
+Bobrowski	Fryderyk August	Bobrowski	Friedrich August	M	1886	Oct		"Kieler, Emilija Krystyna"	"Kieler, Emilie Christine"	Ludwinow	17	Lublin 1886	00179	85	K Krueger		"Bobrowski, Karl & Redmann, Julianna"	"Kieler, Johann & Jerke, Beate"						
+Rozner	Jan	Rosner	Johann	M	1886	Oct		"Remland, Rozalia"	"Remland, Rosalie"	Franzdorf	17	Lublin 1886	00180	86	K Krueger		"Rosner, Andreas & Schai?, Rosalie"	"Remland, Friedrich & Berlin, Marianne"	"Sokolowski, Julianna (1st wife)"					
+Duesterheft	Jan	Duesterhoeft	Johann	M	1886	Oct		"Petrich, Alwina"	"Petrich, Alwine"	Jozefow	17	Lublin 1886	00180	87	K Krueger		"Duesterhoeft, Andreas & Wolf, Dorothea"	"Petrich, August Friedrich & Wunderberg, Emilie"						
+Froelich	Henryk	Froehlich	Heinrich	M	1886	Oct		"Mantej, Julijanna"	"Mantei, Julianna"	Jozefow	17	Lublin 1886	00181	88	K Krueger		"Froehlich, August & Schultz, Emilie"	"Mantei, Ferdinand & Silbermann, Eleonore"						
+Kaul	Pawel Hermann Robert	Kaul	Paul Hermann Robert	M	1886	Oct		"Gutsche, Dorota"	"Gutsche, Dorothea"	Podlodow	17	Lublin 1886	00181	89	K Krueger		"Kaul, Gottlieb & Kirsch, Anna"	"Gutsche, Karl & Bittner, Dorothea"						
+Schultz	Andrzej	Schultz	Andreas	M	1886	Oct		"Gross, Anna"	"Gross, Anna"	Malinowka	17	Lublin 1886	00182	90	K Krueger		"Schultz, Karl & Zerbin, Luise"	"Gross, Emanuel & Mundt, Karoline"						
+Gust	Ferdynand	Gust	Ferdinand	M	1886	Oct		"Sommerfeld, Ludwika"	"Sommerfeld, Luise"	Snopkow	17	Lublin 1886	00182	91	K Krueger		"Gust, Christoph & Wedmann, Eva"	"Sommerfeld, Gustav & Hintz, Justine"						
+Cerecki	August	Zeretzki	August	M	1886	Oct		"Jaeger, Emilija"	"Jaeger, Emilie"	Wolka Nadrybska	17	Lublin 1886	00184	92	K Krueger		"Zeretzki, August Julius & Lange, Julianna"	"Jaeger, Gottlieb & Ortmann, Susanna"						
+Markwant	Hermann	Markwant	Hermann	M	1886	Nov		"Begalke, Anna"	"Begalke, Anna"	Wolka Mieczyslawska	17	Lublin 1886	00184	93	K Krueger		"Markwant, Luise"	"Begalke, Samuel & Kwast, Regina"						
+Ortmann	Wilhelm	Ortmann	Wilhelm	M	1886	Nov		"Schmidt, Krystyna Berta"	"Schmidt, Christine Berta"	Bronislawow	17	Lublin 1886	00185	94	K Krueger		"Ortmann, Johann & Zaft, Wilhelmine"	"Schmidt, Friedrich & Zisak, Julianna"						
+Somerfeld	Juliusz	Sommerfeld	Julius	M	1886	Nov		"Sommerfeld, Emilija"	"Sommerfeld, Emilie"	Janowica	17	Lublin 1886	00185	95	K Krueger		"Sommerfeld, Johann & Grenke, Beate"	"Sommerfeld, Ludwig & Rolof, Emilie"						
+Paclaw	Jan	Patzlaw	Johann	M	1886	Nov		"Draheim, Paulina"	"Draheim, Pauline"	Wola Korybutowa	17	Lublin 1886	00186	96	K Krueger		"Patzlaw, Friedrich & Langner, Auguste"	"Draheim, Friedrich & Wilke, Julianna"						
+Betker	Andrzej	Betker	Andreas	M	1886	Nov		"Pypke, Amalija"	"Pipke, Amalie"	Zarobka	17	Lublin 1886	00186	97	K Krueger		"Betker, Johann & Klemann, Marianna"	"Pipke, Gottlieb & Laube, Marianna"						
+Brendel	Henryk Fryderyk	Brendel	Heinrich Friedrich	M	1886	Nov		"Cerbin, Karolina"	"Zerbin, Karoline"	Wola Korybutowa	17	Lublin 1886	00187	98	K Krueger		"Brendel, Karl & Lange, Rosalie"	"Zerbin, Jakob & Fleiter, Anna"	"Tober, Susanna (1st wife)"					
+Schachtschneider	Wilhelm	Schachtschneider	Wilhelm	M	1886	Nov		"Kletke, Karolina"	"Kletke, Karoline"	Stefanow	17	Lublin 1886	00187	99	K Krueger		"Schachtschneider, Johann & Reschke, Marianne"	"Kletke, Eduard & Kisser, Justine"						
+Wentland	Fryderyk Wilhelm	Wendland	Friedrich Wilhelm	M	1886	Nov		"Strebel, Justyna"	"Strebel, Justine"	Bekiesza	17	Lublin 1886	00188	100	K Krueger		"Wendland, Gottfried & Lemke, Eva"	"Strebel, Gottlieb & Hein, Luise"						
+Richter	Boguslaw	Richter	Gottfried	M	1886	Nov		"Badke, Emilija"	"Badke, Emilie"	Jasieniec	17	Lublin 1886	00188	101	K Krueger		"Richter, Ludwig & Radecki, Wilhelmine"	"Badke, Gottlieb & Wedemann, Anna Christine"						
+Pohl	Gotfryd	Pohl	Gottfried	M	1886	Nov		"Gentzle, Maryjanna"	"[Gensler], Marianne"	Janowica	17	Lublin 1886	00189	102	K Krueger		"Pohl, Christoph & Zepik, Maria"	"[Gensler], Friedrich & Goetz, Karoline"						
+Marcinkowski	August	Marcinkowski	August	M	1886	Nov		"Jeske, Wilhelmina"	"Jeske, Wilhelmine"	Janowica	17	Lublin 1886	00189	103	K Krueger		"Marcinkowski, Gottfried & Eschner, Maria"	"Jeske, Wilhelm & Kaus, Luise"						
+Stelter	Ludwik	Stelter	Ludwig	M	1886	Nov		"Peischke, Julijanna"	"Peischke, Julianna"	Stefanow	17	Lublin 1886	00190	104	K Krueger		"Stelter, Christian & Domres, Wilhelmine"	"Peischke, Gottlieb & Drews, Veronika"						
+Huebner	Michal	Huebner	Michael	M	1886	Nov		"Biel, Maryja"	"Biel, Maria"	Jelino	17	Lublin 1886	00190	105	K Krueger		"Huebner, Gottlieb & Schroeder, Karoline"	"Biel, Friedrich & Opitz, Pauline"						
+Hefner	Jozef	Heffner	Josef	M	1886	Nov		"Segert, Hulda"	"Segert, Hulda"	Zawada	17	Lublin 1886	00191	106	K Krueger		"Hefner, Johann & Milner, Anna"	"Segert, Johann & Hintz, Katharina"						
+Kwiram	Jan	Kwiram	Johann	M	1886	Nov		"Segert, Paulina"	"Segert, Pauline"	Leonardow	17	Lublin 1886	00191	107	K Krueger		"Kwiram, Daniel & Paul, Elisabeth"	"Segert, Johann & Hintz, Katharina"	"Oelke, Karoline (1st wife)"					
+Pydt	August	Pide	August	M	1886	Nov		"Sommerfeld, Anna Helena"	"Sommerfeld, Anna Helene"	Sobolew	17	Lublin 1886	00192	108	K Krueger		"Pide, August & Wendland, Wilhelmine"	"Sommerfeld, Franz & Muth, Anna Helena"		Pydt vel Pidde				
+Hueller	Krystyjan Aleksander	Hiller	Christian Alexander	M	1886	Nov		"Hipke, Eufrozyna"	"Hipke, Euphrosine"	Juliopol	17	Lublin 1886	00192	109	K Krueger		"Hiller, Johann & Winter, Karoline"	"Hipke, Michael & Beier, Amalie"						
+Welz	Gustaw	Welz	Gustav	M	1886	Nov		"Thiege, Ludwika"	"Tiege, Luise"	Bychawka	17	Lublin 1886	00193	110	K Krueger		"Welz, Daniel & Jeske, Karoline"	"Tiege, Gottlieb & Heltz, Eva"						
+Jesse	Adolf	Jesse	Adolf	M	1886	Nov		"Witzke, Eleonora"	"Witzke, Eleonore"	Cycow	17	Lublin 1886	00193	111	K Krueger		"Jesse, Julius & Jobs, Julianna"	"Witzke, Heinrich & Seiler, Wihelmine"						
+Meschup	Ulrych	Meschup	Ulrich	M	1886	Nov		"Rybicka, Julijanna"	"Rybicki, Julianna"	Siedliszcze	17	Lublin 1886	00194	112	K Krueger		"Meschup, Franz & Katharina"	"Rybicki, Franz & Jankowski, Marianne"						
+Stelzer	Fryderyk Jan	Steltzer	Friedrich Johann	M	1886	Nov		"Lemke, Helena"	"Lemke, Helene"	Ludwinow	17	Lublin 1886	00194	113	K Krueger		"Steltzer, Peter & Feige, Wilhelmine"	"Lemke, Christian & Netzel, Eleonore"						
+Krebs	Samuel	Krebs	Samuel	M	1886	Nov		"Betke, Emilija"	"Betke, Emilie"	Majdan Krasieninski	17	Lublin 1886	00195	114	K Krueger		"Krebs, August & Stapel, Luise"	"Betke, Gottlieb & Hintz, Emilie"						
+Gacki	Henryk	Gatzke	Heinrich	M	1886	Nov		"Pekrul, Ewa"	"Pekrul, Eva"	Bronislawow	17	Lublin 1886	00195	115	K Krueger		"Gatzke,Heinrich & Schultz, Philippine"	"Pekrul, Christian & Garzewski?, Christine"	"Rinas, Christine (1st wife); Zach, Christian (1st husband)"					
+Zach	Daniel	Zach	Daniel	M	1886	Nov		"Pokrant, Ernestyna"	"Pokrant, Ernestine"	Bielany	17	Lublin 1886	00196	116	K Krueger		"Zach, Christian & Pekrul, Eva"	"Pokrant, Heinrich & Schindel, Susanna"						
+Beier	Gotlib	Beier	Gottlieb	M	1886	Dec		"Szadek, Dorota"	"Schadek, Dorothea"	Bekiesza	17	Lublin 1886	00196	117	K Krueger		"Beier, Friedrich & Grenke, Marianne"	"Schadek, Gottlieb & Hermann, Elisabeth"	"Besler, Luise (1st wife); Schnek, Karl (1st husband)"					
+Firus	Fryderyk	Firus	Friedrich	M	1886	Dec		"Nesske, Julijanna"	"Neske, Julianna"	Leonardow	17	Lublin 1886	00197	118	K Krueger		"Firus, Emilie"	"Neske, Peter & Zempel, Friederike"						
+Dotzlaw	Fryderyk	Dotzlaw	Friedrich	M	1887	Jan		"Rahn, Wilhelmina"	"Rahn, Wilhelmine"	Juliopol	17	Lublin 1886	00197	119	K Krueger		"Dotzlaw, Michael & Radke, Elisabeth"	"Rahn, Wilhelm & Friedrich, Justine"						
+Hundt	Bogumil	Hundt	Gottlieb	M	1887	Jan		"Prechel, Anna Elzbieta"	"Prechel, Anna Elisabeth"	Majdan Krasieninski	17	Lublin 1886	00198	120	K Krueger		"Hundt, Michael & Gudrian, Marianne"	"Prechel, Daniel & Stapel, Justine"		Gottlieb vel Bogumil				
+Golniak	Andrzej	Golniak	Andreas	M	1887	Jan		"Wichner, Helena Maryjanna"	"Wichner, Helene Marianne"	Ludwinow	17	Lublin 1886	00198	121	K Krueger		"Golniak, Christian & Griff?, Anna"	"Wichner, Ludwig & Netzel, Elisabeth"	"Kuhl?, Marianna (1st wife)"					
+Birkholtz	Hermann Edmund	Birkholtz	Hermann Edmund	M	1887	Jan		"Kwapp, Anna Zofia"	"Kwapp, Anna Sophie"	Lublin	17	Lublin 1886	00199	122	K Krueger		"Birkholtz, Julius & Koehler, Friederike"	"Kwapp, Adolf & Kwapp, Anna Rosalie"						
+		ZZ		M	1886						17	Lublin 1886	00199		K Krueger					Index: Ah - Zeh				
+		ZZ		M	1886						17	Lublin 1886	00200		K Krueger					Index: Zeh - SHah				
+Schmidtke	Samuel	Schmidtke	Samuel	D	1886	Jan				Barak	17	Lublin 1886	00201	1	K Krueger				"Schachtschneider, Justine"					
+Kuehn	Henryk	Kuehn	Heinrich	D	1886	Jan	Johann		"Heimann, Julianna"	Zawada	17	Lublin 1886	00201	2	K Krueger									
+Rieske	August	Rieske	August	D	1886	Jan				Bielany	17	Lublin 1886	00201	3	K Krueger				"Radke, Karoline"					
+Penno	Beata	Penno	Beate	D	1886	Jan				Majdan Krasieninski	17	Lublin 1886	00202	4	K Krueger				"Rosentreter, Ludwig"					
+Idler	Karolina	Idler	Karoline	D	1886	Jan	Wilhelm		"Krause, Wilhelmine"	Albertow	17	Lublin 1886	00202	5	K Krueger									
+Bluemke	Florentyna	Bluemke	Florentine	D	1886	Jan	Daniel		"Gerlach, Julianna"	Janowica	17	Lublin 1886	00202	6	K Krueger									
+Baecker	Henryk	Becker	Heinrich	D	1886	Jan	Friedrich		"Kiri, Katharina"	Borkowizna	17	Lublin 1886	00202	7	K Krueger									
+Paul	Karol	Paul	Karl	D	1886	Jan	Karl		"Schroeder, Karoline"	Juliopol	17	Lublin 1886	00202	8	K Krueger									
+Lehmann	Emilija Rozalia	Lehmann	Emilie Rosalie	D	1886	Jan	August		"Karoff, Anna"	Sobieszczany	17	Lublin 1886	00202	9	K Krueger									
+Luedke	Edmund	Luedke	Edmund	D	1886	Jan	Karl		"Schubert, Augustine"	Zurawiniec	17	Lublin 1886	00203	10	K Krueger									
+Samoske	Paulina	Samoski	Pauline	D	1886	Jan	Johann		"Krueger, Justine"	Malinowka	17	Lublin 1886	00203	11	K Krueger									
+Mathis	Maryja	Mathies	Maria	D	1886	Jan	Bernard		"Mueller, Elisabeth"	Wilkolaz	17	Lublin 1886	00203	12	K Krueger									
+Wilhelm	Emil	Wilhelm	Emil	D	1886	Jan	Johann		"Kreter, Sophie"	Zakrzowek	17	Lublin 1886	00203	13	K Krueger									
+Riechert	Fryderyk	Richert	Friedrich	D	1886	Jan	Gottlieb		"Koroch, Christine"	Bystrzyca 	17	Lublin 1886	00203	14	K Krueger									
+Benke	Juliusz	Benke	Julius	D	1886	Jan	Friedrich		"Fender, Marianne"	Sobieszczany	17	Lublin 1886	00203	15	K Krueger									
+Kunkel	Karolina	Kunkel	Karoline	D	1886	Jan	Friedrich		"Wangert, Marianna"	Wola Korybutowa	17	Lublin 1886	00204	16	K Krueger									
+Jantz	Emilija	Jantz	Emilie	D	1886	Jan	Jakob		"Polnau, Katharina"	Cycow	17	Lublin 1886	00204	17	K Krueger				"Fenske, Julius"					
+Seifert	Karol Henryk	Seifert	Karl Heinrich	D	1886	Jan				Lublin	17	Lublin 1886	00204	18	K Krueger									
+Mittelstedt	Rudolf	Mittelstaedt	Rudolf	D	1886	Jan	August		"Strauch, Julianna"	Wolka Siemienska	17	Lublin 1886	00204	19	K Krueger									
+Buss	Wilhelm	Buss	Wilhelm	D	1886	Jan	August		"Garwol, Euphrosine"	Wola Korybutowa	17	Lublin 1886	00204	20	K Krueger									
+Lucius	Anna Dorota	Lucius	Anna Dorothea	D	1886	Jan	Christoph		"Erdmann, Eva"	Bekiesza	17	Lublin 1886	00204	21	K Krueger				Schiller					
+Steinke	Gustaw	Steinke	Gustav	D	1886	Jan	Samuel		"Hemmerling, Emilie"	Ludwinow	17	Lublin 1886	00205	22	K Krueger									
+Ott	Aleksander	Ott	Alexander	D	1886	Jan	Eduard		"Kasner, Eva"	Wolka Siemienska	17	Lublin 1886	00205	23	K Krueger									
+Mittelstaedt	Anna	Mittelstaedt	Anna	D	1886	Jan	Peter		"Jeske, Justine"	Sewerynowka	17	Lublin 1886	00205	24	K Krueger									
+Leth	Helena	Leth	Helene	D	1886	Feb	Andreas		"Hopp, Emilie"	Cycow	17	Lublin 1886	00205	25	K Krueger									
+Wensel	Matylda	Wensel	Mathilde	D	1886	Feb	Jakob		"Steinke, Luise"	Janowica	17	Lublin 1886	00205	26	K Krueger				"Bulitz, August"					
+Muth	Emilija	Muth	Emilie	D	1886	Feb	unknown/unbekannt		"Muth, Wilhelmine"	Sobieszczany	17	Lublin 1886	00205	27	K Krueger									
+Maertin	Justyna	Mertin	Justine	D	1886	Feb	Gottfried		"Jeske, Marianne"	Bekiesza	17	Lublin 1886	00206	28	K Krueger									
+		Nachtigal	stillborn male	D	1886	Feb	Ludwig		"Gruening, Emilie"	Brzeziny 	17	Lublin 1886	00206	29	K Krueger									
+Wegner	Maryjanna	Wegner	Marianne	D	1886	Feb	Gottfried		"Zelmer, Julianna"	Swidnik Maly	17	Lublin 1886	00206	30	K Krueger									
+Richter	Maryjanna	Richter	Marianne	D	1886	Feb	Adam		"Kabusch?, Katharina"	Janowica	17	Lublin 1886	00206	31	K Krueger				"Bluemke, Michael"					
+Mueller	Marcin Nikolai	Mueller	Martin Nikolaus	D	1886	Feb	Martin		"Sach, Luise"	Piaski Lublinskie	17	Lublin 1886	00206	32	K Krueger									
+Kowalska	Emilija	Kowalski	Emilie	D	1886	Feb	Josef		"Schiewe, Anna Dorothea"	Janowica	17	Lublin 1886	00206	33	K Krueger									
+Schnek	Karol	Schnek	Karl	D	1886	Feb	Johann		Luise	Bekiesza	17	Lublin 1886	00207	34	K Krueger				"Schadek, Dorothea"					
+Kwiram	Wilhelm	Kwiram	Wilhelm	D	1886	Feb	Michael		"Beier, Karoline"	Leonardow	17	Lublin 1886	00207	35	K Krueger									
+Jesske	Marcin	Jeske	Martin	D	1886	Feb				Bekiesza	17	Lublin 1886	00207	36	K Krueger				Anna Christine					
+Roesler	Ludwika	Roesler	Luise	D	1886	Feb	Karl		"Hemmerling, Auguste"	Juliopol	17	Lublin 1886	00207	37	K Krueger									
+Pusch	Gotlib	Pusch	Gottlieb	D	1886	Feb	Matthias		Franziska	Czerwonka Gozdow	17	Lublin 1886	00207	38	K Krueger				"Matschke, Friederike"					
+Lessing	Henryka Karolina	Lessing	Henriette Karoline	D	1886	Feb				Ludwinow	17	Lublin 1886	00207	39	K Krueger				"Rabe, Anton"					
+Wensel	Henryk	Wensel	Heinrich	D	1886	Feb	Jakob		"Lehmann, Karoline"	Zarobka	17	Lublin 1886	00208	40	K Krueger									
+Fuhrmann	Barbara	Fuhrmann	Barbara	D	1886	Feb	Sebastian		Barbara	Wieniawka	17	Lublin 1886	00208	41	K Krueger				"Martin, Elias"					
+Krebs	Gustaw	Krebs	Gustav	D	1886	Feb	Ludwig		"Rehbein, Pauline"	Cycow	17	Lublin 1886	00208	42	K Krueger									
+Luetke	Anton	Luedke	Anton	D	1886	Feb	August		"Koth, Antonina"	Juliopol	17	Lublin 1886	00208	43	K Krueger									
+Klan	Adolfina	Klan	Adolfine	D	1886	Feb	Jakob		"Krueger, Wilhelmine"	Sewerynowka	17	Lublin 1886	00208	44	K Krueger									
+Hintz	Emilija	Hintz	Emilie	D	1886	Feb	Matthias		"Riske, Wilhelmine"	Antonin	17	Lublin 1886	00208	45	K Krueger									
+Podrycki	Gustaw	Podritzki	Gustav	D	1886	Feb	Christian		"Gitzel, Pauline"	Adamow	17	Lublin 1886	00209	46	K Krueger									
+Janke	Fryderyk	Janke	Friedrich	D	1886	Feb	Martin		"Pepel, Karoline"	Wola Korybutowa	17	Lublin 1886	00209	47	K Krueger									
+Jath	Jan	Jath	Johann	D	1886	Feb	Johann			Bekiesza	17	Lublin 1886	00209	48	K Krueger				"Klemann, Justine"					
+Ziegenhagel	Emilija	Ziegenhagel	Emilie	D	1886	Mar	Friedrich		"Pepel, Ernestine"	Malinowka	17	Lublin 1886	00209	49	K Krueger									
+Fierus	Adolfina	Firus	Adolfine	D	1886	Mar	Ludwig		"Janke, Christine"	Czarny Las	17	Lublin 1886	00209	50	K Krueger									
+Siebert	Teofilija	Siebert	Theophile	D	1886	Mar	Johann		"Lange, Emilie"	Dzialyn	17	Lublin 1886	00209	51	K Krueger									
+Jobs	August	Jobs	August	D	1886	Mar	Georg		"Zelmer, Elisabeth"	Zawada	17	Lublin 1886	00210	52	K Krueger									
+Braun	Gotlib	Braun	Gottlieb	D	1886	Mar	Gottlieb		"Liefke, Christine"	Sobieszczany	17	Lublin 1886	00210	53	K Krueger				"Vater, Emilie"					
+Muth	Juliajanna	Muth	Julianna	D	1886	Mar	Wilhelm		"Appel, Emilie"	Janopol	17	Lublin 1886	00210	54	K Krueger									
+Konrad	Matylda	Konrad	Mathilde	D	1886	Mar	Gottlieb		"Dalig, Emilie"	Malinowka	17	Lublin 1886	00210	55	K Krueger									
+Rozin	Rudolf	Rosin	Rudolf	D	1886	Mar	Johann		"Buss, Wilhelmine"	Janowica	17	Lublin 1886	00210	56	K Krueger									
+Riediger	Ludwika	Ruediger	Luise	D	1886	Mar	Sebastian		"Hopf?, Barbara"	Lublin	17	Lublin 1886	00210	57	K Krueger				"Benni, Adolf"					
+Adam	Emil	Adam	Emil	D	1886	Mar	Eduard		"Ziebart, Eva"	Jagodne	17	Lublin 1886	00211	58	K Krueger									
+Baecker	Gabryel	Becker	Gabriel	D	1886	Mar	Matthias		"Martin, Barbara"	Borkowizna	17	Lublin 1886	00211	59	K Krueger				"Schnell, Christine"					
+Nerling	Wilhelm	Nerling	Wilhelm	D	1886	Mar	Julius		"Schmidtke, Justine"	Leonardow	17	Lublin 1886	00211	60	K Krueger									
+Hundt	Anna Elzbieta	Hundt	Anna Elisabeth	D	1886	Mar				Kaniwola	17	Lublin 1886	00211	61	K Krueger				"Albrecht, Johann"					
+Peltzer	Julijanna	Peltzer	Julianna	D	1886	Mar	Efraim		"Hermann, Karoline"	Wola Lisowska	17	Lublin 1886	00211	62	K Krueger				"Peltzer, Ludwig"					
+		Beier	stillborn female	D	1886	Mar	Wilhelm		"Filipp, Karoline"	Zawada	17	Lublin 1886	00211	63	K Krueger									
+Zippel	Helena	Zippel	Helene	D	1886	Mar	Friedrich		"Badke, Pauline"	Sobolew	17	Lublin 1886	00212	64	K Krueger									
+Jaeger	Wanda	Jaeger	Wanda	D	1886	Mar	Karl		"Schmidt, Ernestine"	Kaniwola	17	Lublin 1886	00212	65	K Krueger									
+Rienas	Krystyna	Rinas	Christine	D	1886	Mar	Michael		"Michelei?, Julianna"	Bronislawow	17	Lublin 1886	00212	66	K Krueger				"Gatzke, Heinrich"					
+Renn	Gotlib	Renn	Gottlieb	D	1886	Mar				Jelino	17	Lublin 1886	00212	67	K Krueger				"Krueger, Justine"					
+Labitzki	Julijanna	Labitzki	Julianna	D	1886	Mar				Rozplucie	17	Lublin 1886	00212	68	K Krueger				"Sachweh, Friedrich"					
+Lauber	Rozyna	Lauber	Rosine	D	1886	Mar	Jakob		"Schaefer, Katharina"	Potok	17	Lublin 1886	00212	69	K Krueger									
+Kopf	August	Kopf	August	D	1886	Mar	Michael		"Lange, Henriette"	Albertow	17	Lublin 1886	00213	70	K Krueger									
+Propp	Wilhelmina	Propp	Wilhelmine	D	1886	Mar	Gottlieb		"Wensel, Ernestine"	Adamow	17	Lublin 1886	00213	71	K Krueger									
+Benke	Zuzanna	Benke	Susanna	D	1886	Mar	Johann Friedrich		"Fender, Marianne"	Sobieszczany	17	Lublin 1886	00213	72	K Krueger									
+Pepke	Matylda	Pepke	Mathilde	D	1886	Mar	Gottlieb		"Lauber, Marianne"	Zarobka	17	Lublin 1886	00213	73	K Krueger									
+Schauer	Daniel	Schauer	Daniel	D	1886	Mar				Kijany	17	Lublin 1886	00213	74	K Krueger				"Rauch, Pauline"					
+Benke	Ernestyna	Benke	Ernestine	D	1886	Apr	Johann Friedrich		"Fender, Marianne"	Sobieszczany	17	Lublin 1886	00213	75	K Krueger									
+Panter	Ludwika	Panter	Luise	D	1886	Apr	Kasimir		"Tonn, Karoline"	Nadrybie	17	Lublin 1886	00214	76	K Krueger				Schmaltz					
+Lentz	Matylda	Lentz	Mathilde	D	1886	Apr	Ludwig		"Braun, Karoline"	Bielany	17	Lublin 1886	00214	77	K Krueger									
+Riemer	Karolina	Riemer	Karoline	D	1886	Apr	Johann		"Proehl, Wilhelmine"	Cycow	17	Lublin 1886	00214	78	K Krueger									
+Krause	Helena	Krause	Helene	D	1886	Apr	Johann		"Kantz, Karoline"	Zulin	17	Lublin 1886	00214	79	K Krueger									
+Lambrecht	Elzbieta	Lambrecht	Elisabeth	D	1886	Apr				Wolka Kijanska	17	Lublin 1886	00214	80	K Krueger									
+Frank	Ludwik	Frank	Ludwig	D	1886	Apr	Wilhelm		"Meier, Julianna"	Wola Korybutowa	17	Lublin 1886	00214	81	K Krueger									
+Kisser	Wilhelmina	Kisser	Wilhelmine	D	1886	Apr	Jakob		Anna Sophie	Szczecin	17	Lublin 1886	00215	82	K Krueger				Gruening					
+Mendel	Fryderyk Gotlib	Mendel	Friedrich Gottlieb	D	1886	Apr	Josef		"Krueger, Eva"	Malinowka	17	Lublin 1886	00215	83	K Krueger				"Mundt, Anna Wilhelmine"					
+Mueller	Anna	Mueller	Anna	D	1886	Apr	Wilhelm		"Reder, Anna Dorothea"	Tarnawka	17	Lublin 1886	00215	84	K Krueger									
+Resler	Fryderyka	Roesler	Friederike	D	1886	Apr	Johann		"Lange, Christine"	Zawada	17	Lublin 1886	00215	85	K Krueger				Schultz					
+Werner	Gustaw	Werner	Gustav	D	1886	Apr	August		"Krueger, Emilie"	Adamow	17	Lublin 1886	00215	86	K Krueger									
+Wutke	August	Wutke	August	D	1886	Apr	Wilhelm		"Meier, Justine"	Wola Korybutowa	17	Lublin 1886	00215	87	K Krueger									
+Fenske	Wanda	Fenske	Wanda	D	1886	Apr	Jakob		"Beeger, Karoline"	Wola Korybutowa	17	Lublin 1886	00216	88	K Krueger									
+Erdmann	Paulina	Erdmann	Pauline	D	1886	Apr	Daniel		"Domert, Wilhelmine"	Cycowski Katy (=Wolka Cycowska)	17	Lublin 1886	00216	89	K Krueger									
+Boese	Paulina	Boese	Pauline	D	1886	Apr	unknown/unbekannt		"Boese, Augustine"	Jasieniec	17	Lublin 1886	00216	90	K Krueger									
+Job	Gotlib	Job	Gottlieb	D	1886	Apr	Gottfried		"Krebs, Anna"	Zurawiniec	17	Lublin 1886	00216	91	K Krueger				"Sager, Justine"					
+Rieske	Emilija	Rieske	Emilie	D	1886	Apr	Ludwig		"Krebs, Pauline"	Antonin	17	Lublin 1886	00216	92	K Krueger									
+Jaeger	Marcin	Jaeger	Martin	D	1886	Apr				Wolka Zablocka	17	Lublin 1886	00216	93	K Krueger									
+Lemke	Samuel	Lemke	Samuel	D	1886	Apr	Johann		"Jantz, Anna"	Cycow	17	Lublin 1886	00217	94	K Krueger									
+Krentz	Wilhelm	Krentz	Wilhelm	D	1886	Apr	Peter		"Schubert, Karoline"	Sewerynowka	17	Lublin 1886	00217	95	K Krueger				"Hiller, Pauline"					
+Martin	Filip	Martin	Philipp	D	1886	May	Philipp		"Kurtz, Rosalie"	Potok	17	Lublin 1886	00217	96	K Krueger									
+Haak	Leopold Jan	Haak	Leopold Johann	D	1886	May	Leopold Julius		"Sauer, Elisabeth"	Piaski Lublinskie	17	Lublin 1886	00217	97	K Krueger									
+Semadeni	Andrzej	Semadeni	Andreas	D	1886	May	Kaspar		"Stefani, Maria"	Lublin	17	Lublin 1886	00217	98	K Krueger									
+Winkel	Teofilija	Winkel	Theophile	D	1886	May	Gottlieb		"Hoffmann, Wilhelmine"	Rozplucie	17	Lublin 1886	00217	99	K Krueger									
+Keding	Ferdynand	Keding	Ferdinand	D	1886	May	Gottfried		"Haup?, Luise"	Cycow	17	Lublin 1886	00218	100	K Krueger				"Leth, Wilhelmine"					
+Lemke	Krystyjan	Lemke	Christian	D	1886	May	Johann		"Lange, Anna"	Cycow	17	Lublin 1886	00218	101	K Krueger									
+Rydel	Juliusz	Riedel	Julius	D	1886	May	Gottfried		"Ertmann, Karoline"	Ludwinow	17	Lublin 1886	00218	102	K Krueger									
+Eichmann	Samuel	Eichmann	Samuel	D	1886	May	Friedrich		"Prokop, Eva"	Zawada	17	Lublin 1886	00218	103	K Krueger				"Selig, Julianna"					
+Betker	Gotlib	Betker	Gottlieb	D	1886	May	Johann		"Andreas, Rosine"	Czerwonka Gozdow	17	Lublin 1886	00218	104	K Krueger				"Kwast, Rosine"					
+Thiem	Emilija	Timm	Emilie	D	1886	May	Reinhold		"Pusch, Mathilde"	Wolka Mieczyslawska	17	Lublin 1886	00218	105	K Krueger									
+Satler	Wilhelm	Sattler	Wilhelm	D	1886	May	Gottlieb		"Stecker, Rosine"	Janopol	17	Lublin 1886	00219	106	K Krueger				"Mertin, Justine"					
+Hegner	Pawel	Hegner	Paul	D	1886	May				Mlynkow	17	Lublin 1886	00219	107	K Krueger				"Koszorek, Albertine"					
+Zerbst	Augusta	Zerbst	Auguste	D	1886	May	Gottlieb		"Nickel, Rosalie"	Kobylki	17	Lublin 1886	00219	108	K Krueger									
+Huf	Gotlib	Huff	Gottlieb	D	1886	May	August		"Rahn, Julianna"	Rozplucie	17	Lublin 1886	00219	109	K Krueger									
+Zielke	Juliusz	Zielke	Julius	D	1886	May	Andreas		"Gregolai, Emilie"	Antoniowka	17	Lublin 1886	00219	110	K Krueger									
+Inte	Andrzej	Inte	Andreas	D	1886	May				Lublin	17	Lublin 1886	00219	111	K Krueger									
+Lokstedt	Ferdynand	Lokstaedt	Ferdinand	D	1886	May	Gottlieb		"Hartwich, Karoline"	Zurawiniec	17	Lublin 1886	00220	112	K Krueger									
+Rosinska	Rozalia	Rosinski	Rosalie	D	1886	May				Adamow	17	Lublin 1886	00220	113	K Krueger				"Wenzel, Eduard"	see 00049 #189; 00174 #74; 00233 #194				
+Hansch	Julijanna	Hansch	Julianna	D	1886	May	Johann		"Noerenberg, Philipine"	Dworzec (nr. Grabow Rycki)	17	Lublin 1886	00220	114	K Krueger									
+Goldmann	Adam	Goldmann	Adam	D	1886	May				Lublin	17	Lublin 1886	00220	115	K Krueger									
+Buss	Michal	Buss	Michael	D	1886	May	Ludwig		"Tiede, Susanna"	Rozplucie	17	Lublin 1886	00220	116	K Krueger									
+Jesse	Edward	Jesse	Eduard	D	1886	Jun	Julius		"Job, Julianna"	Cycow	17	Lublin 1886	00220	117	K Krueger									
+Fitzner	Jan Fryderyk	Fitzner	Johann Friedrich	D	1886	Jun	Christian		"Mueller, Friederike"	Juliopol	17	Lublin 1886	00221	118	K Krueger				"Krueger, Mathilde"					
+Jaeger	Franc	Jaeger	Franz	D	1886	Jun	Gottlieb		"Wegner, Pauline"	Amelin	17	Lublin 1886	00221	119	K Krueger									
+Patzlaw	August	Patzlaw	August	D	1886	Jun	Friedrich		"Wilke, Rosalie"	Wola Korybutowa	17	Lublin 1886	00221	120	K Krueger									
+Beit	Andrzej	Beit	Andreas	D	1886	Jun				Lublin	17	Lublin 1886	00221	121	K Krueger									
+Born	Jan	Born	Johann	D	1886	Jun	Georg		"Nargang, Josefa"	Potok	17	Lublin 1886	00221	122	K Krueger									
+Lueck	Gustaw	Lueck	Gustav	D	1886	Jun	Gustav		"Busse, Ernestine"	Bogdanka	17	Lublin 1886	00221	123	K Krueger									
+Tosio	Giacumina	Tosio	Giacumina	D	1886	Jun	Paganino		"Neumann, Ottilie"	Lublin	17	Lublin 1886	00222	124	K Krueger									
+Laure	Jan	Laure	Johann	D	1886	Jun				Lublin	17	Lublin 1886	00222	125	K Krueger									
+Hansch	Jan	Hansch	Johann	D	1886	Jun	Stefan		"Laube, Marianne"	Dworzec (nr. Grabow Rycki)	17	Lublin 1886	00222	126	K Krueger				"Noerenberg, Theophile"					
+Winkel	Augusta	Winkel	Auguste	D	1886	Jun	August		"Jesse, Wilhelmine"	Rozplucie	17	Lublin 1886	00222	127	K Krueger									
+Vogt	Jan	Vogt	Johann	D	1886	Jun	Johann		"Braun, Barbara"	Jozefin	17	Lublin 1886	00222	128	K Krueger									
+Peter	Alexander	Peter	Alexander	D	1886	Jun	Christoph		"David, Josefa"	Milanow	17	Lublin 1886	00222	129	K Krueger									
+Jaeger	Emil	Jaeger	Emil	D	1886	Jun	Gottlieb		"Wegner, Pauline"	Amelin	17	Lublin 1886	00223	130	K Krueger									
+Braneberger	Juliusz	Braneberger	Julius	D	1886	Jun	August		"Wegner, Justine"	Bielany	17	Lublin 1886	00223	131	K Krueger									
+Puj	Roman	Puy	Roman	D	1886	Jun	Rudolf		"[Leinz], Karoline"	Piaski Lublinskie	17	Lublin 1886	00223	132	K Krueger									
+Greger	Matylda	Greger	Mathilde	D	1886	Jun	Friedrich		"Freund, Karoline"	Adamow	17	Lublin 1886	00223	133	K Krueger									
+Gaehring	Gotfryd	Goering	Gottfried	D	1886	Jul				Wolka Zablocka	17	Lublin 1886	00223	134	K Krueger									
+Rathke	Paulina	Radke	Pauline	D	1886	Jul	Johann		"Gudrian, Wilhelmine"	Wolka Mieczyslawska	17	Lublin 1886	00223	135	K Krueger									
+Heiner	Maryja	Heiner	Maria	D	1886	Jul				Szczecin	17	Lublin 1886	00224	136	K Krueger				"Bluege, Wilhelm"					
+Lemke	Wilhelmina	Lemke	Wilhelmine	D	1886	Jul	Jakob		"Radke, Julianna"	Cycow	17	Lublin 1886	00224	137	K Krueger									
+Rohlof	Gotfryd	Roloff	Gottfried	D	1886	Jul	Michael		"Hermann, Christine"	Wolka Nadrybska	17	Lublin 1886	00224	138	K Krueger									
+Beeger	Karol	Beeger	Karl	D	1886	Jul				Lublin	17	Lublin 1886	00224	139	K Krueger				"Masselkowski, Anna"					
+Janke	Piotr	Janke	Peter	D	1886	Jul	Johann		"Kelert, Anna"	Leokadia	17	Lublin 1886	00224	140	K Krueger				"Less, Karoline"					
+		Klan	stillborn male	D	1886	Jul	Ferdinand		"Schmaltz, Emilie"	Grady	17	Lublin 1886	00224	141	K Krueger									
+Ikert	Natalija	Ikert	Natalie	D	1886	Jul	Eduard		"Muth, Karoline"	Lubartow	17	Lublin 1886	00225	142	K Krueger									
+Domke	Fryderyk	Domke	Friedrich	D	1886	Jul	Gottlieb		"Kwast, Julianna"	Wola Lisowska	17	Lublin 1886	00225	143	K Krueger									
+Luetke	Augusta	Luetke	Auguste	D	1886	Jul	Friedrich		"Hemmerling, Henriette"	Sewerynowka	17	Lublin 1886	00225	144	K Krueger									
+Zielke	Gotfryd	Zielke	Gottfried	D	1886	Jul	Gottlieb		"Stefan, Anna"	Kowersk	17	Lublin 1886	00225	145	K Krueger				"Weitke, Wilhelmine"					
+Beier	Augusta	Beier	Auguste	D	1886	Jul	Friedrich		"Winter, Christine"	Leonardow	17	Lublin 1886	00225	146	K Krueger									
+Schmidt	Barbara	Schmidt	Barbara	D	1886	Jul	Philipp		"Flatt, Christine"	Potok	17	Lublin 1886	00225	147	K Krueger									
+Tews	Krystyna	Tews	Christine	D	1886	Jul	Georg		"Winter, Marianne"	Leonardow	17	Lublin 1886	00226	148	K Krueger									
+Pohl	Michal	Pohl	Michael	D	1886	Jul	Christoph		"Zepik, Marianne"	Komarowka	17	Lublin 1886	00226	149	K Krueger									
+Walner	Hermann	Walner	Hermann	D	1886	Jul	August		"Heimann, Auguste"	Bekiesza	17	Lublin 1886	00226	150	K Krueger									
+Erber	Adolf	Erber	Adolf	D	1886	Jul	unknown/unbekannt		"Erber, Emilie"	Adamow	17	Lublin 1886	00226	151	K Krueger									
+Marks	Gotlib	Marks	Gottlieb	D	1886	Jul	Gottlieb		"Nazarski, Christine"	Brzeziny (nr. Trojna)	17	Lublin 1886	00226	152	K Krueger				"Depner, Wilhelmine"					
+Keding	Gustaw	Keding	Gustav	D	1886	Aug	Daniel		"Posein, Christine"	Cycow	17	Lublin 1886	00226	153	K Krueger									
+Tomm	Fryderyk	Tomm	Friedrich	D	1886	Aug	Friedrich		"Polnau, Katharina"	Cycow	17	Lublin 1886	00227	154	K Krueger									
+Schwartz	Emilija	Schwartz	Emilie	D	1886	Aug	Ludwig		"Krebs, Luise"	Cycowski Katy (=Wolka Cycowska)	17	Lublin 1886	00227	155	K Krueger									
+Kreter	Anna	Kreter	Anna	D	1886	Aug	Martin		"Grimm, Pauline"	Zakrzowek	17	Lublin 1886	00227	156	K Krueger									
+Jeske	Gustaw	Jeske	Gustav	D	1886	Aug	Julius		"Bress, Wilhelmine"	Barki	17	Lublin 1886	00227	157	K Krueger									
+Schiewe	Juliusz	Schiewe	Julius	D	1886	Aug	Gottfried		"Mantik, Julianna"	Wilczopole	17	Lublin 1886	00227	158	K Krueger									
+Guenther	Edward	Guenther	Eduard	D	1886	Aug	Karl		Marianne	Lublin	17	Lublin 1886	00227	159	K Krueger									
+Kerzke	Krzysztof	Kerske	Christoph	D	1886	Aug	Johann		Maria	Lublin	17	Lublin 1886	00228	160	K Krueger									
+Neumann	Jakob Fryderyk	Neumann	Jakob Friedrich	D	1886	Aug	Friedrich		"Luedke, Emilie"	Bystrzyca 	17	Lublin 1886	00228	161	K Krueger									
+Tober	Zuzanna	Tober	Susanna	D	1886	Aug	Gottlieb		Euphrosine	Wola Korybutowa	17	Lublin 1886	00228	162	K Krueger				"Brendel, Heinrich Friedrich"					
+Lentz	Paulina	Lentz	Pauline	D	1886	Aug	Christian		"Neumann, Luise"	Cycow	17	Lublin 1886	00228	163	K Krueger									
+Essmann	Ewa	Essmann	Eva	D	1886	Aug	Michael		"Lath, Anna"	Malinowka	17	Lublin 1886	00228	164	K Krueger				"Klan, Wilhelm"					
+Sokolowski	Julijanna	Sokolowski	Julianna	D	1886	Aug	Josef		"Kopp, Anna"	Franzdorf	17	Lublin 1886	00228	165	K Krueger				"Rosner, Johann"					
+Goering	Karol	Goering	Karl	D	1886	Aug	Nikolaus		"Zygmuntowicz, Karoline"	Lublin	17	Lublin 1886	00229	166	K Krueger									
+Liske	August	Liske	August	D	1886	Aug	Michael		"Ott, Julianna"	Wolka Rozwadowska	17	Lublin 1886	00229	167	K Krueger				"Arndt, Wilhelmine"					
+		Kopp	stillborn male	D	1886	Aug	Gottfried		"Dering, Julianna"	Antonin Stary	17	Lublin 1886	00229	168	K Krueger									
+Jesse	Helena Julijanna	Jesse	Helene Julianna	D	1886	Sep	Ludwig		"Getzlaw, Emilie"	Cycow	17	Lublin 1886	00229	169	K Krueger									
+Kowalska	Augustyna	Kowalski	Augustine	D	1886	Sep	Michael		"Drews, Rosalie"	Cycow	17	Lublin 1886	00229	170	K Krueger									
+Hark	Augustyna	Hark	Augustine	D	1886	Sep	Karl Friedrich		"Reich, Johanna"	Jozefin	17	Lublin 1886	00229	171	K Krueger									
+Lewinski	Henryk	Lewinski	Heinrich	D	1886	Sep	Walter		"Kaminski, Maria"	Wrotkow	17	Lublin 1886	00230	172	K Krueger									
+Hoffmann	August	Hoffmann	August	D	1886	Sep	Gottlieb		"Wodzinski, Wilhelmine"	Malinowka	17	Lublin 1886	00230	173	K Krueger									
+Flatt	Karolina	Flatt	Karoline	D	1886	Sep	Friedrich		"Schmidt, Klara"	Potok	17	Lublin 1886	00230	174	K Krueger									
+Leno	Emma	Leno	Emma	D	1886	Sep	Gottlieb		"Arndt, Karoline"	Malinowka	17	Lublin 1886	00230	175	K Krueger									
+Schiewe	Anna Rozyna	Schiewe	Anna Rosine	D	1886	Sep	Andreas		"Rikert, Marianna"	Janowica	17	Lublin 1886	00230	176	K Krueger				"Krause, Gottlieb"					
+Rechert	Lidyja	Roechert	Lidia	D	1886	Sep	Ludwig		"Guenter, Wilhelmine"	Bekiesza	17	Lublin 1886	00230	177	K Krueger									
+Lapinski	Karol	Lapinski	Karl	D	1886	Sep	Ferdinand		"Knie, Karoline"	Niedrzwica Duza	17	Lublin 1886	00231	178	K Krueger									
+Besler	Anna Ludwika	Besler	Anna Luise	D	1886	Sep	Andreas		"Piel, Dorothea"	Bekiesza	17	Lublin 1886	00231	179	K Krueger				"Beier, Gottlieb"					
+		Siering	stillborn male	D	1886	Sep	Jakob		"Kurtzmann, Rosalie"	Pawlow	17	Lublin 1886	00231	180	K Krueger									
+Widawski	Edward	Widawski	Eduard	D	1886	Sep	unknown/unbekannt		"Widawski, Pauline"	Uniszowice	17	Lublin 1886	00231	181	K Krueger									
+Kurtzmann	Ludwika	Kurtzmann	Luise	D	1886	Sep	Andreas		"Wolter, Julianna"	Pawlow	17	Lublin 1886	00231	182	K Krueger									
+Kieler	Jan	Kieler	Johann	D	1886	Sep	Matthias		"Steinmetz, Marianne"	Adamow	17	Lublin 1886	00231	183	K Krueger				"Jerke, Beate"					
+Hubert	Matylda	Hubert	Mathilde	D	1886	Sep	Johann		"Krueger, Ottilie"	Janowica	17	Lublin 1886	00232	184	K Krueger									
+Grimmich	Adolf	Grimmich	Adolf	D	1886	Sep	Heinrich		"Rosentraeger, Hulda"	Ludwinow	17	Lublin 1886	00232	185	K Krueger									
+Potratz	Ludwik	Potratz	Ludwig	D	1886	Sep	Michael		"Schultz, Julianna"	Juliopol	17	Lublin 1886	00232	186	K Krueger									
+Selig	Wilhelmina	Selig	Wilhelmine	D	1886	Sep	Christoph		"Schoenfeld, Anna Christine"	Aleksandrowka	17	Lublin 1886	00232	187	K Krueger				Mazenko					
+Pokrant	Adolf	Pokrant	Adolf	D	1886	Sep	August		"Schendel, Julianna"	Wolka Mieczyslawska	17	Lublin 1886	00232	188	K Krueger									
+Sperling	Rudolf	Sperling	Rudolf	D	1886	Sep				Malinowka	17	Lublin 1886	00232	189	K Krueger									
+Tews	Rozalia	Tews	Rosalie	D	1886	Sep	Georg		"Winter, Marianne"	Leonardow	17	Lublin 1886	00233	190	K Krueger									
+Braun	Wilhelm	Braun	Wilhelm	D	1886	Sep	Michael		"Depner, Mathilde"	Szczecin	17	Lublin 1886	00233	191	K Krueger									
+Kunkel	Wilhelm	Kunkel	Wilhelm	D	1886	Sep	August		"Martin, Rosine"	Grady	17	Lublin 1886	00233	192	K Krueger				"Freiter, Emilie"					
+Ziemer	Aleksander	Ziemer	Alexander	D	1886	Sep	Michael		"Beer, Helene"	Jasieniec	17	Lublin 1886	00233	193	K Krueger									
+Wensel	Otylija	Wenzel	Ottilie	D	1886	Oct	Eduard		"Rosinski, Rosalie"	Adamow	17	Lublin 1886	00233	194	K Krueger					see 00049 #189; 00174 #74; 00220 #113				
+Zippel	Ludwik	Zippel	Ludwig	D	1886	Oct	Gottlieb		"Friedrich, Marianne"	Rozplucie	17	Lublin 1886	00233	195	K Krueger				"Spitzer, Wilhelmine"					
+Smieltniak	Fryderyk	Smieltniak	Friedrich	D	1886	Oct				Lublin	17	Lublin 1886	00234	196	K Krueger									
+Radke	Gotlib	Radke	Gottlieb	D	1886	Oct	Christoph		"Kobernik, Marianne"	Zezulin	17	Lublin 1886	00234	197	K Krueger				"Koschade, Julianna"	"#00235-237, Russian document"				
+Kriesel	Julijusz	Kriese	Julius	D	1886	Oct	unknown/unbekannt		"Kriesel, Wilhelmine"	Lublin	17	Lublin 1886	00234	198	K Krueger									
+Schmidt	Julijanna	Schmidt	Julianna	D	1886	Oct	Adolf		"Welke, Karoline"	Albertow	17	Lublin 1886	00238	199	K Krueger									
+Kunstmann	Jakob	Kunstmann	Jakob	D	1886	Oct				Lublin	17	Lublin 1886	00238	200	K Krueger									
+Zelmer	Emilija	Zelmer	Emilie	D	1886	Oct	Ludwig		"Bloch, Justine"	Cycow	17	Lublin 1886	00238	201	K Krueger									
+Schmidt	Ernest	Schmidt	Ernst	D	1886	Oct	Gottlieb		"Stark, Pauline"	Antonin Nowy	17	Lublin 1886	00239	202	K Krueger									
+Kitzmann	Lidyja	Kitzmann	Lidia	D	1886	Oct	Gottlieb		"Figur, Emilie"	Adamow	17	Lublin 1886	00239	203	K Krueger									
+Buettner	Serafina	Bittner	Serafine	D	1886	Oct	Johann		"Ziemer, Emilie"	Majdan Krasieninski	17	Lublin 1886	00239	204	K Krueger									
+Grimm	Wilhelm	Grimm	Wilhelm	D	1886	Oct	Johann		"Langner, Emilie"	Sobieszczany	17	Lublin 1886	00239	205	K Krueger									
+Bloch	Emilija	Bloch	Emilie	D	1886	Oct	Eduard		"Bader, Marianna"	Szczecin	17	Lublin 1886	00239	206	K Krueger									
+Lehmann	Karolina	Lehmann	Karoline	D	1886	Oct				Cycowski Katy (=Wolka Cycowska)	17	Lublin 1886	00239	207	K Krueger				Zielke					
+Siering	Elzbieta	Siering	Elisabeth	D	1886	Oct	Andreas		"Lauber, Katharina"	Borkowizna	17	Lublin 1886	00240	208	K Krueger									
+Wjache	Andrzej	Wiache	Andreas	D	1886	Oct				Lublin	17	Lublin 1886	00240	209	K Krueger									
+Potratz	Alwina	Potratz	Alwine	D	1886	Oct	Michael		"Schultz, Julianna"	Juliopol	17	Lublin 1886	00240	210	K Krueger									
+Kuls	Maryjanna	Kuls	Marianne	D	1886	Oct	Michael		Anna	Ludwinow	17	Lublin 1886	00240	211	K Krueger				"Golniak, Andreas"					
+Budz	Jakob	Budz	Jakob	D	1886	Oct				Lublin	17	Lublin 1886	00240	212	K Krueger									
+Wegner	Krystyna	Wegner	Christine	D	1886	Oct	Gottfried		"Zelmer, Julianna"	Swidnik Maly	17	Lublin 1886	00240	213	K Krueger									
+Malm	Karl Philipp Adolf	Malm	Karl Philipp Adolf	D	1886	Oct	Wilhelm		"Burmeister, Auguste"	Lublin	17	Lublin 1886	00241	214	K Krueger									
+Jung	Julijusz	Jung	Julius	D	1886	Oct	Reinhard		"Galster, Emma"	Cycow	17	Lublin 1886	00241	215	K Krueger									
+Zimmer	Eufrozyna	Ziemer	Euphrosine	D	1886	Oct	Samuel		"Hekel, Marianne"	Stefanow	17	Lublin 1886	00241	216	K Krueger									
+Isbrecht	Heinrich	Isbrecht	Heinrich	D	1886	Oct	Heinrich		"Kretschmann, Christine"	Hermanow	17	Lublin 1886	00241	217	K Krueger									
+Mundt	Michal	Mundt	Michael	D	1886	Oct	Johann		"Hopp, Susanna"	Ludwin	17	Lublin 1886	00241	218	K Krueger				"Ratz, Wilhelmine"					
+Petrich	Samuel	Petrich	Samuel	D	1886	Oct	Johann		"Lau, Rosine"	Bogdanka	17	Lublin 1886	00241	219	K Krueger									
+Semadeni	Kaspar Prosper	Semadeni	Kaspar Prosper	D	1886	Nov	Andreas		"Rogazzi, Maria"	Lublin	17	Lublin 1886	00242	220	K Krueger				"Beeli, Anna"					
+Lucius	Emma	Lucius	Emma	D	1886	Nov	Johann		"Schiller, Julianna"	Cycow	17	Lublin 1886	00242	221	K Krueger									
+Powar	Jan	Powar	Johann	D	1886	Nov				Lublin	17	Lublin 1886	00242	222	K Krueger									
+Abel	Augusta Adolfina	Abel	Auguste Adolfine	D	1886	Nov	Adolf		"Rode, Mathilde"	Jagodne	17	Lublin 1886	00242	223	K Krueger									
+Matz	Karolina	Matz	Karoline	D	1886	Nov	Heinrich		"Krause, Rosalie"	Wola Korybutowa	17	Lublin 1886	00242	224	K Krueger									
+Bels	Karolina	Bels	Karoline	D	1886	Nov	Johann		Gottlieba	Jagodne	17	Lublin 1886	00242	225	K Krueger				"Rode, Michael"					
+Zerbin	Rudolf	Zerbin	Rudolf	D	1886	Nov	Heinrich		"Buchholtz, Julianna"	Cycow	17	Lublin 1886	00243	226	K Krueger									
+Przygoda	Wilhelmina	Przygoda	Wilhelmine	D	1886	Nov	Gottlieb		"Jahn, Susanna"	Juliopol	17	Lublin 1886	00243	227	K Krueger				"Machel, Johann"					
+Kuehn	Emilija	Kuehn	Emilie	D	1886	Nov	Wilhelm		"Zielinski, Dorothea"	Antonin Stary	17	Lublin 1886	00243	228	K Krueger									
+Kurtz	Rosina	Kurtz	Rosine	D	1886	Nov	Johann		"Daunheimer, Magdalene"	Potok	17	Lublin 1886	00243	229	K Krueger									
+Kletke	Rudolf	Kletke	Rudolf	D	1886	Nov	Martin		"Mahler, Anna"	Malinowka	17	Lublin 1886	00243	230	K Krueger									
+Bischow	Anna Beata	Bischof	Anna Beate	D	1886	Nov	Adolf		"Markwart, Auguste"	Malinowka	17	Lublin 1886	00243	231	K Krueger									
+Schwarz	Franciszka	Schwartz	Franziska	D	1886	Nov	Gottlieb		Agathe	Lublin	17	Lublin 1886	00244	232	K Krueger									
+Voigt	August	Vogt	August	D	1886	Nov	Christian		"Krause, Christine"	Wieniawka	17	Lublin 1886	00244	233	K Krueger				"Scholtz, Henriette"					
+Heffner	Ludwika	Heffner	Luise	D	1886	Nov	Johann		"Heimann, Henriette"	Zawada	17	Lublin 1886	00244	234	K Krueger									
+Martin	Ludwik	Martin	Ludwig	D	1886	Nov	Heinrich		"Schnell, Magdalene"	Potok	17	Lublin 1886	00244	235	K Krueger									
+Schuelke	Katarzyna	Schielke	Katharina	D	1886	Nov	Michael		"Hein, Julianna"	Barki	17	Lublin 1886	00244	236	K Krueger									
+Piel	Ludwik	Piel	Ludwig	D	1886	Nov	Karl August		"Lerch, Karoline"	Jasieniec	17	Lublin 1886	00244	237	K Krueger									
+Friedrich	Krystyjan	Friedrich	Christian	D	1886	Nov	Gottfried		"Jesse, Amalie"	Bekiesza	17	Lublin 1886	00245	238	K Krueger									
+Schroeder	August	Schroeder	August	D	1886	Nov	Michael		"Martin, Katharina"	Juliopol	17	Lublin 1886	00245	239	K Krueger									
+Holtz	Emilija	Holtz	Emilie	D	1886	Nov	Gottlieb		"Jess, Justine"	Laczki	17	Lublin 1886	00245	240	K Krueger				"Huff, Michael"					
+Mueller	August	Mueller	August	D	1886	Nov	August		"Duelge, Johanna"	Juliopol	17	Lublin 1886	00245	241	K Krueger									
+Schultz	Wiktor Mieczyslaw	Schultz	Viktor Mieczyslaw	D	1886	Nov	Edmund Hermann		"Biedermann, Adele Ida Nathalie"	Lublin	17	Lublin 1886	00245	242	K Krueger					son of the pastor				
+Henkel	Wilhelmina	Henkel	Wilhelmine	D	1886	Nov	Gottlieb		"Eltner, Augustine"	Rozplucie	17	Lublin 1886	00245	243	K Krueger									
+		Schultz	stillborn female	D	1886	Nov	Friedrich		"Harmel, Eleonore"	Galezow	17	Lublin 1886	00246	244	K Krueger									
+Schultz	Emilija	Schultz	Emilie	D	1886	Nov	Friedrich		"Friedrich, Julianna"	Zaraszow	17	Lublin 1886	00246	245	K Krueger									
+Lining	Ludwik	Lining	Ludwig	D	1886	Nov	Ludwig		"Fitzke, Rosalie"	Cycow	17	Lublin 1886	00246	246	K Krueger									
+Gregolai	Juliusz Teodor	Gregolai	Julius Theodor	D	1886	Nov	Adolf		"Mueller, Emilie"	Antoniowka	17	Lublin 1886	00246	247	K Krueger									
+Seifried	Klara	Seifried	Klara	D	1886	Nov	Friedrich		"Becker, Katharina"	Stroza	17	Lublin 1886	00246	248	K Krueger									
+Freimark	Matylda	Freimark	Mathilde	D	1886	Nov	Christoph		"Machel, Karoline"	Juliopol	17	Lublin 1886	00246	249	K Krueger									
+Idler	August	Idler	August	D	1886	Nov	Andreas		"Schmidt, Anna Christine"	Janowica	17	Lublin 1886	00247	250	K Krueger									
+Krueger	Ludwika	Krueger	Luise	D	1886	Dec	Ludwig		Katharina	Wolka Mieczyslawska	17	Lublin 1886	00247	251	K Krueger				Jeske					
+Martin	Emilija	Martin	Emilie	D	1886	Dec	Friedrich		"Puepke, Pauline"	Zarobka	17	Lublin 1886	00247	252	K Krueger									
+Koch	Emma	Koch	Emma	D	1886	Dec	Friedrich		"Klatt, Susanna"	Cycow	17	Lublin 1886	00247	253	K Krueger									
+Molzahn	Julijanna	Molzahn	Julianna	D	1886	Dec	Friedrich Gottfried		"Will, Pauline"	Jagodne	17	Lublin 1886	00247	254	K Krueger									
+Keller	Jozef	Keller	Josef	D	1886	Dec	Andreas		"Jakubowski, Wilhelmine"	Franzdorf	17	Lublin 1886	00247	255	K Krueger				"Berlin?, Katharina"					
+Baumgardt	Wilhelmina Wanda	Baumgardt	Wilhelmine Wanda	D	1886	Dec	Georg		"Rinas, Alwine"	Cycow	17	Lublin 1886	00248	256	K Krueger									
+Fenske	Paulina	Fenske	Pauline	D	1886	Dec	August		"Neumann, Anna"	Cycow	17	Lublin 1886	00248	257	K Krueger									
+Grams	Krystyjan	Grams	Christian	D	1886	Dec	Andreas		"Kaus, Marianna"	Wolka Mieczyslawska	17	Lublin 1886	00248	258	K Krueger				"Ratke, Karoline"					
+Lerke	Karol	Lerke	Karl	D	1886	Dec	Ludwig		"Gust, Julianna"	Ludwinow	17	Lublin 1886	00248	259	K Krueger									
+Kaschub	Ludwik	Kaschub	Ludwig	D	1886	Dec	Andreas		Eva	Janowica	17	Lublin 1886	00248	260	K Krueger				"Koepke, Karoline Emilie"					
+Krueger	Krystyjan	Krueger	Christian	D	1886	Dec				Adamow	17	Lublin 1886	00248	261	K Krueger				"Kropp, Euphrosine"					
+Becker	Ludwika	Becker	Luise	D	1886	Dec	Christian		"Wand, Karoline"	Janowica	17	Lublin 1886	00249	262	K Krueger				"Krebs, Gottlieb"					
+Lange	Jan	Lange	Johann	D	1886	Dec				Branka	17	Lublin 1886	00249	263	K Krueger				"Bluege, Karoline"					
+Harter	Leopold	Harter	Leopold	D	1886	Dec	Gottlieb		"Heffner, Pauline"	Zawada	17	Lublin 1886	00249	264	K Krueger									
+Frank	Gustaw	Frank	Gustav	D	1886	Dec	Wilhelm		"Meier, Julianna"	Wola Korybutowa	17	Lublin 1886	00249	265	K Krueger									
+Mittelstaedt	Augusta	Mittelstaedt	Auguste	D	1886	Dec	Martin		"Jekel, Marianna"	Sewerynowka	17	Lublin 1886	00249	266	K Krueger									
+Beker	Barbara	Becker	Barbara	D	1886	Dec	Friedrich		"Kiri, Katharina"	Potok	17	Lublin 1886	00249	267	K Krueger									
+Hintz	Samuel	Hintz	Samuel	D	1886	Dec	Ludwig		"Schnek, Julianna"	Wola Korybutowa	17	Lublin 1886	00250	268	K Krueger									
+Jekel	Alwina	Jekel	Alwine	D	1886	Dec	Adolf		"Meule, Katharina"	Sewerynowka	17	Lublin 1886	00250	269	K Krueger									
+Krueger	Ewa	Krueger	Eva	D	1886	Dec	Josef		"Milbradt, Dorothea"	Amelin	17	Lublin 1886	00250	270	K Krueger				"Schultz, August"					
+Loewe	Elzbieta	Loewe	Elisabeth	D	1886	Dec	Johann		"Martin, Therese"	Potok	17	Lublin 1886	00250	271	K Krueger									
+Zinn	Karolina	Zinn	Karoline or Charlotte	D	1886	Dec	Sigmund		"Dobratz?, Luise"	Wolka Zablocka	17	Lublin 1886	00250	272	K Krueger				"Lange, Friedrich"	given name written as Charlotte in Russian but Karoline in Polish				
+Jess	Justyna	Jess	Justine	D	1886	Dec	Michael		"Holtz, Karoline"	Radlin	17	Lublin 1886	00250	273	K Krueger									
+Goltz	Jan	Goltz	Johann	D	1886	Dec	Gustav		"Reske, Luise"	Pawlow	17	Lublin 1886	00251	274	K Krueger									
+Bakhaus	Gotfryd	Bakhaus	Gottfried	D	1886	Dec	Gottlieb		"Nickel, Anna"	Bogdanka	17	Lublin 1886	00251	275	K Krueger				"Peischke, Henriette"					
+Natrop	Julijanna	Natrop	Julianna	D	1886	Dec	Samuel		Dorothea	Lublin	17	Lublin 1886	00251	276	K Krueger				"Breining, Heinrich"					
+Kaus	Maryjanna	Kaus	Marianne	D	1886	Dec	Christoph		"Schiewe, Anna"	Wola Lisowska	17	Lublin 1886	00251	277	K Krueger				"Grams, Andreas"					
+Schiewe	Samuel	Schiewe	Samuel	D	1886	Dec	Andreas		"Braun, Eva"	Bekiesza	17	Lublin 1886	00251	278	K Krueger									
+Milosz	Waleryja	Milosch	Valerie	D	1886	Dec	Johann		"Zeretzski, Josefa"	Lublin	17	Lublin 1886	00251	279	K Krueger				"Vogel, Gottlieb"					
+Martin	Helena Amalia	Martin	Helene Amalie	D	1886	Dec	Julius		"Riske, Karoline"	Sewerynowka	17	Lublin 1886	00252	280	K Krueger									
+Braun	Rudolf	Braun	Rudolf	D	1886	Dec	Gottlieb		"Propp, Susanna"	Malinowka	17	Lublin 1886	00252	281	K Krueger									
+Eckstein	Ludwik	Eckstein	Ludwig	D	1886	Dec				Wronow	17	Lublin 1886	00252	282	K Krueger				"Mueller, Margarete"					
+Brant	Emilija	Brandt	Emilie	D	1886	Dec	unknown/unbekannt		"Brandt, Helene"	Cycow	17	Lublin 1886	00252	283	K Krueger									
+Rehm	Ernestyna	Rehm	Ernestine	D	1886	Dec	Jakob		"Duelge, Johanna"	Juliopol	17	Lublin 1886	00252	284	K Krueger									
+Jesske	Justyna	Jeske	Justine	D	1887	Jan	Wilhelm		"Steinke, Luise"	Konopnica	17	Lublin 1886	00252	285	K Krueger									
+Oelke	Krystyna	Oelke	Christine	D	1887	Jan	Johann		"Pide, Karoline"	Egersdorf (=Dylazki)	17	Lublin 1886	00253	286	K Krueger									
+Steinke	Julijanna	Steinke	Julianna	D	1887	Jan	Johann		"Dreger, Wilhelmine"	Galezow	17	Lublin 1886	00253	287	K Krueger				"Harmel, Heinrich"					
+Lau	Matylda	Lau	Mathilde	D	1887	Jan	Jakob		"Machel, Luise"	Zawada	17	Lublin 1886	00253	288	K Krueger									
+Orive	Karol	Orive	Karl	D	1887	Jan	Karl		"Roloff, Karoline"	Olszanka	17	Lublin 1886	00253	289	K Krueger				"Skrzekowski?, Karoline"	son of pastor				
+Ulmer	Jan Fryderyk	Ulmer	Johann Friedrich	D	1887	Jan	Friedrich		"Stellmatzer, Katharina"	Zawada	17	Lublin 1886	00253	290	K Krueger									
+Pudwel	Jan Rudolf	Pudwel	Johann Rudolf	D	1887	Jan	Karl		"Lehmann, Rosalie"	Juliopol	17	Lublin 1886	00253	291	K Krueger									
+Krueger	Andrzej	Krueger	Andreas	D	1887	Jan	Ludwig		"Bansemeier, Pauline"	Malinowka	17	Lublin 1886	00254	292	K Krueger									
+		ZZ		D	1886						17	Lublin 1886	00254	right	K Krueger					Index: Ah - YEh				
+		ZZ		D	1886						17	Lublin 1886	00255		K Krueger					Index: YEh - SHah				
+		ZZ		D	1886						17	Lublin 1886	00256	left	K Krueger					Index: SHah - YAh				
+		ZZ		B	1886						17	Lublin 1886	00256	right	K Krueger					Index: Ah - Veh				
+		ZZ		B	1886						17	Lublin 1886	00257		K Krueger					Index: Veh - Keh				
+		ZZ		B	1886						17	Lublin 1886	00258		K Krueger					Index: Keh - OO				
+		ZZ		B	1886						17	Lublin 1886	00259		K Krueger					Index: ehF - YAh				

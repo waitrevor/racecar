@@ -1,0 +1,78 @@
+<div class="main-content">
+  <h1 class="centered-content">Search Lublin Death Records</h1>
+  <p>You can also search the <a href="#/members/lublin_records/English/LublinBirth.html">Birth</a> and <a href="#/members/lublin_records/English/LublinMarriage.html">Marriage</a> databases.</p>
+  <h2>Search Criteria</h2>
+  <div class="paragraph-section">
+    <p>1. "Normal Search" is the default search. Because we use an Oracle database engine, as you do a "Normal Search" you will quickly find all occurrences of any given sequence of letters in a given search field in the database. Thus, whether the sequence is a complete name or only a portion of a name, no matter where you seek the sequence, it will be found. For instance, if you type in "jaeger" (without the quote marks), you will find entries that include, "Jaeger," "Lobenjaeger," and "Geiger or Jaeger".</p>
+    <br>
+    <p>2. "Exact Match" will only find entries that include the exact letter sequence entered and will not return any entry with additional spaces or other characters in the field searched.</p>
+    <br>
+    <p>3. "Special Soundex Search" has been designed exclusively by SGGEE to find matches between German, Polish, and English names that may have similar sounds but different spellings. For example, a search for Hinc will yield Hinz and Hintz. The search will NOT yield translated names. Not all possible matches should be assumed to be equivalent. However, the variety of results should allow you to see variations in spelling which you may not have considered before. For this Lublin database search, the soundex feature works for either surnames or given names of the primary person of the record (births and deaths) and for those of the bride and groom on marriages.</p>
+    <br>
+    <p>4. There are no umlauts in the database (dotted vowels). Most of the umlauted letters have been replaced with ae, oe, or ue, but there are some names where the umlauted letter was changed to simply a, o, or u. You need, therefore, to do a search for both spellings of the name (i.e., search for Konig as well as Koenig, etc.).</p>
+    <br>
+    <p>5. You do not need to enter data in all search boxes to find data. In fact, <strong>the more data you enter into the search fields, the fewer will be the results that will be returned</strong>, and it is likely that you will eliminate the data you seek if you narrow the search too much.</p>
+  </div>
+
+  <form id="SearchLublinDeaths" action="/sggee/SGGEESearch" method="post" name="LublinDeaths">
+      <input name="searchWhat" value="LublinDeaths" type="hidden">
+      <input name="op" value="search" type="hidden">
+
+      <div class="form-section">
+          <input name="surname" type="text" id="surname" placeholder="Primary Surname">
+          <input name="given_name" type="text" id="given_name" placeholder="Primary Given Name">
+          <input name="event_year" type="text" placeholder="Death Year">
+          <input name="village" type="text" placeholder="Death Place">
+      </div>
+
+      <div class="form-section">
+          <input name="father_or_spouse" type="text" placeholder="Father's Given Name">
+          <input name="mother_or_spouse" type="text" placeholder="Mother's Surname, Given Name">
+          <input name="spouses" type="text" placeholder="Spouse's Surname, Given Name">
+      </div>
+
+      <div class="flex-row-container">
+          <div class="form-section">
+              <label class="radio-option">
+                  <input name="search_type" value="normal" checked="checked" type="radio">
+                  <span>Normal Search</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="exact" type="radio">
+                  <span>Exact Match</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="dmsoundex" type="radio">
+                  <span style="width: 140%;">DM Soundex Search (surnames only)</span>
+              </label>
+          </div>
+
+          <div class="form-section">
+              <label for="sort_by">Sort Results by:</label>
+              <select name="sort_by">
+                  <option value="2">Surname</option>
+                  <option value="3">Given Name</option>
+                  <option value="4">Event Date</option>
+                  <option value="9">Event Place</option>
+              </select>
+
+              <label for="numToReturn">Number of Results Per Page:</label>
+              <select name="numToReturn">
+                  <option value="5">5</option>
+                  <option value="10">10</option>
+                  <option value="15">15</option>
+                  <option value="20">20</option>
+                  <option value="25">25</option>
+                  <option value="50" selected>50</option>
+              </select>
+          </div>
+      </div>
+
+      <div class="centered-content">
+          <button name="search_and_display_db_button" type="submit">Search the Database</button>
+      </div>
+  </form>
+  <br>
+  <p><strong>NOTES:</strong> You do <u>not</u> need to fill in every blank. You only need to type in the beginning part of a name or word for the search engine to find results (Advanced searches allow the search for the part anywhere in the word). Typing part of a word will return all of the derivatives; searching for the character “A” will return <em>any</em> word where the beginning letter is “A”.</p>
+  <br>
+</div>

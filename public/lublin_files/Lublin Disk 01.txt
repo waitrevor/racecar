@@ -1,0 +1,1009 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki				
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater	Mutter oder Braut (P)	Mutter oder Braut (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Bräutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen				
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event type	Year	Month	Father	Mother or Bride (P)	Mother or Bride (D)	Village	Disk	Folder	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes				
+Panzegrau	Zuzanna	Pansegrau	Susanne	B	1869	Jan	Ludwig	"Foth, Helena"	"Foth, Helene"	Teosin	1	Lublin 1869	00002	1	S.Pohl Perry									
+Sejler	Julianna	Seiler	Julianna	B	1869	Jan	Karl	"Kramer, Eleonora"	"Kramer, Eleonore"	Gizyce	1	Lublin 1869	00002	2	S.Pohl Perry									
+Riske	Wilhelmina	Riske	Wilhelmine	B	1869	Jan	Ferdinand	"Mejer, Maryanna"	"Meier, Marianne"	Aleksandrowka	1	Lublin 1869	00003	3	S.Pohl Perry									
+Matter	Paulina Augustyna	Matter	Pauline Augustine	B	1869	Jan	Eduard	"Szmydtke, Florentyna"	"Schmidtke, Florentine"	Rachow	1	Lublin 1869	00003	4	S.Pohl Perry									
+Mogdans	Anna Paulina	Mogdans	Anna Pauline	B	1869	Jan	Wilhelm	"Kukel, Dorota"	"Kukel, Dorothea"	Konotopa	1	Lublin 1869	00003	5	S.Pohl Perry									
+Habke	Jan Wilhelm	Hapke	Johann Wilhelm	B	1869	Jan	Gottfried	"Szmulandt, Ewy"	"Schmuland, Eva"	Debowiec	1	Lublin 1869	00003	6	S.Pohl Perry									
+Nerling	Paulina	Nerling	Pauline	B	1869	Jan	Julius	"Nikolaj, Ludwika"	"Nikolai, Luise"	Bronislawow	1	Lublin 1869	00004	7	S.Pohl Perry									
+Malek	Daniel	Malek	Daniel	B	1869	Jan	Karl	"Federwysz, Zofia"	"Federwisch, Sophie"	Debowiec	1	Lublin 1869	00004	8	S.Pohl Perry									
+Rotz	Ludwika	Rotz	Luise	B	1869	Jan	Michael	"Rode, Ludwika"	"Rode, Luise"	Gotowka	1	Lublin 1869	00004	9	S.Pohl Perry									
+Riemer	Anna Fryderyka	Riemer	Anna Friederike	B	1869	Jan	Ludwig	"Szylke, Augusta"	"Schielke, Auguste"	Nadrybie	1	Lublin 1869	00004	10	S.Pohl Perry									
+Krentz	August Karol	Krentz	August Karl	B	1869	Jan	Johann	"Tarruhn, Wilhelmina"	"Taron, Wilhelmine"	Michelsdorf (=Michalow)	1	Lublin 1869	00005	11	S.Pohl Perry									
+Heffner	Paulina	Heffner	Pauline	B	1869	Jan	Johann	"Fischer, Eleonora"	"Fischer, Eleonore"	Zawada	1	Lublin 1869	00005	12	S.Pohl Perry									
+Splet	Krystyan	Splett	Christian	B	1869	Jan	Johann	"Pachal, Emilia"	"Pahl, Emilie"	Bronislawow	1	Lublin 1869	00005	13	S.Pohl Perry									
+Brueggemann	Robert Felix	Brueggemann	Robert Felix	B	1869	Jan	Gustav	"Kielm, Ottylia"	"Kelm, Ottilie"	Dziesiata	1	Lublin 1869	00005	14	S.Pohl Perry									
+Kassner	Emilia	Kassner	Emilie	B	1869	Jan	Gottlieb	"Huebner, Rozalia"	"Huebner, Rosalie"	Zawada	1	Lublin 1869	00006	15	S.Pohl Perry									
+Knak	Anna	Knack	Anna	B	1869	Jan	Ferdinand	"Piper, Wilhelmina"	"Piper, Wilhelmine"	Nadrybie	1	Lublin 1869	00006	16	S.Pohl Perry									
+Schendel	Gustaw	Schendel	Gustav	B	1869	Jan	Gustav	"Welke, Julianna"	"Welke, Julianna"	Radziejow	1	Lublin 1869	00006	17	S.Pohl Perry									
+Kinas	Rozalia	Kinas	Rosalie	B	1869	Jan	Gottlieb	"Rejch, Anna"	"Reich, Anna"	Malinowka	1	Lublin 1869	00006	18	S.Pohl Perry									
+Zimmer	Andrzej	Zimmer	Andreas	B	1869	Jan	August	"Katzberg, Julianna"	"Katzberg, Julianna"	Mieszyslawka	1	Lublin 1869	00007	19	S.Pohl Perry									
+Wagner	Ignacy Maryan	Wagner	Ignatz Marian	B	1869	Jan	Maximillian	"Lipinska, Kamilla"	"Lipinski, Camilla"	Lublin	1	Lublin 1869	00007	20	S.Pohl Perry									
+Fitz	Gustaw Adolf	Fitz	Gustav Adolf	B	1869	Feb	Ferdinand	"Szultz, Karolina"	"Schultz, Karoline"	Wladyslawow	1	Lublin 1869	00007	21	S.Pohl Perry									
+Bade	Herman Emil	Bade	Hermann Emil	B	1869	Feb	Wilhelm	"Bade, Ludwika"	"Bade, Luise"	Jagodno	1	Lublin 1869	00007	22	S.Pohl Perry									
+Nering	August	Nering	August	B	1869	Feb	Karl	"Kujat, Justyna"	"Kujat, Justine"	Serokomla	1	Lublin 1869	00008	23	S.Pohl Perry									
+Zaader	Paulina Berta	Sader	Pauline Berta	B	1869	Feb	Friedrich	"Lobas, Henryetta"	"Lobas, Henriette"	Rubie/Rybie	1	Lublin 1869	00008	24	S.Pohl Perry									
+Schindler	Michal	Schindler	Michael	B	1869	Feb	Michael	"Manske, Rozalia"	"Manske, Rosalie"	Pawlow	1	Lublin 1869	00008	25	S.Pohl Perry									
+Gefreiter	Zuzanna	Gefreiter	Susanne	B	1869	Feb	Johann	"Neuman, Julianna"	"Neumann, Julianna"	Stanislawow	1	Lublin 1869	00008	26	S.Pohl Perry									
+Klinkspon	Wilhelm	Klingspon	Wilhelm	B	1869	Feb	Gustav	"Szultz, Justyna"	"Schultz, Justine"	Bielany	1	Lublin 1869	00009	27	S.Pohl Perry									
+Welke	Edward	Welke	Eduard	B	1869	Feb	Ferdinand	"Lange, Florentyna"	"Lange, Flortentine"	Wolka Nadrybska	1	Lublin 1869	00009	28	S.Pohl Perry									
+Grott	August Ferdynand	Groth	August Ferdinand	B	1869	Feb	Ernst	"Proehl, Emilia"	"Prell, Emilie"	Nadrybie	1	Lublin 1869	00009	29	S.Pohl Perry									
+Dering	Ludwika	Doering	Luise	B	1869	Feb	Ludwig	"Stejnke, Rozalia"	"Steinke, Rosalie"	Janowica	1	Lublin 1869	00009	30	S.Pohl Perry									
+Bryze	Paulina	Briese	Pauline	B	1869	Feb	Gottfried	"Tumm, Beata"	"Tumm, Beate"	Justynow	1	Lublin 1869	00010	31	S.Pohl Perry									
+Rohlof	Wilhelmina	Rolof	Wilhelmine	B	1869	Feb	Heinrich	"Wolter, Henryetta"	"Wolter, Henriette"	Janowica	1	Lublin 1869	00010	32	S.Pohl Perry									
+Zielke	Gottfryd	Zielke	Gottfried	B	1869	Feb	Johann Friedrich	"Szyming, Ludwika"	"Schimming, Luise"	Zurawiniec	1	Lublin 1869	00010	33	S.Pohl Perry									
+Miller	Paulina	Miller	Pauline	B	1869	Feb	Gottlieb	"Badke, Karolina"	"Badke, Karoline"	Sobolew	1	Lublin 1869	00010	34	S.Pohl Perry									
+Schmidt	Wilhelm	Schmidt	Wilhelm	B	1869	Feb	Gottlieb	"Erychson, Wilhelmina"	"Erickson, Wilhelmine"	Wanda (=Wanda Bakus)	1	Lublin 1869	00011	35	S.Pohl Perry									
+Jeske	Ewa Rozalia	Jeske	Eva Rosalie	B	1869	Feb	Gottlieb	"Mittelstedt, Wilhelmina"	"Mittelstaedt, Wilhelmine"	Juliopol	1	Lublin 1869	00011	36	S.Pohl Perry									
+Huf	Rozalia	Huff	Rosalie	B	1869	Feb	Gottlieb	"Manske, Justyna"	"Manske, Justine"	Laczki	1	Lublin 1869	00011	37	S.Pohl Perry									
+Werner	Karol Juliusz	Werner	Karl Julius	B	1869	Feb	Friedrich	"Mahler, Ludwika"	"Mahler, Luise"	Wladyslawow	1	Lublin 1869	00011	38	S.Pohl Perry									
+Ikert	Wilhelm	Ikert	Wilhelm	B	1869	Feb	Michael	"Radke, Ludwika"	"Radke, Luise"	Aleksandrowka	1	Lublin 1869	00012	39	S.Pohl Perry									
+Krueger	Ludwik	Krueger	Ludwig	B	1869	Feb	Ludwig	"Winkel, Karolina"	"Winkel, Karoline"	Parczew	1	Lublin 1869	00012	40	S.Pohl Perry									
+Orzechoski	Wilhelmina	Orzechowski	Wilhelmine	B	1869	Feb	Johann	"Pyde, Justyna"	"Pide, Justine"	Gotowka	1	Lublin 1869	00012	41	S.Pohl Perry									
+Wesenberg	Ludwika Franciszka	Wesenberg	Luise Franziska	B	1869	Feb	Wilhelm	"Spejk, Anna Krystyna"	"Speich, Anna Christine"	Wladyslawow	1	Lublin 1869	00012	42	S.Pohl Perry									
+Cybart	Aleksander	Ziebart	Alexander	B	1869	Feb	Johann	"Manzej, Wilhelmina"	"Manzei, Wilhelmine"	Zalucze	1	Lublin 1869	00013	43	S.Pohl Perry									
+Rechert	Ludwik	Roechert	Ludwig	B	1869	Feb	Johann	"Apelt, Bregyda"	"Appelt, Brigitte"	Malinowka	1	Lublin 1869	00013	44	S.Pohl Perry									
+Sieg	Paulina Rozalia	Sieg	Pauline Rosalie	B	1869	Feb	Gottlieb	"Strohschein, Wilhelmina"	"Strohschein, Wilhelmine"	Rozplucie	1	Lublin 1869	00013	45	S.Pohl Perry									
+Eszner	Amalia	Eschner	Amalie	B	1869	Feb	Samuel	"Kuehn, Ludwika"	"Kuehn, Luise"	Janowica	1	Lublin 1869	00013	46	S.Pohl Perry									
+Wojtowicz	Gottlieb	Woitowitz	Gottlieb	B	1869	Feb	Gottfried	"Jahnke, Justyna"	"Janke, Justine"	Pielgrzymka	1	Lublin 1869	00014	47	S.Pohl Perry									
+Bekker	Justyna	Becker	Justine	B	1869	Feb	Wilhelm	"Noerenberg, Karolina"	"Noerenberg, Karoline"	Miloszowka	1	Lublin 1869	00014	48	S.Pohl Perry									
+Egert	Paulina	Egert	Pauline	B	1869	Feb	Michael	"Noerenberg, Rozalia"	"Noerenberg, Rosalie"	Teosin	1	Lublin 1869	00014	49	S.Pohl Perry									
+Engfer	Karol	Engfer	Karl	B	1869	Feb	Karl	"Szenrok, Amalia"	"Schoenrock, Amalie"	Teosin	1	Lublin 1869	00014	50	S.Pohl Perry									
+Mejster	Emilia Paulina	Meister	Emilie Pauline	B	1869	Feb	Johann	"Balkau, Karolina"	"Balkow, Karoline"	Juliopol	1	Lublin 1869	00015	51	S.Pohl Perry									
+Abram	Jan Maciej	Abraham	Johann Matthias	B	1869	Feb	Gottlieb	"Jubin, Rozyna"	"Jubin, Rosine"	Klementynow	1	Lublin 1869	00015	52	S.Pohl Perry									
+Ganske	Emilia	Ganske	Emilie	B	1869	Feb	Gottlieb	"Makus, Wilhelmina"	"Makus, Wilhelmine"	Rozdzalow	1	Lublin 1869	00015	53	S.Pohl Perry									
+Tyborowski	Stefan	Tyborowski	Stefan	B	1869	Feb	Karl	"Jahnke, Anna"	"Janke, Anna"	Pawlow	1	Lublin 1869	00015	54	S.Pohl Perry									
+Jeske	Karol Lebrecht	Jeske	Karl Lebrecht	B	1869	Feb	Daniel	"Luettke, Ludwika"	"Luetke, Luise"	Juliopol	1	Lublin 1869	00016	55	S.Pohl Perry									
+Fruk	Anna Marya	Fruk	Anna Marie	B	1869	Feb	Josef	"Schultz, Ludwika"	"Schultz, Luise"	Michelsdorf (=Michalow)	1	Lublin 1869	00016	56	S.Pohl Perry									
+Betcher	Karolina	Betcher	Karoline	B	1869	Feb	Michael	"Mantej, Emilia"	"Mantei, Emilie"	Klementynow	1	Lublin 1869	00016	57	S.Pohl Perry									
+Falkenberg	Henryk	Falkenberg	Heinrich	B	1869	Feb	August	"Nerenberg, Wilhelmina"	"Noerenberg, Wilhelmine"	Puszki	1	Lublin 1869	00016	58	S.Pohl Perry									
+Kleemann	Julia	Kleemann	Julia	B	1869	Feb	Gottfried	"Stellmach, Anna"	"Stellmach, Anna"	Staszow	1	Lublin 1869	00017	59	S.Pohl Perry									
+Ruchocki	Ludwik	Ruchotzki	Ludwig	B	1869	Feb	August	"Fandslo, Anna Rozyna"	"Fandzlo, Anna Rosine"	Malinowka	1	Lublin 1869	00017	60	S.Pohl Perry									
+Szyndler	Ludwika	Schindler	Luise	B	1869	Feb	Gustav	"Zerbyn, Ewa"	"Zerbin, Eva"	Pawlow	1	Lublin 1869	00017	61	S.Pohl Perry									
+Klukas	Rozalia	Klukas	Rosalie	B	1869	Feb	Johann	"Hollandt, Rozalia"	"Holland, Rosalie"	Pawlow	1	Lublin 1869	00017	62	S.Pohl Perry									
+Sommerfeldt	Emil	Sommerfeld	Emil	B	1869	Feb	Johann	"Groenke, Berta"	"Grenke, Berta"	Janowica	1	Lublin 1869	00018	63	S.Pohl Perry									
+Sonnenberg	Gottfryd	Sonnenberg	Gottfried	B	1869	Mar	Gustav	"Bernhardt, Justyna"	"Bernard, Justine"	Radziejow	1	Lublin 1869	00018	64	S.Pohl Perry									
+Appelt	Ludwik	Appelt	Ludwig	B	1869	Mar	Christoph	"Wegner, Ludwika"	"Wegner, Luise"	Pielgrzymka	1	Lublin 1869	00018	65	S.Pohl Perry									
+Krueger	Ferdynand	Krueger	Ferdinand	B	1869	Mar	Michael	"Feifer, Karolina"	"Pfeiffer, Karoline"	Bielany	1	Lublin 1869	00018	66	S.Pohl Perry									
+Szmydt	Gustaw	Schmidt	Gustav	B	1869	Mar	Gottlieb	"Stebner, Karolina"	"Stebner, Karoline"	Izydorow (nr. Radziejow)	1	Lublin 1869	00019	67	S.Pohl Perry									
+Buchholtz	Adolf	Buchholtz	Adolf	B	1869	Mar	August	"Kirsch, Wilhelmina"	"Kirsch, Wilhemine"	Konstantynowka	1	Lublin 1869	00019	68	S.Pohl Perry									
+Bussler	Henryk Juliusz	Busler	Heinrich Julius	B	1869	Mar	Eduard	"Vangrof, Emilia"	"Wangrow, Emilie"	Wojciechow	1	Lublin 1869	00019	69	S.Pohl Perry									
+Mattner	Emmanuel	Matner	Emanuel	B	1869	Mar	Gottlieb	"Degen, Zuzanna"	"Degen, Susanne"	Graniczna	1	Lublin 1869	00019	70	S.Pohl Perry									
+Petryk	Wilhelmina	Petrich	Wilhelmine	B	1869	Mar	Ludwig		"Peltzer, Julia"	Zurawiniec	1	Lublin 1869	00020	71	S.Pohl Perry									
+Mantej	Karolina	Mantei	Karoline	B	1869	Mar	Samuel	"Schnejder, Karolina"	"Schneider, Karoline"	Dzialyn	1	Lublin 1869	00020	72	S.Pohl Perry									
+Keding	Augusta Alwina	Keding	Auguste Alwine	B	1869	Mar	Karl	"Brokob, Wilhelmina"	"Brokop, Wilhelmine"	Wojciechow	1	Lublin 1869	00020	73	S.Pohl Perry									
+Kinitz	Anna Krystyna	Kinitz	Anna Christine	B	1869	Mar	Gottfried	"Jansen, Wilhelmina"	"Jansen, Wilhelmine"	Wola Mieczyslawska	1	Lublin 1869	00020	74	S.Pohl Perry									
+Berger	Emil Gustaw	Berger	Emil Gustav	B	1869	Mar	Johann Eduard	"Lange, Julianna"	"Lange, Julianna"	Sobolew	1	Lublin 1869	00021	75	S.Pohl Perry									
+Plaga	Emil Gustaw	Plage	Emil Gustav	B	1869	Mar	Albrecht	"Gaede, Justyna"	"Gaede, Justine"	Lublin	1	Lublin 1869	00021	76	S.Pohl Perry					geb. January 1869				
+Krueger	Edward	Krueger	Eduard	B	1869	Mar	Gottlieb	"Pekrull, Krystyna"	"Pekrul, Christine"	Bielany	1	Lublin 1869	00021	77	S.Pohl Perry									
+Hutzel	Wilhelmina	Hutzel	Wilhelmine	B	1869	Mar	Johann	"Holtz, Justyna"	"Holtz, Justine"	Bielsko?	1	Lublin 1869	00021	78	S.Pohl Perry									
+Kassner	Karol	Kassner	Karl	B	1869	Mar	Johann Gottfried	"Schultz, Karolina"	"Schultz, Karoline"	Jozefin	1	Lublin 1869	00022	79	S.Pohl Perry									
+Szywe	Ludwika	Schiewe	Luise	B	1869	Mar	Christoph	"Szultz, Karolina"	"Schultz, Karoline"	Janowica	1	Lublin 1869	00022	80	S.Pohl Perry									
+Klukas	Ludwika	Klukas	Luise	B	1869	Mar	unknown	"Klukas, Rozyna"	"Klukas, Rosine"	Miloszowka	1	Lublin 1869	00022	81	S.Pohl Perry									
+Goltz	Ludwika	Goltz	Luise	B	1869	Mar	Gottlieb	"Majer, Michalina"	"Maier, Michaelina"	Elzbietow	1	Lublin 1869	00022	82	S.Pohl Perry									
+Majer	Ferdynand	Maier	Ferdinand	B	1869	Mar	Johann	"Labrentz, Julianna"	"Labrentz, Julianna"	Justynow	1	Lublin 1869	00023	83	S.Pohl Perry									
+Gross	Ludwika	Gross	Luise	B	1869	Mar	Wilhelm	"Kelm, Ludwika"	"Kelm, Luise"	Stanislawow	1	Lublin 1869	00023	84	S.Pohl Perry									
+Knittler	Justyna	Knittler	Justine	B	1869	Mar	Gottlieb	"Schmidt, Julianna"	"Schmidt, Julianna"	Izydorow (nr. Radziejow)	1	Lublin 1869	00023	85	S.Pohl Perry									
+Klingspon	Justyna	Klingspon	Justine	B	1869	Mar	Martin	"Drews, Anna Elzbieta"	"Drews, Anna Elisabeth"	Tytusow (nr. Radziejow)	1	Lublin 1869	00023	86	S.Pohl Perry									
+Jubin	Henryetta	Jubin	Henriette	B	1869	Mar	Gottfried	"Kowalska, Eleonora"	"Kowalski, Eleonore"	Wankowszczyzna	1	Lublin 1869	00024	87	S.Pohl Perry									
+Jahnke	Karol Ludwik	Janke	Karl Ludwig	B	1869	Mar	Karl	"Mattes, Fyderyka"	"Mattes, Friederike"	Wojciechow	1	Lublin 1869	00024	88	S.Pohl Perry									
+Schnik	Rudolf	Schnick	Rudolf	B	1869	Mar	Karl	"Schadek, Anna Dorota"	"Schadek, Anna Dorothea"	Malinowka	1	Lublin 1869	00024	89	S.Pohl Perry									
+Richert	Michal	Richert	Michael	B	1869	Mar	Wilhelm	"Biler, Maryanna"	"Biler, Marianne"	Malinowka	1	Lublin 1869	00024	90	S.Pohl Perry									
+Liske	Wilhelmina	Liske	Wilhelmine	B	1869	Mar	Adam	"Bentz, Dorota"	"Benz, Dorothea"	Gizyce	1	Lublin 1869	00025	91	S.Pohl Perry									
+Schmuland	Ferdynand	Schmuland	Ferdinand	B	1869	Mar	Andreas	"Mund, Ernestyna"	"Mund, Ernestine"	Jozefow	1	Lublin 1869	00025	92	S.Pohl Perry									
+Kuehn	Jakob	Kuehn	Jakob	B	1869	Mar	Johann	"Hejman, Julianna"	"Heimann, Julianna"	Zawada	1	Lublin 1869	00025	93	S.Pohl Perry									
+Duesterhoeft	Krystyna	Duesterhoeft	Christine	B	1869	Mar	Wilhelm	"Knapp, Karolina"	"Knapp, Karoline"	Wankowszczyzna	1	Lublin 1869	00025	94	S.Pohl Perry									
+Schueler	Adolf Edward	Schueler	Adolf Eduard	B	1869	Mar	Eduard Wilhelm	"Stopczyk, Marya Aleksandra"	"Stopczik, Maria Alexandra"	Lublin	1	Lublin 1869	00026	95	S.Pohl Perry									
+Hartstock	Henryk	Hartstock	Heinrich	B	1869	Mar	Christoph	"Berwald, Anna"	"Berwald, Anna"	Teosin	1	Lublin 1869	00026	96	S.Pohl Perry									
+Klemm	Wilhelmina	Klemm	Wilhelmine	B	1869	Mar	Karl	"Witt, Justyna"	"Witt, Jusinte"	Jagodno	1	Lublin 1869	00026	97	S.Pohl Perry									
+Fege	Jan	Fege	Johann	B	1869	Mar	Christoph	"Redel, Ewa Rozyna"	"Roedel, Eva Rosine"	Wytyczno	1	Lublin 1869	00026	98	S.Pohl Perry									
+	Jan August	Dilge	Johann August	B	1869	Mar	August	"Hackbart, Anna"	"Hackbart, Anna"	Juliopol	1	Lublin 1869	00027	99	S.Pohl Perry									
+Krentz	Samuel	Krentz	Samuel	B	1869	Mar	August	"Ryske, Julianna"	"Riske, Julianna"	Trojnia	1	Lublin 1869	00027	100	S.Pohl Perry									
+Rode	Rudolf	Rode	Rudolf	B	1869	Mar	Wilhelm	"Hensel, Karolina"	"Henschel, Karoline"	Zurawiniec	1	Lublin 1869	00027	101	S.Pohl Perry									
+	Anna	Markwart	Anna	B	1869	Mar	Martin	"Bodak, Ewa"	"Bodack, Eva"	Malinowka	1	Lublin 1869	00027	102	S.Pohl Perry									
+	Jan Karol	Lessing	Johann Karl	B	1869	Mar	Karl	"Markwart, Rozyna"	"Markwart, Rosine"	Debowiec	1	Lublin 1869	00028	103	S.Pohl Perry									
+	Maryanna	Klan	Marianne	B	1869	Mar	Jakob	"Krueger, Wilhelmina"	"Krueger, Wilhelmine"	Sewerynowka	1	Lublin 1869	00028	104	S.Pohl Perry									
+	Ludwik	Betcher	Ludwig	B	1869	Mar	Johann	"Hegin, Wilhelmina"	"Hegin, Wilhelmine"	Klementynow	1	Lublin 1869	00028	105	S.Pohl Perry									
+Schultz	Krzysztof	Schultz	Christoph	B	1869	Mar	Michael	"Klath, Krystyna"	"Klatt, Christine"	Egersdorf (=Dylazki)	1	Lublin 1869	00028	106	S.Pohl Perry									
+Hyrsz	Gustaw Emil	Hirsch	Gustav Emil	B	1869	Mar	Wilhelm	"Bleske, Wilhelmina"	"Bleske, Wilhelmine"	Sawin	1	Lublin 1869	00029	107	S.Pohl Perry									
+	Jan Karol	Raabe	Johann Karl	B	1869	Mar	Anton	"Lessing, Henryetta"	"Lessing, Henriette"	Ludwinow	1	Lublin 1869	00029	108	S.Pohl Perry									
+	Ludwik	Poleski	Ludwig	B	1869	Mar	August	"Winkel, Emilia"	"Winkel, Emilie"	Juliopol	1	Lublin 1869	00029	109	S.Pohl Perry									
+Weber	Daniel	Weber	Daniel	B	1869	Mar	Michael	"Zielke, Ludwika"	"Zielke, Luise"	Juliopol	1	Lublin 1869	00029	110	S.Pohl Perry									
+Sommer	Albertyna	Sommer	Albertine	B	1869	Mar	Johann	"Rinas, Julianna"	"Rinas, Julianna"	Teosin	1	Lublin 1869	00030	111	S.Pohl Perry									
+Hoppe	Juliusz	Hoppe	Julius	B	1869	Apr	Friedrich	"Majer, Justyna"	"Maier, Justine"	Czulczyce	1	Lublin 1869	00030	112	S.Pohl Perry									
+Makkus	Amalia	Makus	Amalie	B	1869	Apr	Gottfried	"Burrman, Dorota"	"Burmann, Dorothea"	Janowica	1	Lublin 1869	00030	113	S.Pohl Perry									
+Stapel	Karol	Stapel	Karl	B	1869	Apr	Gottlieb	"Sommerfeldt, Julianna"	"Sommerfeld, Julianna"	Krasienin	1	Lublin 1869	00030	114	S.Pohl Perry									
+Hahn	Wilhelmina	Hahn	Wilhelmine	B	1869	Apr	Karl	"Ernst, Karolina"	"Ernst, Karoline"	Jagodno	1	Lublin 1869	00031	115	S.Pohl Perry									
+Sontag	Samuel	Sonntag	Samuel	B	1869	Apr	Johann	"Lass, Julianna"	"Lass, Julianna"	Izydorow (nr. Radziejow)	1	Lublin 1869	00031	116	S.Pohl Perry									
+Rechert	Wilhelmina	Roechert	Wilhelmine	B	1869	Apr	Gottlieb	"Abram, Justyna"	"Abraham, Justine"	Mieszyslawka	1	Lublin 1869	00031	117	S.Pohl Perry									
+	Julianna	Gutknecht	Julianna	B	1869	Apr	Michael	"Wegner, Maryanna"	"Wegner, Marianne"	Sobolew	1	Lublin 1869	00031	118	S.Pohl Perry									
+Badke	Anna Krystyna	Badke	Anna Christine	B	1869	Apr	Gottlieb	"Weidman, Anna Krystyna"	"Weidmann, Anna Christine"	Janowica	1	Lublin 1869	00032	119	S.Pohl Perry									
+Braun	Jan	Braun	Johann	B	1869	Apr	Gottlieb	"Pross, Zuzanna"	"Pross, Susanne"	Adamow	1	Lublin 1869	00032	120	S.Pohl Perry									
+Raduns	Gustaw	Radons	Gustav	B	1869	Apr	Martin	"Stejnberg, Wilhelmina"	"Steinberg, Wilhelmine"	Nowina	1	Lublin 1869	00032	121	S.Pohl Perry									
+Schiewe	Bogumil	Schiewe	Gottlieb	B	1869	Apr	Gottfried	"Schultz, Anna Justyna"	"Schultz, Anna Justine"	Krasienin	1	Lublin 1869	00032	122	S.Pohl Perry									
+Henning	Albertyna	Henning	Albertine	B	1869	Apr	Friedrich	"Stibner, Henryetta"	"Stuebner, Henriette"	Leonardow	1	Lublin 1869	00033	123	S.Pohl Perry									
+Kowalski	Jan Gottlieb	Kowalski	Johann Gottlieb	B	1869	Apr	Wilhelm	"Netzel, Paulina"	"Noetzel, Pauline"	Ludwinow	1	Lublin 1869	00033	124	S.Pohl Perry									
+Braun	Anna Elzbieta	Braun	Anna Elisabeth	B	1869	Apr	Wilhelm	"Splett, Anna Krystyna"	"Splett, Anna Christine"	Debowiec	1	Lublin 1869	00033	125	S.Pohl Perry									
+Rohde	Ferdynand	Rode	Ferdinand	B	1869	Apr	Friedrich	"Nast, Maryanna"	"Nast, Marianne"	Jozefow	1	Lublin 1869	00033	126	S.Pohl Perry									
+Szylberg	Andrzej	Schilberg	Andreas	B	1869	Apr	Karl	"Herrmann, Rozalia"	"Hermann, Rosalie"	Wolka Nadrybska	1	Lublin 1869	00034	127	S.Pohl Perry									
+Wutke	Julia	Wutke	Julia	B	1869	Apr	Friedrich	"Szybilska, Marya"	"Szybilski, Maria"	Lublin	1	Lublin 1869	00034	128	S.Pohl Perry									
+Klath	Gottfryd Krzysztof	Klatt	Gottfried Christoph	B	1869	Apr	Johann	"Jahnke, Karolina"	"Janke, Karoline"	Egersdorf (=Dylazki)	1	Lublin 1869	00034	129	S.Pohl Perry									
+Manski	Julia	Manske	Julia	B	1869	Apr	Stefan		"Henkel, Luise"	Matczyn	1	Lublin 1869	00034	130	S.Pohl Perry									
+Arct	Anna	Arzt	Anna	B	1869	Apr	Michael	"Galecka, Marja"	"Galetzki, Marie"	Lublin	1	Lublin 1869	00035	131	S.Pohl Perry									
+Hill	August	Hill	August	B	1869	Apr	August	"Hildebrand, Augusta Wilhelmina"	"Hildebrand, Auguste Wilhelmine"	Brzezno	1	Lublin 1869	00035	132	S.Pohl Perry									
+Styrmer	Wilhelm	Stuermer	Wilhelm	B	1869	Apr	Gottfried	"Lentz, Eleonora"	"Lentz, Eleonore"	Perekraszcz (=Kamien)	1	Lublin 1869	00035	133	S.Pohl Perry									
+Pauli	Gustaw	Pauli	Gustav	B	1869	Apr	Karl	"Caillet, Marya"	"Caillet, Marie"	Zakrzew	1	Lublin 1869	00035	134	S.Pohl Perry					born November 1868				
+Radke	Wilhelm	Radke	Wilhelm	B	1869	Apr	Peter	"Wolter, Julianna"	"Wolter, Julianna"	Rozdzalow	1	Lublin 1869	00036	135	S.Pohl Perry									
+Kotke	Amalia	Kotke	Amalie	B	1869	Apr	Wilhelm	"Schultz, Scharlotta"	"Schultz, Charlotte"	Wladyslawow	1	Lublin 1869	00036	136	S.Pohl Perry									
+Kramer	Erdmann	Kramer	Erdman	B	1869	Apr	Andreas	"Pfeifer, Maryanna"	"Pfeiffer, Marianne"	Wystrow	1	Lublin 1869	00036	137	S.Pohl Perry									
+Dittmann	Jan Krystyan	Dittmann	Johann Christian	B	1869	Apr	Johann	"Fentzke, Karolina"	"Fenske, Karoline"	Wojciechow	1	Lublin 1869	00036	138	S.Pohl Perry									
+Pahl	Julianna	Pahl	Julianna	B	1869	Apr	Christian	"Tischler, Renata"	"Tischler, Renate"	Stanislawow	1	Lublin 1869	00037	139	S.Pohl Perry									
+Rimanne	Julianna	Rimann?	Julianna	B	1869	Apr	Ferdinand	"Bohn, Wilhelmina"	"Bohn, Wilhelmine"	Rostoka	1	Lublin 1869	00037	140	S.Pohl Perry									
+Grams	Adam Krystyan	Grams	Adam Christian	B	1869	Apr	Daniel	"Fitzner, Joanna"	"Fitzner, Johanna"	Sewerynowka	1	Lublin 1869	00037	141	S.Pohl Perry									
+Jeske	Jan	Jeske	Johann	B	1869	Apr	Georg	"Raedel, Henryetta"	"Redel, Henriette"	Wanda (=Wanda Bakus)	1	Lublin 1869	00037	142	S.Pohl Perry									
+Krueger	Ernestyna	Krueger	Ernestine	B	1869	Apr	Ferdinand	"Pfeifer, Justyna"	"Pfeiffer, Justine"	Bielany	1	Lublin 1869	00038	143	S.Pohl Perry									
+Richter	Daniel	Richter	Daniel	B	1869	Apr	Andreas	"Witzke, Krystyna Maryanna"	"Witzke, Christine Marianne"	Zalisocze	1	Lublin 1869	00038	144	S.Pohl Perry									
+Lueck	Gottlieb	Lueck	Gottlieb	B	1869	Apr	Julius	"Hitz, Emilia"	"Hintz, Emilie"	Malinowka	1	Lublin 1869	00038	145	S.Pohl Perry									
+Hinc	Gustaw	Hintz	Gustav	B	1869	Apr	Georg	"Fredrich, Ludwika"	"Friedrich, Luise"	Izydorow (nr. Radziejow)	1	Lublin 1869	00038	146	S.Pohl Perry									
+Schwening	Konrad	Schwenning	Konrad	B	1869	Apr	Ludwig	"Findeling, Anna"	"Findeling, Anna"	Teresin	1	Lublin 1869	00039	147	S.Pohl Perry									
+Duesterhoeft	Edward	Duesterhoeft	Eduard	B	1869	Apr	Samuel	"Marcinkowska, Wilhelmina"	"Marcinkowski, Wilhelmine"	Aleksandrowka	1	Lublin 1869	00039	148	S.Pohl Perry									
+Albrecht	Emil	Albrecht	Emil	B	1869	Apr	Andreas	"Nikolaj, Emilya"	"Nikolai, Emilie"	Bronislawow	1	Lublin 1869	00039	149	S.Pohl Perry									
+Kaufer	Gustaw	Kaufer	Gustav	B	1869	Apr	Karl	"Welke, Wilhelmina"	"Welke, Wilhelmine"	Radziejow	1	Lublin 1869	00039	150	S.Pohl Perry									
+Onas	Amalia Rozalia	Onas	Amalie Rosalie	B	1869	Apr	Karl Ludwig	"Minde, Karolina Fryderyka"	"Minde, Karoline Friederike"	Wladyslawow	1	Lublin 1869	00040	151	S.Pohl Perry									
+Gitzel	Daniel	Gitzel	Daniel	B	1869	Apr	Friedrich	"Schilberg, Anna Krystyna"	"Schilberg, Anna Christine"	Rozplucie	1	Lublin 1869	00040	152	S.Pohl Perry									
+Minchau	Rozyna	Mincho	Rosine	B	1869	Apr	Jakob	"Riwe, Karolina"	"Riewe, Karoline"	Dzialyn	1	Lublin 1869	00040	153	S.Pohl Perry									
+Krueger	Fryderyk Wilhelm	Krueger	Friedrich Wilhelm	B	1869	Apr	Friedrich Wilhelm	"Kizling, Henryetta Elzbieta"	"Kiesling, Henriette Elisabeth"	Wojciechow	1	Lublin 1869	00040	154	S.Pohl Perry									
+Kitzmann	Jan	Kitzmann	Johann	B	1869	Apr	Andreas	"Kuehn, Krystyna"	"Kuehn, Christine"	Adamow	1	Lublin 1869	00041	155	S.Pohl Perry									
+Barthz	Jan	Bartz	Johann	B	1869	May	Johann	"Lembke, Paulina"	"Lembke, Pauline"	Dabrowka (nr. Aleksandrowo)?	1	Lublin 1869	00041	156	S.Pohl Perry									
+Klath	Wilhelmina	Klatt	Wilhelmine	B	1869	May	Andreas	"Bejtler, Karolina"	"Beitler, Karoline"	Aleksandrowka	1	Lublin 1869	00041	157	S.Pohl Perry									
+Knakoski	Paulina	Knakowski	Pauline	B	1869	May	Daniel	"Duesterhoeft, Karolina"	"Duesterhoeft, Karoline"	Puszki	1	Lublin 1869	00041	158	S.Pohl Perry									
+Misch	Jan	Misch	Johann	B	1869	May	Johann	"Weber, Krystyna"	"Weber, Christine"	Rybie	1	Lublin 1869	00042	159	S.Pohl Perry									
+Szymanski	Gottfried	Schimanski	Gottfried	B	1869	May	Ludwig	"Rahn, Wilhelmina"	"Rahn, Wilhelmine"	Rozplucie?	1	Lublin 1869	00042	160	S.Pohl Perry									
+Bartz	Jan August	Bartz	Johann August	B	1869	May	Johann	"Dejdo, Karolina"	"Deido, Karoline"	Ludwin	1	Lublin 1869	00042	161	S.Pohl Perry									
+Mekelborg	Gottfried	Mekelburg	Gottfried	B	1869	May	Ferdinand	"Fehler, Zuzanna"	"Fehler, Susanne"	Malinowka	1	Lublin 1869	00042	162	S.Pohl Perry									
+Stachoski	Wilhelmina	Stachoski	Wilhelmine	B	1869	May	August	"Hahn, Karolina"	"Hahn, Karoline"	Juliopol	1	Lublin 1869	00043	163	S.Pohl Perry									
+Noerenberg	Anna Krystyna	Noerenberg	Anna Christine	B	1869	May	Michael	"Zimer, Ludwika"	"Zimmer, Luise"	Bielsko?	1	Lublin 1869	00043	164	S.Pohl Perry									
+Schilke	Robert	Schilke	Robert	B	1869	May	Georg	"Rosenfeldt, Karolina"	"Rosenfeld, Karoline"	Konotopa	1	Lublin 1869	00043	165	S.Pohl Perry									
+Krebs	Rozalia	Krebs	Rosalie	B	1869	May	August	"Krop, Paulina"	"Kropp, Pauline"	Janowica	1	Lublin 1869	00043	166	S.Pohl Perry									
+Jahnke	Krystyan	Janke	Christian	B	1869	May	Karl	"Zerbin, Eleonora"	"Zerbin, Eleonore"	Pielgrzymka	1	Lublin 1869	00044	167	S.Pohl Perry									
+Krumrich	Wilhelm	Krumrich	Wilhelm	B	1869	May	Gottfried	"Nehring, Helena"	"Nering, Helene"	Radziejow	1	Lublin 1869	00044	168	S.Pohl Perry									
+Winkler	Wilhelmina	Winkler	Wilhelmine	B	1869	May	Michael	"Dahlke, Ludwika"	"Dahlke, Luise"	Staszow?	1	Lublin 1869	00044	169	S.Pohl Perry									
+Jamny	Emilja	Jamne?	Emilie	B	1869	May	Stanislaus	"Fenske, Maryanna"	"Fenske, Marianne"	Zawada	1	Lublin 1869	00044	170	S.Pohl Perry									
+Sagert	Wilhelmina	Segert	Wilhelmine	B	1869	May	Johann	"Hintz, Katarzyna"	"Hintz, Katharine"	Zawada	1	Lublin 1869	00045	171	S.Pohl Perry									
+Kopp	Juljanna	Kopp	Julianna	B	1869	May	Wilhelm	"Polej, Anna Rozalia"	"Polei, Anna Rosalie"	Teosin	1	Lublin 1869	00045	172	S.Pohl Perry									
+Rode	Wilhelm	Rode	Wilhelm	B	1869	May	Wilhelm	"Malon, Karolina"	"Malon, Karoline"	Gotowka	1	Lublin 1869	00045	173	S.Pohl Perry									
+Keding	Justyna	Keding	Justine	B	1869	May	Christoph	"Arndt, Eleonora"	"Arndt, Eleonore"	Wola Mieczyslawska	1	Lublin 1869	00045	174	S.Pohl Perry									
+Hundt	Ludwik	Hund	Ludwig	B	1869	May	Michael	"Wejnert, Rozalia"	"Weinert, Rosalie"	Pawlow	1	Lublin 1869	00046	175	S.Pohl Perry									
+Korok	Juljanna	Korock	Julianna	B	1869	May	Heinrich	"Gerdt, Anna"	"Gerdt, Anna"	Teosin	1	Lublin 1869	00046	176	S.Pohl Perry									
+Krueger	Henryetta	Krueger	Henriette	B	1869	May	Johann	"Mueller, Anna Zuzanna"	"Miller, Anna Susanne"	Nowina	1	Lublin 1869	00046	177	S.Pohl Perry									
+Krienke	Emilja	Krinke	Emilie	B	1869	May	Johann	"Ruchotzka, Justyna"	"Ruchotzki, Justine"	Malinowka	1	Lublin 1869	00046	178	S.Pohl Perry									
+Riewe	Anna	Riewe	Anna	B	1869	May	Christoph	"Hirsekorn, Zuzanna"	"Hirsekorn, Susanne"	Wytyczno	1	Lublin 1869	00047	179	S.Pohl Perry									
+Witzke	Ferdynand	Witzke	Ferdinand	B	1869	May	Karl August	"Maron, Anna"	"Maron, Anna"	Chutze	1	Lublin 1869	00047	180	S.Pohl Perry									
+Haze	Ludwika	Haase	Luise	B	1869	May	Johann	"Leiman, Anna"	"Lehmann, Anna"	Kulczyn	1	Lublin 1869	00047	181	S.Pohl Perry									
+Ziemmer	Gustaw	Ziemer	Gustav	B	1869	May	Paul	"Issel, Wilhelmina"	"Issel, Wilhelmina"	Brzezno	1	Lublin 1869	00047	182	S.Pohl Perry									
+Duesterhoeft	Wilhelmina	Duesterhoeft	Wilhelmine	B	1869	May	August	"Liwke, Wilhelmina"	"Liefke, Wilhelmine"	Elzbietow	1	Lublin 1869	00048	183	S.Pohl Perry									
+Bankonin	Florentyna	Bankonin	Florentine	B	1869	May	Leonhard	"Splett, Ludwika"	"Splett, Luise"	Dabrowka (nr. Aleksandrowo)?	1	Lublin 1869	00048	184	S.Pohl Perry									
+Gras	Wilhelmina	Grass	Wilhelmine	B	1869	May	August	"Zaft, Wilhelmina"	"Zaft, Wilhelmine"	Dabrowka (nr. Aleksandrowo)?	1	Lublin 1869	00048	185	S.Pohl Perry									
+Kunkel	Gottlieb	Kunkel	Gottlieb	B	1869	May	Gottlieb	"Grams, Karolina"	"Grams, Karoline"	Miloszowka	1	Lublin 1869	00048	186	S.Pohl Perry									
+Ott	Paulina	Ott	Pauline	B	1869	May	Gottlieb	"Zerbin, Anna Ludwika"	"Zerbin, Anna Luise"	Konotopa	1	Lublin 1869	00049	187	S.Pohl Perry									
+Fenske	Wilhelm	Fenske	Wilhelm	B	1869	May	Gottlieb	"Luckstejn, Karolina"	"Lokstein?, Karoline"	Wystrow	1	Lublin 1869	00049	188	S.Pohl Perry									
+Liebich	Zuzanna	Liebich	Susanne	B	1869	May	Anton	"Roechert, Justyna"	"Roechert, Justine"	Miloszowka	1	Lublin 1869	00049	189	S.Pohl Perry									
+Grams	Ewa	Grams	Eva	B	1869	May	Gottlieb	"Schroeder, Zuzanna"	"Schroeder, Susanne"	Miloszowka	1	Lublin 1869	00049	190	S.Pohl Perry									
+Steppan	Fryderyk	Stefan	Friedrich	B	1869	May	Johann Gottlieb	"Krienke, Justyna"	"Krinke, Justine"	Malinowka	1	Lublin 1869	00050	191	S.Pohl Perry									
+Guenter	Magdalena	Guenter	Magdalene	B	1869	May	Johann Gottlieb	"Biler, Magdalena"	"Biler, Magdalene"	Skarbin	1	Lublin 1869	00050	192	S.Pohl Perry									
+Guenter	Ludwik	Guenter	Ludwig	B	1869	May	Johann Gottlieb	"Biler, Magdalena"	"Biler, Magdalene"	Skarbin	1	Lublin 1869	00050	193	S.Pohl Perry									
+Meger	Julianna	Meger	Julianna	B	1869	May	Christian	"Kant, Karolina"	"Kant, Karoline"	Antonin	1	Lublin 1869	00050	194	S.Pohl Perry									
+Blimke	Katarzyna	Bluemke	Katharine	B	1869	May	Michael	"Rode, Karolina"	"Rode, Karoline"	Zalucze	1	Lublin 1869	00051	195	S.Pohl Perry									
+Pohl	Karol Edward	Pohl	Karl Eduard	B	1869	Jun	Josef	"Nowotke, Maryanna"	"Nowotke, Marianne"	Radziejow	1	Lublin 1869	00051	196	S.Pohl Perry									
+Feifer	Wilhelm	Pfeiffer	Wilhelm	B	1869	Jun	Johann	"Hennig, Paulina"	"Hennig, Pauline"	Jozefow	1	Lublin 1869	00051	197	S.Pohl Perry									
+Wolter	Jozefina	Wolter	Josefine	B	1869	Jun	Alexander	"Welke, Anna Elzbieta"	"Welke, Anna Elisabeth"	Gizyce	1	Lublin 1869	00051	198	S.Pohl Perry									
+Totz	Juliusz Herrmann	Totz	Julius Hermann	B	1869	Jun	Karl	"Gregor, Paulina"	"Gregor, Pauline"	Amelin	1	Lublin 1869	00052	199	S.Pohl Perry									
+Wendland	Jan Gottlieb	Wendland	Johann Gottlieb	B	1869	Jun	Johann	"Zyg, Justyna"	"Sieg, Justine"	Ludwinow	1	Lublin 1869	00052	200	S.Pohl Perry									
+Jabusch	Justyna	Jabusch	Justine	B	1869	Jun	Julius	"Labrentz, Karolina"	"Labrentz, Karoline"	Antonin	1	Lublin 1869	00052	201	S.Pohl Perry									
+Zybart	Pawel	Ziebart	Paul	B	1869	Jun	Johann	"Kliner, Anna"	"Kliner, Anna"	Zalucze	1	Lublin 1869	00052	202	S.Pohl Perry									
+Rindfleisch	Jan	Rindfleisch	Johann	B	1869	Jun	Michael	"Bilof, Julianna"	"Bilof, Julianna"	Zalucze	1	Lublin 1869	00053	203	S.Pohl Perry									
+Zempel	August Gottlieb	Sempel	August Gottlieb	B	1869	Jun	Johann	"Miller, Ewa"	"Miller, Eva"	Bielany	1	Lublin 1869	00053	204	S.Pohl Perry									
+Henkel	Justyna	Henkel	Justine	B	1869	Jun	Martin	"Labrentz, Marianna"	"Labrentz, Marianne"	Malinowka	1	Lublin 1869	00053	205	S.Pohl Perry									
+Polno	Michal	Polno	Michael	B	1869	Jun	Gottlieb	"Scholtz, Paulina"	"Schultz, Pauline"	Zawada	1	Lublin 1869	00053	206	S.Pohl Perry									
+Grams	Michal	Grams	Michael	B	1869	Jun	Johann	"Markwart, Elzbieta"	"Markwart, Elisabeth"	Wojciechow	1	Lublin 1869	00054	207	S.Pohl Perry									
+Lentz	Emma Hulda	Lentz	Emma Hulda	B	1869	Jun	Gottlieb	"Gruening, Szarlota"	"Gruening, Charlotte"	Wojciechow	1	Lublin 1869	00054	208	S.Pohl Perry									
+Schnell	Wilhelmina Henryetta	Schnell	Wilhelmine Henriette	B	1869	Jun	Friedrich	"Krueger, Julianna"	"Krueger, Julianna"	Michelsdorf (=Michalow)	1	Lublin 1869	00054	209	S.Pohl Perry									
+Mantej	Karol	Mantei	Karl	B	1869	Jun	Christoph	"Redel, Ludwika"	"Redel, Luise"	Wytyczno	1	Lublin 1869	00054	210	S.Pohl Perry									
+Schroeder	Wilhelmina	Schroeder	Wilhelmine	B	1869	Jun	August	"Schultz, Fryderyka"	"Schultz, Friederike"	Juliopol	1	Lublin 1869	00055	211	S.Pohl Perry									
+Jess	Jan	Jess	Johann	B	1869	Jun	Gottfried	"Degner, Anna Marianna"	"Degner, Anna Marianne"	Grabina	1	Lublin 1869	00055	212	S.Pohl Perry									
+Hirsekorn	Jan Wilhelm	Hirsekorn	Johann Wilhelm	B	1869	Jun	Samuel	"Belke, Justyna"	"Belke, Justine"	Michelsdorf (=Michalow)	1	Lublin 1869	00055	213	S.Pohl Perry									
+Schultz	Karol	Schultz	Karl	B	1869	Jun	Gottlieb	"Kosmenc, Paulina"	"Kosmentz, Pauline"	Zalisocze	1	Lublin 1869	00055	214	S.Pohl Perry									
+Drath	Jan	Drath	Johann	B	1869	Jun	Michael	"Braem, Zuzana"	"Brehm, Susanne"	Radziejow	1	Lublin 1869	00056	215	S.Pohl Perry									
+Schwening	Jan	Schwenning	Johann	B	1869	Jun	Johann	"Reich, Zyzana"	"Reich, Susanne"	Teresin	1	Lublin 1869	00056	216	S.Pohl Perry									
+Radmann	Herrmann Ludwik	Redmann	Herman Ludwig	B	1869	Jun	Andreas	"Kotke, Karolina"	"Kotke, Karoline"	Wladyslawow	1	Lublin 1869	00056	217	S.Pohl Perry									
+Tum	Ludwik	Tumm	Ludwig	B	1869	Jun	Adam	"Peitsch, Anna Dorota"	"Petisch, Anna Dorothea"	Malinowka	1	Lublin 1869	00056	218	S.Pohl Perry									
+Hintz	Karolina	Hintz	Karoline	B	1869	Jun	Gottfried	"Bartz, Maria"	"Bartz, Marie"	Rozdzalow	1	Lublin 1869	00057	219	S.Pohl Perry					born August 1868				
+Hendzel	Emilia Mina	Hendzel	Emilie Mina	B	1869	Jun	Julius	"Forsch, Malvina"	"Forsch, Malwine"	Lublin	1	Lublin 1869	00057	220	S.Pohl Perry									
+Richter	Adolf	Richter	Adolf	B	1869	Jun	Samuel	"Janke, Zuzanna"	"Janke, Susanne"	Teosin	1	Lublin 1869	00057	221	S.Pohl Perry									
+Hoffmann	Rozyna	Hoffmann	Rosine	B	1869	Jun	Peter	"Gleske, Krystyna"	"Gleske, Christine"	Teosin	1	Lublin 1869	00057	222	S.Pohl Perry									
+Kuehn	Ferdynand	Kuehn	Ferdinand	B	1869	Jun	Andreas	"Gatzke, Karolina"	"Gatzke, Karoline"	Aleksandrowka	1	Lublin 1869	00058	223	S.Pohl Perry									
+Zejdler	Paulina	Seidler	Pauline	B	1869	Jun	Wilhelm	"Klukas, Anna Justyna"	"Klukas, Anna Justine"	Zurawiniec	1	Lublin 1869	00058	224	S.Pohl Perry									
+Rentz	Daniel	Rentz	Daniel	B	1869	Jun	Michael	"Leschke, Julianna"	"Leschke, Julianna"	Gizyce	1	Lublin 1869	00058	225	S.Pohl Perry									
+Thyde	Gottlieb	Thiede	Gottlieb	B	1869	Jun	Gottlieb	"Kiebernik, Anna Krystyna"	"Koebernik, Anna Christine"	Sobolew	1	Lublin 1869	00058	226	S.Pohl Perry									
+Betcher	Anna Rozyna	Betcher	Anna Rosine	B	1869	Jun	Martin	"Thierling, Ludwika"	"Tierling, Luise"	Klementynow	1	Lublin 1869	00059	227	S.Pohl Perry									
+Rogin	Justyna	Rogan	Justine	B	1869	Jun	Jacenty	"Pelcer, Justyna"	"Peltzer, Justine"	Staszow	1	Lublin 1869	00059	228	S.Pohl Perry									
+Schmidt	Gottlieb	Schmidt	Gottlieb	B	1869	Jun	Johann Ludwig	"Gaeger, Krystyna"	"Jaeger, Christine"	Bronislawow	1	Lublin 1869	00059	229	S.Pohl Perry									
+	Emilia	Schullert	Emilie	B	1869	Jun	Michael	"Hauer, Karolina"	"Hauer, Karoline"	Teosin	1	Lublin 1869	00059	230	S.Pohl Perry									
+Mislak	Gustaw	Mislak	Gustav	B	1869	Jun	Ferdinand	"Schindler, Justyna"	"Schindler, Justine"	Zalisocze	1	Lublin 1869	00060	231	S.Pohl Perry									
+Rolof	Emilia	Rolof	Emilie	B	1869	Jun	Martin	"Stentzel, Karolina"	"Stenzel, Karoline"	Bielin	1	Lublin 1869	00060	232	S.Pohl Perry									
+Liese	Joanna Krystyna	Liese	Johanna Christine	B	1869	Jun	Gottlieb	"Huebner, Ewa"	"Huebner, Eva"	Juliopol	1	Lublin 1869	00060	233	S.Pohl Perry									
+Bejer	Justyna	Beier	Justine	B	1869	Jun	Christoph	"Henschel, Justyna"	"Henschel, Justine"	Czerwonka	1	Lublin 1869	00060	234	S.Pohl Perry									
+Bauer	Samuel	Bauer	Samuel	B	1869	Jun	Johann	"Schwartz, Karolina"	"Schwartz, Karoline"	Janowica	1	Lublin 1869	00061	235	S.Pohl Perry									
+Krueger	August	Krueger	August	B	1869	Jun	Friedrich	"Jop, Amalia"	"Jopp, Amalie"	Malinowka	1	Lublin 1869	00061	236	S.Pohl Perry									
+Krueger	Herrmann Jan	Krueger	Herman Johann	B	1869	Jun	Michael	"Horn, Berta"	"Horn, Berta"	Wojciechow	1	Lublin 1869	00061	237	S.Pohl Perry									
+Wanke	Jan	Wanke	Johann	B	1869	Jun	Michael	"Lentz, Marianna"	"Lentz, Marianne"	Aleksandrowka	1	Lublin 1869	00061	238	S.Pohl Perry									
+Kropp	Julianna	Kropp	Julianna	B	1869	Jun	Gottfried	"Winter, Anna Rozyna"	"Winter, Anna Rosine"	Wankowszczyzna	1	Lublin 1869	00062	239	S.Pohl Perry									
+Disselberger	Emilia	Disselberger	Emilie	B	1869	Jun	Jakob	"Lange, Emilia"	"Lange, Emilie"	Wojciechow	1	Lublin 1869	00062	240	S.Pohl Perry									
+Trahrbach	Eleonora	Trarbach	Eleonore	B	1869	Jun	Karl	"Rihnas, Rozalia"	"Rinas, Rosalie"	Katy	1	Lublin 1869	00062	241	S.Pohl Perry									
+Ruks	Ferdynand	Ruks	Ferdinand	B	1869	Jul	Christian	"Jesske, Ludwika"	"Jeske, Luise"	Wanda (=Wanda Bakus)	1	Lublin 1869	00062	242	S.Pohl Perry									
+Mantyk	Maryanna	Mantik	Marianne	B	1869	Jul	Michael	"Schmidtke, Elzbieta"	"Schmidtke, Elisabeth"	Lipniak	1	Lublin 1869	00063	243	S.Pohl Perry									
+Herzog	Julianna Ludwika	Herzog	Julianna Luise	B	1869	Jul	Friedrich	"Siemon, Henryetta"	"Simon, Henriette"	Nadrybie	1	Lublin 1869	00063	244	S.Pohl Perry									
+Braun	Karol	Braun	Karl	B	1869	Jul	Friedrich	"Ceh, Malgorzata"	"Zeh, Margarete"	Adamow	1	Lublin 1869	00063	245	S.Pohl Perry									
+Breitzke	Gustaw Emil	Breizke	Gustav Emil	B	1869	Jul	August	"Totzke, Krystyna"	"Totz, Christine"	Jagodno	1	Lublin 1869	00063	246	S.Pohl Perry									
+Liefke	Julianna	Lifke	Julianna	B	1869	Jul	Gottlieb	"Erdman, Rozalia"	"Erdmann, Rosalie"	Mieszyslawka	1	Lublin 1869	00064	247	S.Pohl Perry									
+Schultz	Karolina	Schultz	Karoline	B	1869	Jul	Friedrich	"Raedel, Dorota"	"Redel, Dorothea"	Wanda (=Wanda Bakus)	1	Lublin 1869	00064	248	S.Pohl Perry									
+Wanke	August Juliusz	Wanke	August Julius	B	1869	Jul	Johann	"Bohn, Karolina"	"Bohn, Karoline"	Ludwinow	1	Lublin 1869	00064	249	S.Pohl Perry									
+Tefs	Samuel	Tews	Samuel	B	1869	Jul	Paul	"Harwart, Ewa"	"Harwart, Eva"	Bielin	1	Lublin 1869	00064	250	S.Pohl Perry									
+Sokolowski	Eufrozyna	Sokolowski	Euphrosine	B	1869	Jul	Peter	"Minchau, Karolina"	"Mincho, Karoline"	Amelin	1	Lublin 1869	00065	251	S.Pohl Perry									
+Roechert	Karol	Roechert	Karl	B	1869	Jul	Christoph	"Koenig, Wilhelmina"	"Koenig, Wilhelmine"	Wanda (=Wanda Bakus)	1	Lublin 1869	00065	252	S.Pohl Perry									
+Betcher	Wilhelmina	Betcher	Wilhelmine	B	1869	Jul	Michael	"Kisser, Anna Karolina"	"Kisser, Anna Karoline"	Tomaszowka	1	Lublin 1869	00065	253	S.Pohl Perry									
+Krueger	Justyna	Krueger	Justine	B	1869	Jul	Michael	"Nachtigal, Karolina"	"Nachtigall, Karoline"	Domicelow (nr. Radziejow)	1	Lublin 1869	00065	254	S.Pohl Perry									
+Wolski	Wilhelmina Anna	Wolski	Wilhelmine Anna	B	1869	Jul	Johann	"Schtrauch, Anna"	"Strauch, Anna"	Michelsdorf (=Michalow)	1	Lublin 1869	00066	255	S.Pohl Perry									
+Dill	Eleonora	Dill	Eleonore	B	1869	Jul	Karl	"Flemke, Ewa"	"Flemke, Eva"	Teosin	1	Lublin 1869	00066	256	S.Pohl Perry									
+Mittelstaedt	Anna	Mittelstaedt	Anna	B	1869	Jul	Peter	"Jesske, Justyna"	"Jeske, Justine"	Przimus	1	Lublin 1869	00066	257	S.Pohl Perry									
+Klat	Karolina	Klatt	Karoline	B	1869	Jul	Johann	"Betcher, Emilia"	"Betcher, Emilie"	Puszki	1	Lublin 1869	00066	258	S.Pohl Perry									
+Albrecht	Ludwika	Albrecht	Luise	B	1869	Jul	Martin	"Patzer, Eufrozyna"	"Patzer, Euphrosine"	Bielany	1	Lublin 1869	00067	259	S.Pohl Perry									
+Mundt	Samuel	Mund	Samuel	B	1869	Jul	Adam	"Henschel, Marianna"	"Henschel, Marianne"	Janowica	1	Lublin 1869	00067	260	S.Pohl Perry									
+Mundt	Emanuel	Mund	Emanuel	B	1869	Jul	August	"Rutsch, Ludwika"	"Rutsch, Luise"	Stanislawow	1	Lublin 1869	00067	261	S.Pohl Perry									
+Lieske	Daniel	Liske	Daniel	B	1869	Jul	Martin	"Naiman, Zuzanna"	"Neumann?, Susanne"	Gizyce	1	Lublin 1869	00067	262	S.Pohl Perry									
+Sommerfeldt	Emilia	Sommerfeld	Emilie	B	1869	Jul	Ludwig	"Rolof, Emilia"	"Rolof, Emilie"	Janowica	1	Lublin 1869	00068	263	S.Pohl Perry									
+Egert	Gustaw	Egert	Gustav	B	1869	Jul	Gottlieb	"Drath, Wilhelmina"	"Drath, Wilhelmine"	Izydorow (nr. Radziejow)	1	Lublin 1869	00068	264	S.Pohl Perry									
+Klammer	August Jozef	Klammer	August Josef	B	1869	Jul	Johann	"Appel, Krystyna"	"Appel, Christine"	Bronislawow	1	Lublin 1869	00068	265	S.Pohl Perry									
+Kisser	Anna Ludwika	Kisser	Anna Luise	B	1869	Jul	Daniel	"Sprenger, Wilhelmina"	"Sprenger, Wilhelmine"	Aleksandrowka	1	Lublin 1869	00068	266	S.Pohl Perry									
+Pide	Matylda	Pide	Mathilde	B	1869	Jul	Wilhelm	"Leske, Ludwika"	"Leske, Luise"	Klementynow	1	Lublin 1869	00069	267	S.Pohl Perry									
+Lachecki	Samuel	Lachetzki	Samuel	B	1869	Jul	Gottfried	"Radys, Maryanna"	"Radis, Marianne"	Juliopol	1	Lublin 1869	00069	268	S.Pohl Perry									
+Hejman	Juljanna	Heiman	Julianna	B	1869	Jul	David	"Kuehn, Karolina"	"Kuehn, Karoline"	Zawada	1	Lublin 1869	00069	269	S.Pohl Perry									
+Mueller	Juljanna	Miller	Julianna	B	1869	Jul	Ludwig	"Wolfrahm, Krystyna"	"Wolfram, Christine"	Teosin	1	Lublin 1869	00069	270	S.Pohl Perry									
+Grams	Krzysztof	Grams	Christoph	B	1869	Jul	Gottlieb	"Kabusch, Juljanna"	"Kabusch, Julianna"	Malinowka	1	Lublin 1869	00070	271	S.Pohl Perry									
+Bittner	Wilhelm	Bittner	Wilhelm	B	1869	Jul	Martin	"Mantej, Ludwika"	"Mantei, Luise"	Lipniak	1	Lublin 1869	00070	272	S.Pohl Perry									
+Bieg	Ludwik	Bieg	Ludwig	B	1869	Jul	Ludwig	"Zahe, Ludwika"	"Sahe?, Luise"	Malinowka	1	Lublin 1869	00070	273	S.Pohl Perry									
+Dobrowski	Julianna	Dombrowski	Julianna	B	1869	Jul	Karl	"Siefert, Anna"	"Siefert, Anna"	Gotowka	1	Lublin 1869	00070	274	S.Pohl Perry									
+Kropp	Julia	Kropp	Julia	B	1869	Jul	August	"Schmidke, Justyna"	"Schmidke, Justine"	Amelin	1	Lublin 1869	00071	275	S.Pohl Perry									
+Arndt	Gottlieb	Arndt	Gottlieb	B	1869	Jul	Gottlieb	"Koroch, Julianna"	"Korock, Julianna"	Krzywda	1	Lublin 1869	00071	276	S.Pohl Perry									
+Otto	Filipina	Otto	Phillippine	B	1869	Jul	Reinhard	"Barzlaf, Karolina"	"Bartzlaf, Karoline"	Wanda (=Wanda Bakus)	1	Lublin 1869	00071	277	S.Pohl Perry									
+Lewin	Ida	Lewin	Ida	B	1869	Jul	Johann	"Jahnke, Ottilia"	"Janke, Ottilie"	Zabrodzie	1	Lublin 1869	00071	278	S.Pohl Perry									
+Brikner	Jakob	Brikner	Jakob	B	1869	Jul	Friedrich	"Duesterhoeft, Ludwika"	"Duesterhoeft, Luise"	Skordiow	1	Lublin 1869	00072	279	S.Pohl Perry									
+Daj	Daniel	Dei	Daniel	B	1869	Jul	Karl	"Witzke, Julianna"	"Witzke, Julianna"	Teosin	1	Lublin 1869	00072	280	S.Pohl Perry									
+Taube	Wilhelm Jakob	Taube	Wilhelm Jakob	B	1869	Jul	Jakob	"Hoppe, Rozalia"	"Hoppe, Rosalie"	Snopkow	1	Lublin 1869	00072	281	S.Pohl Perry									
+Tyde Rychlewski	Ewa	Tiede-Richlewski	Eva	B	1869	Jul	Gottfried	"Roechert, Ewa"	"Roechert, Eva"	Lipniak	1	Lublin 1869	00072	282	S.Pohl Perry									
+Tajgreber	Rozalia Emilia	Teichgraeber	Rosalie Emilie	B	1869	Jul	Herman	"Mincho, Anna"	"Mincho, Anna"	Ludwinow	1	Lublin 1869	00073	283	S.Pohl Perry									
+		Glesmann	Gottlieb	B	1869	Jul	unknown	"Burchet, Karolina"	"Burchet, Karoline"	Rachow	1	Lublin 1869	00073	284	S.Pohl Perry					widow of Glesmann				
+Pide	Andrzej	Pide	Andreas	B	1869	Jul	Michael	"Radke, Marianna"	"Radke, Marianne"	Staszow	1	Lublin 1869	00073	285	S.Pohl Perry									
+Landowski	Gustaw	Landowski	Gustav	B	1869	Jul	Ludwig	"Stebner, Anna"	"Stebner, Anna"	Teosin	1	Lublin 1869	00073	286	S.Pohl Perry									
+Mueller	Henryk	Mueller	Heinrich	B	1869	Jul	Michael	"Schmiedt, Ludwika"	"Schmidt, Luise"	Tomaszowka	1	Lublin 1869	00074	287	S.Pohl Perry									
+Piper	August Karol	Piper	August Karl	B	1869	Aug	Friedrich	"Becker, Henryetta"	"Becker, Henriette"	Nadrybie	1	Lublin 1869	00074	288	S.Pohl Perry									
+Szwartz	Juliusz	Schwartz	Julius	B	1869	Aug	Andreas	"Brajt, Amalia"	"Breit, Amalie"	Rozplucie	1	Lublin 1869	00074	289	S.Pohl Perry									
+Dielge	Augusta	Dilge	Auguste	B	1869	Aug	Julius	"Mueller, Julianna"	"Mueller, Julianna"	Juliopol	1	Lublin 1869	00074	290	S.Pohl Perry									
+Knopp	Matylda	Knopp	Mathilde	B	1869	Aug	Michael	"Naber, Anna"	"Naber, Anna"	Skordiow	1	Lublin 1869	00075	291	S.Pohl Perry									
+Frydrich	Ludwika	Friedrich	Luise	B	1869	Aug	Konrad	"Kowalska, Julianna"	"Kowalski, Julianna"	Aleksandrowka	1	Lublin 1869	00075	292	S.Pohl Perry									
+Krueger	Wilhelm	Krueger	Wilhelm	B	1869	Aug	Karl	"Nass, Katarzyna"	"Nass, Katharine"	Bielin	1	Lublin 1869	00075	293	S.Pohl Perry									
+Schroeder	Wihelm Krystyan	Schroeder	Wilhelm Christian	B	1869	Aug	Friedrich	"Boll, Henryetta"	"Boll, Henriette"	Wanda (=Wanda Bakus)	1	Lublin 1869	00075	294	S.Pohl Perry									
+Teichgreber	Emil	Teichgraeber	Emil	B	1869	Aug	Alexander	"Neumann, Antonina"	"Neumann, Antonia"	Ludwinow	1	Lublin 1869	00076	295	S.Pohl Perry									
+Buss	Ewa	Buss	Eva	B	1869	Aug	Karl	"Henkel, Rozyna"	"Henkel, Rosine"	Lipniak	1	Lublin 1869	00076	296	S.Pohl Perry									
+Frej	Emilia	Frei	Emilia	B	1869	Aug	Ferdinand	"Mislak, Karolina"	"Mislak, Karoline"	Zalisocze	1	Lublin 1869	00076	297	S.Pohl Perry									
+Katzberg	August	Katzberg	August	B	1869	Aug	Gottfried	"Neumann, Julianna"	"Neumann, Julianna"	Mieszyslawka	1	Lublin 1869	00076	298	S.Pohl Perry									
+Liedtke	Karol Ludwik	Liedke	Karl Ludwig	B	1869	Aug	Ludwig	"Tumm, Ewa"	"Tumm, Eva"	Sobolew	1	Lublin 1869	00077	299	S.Pohl Perry									
+Drath	Rudolf	Drath	Rudolf	B	1869	Aug	Phillip	"Efa, Wilhelmine"	"Effa, Wilhelmine"	Bronislawow	1	Lublin 1869	00077	300	S.Pohl Perry									
+Pohl	Julianna	Pohl	Julianna	B	1869	Aug	Wilhelm	"Noerenberg, Justyna"	"Noerenberg, Justine"	Stanislawow	1	Lublin 1869	00077	301	S.Pohl Perry									
+Tiesenhausen		Tiesenhausen	Olga Ernestine von	B	1869	Aug	Alfred Heinrich Konstantin Reinhold von		"Preiss, Mathilde Wilhelmine von"	Krasnystaw	1	Lublin 1869	00077	302	S.Pohl Perry					Baron von Tiesenhausen				
+Ziebart	Anna	Ziebart	Anna	B	1869	Aug	Ludwig	"Rode, Maryanna"	"Rode, Marianne"	Zalucze	1	Lublin 1869	00078	303	S.Pohl Perry									
+Mantej	Karolina	Mantei	Karoline	B	1869	Aug	August	"Fenske, Krystyna"	"Fenske, Christine"	Aleksandrowka	1	Lublin 1869	00078	304	S.Pohl Perry									
+Piotrowski	Helena	Piotrowski	Helene	B	1869	Aug	Karl	"Stopczyk, Dorota"	"Stopczik, Dorothea"	Lublin	1	Lublin 1869	00078	305	S.Pohl Perry					born April 1869				
+Kuhfeld	Michal	Kufeld	Michael	B	1869	Aug	Friedrich	"Fandrich, Zuzanna"	"Fandrich, Susanne"	Aleksandrowka	1	Lublin 1869	00078	306	S.Pohl Perry									
+Zimer	Emilia	Zimmer	Emilie	B	1869	Aug	Martin	"Kuehn, Justyna"	"Kuehn, Justine"	Stefanow	1	Lublin 1869	00079	307	S.Pohl Perry									
+Winkler	Edward Andrzej	Winkler	Eduard Andreas	B	1869	Aug	Gottlieb	"Otto, Zuzanna"	"Otto, Susanne"	Stefanow	1	Lublin 1869	00079	308	S.Pohl Perry									
+Mincho	Karol	Mincho	Karl	B	1869	Aug	Christian	"Wiesenberg, Emilia"	"Wiesenberg, Emilie"	Wanda (=Wanda Bakus)	1	Lublin 1869	00079	309	S.Pohl Perry									
+Mincho	Fryderyk	Mincho	Friedrich	B	1869	Aug	Christian	"Wiesenberg, Emilia"	"Wiesenberg, Emilie"	Wanda (=Wanda Bakus)	1	Lublin 1869	00079	310	S.Pohl Perry									
+	Anna Paulina	Stapel	Anna Pauline	B	1869	Aug	August	"Scholc, Marya"	"Schultz, Marie"	Debowiec	1	Lublin 1869	00080	311	S.Pohl Perry									
+Ryndfleisch	Anna	Rindfleisch	Anna	B	1869	Aug	Friedrich	"Remus, Karolina"	"Remus, Karoline"	Zalucze	1	Lublin 1869	00080	312	S.Pohl Perry									
+Mantej	Krystyan	Mantei	Christian	B	1869	Aug	Gottlieb	"Krenc, Rozyna"	"Krentz, Rosine"	Miloszowka	1	Lublin 1869	00080	313	S.Pohl Perry									
+Stein	Julianna	Stein	Julianna	B	1869	Aug	Gottfried	"Scholc, Julianna"	"Schultz, Julianna"	Graniczna	1	Lublin 1869	00080	314	S.Pohl Perry									
+Burchardt	Gottfried	Burchardt	Gottfried	B	1869	Aug	Johann	"Bens, Emilia"	"Benz, Emilie"	Domicelow (nr. Radziejow)	1	Lublin 1869	00081	315	S.Pohl Perry									
+Zager	Julia	Sager	Julia	B	1869	Aug	August	"Fender, Florentyna"	"Fender, Florentine"	Zurawiniec	1	Lublin 1869	00081	316	S.Pohl Perry									
+Hasper	August Ludwik	Hasper	August Ludwig	B	1869	Aug	August	"Scholtz, Karolina"	"Schultz, Karoline"	Krasienin	1	Lublin 1869	00081	317	S.Pohl Perry									
+Seegletes	Rudolf	Segletes	Rudolf	B	1869	Aug	August	"Froehlich, Justyna"	"Froehlich, Justine"	Kulczyn	1	Lublin 1869	00081	318	S.Pohl Perry									
+Rec	Fryderyk	Retz	Friedrich	B	1869	Aug	Stefan	"Reinke, Wilhelmina"	"Reinke, Wilhelmine"	Wojciechow	1	Lublin 1869	00081	319	S.Pohl Perry									
+Braun	Wilhelm	Braun	Wilhelm	B	1869	Aug	Gottfried	"Dahlke, Wilhelmina"	"Dahlke, Wilhelmine"	Janowica	1	Lublin 1869	00082	320	S.Pohl Perry									
+Demlang	Ludwik	Demlang	Ludwig	B	1869	Aug	Heinrich	"Schatschneider, Wilhelmina"	"Schachtschneider, Wilhelmine"	Sobolew	1	Lublin 1869	00082	321	S.Pohl Perry									
+Stresing	Wilhelm	Stresing	Wilhelm	B	1869	Aug	Peter	"Wolfert, Julianna"	"Wolfert, Julianna"	Wojciechow	1	Lublin 1869	00082	322	S.Pohl Perry									
+Freitag	Krystyna	Freitag	Christine	B	1869	Aug	Samuel	"Weber, Ludwika"	"Weber, Luise"	Klesztow	1	Lublin 1869	00082	323	S.Pohl Perry									
+Kramer	Daniel	Kramer	Daniel	B	1869	Aug	Gottlieb	"Riemer, Paulina"	"Riemer, Pauline"	Gizyce	1	Lublin 1869	00082	324	S.Pohl Perry									
+Hetke	Rozyna	Hetke	Rosine	B	1869	Aug	Ludwig	"Gerke, Julianna"	"Gerke, Julianna"	Antonin	1	Lublin 1869	00082	325	S.Pohl Perry									
+Schmiedt	Krystyna Berta	Schmidt	Christine Berta	B	1869	Aug	Friedrich	"Zisack, Julianna"	"Ziesak, Julianna"	Leonardow	1	Lublin 1869	00083	326	S.Pohl Perry									
+Bergmann	Julia	Bergmann	Julia	B	1869	Aug	Wilhelm	"Noerenberg, Karolina"	"Noerenberg, Karoline"	Zurawiniec	1	Lublin 1869	00083	327	S.Pohl Perry									
+Szyndel	Michal	Schindel	Michael	B	1869	Aug	Michael	"Johomjanke, Elzbieta"	"Joachimjanke?, Elisabeth"	Teosin	1	Lublin 1869	00083	328	S.Pohl Perry									
+Wehrmann	Karol	Wehrmann	Karl	B	1869	Aug	Friedrich	"Krentz, Eleonora"	"Krenz, Eleonore"	Skordiow	1	Lublin 1869	00083	329	S.Pohl Perry									
+Becker	August	Becker	August	B	1869	Aug	August	"Piper, Emilia"	"Piper, Emilie"	Nadrybie	1	Lublin 1869	00083	330	S.Pohl Perry									
+Kurcmann	Ewa	Kurtzmann	Eva	B	1869	Aug	Christoph	"Kowalke, Ludwika"	"Kowalke, Luise"	Pawlow	1	Lublin 1869	00083	331	S.Pohl Perry									
+Bulc	Henryk	Bultz	Heinrich	B	1869	Sep	Christian	"Neuman, Rozalia"	"Neumann, Rosalie"	Gotowka	1	Lublin 1869	00084	332	S.Pohl Perry									
+Frank	Paulina	Frank	Pauline	B	1869	Sep	Michael	"Janke, Karolina"	"Janke, Karoline"	Miloszowka	1	Lublin 1869	00084	333	S.Pohl Perry									
+Fehler	Gustaw	Fehler	Gustav	B	1869	Sep	Gottfried	"Cuknik, Julianna"	"Zuknik, Julianna"	Adamow	1	Lublin 1869	00084	334	S.Pohl Perry									
+Mueller	Karolina	Miller	Karoline	B	1869	Sep	Friedrich Wilhelm	"Krueger, Wilhelmina"	"Krueger, Wilhelmine"	Adamow	1	Lublin 1869	00084	335	S.Pohl Perry									
+Rieske	Matylda	Riske	Mathilde	B	1869	Sep	August	"Lindert, Karolina"	"Lindert, Karoline"	Mieszyslawka	1	Lublin 1869	00084	336	S.Pohl Perry									
+Strohscher	Karolina	Stroscher	Karoline	B	1869	Sep	Gottlieb	"Schmidtke, Rozyna"	"Schmidtke, Rosine"	Rachow	1	Lublin 1869	00084	337	S.Pohl Perry									
+Wilke	Michal	Wilke	Michael	B	1869	Sep	Karl	"Kortz, Anna Dorota"	"Kortz, Anna Dorothea"	Sobolew	1	Lublin 1869	00085	338	S.Pohl Perry									
+Jabs	Michal	Jabs	Michael	B	1869	Sep	Adam	"Seerok, Justyna"	"Serock, Justine"	Rozdzalow	1	Lublin 1869	00085	339	S.Pohl Perry									
+Fehler	Julianna	Fehler	Julianna	B	1869	Sep	Christian	"Guenter, Elzbieta"	"Guenter, Elisabeth"	Malinowka	1	Lublin 1869	00085	340	S.Pohl Perry									
+Renn	Adolf	Renn	Adolf	B	1869	Sep	Johann	"Jesske, Karolina"	"Jeske, Karoline"	Jagodno	1	Lublin 1869	00085	341	S.Pohl Perry									
+Braun	Anna Justyna	Braun	Anna Justine	B	1869	Sep	Jakob	"Tetzlaw, Ludwika"	"Tetzlaf, Luise"	Stefanow	1	Lublin 1869	00085	342	S.Pohl Perry									
+Zerbyn	Krystyna	Zerbin	Christine	B	1869	Sep	Johann	"Brejer, Krystyna"	"Breier, Christine"	Malinowka	1	Lublin 1869	00085	343	S.Pohl Perry									
+Zander	Anna Justyna	Sander	Anna Justine	B	1869	Sep	Gottlieb	"Rahn, Emilia"	"Rahn, Emilie"	Skarbin	1	Lublin 1869	00086	344	S.Pohl Perry									
+Werner	Ottilia Matylda	Werner	Ottilie Mathilde	B	1869	Sep	August	"Krueger, Emilia"	"Krueger, Emilie"	Adamow	1	Lublin 1869	00086	345	S.Pohl Perry									
+Kulisch	Krystyan Marcin	Kulisch	Christian Martin	B	1869	Sep	Gottfried	"Dill, Wilhelmina"	"Dill, Wilhelmine"	Bielany	1	Lublin 1869	00086	346	S.Pohl Perry									
+Schindler	Arkadya	Schindler	Arkadia	B	1869	Sep	Friedrich Wilhelm	"Du Bois, Emelina Augusta Amalia"	"Du Bois, Emeline Auguste Amalie"	Lublin	1	Lublin 1869	00086	347	S.Pohl Perry									
+Schoenfeldt	Ferdynand	Schoenfeld	Ferdinand	B	1869	Sep	Martin	"Silberman, Ernestyna"	"Silberman, Ernestine"	Jozefow	1	Lublin 1869	00086	348	S.Pohl Perry									
+Jaek	Julianna	Jek	Julianna	B	1869	Sep	Gottlieb	"Mantej, Karolina"	"Mantei, Karoline"	Justynow	1	Lublin 1869	00086	349	S.Pohl Perry									
+Kuhtz	Fryderyk Jan	Kutz	Friedrich Johann	B	1869	Sep	Johann	"Wendlandt, Karolina"	"Wendland, Karoline"	Zabrodzie	1	Lublin 1869	00087	350	S.Pohl Perry									
+Neumann	Adolf	Neumann	Adolf	B	1869	Sep	Josef	"Gisser, Katarzyna"	"Gisser, Katharine"	Sarnow?	1	Lublin 1869	00087	351	S.Pohl Perry									
+Grosskreutz	Karol Erdmann	Grosskreutz	Karl Erdman	B	1869	Sep	unknown	"Grosskreutz, Wilhelmina"	"Grosskreutz, Wilhelmine"	Wladyslawow	1	Lublin 1869	00087	352	S.Pohl Perry									
+Schultz	Ludwika	Schultz	Luise	B	1869	Sep	Gottlieb	"Peltzer, Julianna"	"Peltzer, Julianna"	Staszow	1	Lublin 1869	00087	353	S.Pohl Perry									
+Kurtz	Gottlieb	Kurtz	Gottlieb	B	1869	Sep	Michael	"Dilge, Wilhelmina"	"Dilge, Wilhelmine"	Juliopol	1	Lublin 1869	00087	354	S.Pohl Perry									
+Wahl	Paulina	Wahl	Pauline	B	1869	Sep	August	"Kronenberg, Marianna"	"Kronenberg, Marianne"	Zawada	1	Lublin 1869	00087	355	S.Pohl Perry									
+Pejke	Karol Aleksander	Peike	Karl Alexander	B	1869	Sep	unknown	"Pejke, Elzbieta"	"Peike, Elisabeth"	Plebanka	1	Lublin 1869	00088	356	S.Pohl Perry					see also 00095 #403				
+Kelbert	Jakob	Kelbert	Jakob	B	1869	Sep	Johann	"Blank, Elzbieta"	"Blank, Elisabeth"	Teosin	1	Lublin 1869	00088	357	S.Pohl Perry									
+Holtz	Jan	Holtz	Johann	B	1869	Sep	Adam	"Messerschmied, Justyna"	"Messerschmidt, Justine"	Bielsko?	1	Lublin 1869	00088	358	S.Pohl Perry									
+Mundt	August	Mund	August	B	1869	Sep	August	"Scheler, Joanna"	"Scheller, Johanna"	Stanislawow	1	Lublin 1869	00088	359	S.Pohl Perry									
+Nikolai	Paulina Matylda	Nikolai	Pauline Mathilde	B	1869	Sep	Karl	"Radus, Justyna"	"Radis, Justine"	Zabrodzie	1	Lublin 1869	00088	360	S.Pohl Perry									
+Hek	Augusta	Heck	Auguste	B	1869	Sep	Friedrich	"Nering, Rozyna"	"Nering, Rosine"	Jozefow	1	Lublin 1869	00088	361	S.Pohl Perry									
+Preuss	Michal	Preuss	Michael	B	1869	Sep	Karl	"Drews, Justyna"	"Drews, Justine"	Antonin	1	Lublin 1869	00089	362	S.Pohl Perry									
+Nerenberg	Jan Ludwik	Noerenberg	Johann Ludwig	B	1869	Sep	Christoph	"Holtz, Anna Karolina"	"Holtz, Anna Karoline"	Bielsko?	1	Lublin 1869	00089	363	S.Pohl Perry									
+Schultz	Augusta	Schultz	Auguste	B	1869	Sep	Michael	"Reichwaldt, Anna"	"Reichwald, Anna"	Debowiec	1	Lublin 1869	00089	364	S.Pohl Perry									
+Zarn	Justyna	Zarn	Justine	B	1869	Sep	August	"Lentz, Julianna"	"Lentz, Julianna"	Radziejow	1	Lublin 1869	00089	365	S.Pohl Perry									
+Rosner	Daniel	Rosner	Daniel	B	1869	Sep	Jakob	"Bahn, Wilhelmina"	"Bahn, Wilhelmine"	Puszki	1	Lublin 1869	00089	366	S.Pohl Perry									
+Rapp		Rapp	Julianna	B	1869	Sep	Andreas	"Kolb, Anna Krystyna"	"Kolb, Anna Christine"	Skarbin	1	Lublin 1869	00089	367	S.Pohl Perry									
+Mantej	Emil	Mantei	Emil	B	1869	Sep	Wilhelm	"Zimmer, Karolina"	"Zimmer, Karoline"	Jozefow	1	Lublin 1869	00090	368	S.Pohl Perry									
+Fitzner	Fryderyk	Fitzner	Friedrich	B	1869	Sep	Christian	"Koth, Wilhelmina"	"Kott, Wilhelmine"	Juliopol	1	Lublin 1869	00090	369	S.Pohl Perry									
+Grosskreutz	Wilhelmina Fryderyka	Grosskreutz	Wilhelmine Friederike	B	1869	Sep	Gottfried	"Betke, Henryetta"	"Betke, Henriette"	Wladyslawow	1	Lublin 1869	00090	370	S.Pohl Perry									
+Klath	Augustyna	Klatt	Augustine	B	1869	Sep	Gottlieb	"Nikel, Ludwika"	"Nickel, Luise"	Bronislawow	1	Lublin 1869	00090	371	S.Pohl Perry									
+Linser	Henryetta Augusta	Linzer	Henriette Auguste	B	1869	Sep	August	"Gorske, Karolina"	"Gurske, Karoline"	Bruss?	1	Lublin 1869	00090	372	S.Pohl Perry									
+Pahl	Justyna	Pahl	Justine	B	1869	Sep	Michael	"Arndt, Zuzanna"	"Arndt, Susanne"	Stanislawow	1	Lublin 1869	00090	373	S.Pohl Perry									
+Schultz	Gustaw	Schultz	Gustav	B	1869	Sep	Ludwig	"Wolter, Wilhelmina"	"Wolter, Wilhelmine"	Zyngierowka	1	Lublin 1869	00091	374	S.Pohl Perry									
+Melketyn	Julianna	Melketin	Julianna	B	1869	Sep	August	"Hekl, Matylda"	"Hekel, Mathilde"	Bronislawow	1	Lublin 1869	00091	375	S.Pohl Perry									
+Grams	Gustaw	Grams	Gustav	B	1869	Sep	Ludwig	"Kott, Justyna"	"Kott, Justine"	Jagodno	1	Lublin 1869	00091	376	S.Pohl Perry									
+Hejn	Emilia	Hein	Emilie	B	1869	Sep	August	"Zuknik, Emilia"	"Zuknik, Emilie"	Felczyn	1	Lublin 1869	00091	377	S.Pohl Perry									
+Zyrk	Wilhelmina	Zierk	Wilhelmine	B	1869	Sep	Martin	"Serk, Rozalia"	"Serek?, Rosalie"	Wola Mieczyslawska	1	Lublin 1869	00091	378	S.Pohl Perry									
+Biller	Wilhelmina	Biller	Wilhelmine	B	1869	Sep	Karl	"Hintz, Julianna"	"Hintz, Julianna"	Adamow	1	Lublin 1869	00091	379	S.Pohl Perry									
+Boelke	Emilia	Belke	Emilie	B	1869	Sep	Karl	"Nesmann, Ludwika"	"Nessmann, Luise"	Radziejow	1	Lublin 1869	00092	380	S.Pohl Perry									
+Seemann	Ferdynand	Seemann	Ferdinand	B	1869	Sep	Michael	"Teske, Ludwika"	"Teske, Luise"	Adamow	1	Lublin 1869	00092	381	S.Pohl Perry									
+Hoffmann	August Ludwik	Hoffmann	August Ludwig	B	1869	Sep	Daniel	"Tohm, Ludwika"	"Tomm, Luise"	Baran	1	Lublin 1869	00092	382	S.Pohl Perry									
+Arndt	Albertyna Augusta	Arndt	Albertine Auguste	B	1869	Sep	Johann	"Albrecht, Anna"	"Albrecht, Anna"	Bielany	1	Lublin 1869	00092	383	S.Pohl Perry									
+Thiel	Michal	Thiel	Michael	B	1869	Sep	unknown	"Thiel, Wilhelmina"	"Thiel, Wilhelmine"	Kaniwola	1	Lublin 1869	00092	384	S.Pohl Perry									
+Rozin	Emil	Rosin	Emil	B	1869	Oct	Martin	"Radonska, Ludwika"	"Radonski, Luise"	Aleksandrowka	1	Lublin 1869	00092	385	S.Pohl Perry									
+Frank	Michal	Frank	Michael	B	1869	Oct	unknown	"Frank, Ernestyna"	"Frank, Ernestine"	Rachow	1	Lublin 1869	00093	386	S.Pohl Perry									
+Weiss		Weiss	Emilie	B	1869	Oct	Samuel	"Hett, Karolina"	"Hett, Karoline"	Tomaszowka	1	Lublin 1869	00093	387	S.Pohl Perry									
+Luek	Matylda	Lueck	Mathilde	B	1869	Oct	Wilhelm	"Mass, Julianna"	"Maas, Julianna"	Justynow	1	Lublin 1869	00093	388	S.Pohl Perry									
+Bohn	Gustaw	Bohn	Gustav	B	1869	Oct	Friedrich	"Fandrych, Karolina"	"Fandrich, Karoline"	Tytusow (nr. Radziejow)	1	Lublin 1869	00093	389	S.Pohl Perry									
+Milke	Wilhelmina	Milke	Wilhelmine	B	1869	Oct	Michael	"Zelmer, Henryetta"	"Zelmer, Henriette"	Marianka	1	Lublin 1869	00093	390	S.Pohl Perry									
+Krueger	Ludwik Karol	Krueger	Ludwig Karl	B	1869	Oct	Johann Jakob	"Tarruhn, Ludwika"	"Taron, Luise"	Michelsdorf (=Michalow)	1	Lublin 1869	00093	391	S.Pohl Perry									
+Hoffmann	Piotr	Hoffmann	Peter	B	1869	Oct	Gottlieb	"Brokop, Rozyna"	"Brokop, Rosine"	Bielin	1	Lublin 1869	00094	392	S.Pohl Perry									
+Redmann	Hulda Matylda	Redmann	Hulda Mathilde	B	1869	Oct	Johann	"Scholtz, Rozyna"	"Schultz, Rosine"	Wladyslawow	1	Lublin 1869	00094	393	S.Pohl Perry									
+Noering	Karolina Wilhelmina	Nering	Karoline Wilhelmine	B	1869	Oct	Christoph	"Brysk, Wilhelmina"	"Brisk, Wilhelmine"	Marianka	1	Lublin 1869	00094	394	S.Pohl Perry									
+Schachtschnejder	Karolina	Schachtschneider	Karoline	B	1869	Oct	Michael	"Wagner, Jozefina"	"Wegner?, Josefine"	Aleksandrowka	1	Lublin 1869	00094	395	S.Pohl Perry									
+Heck	Wilhelmina	Heck	Wilhelmine	B	1869	Oct	August	"Sauer, Krystyna"	"Sauer, Christine"	Jozefow	1	Lublin 1869	00094	396	S.Pohl Perry									
+Schatkoski	Fryderyk	Schatkowski	Friedrich	B	1869	Oct	Peter	"Milk, Krystyna"	"Milke, Christine"	Gotowka	1	Lublin 1869	00094	397	S.Pohl Perry									
+Janke	Krystyan	Janke	Christian	B	1869	Oct	Daniel	"Jahnke, Ewa"	"Janke, Eva"	Pielgrzymka	1	Lublin 1869	00095	398	S.Pohl Perry									
+Markwart	Matylda	Markwart	Mathilde	B	1869	Oct	Michael	"Richter, Ludwika"	"Richter, Luise"	Skarbin	1	Lublin 1869	00095	399	S.Pohl Perry									
+Sommerfeldt	Gottlieb	Sommerfeld	Gottlieb	B	1869	Oct	Johann Daniel	"Kuhfeldt, Elzbeita"	"Kufeld, Elisabeth"	Miloszowka	1	Lublin 1869	00095	400	S.Pohl Perry									
+Kramer	Fryderyk Gustaw	Kramer	Friedrich Gustav	B	1869	Oct	Friedrich Gustav	"Breitkreuc, Henryetta"	"Breitkreutz, Henriette"	Ludwinow	1	Lublin 1869	00095	401	S.Pohl Perry									
+Radons	Karolina Wilhelmina	Radons	Karoline Wilhelmine	B	1869	Oct	Paul	"Manke, Karolina"	"Manke, Karoline"	Malokusi?	1	Lublin 1869	00095	402	S.Pohl Perry									
+Pejke	Agnieszka Anna	Peike	Agnes Anna	B	1869	Oct	unknown	"Pejke, Elzbieta"	"Peike, Elisabeth"	Plebanka or Gotowka	1	Lublin 1869	00095	403	S.Pohl Perry					see also 00088 #356				
+Neumann	Paulina	Neumann	Pauline	B	1869	Oct	Michael	"Hundt, Julianna"	"Hund, Julianna"	Sobolew	1	Lublin 1869	00096	404	S.Pohl Perry									
+Kunkel	Eleonora	Kunkel	Eleonore	B	1869	Oct	unknown	"Kunkel, Marianna"	"Kunkel, Marianne"	Grabina	1	Lublin 1869	00096	405	S.Pohl Perry									
+Majwaldt	Fryderyk Wilhelm	Maiwald	Friedrich Wilhelm	B	1869	Oct	Karl	"Dejnel, Henryetta"	"Deinel, Henriette"	Milejow	1	Lublin 1869	00096	406	S.Pohl Perry									
+Dinkler	Edmund	Dinkler	Edmund	B	1869	Oct	Heinrich	"Arndt, Dorota"	"Arndt, Dorothea"	Bielany	1	Lublin 1869	00096	407	S.Pohl Perry									
+Figur	Andrzej	Figur	Andreas	B	1869	Oct	Gottfried	"Schwucht, Maryanna"	"Schwucht, Marianne"	Puszki	1	Lublin 1869	00096	408	S.Pohl Perry									
+Daj	Juliusz	Dei	Julius	B	1869	Oct	Friedrich	"Hess, Wilhelmina"	"Hess, Wilhelmine"	Teosin	1	Lublin 1869	00096	409	S.Pohl Perry									
+Bujak	Samuel	Bujak	Samuel	B	1869	Oct	Friedrich	"Herzog, Julianna"	"Herzog, Julianne"	Rozdzalow	1	Lublin 1869	00097	410	S.Pohl Perry									
+Holtz	Gottfryd	Holtz	Gottfried	B	1869	Oct	Gottlieb	"Tyde, Karolina"	"Tiede, Karoline"	Pawlow	1	Lublin 1869	00097	411	S.Pohl Perry									
+Hintz	Gottlieb	Hintz	Gottlieb	B	1869	Oct	Ferdinand	"Trojan, Ludwika"	"Trojan, Luise"	Adamow	1	Lublin 1869	00097	412	S.Pohl Perry									
+Ristau	Wilhelm Edward	Ristau	Wilhelm Eduard	B	1869	Oct	Julius	"Krueger, Fryderyka"	"Krueger, Friederike"	Debowiec	1	Lublin 1869	00097	413	S.Pohl Perry									
+Martin	Wilhelmina	Martin	Wilhelmine	B	1869	Oct	Erdman	"Lucht, Julianna"	"Lucht, Julianna"	Konotopa	1	Lublin 1869	00097	414	S.Pohl Perry									
+Zucht	Julianna	Zucht	Julianna	B	1869	Oct	Gottfried	"Harfiel, Ludwika"	"Harfiel, Luise"	Radziejow	1	Lublin 1869	00097	415	S.Pohl Perry									
+Heger	Emilia	Heger	Emilie	B	1869	Oct	Christoph	"Zawystowska, Rozyna"	"Zawistowski, Rosine"	Zyngierowka	1	Lublin 1869	00098	416	S.Pohl Perry									
+Frost	Ferdynand	Frost	Ferdinand	B	1869	Oct	August	"Rohde, Julia"	"Rode, Julia"	Rozplucie	1	Lublin 1869	00098	417	S.Pohl Perry									
+Zawal	Paulina	Zawal	Pauline	B	1869	Oct	Samuel	"Zibart, Maryanna"	"Ziebart, Marianne"	Bielany	1	Lublin 1869	00098	418	S.Pohl Perry									
+Jantz	Wilhelm	Jantz	Wilhelm	B	1869	Oct	Heinrich	"Lau, Wilhelmina"	"Lau, Wilhelmine"	Puszki	1	Lublin 1869	00098	419	S.Pohl Perry									
+Hapke	Emilia	Hapke	Emilie	B	1869	Oct	Johann	"Wolski, Fryderyka"	"Wolski, Friederike"	Debowiec	1	Lublin 1869	00098	420	S.Pohl Perry									
+Bosenius	Karolina	Bosenius	Karoline	B	1869	Oct	Friedrich	"Herrmann, Eleonora"	"Hermann, Eleonore"	Malinowka	1	Lublin 1869	00098	421	S.Pohl Perry									
+Lange	Paulina	Lange	Pauline	B	1869	Oct	Samuel	"Tomm, Anna"	"Tomm, Anna"	Aleksandrowka	1	Lublin 1869	00099	422	S.Pohl Perry									
+Rychter	Matylda	Richter	Mathilde	B	1869	Oct	Ludwig	"Schmidt, Eleonora"	"Schmidt, Eleonore"	Zalisocze	1	Lublin 1869	00099	423	S.Pohl Perry									
+Affeldt	August	Affelt	August	B	1869	Oct	Karl Ludwig	"Heckendorf, Julianna"	"Heckendorf, Julianna"	Bielany	1	Lublin 1869	00099	424	S.Pohl Perry									
+Gejster	Krystyna	Geister	Christine	B	1869	Oct	unknown	"Gejster, Ludwika"	"Geister, Luise"	Bielany	1	Lublin 1869	00099	425	S.Pohl Perry					widow Litwitz				
+Kopp	Daniel	Kopp	Daniel	B	1869	Oct	Georg	"Majer, Eufrozyna"	"Maier, Euphrosine"	Teosin	1	Lublin 1869	00099	426	S.Pohl Perry									
+Radke	Juliusz	Radke	Julius	B	1869	Oct	Johann	"Ryndfleisch, Karolina"	"Rindfleisch, Karoline"	Zalucze	1	Lublin 1869	00099	427	S.Pohl Perry									
+Meissner	Ewa	Meissner	Eva	B	1869	Oct	Johann	"Schiewe, Justyna"	"Schiewe, Justine"	Turka	1	Lublin 1869	00100	428	S.Pohl Perry									
+Thiede Rychlewski	Anna Katarzyna	Tiede-Richlewski	Anna Katharine	B	1869	Oct	Georg	"Schultz, Elzbieta"	"Schultz, Elisabeth"	Bielsko?	1	Lublin 1869	00100	429	S.Pohl Perry									
+Sommerfeldt	Ludwika	Sommerfeld	Luise	B	1869	Oct	Eduard	"Schwartz, Teofila"	"Schwartz, Teofile"	Teresin	1	Lublin 1869	00100	430	S.Pohl Perry									
+Krause	Jan	Krause	Johann	B	1869	Nov	August	"Krueger, Krystyna"	"Krueger, Christine"	Klementynow	1	Lublin 1869	00100	431	S.Pohl Perry									
+Pyde	Anna Helena	Pide	Anna Helene	B	1869	Nov	Karl	"Hintz, Krystyna"	"Hintz, Christine"	Antonin	1	Lublin 1869	00100	432	S.Pohl Perry									
+Heck	Marcin	Heck	Martin	B	1869	Nov	Johann	"Anholtz, Wilhelmina"	"Anholtz, Wilhelmine"	Leszczyniec?	1	Lublin 1869	00100	433	S.Pohl Perry									
+Stentzel	Wilhelm	Stenzel	Wilhelm	B	1869	Nov	Gottlieb	"Fitz, Maryanna"	"Fitz, Marianne"	Bielin	1	Lublin 1869	00101	434	S.Pohl Perry									
+Jantz	Adolina Teressa	Jantz	Adoline Teresa	B	1869	Nov	Michael	"Piel, Eleonora"	"Piel, Eleonore"	Teosin	1	Lublin 1869	00101	435	S.Pohl Perry									
+Krueger	Adolf	Krueger	Adolf	B	1869	Nov	unknown	"Krueger, Augusta"	"Krueger, Auguste"	Gotowka	1	Lublin 1869	00101	436	S.Pohl Perry									
+Betcher	Henryk	Betcher	Heinrich	B	1869	Nov	Johann	"Klemens, Maryanna"	"Klemens, Marianne"	Grabina	1	Lublin 1869	00101	437	S.Pohl Perry									
+Frank	Marcin	Frank	Martin	B	1869	Nov	unknown	"Frank, Julia"	"Frank, Julia"	Rachow	1	Lublin 1869	00101	438	S.Pohl Perry									
+Peter	Jan Jerzy	Peter	Johann Georg	B	1869	Nov	August	"John, Ottylia"	"Jahn, Ottilie"	Marianka	1	Lublin 1869	00101	439	S.Pohl Perry									
+Schmiedt	Henryk	Schmidt	Heinrich	B	1869	Nov	Heinrich	"Grosmann, Anna"	"Grossmann, Anna"	Teosin	1	Lublin 1869	00102	440	S.Pohl Perry									
+Jess	Emilia	Jess	Emilie	B	1869	Nov	Michael	"Rozentreter, Ludwika"	"Rosentreter, Luise"	Felczyn	1	Lublin 1869	00102	441	S.Pohl Perry									
+Ziesack	Julianna	Ziesak	Julianna	B	1869	Nov	Michael	"Zawal, Julianna"	"Sawal, Julianna"	Leszczyniec	1	Lublin 1869	00102	442	S.Pohl Perry									
+Rode	Gottfryd	Rode	Gottfried	B	1869	Nov	Andreas	"Jeske, Juliana"	"Jeske, Julianna"	Zurawiniec	1	Lublin 1869	00102	443	S.Pohl Perry									
+Freiter	Teofila	Freiter	Teophile	B	1869	Nov	Friedrich	"Deutschlaender, Brigida"	"Deutschlaender, Brigitte (Prakseda)"	Rozdzalow	1	Lublin 1869	00102	444	S.Pohl Perry									
+Stuermer	Karolina	Stuermer	Karoline	B	1869	Nov	August	"Scholtz, Paulina"	"Schultz, Pauline"	Perekraszcz (=Kamien)	1	Lublin 1869	00102	445	S.Pohl Perry									
+Mantei	Ida Emma	Mantei	Ida Emma	B	1869	Nov	August	"Drahejm, Karolina"	"Draheim, Karoline"	Snopkow	1	Lublin 1869	00103	446	S.Pohl Perry									
+Ansorg	Marcin	Ansorg	Martin	B	1869	Nov	Wilhelm	"Liening, Karolina"	"Liening, Karoline"	Justynow	1	Lublin 1869	00103	447	S.Pohl Perry									
+Luedke	Gottlieb Erdmann	Luedke	Gottlieb Erdmann	B	1869	Nov	Wilhelm	"Frank, Wilhelmina"	"Frank, Wilhelmine"	Sewerynowka	1	Lublin 1869	00103	448	S.Pohl Perry									
+Harmel	Marcin	Harmel	Martin	B	1869	Nov	August	"Majer, Justyna"	"Maier, Justine"	Majdan Krasieninski	1	Lublin 1869	00103	449	S.Pohl Perry									
+Grams	Gottlieb	Grams	Gottlieb	B	1869	Nov	Gottlieb	"Kauss, Katarzyna"	"Kauss, Katharine"	Egersdorf (=Dylazki)	1	Lublin 1869	00103	450	S.Pohl Perry									
+Henschel	Samuel	Henschel	Samuel	B	1869	Nov	Andreas	"Gelhaar, Maryanna"	"Gelhaar, Marianne"	Czerwonka Male	1	Lublin 1869	00103	451	S.Pohl Perry									
+Fenske	Wilhelm	Fenske	Wilhelm	B	1869	Nov	Jakob	"Nerenberg, Wilhelmina"	"Noerenberg, Wilhelmine"	Czerwonka Male	1	Lublin 1869	00104	452	S.Pohl Perry									
+Bechert	Juliusz Ludwik	Boechert	Julius Ludwig	B	1869	Nov	Peter Daniel	"Streblau, Karolina"	"Streblau, Karoline"	Bielany	1	Lublin 1869	00104	453	S.Pohl Perry									
+Heckendorf	Fryderyk	Heckendorf	Friedrich	B	1869	Nov	Johann	"Majewska, Henryetta"	"Majewski, Henriette"	Bielany	1	Lublin 1869	00104	454	S.Pohl Perry									
+Kopp	Ferdynand	Kopp	Ferdinand	B	1869	Nov	Heinrich	"Ryl, Karolina"	"Rill, Karoline"	Teosin	1	Lublin 1869	00104	455	S.Pohl Perry									
+Szlender	Wilhelm	Schlender	Wilhelm	B	1869	Nov	August	"Krueger, Krystyna"	"Krueger, Christine"	Bielin	1	Lublin 1869	00104	456	S.Pohl Perry									
+Krueger	Krzysztof	Krueger	Christoph	B	1869	Nov	Peter	"Wildeman, Malgorzata"	"Wildemann, Margarete"	Nadrybie	1	Lublin 1869	00104	457	S.Pohl Perry									
+Hejn	Emilia	Hein	Emilie	B	1869	Nov	Ferdinand	"Fender, Justyna"	"Fender, Justine"	Zurawiniec	1	Lublin 1869	00105	458	S.Pohl Perry									
+Kwast	Julianna	Kwast	Julianna	B	1869	Nov	Johann	"Mogdans, Maryanna"	"Mogdans, Marianne"	Wola Mieczyslawska	1	Lublin 1869	00105	459	S.Pohl Perry									
+Wolfram	Michal	Wolfram	Michael	B	1869	Nov	Christian	"Eichman, Anna"	"Eichmann, Anna"	Teosin	1	Lublin 1869	00105	460	S.Pohl Perry									
+Tarruhn	Anna Ludwika	Tarron	Anna Luise	B	1869	Nov	Johann	"Krueger, Karolina"	"Krueger, Karoline"	Michelsdorf (=Michalow)	1	Lublin 1869	00105	461	S.Pohl Perry									
+Braun	Matylda	Braun	Mathilde	B	1869	Nov	unknown	"Braun, Wilhelmina"	"Braun, Wilhelmine"	Wolka Nadrybska	1	Lublin 1869	00105	462	S.Pohl Perry									
+Zander	Rozalia	Sander	Rosalie	B	1869	Nov	August	"Ganske, Wilhelmina"	"Ganske, Wilhelmine"	Janowica	1	Lublin 1869	00105	463	S.Pohl Perry									
+Janke	Herrmann	Janke	Herman	B	1869	Nov	Herman	"Wican, Matylda"	"Witzan, Mathilde"	Nowina	1	Lublin 1869	00106	464	S.Pohl Perry									
+Dumke	Herrmann	Dumke	Herman	B	1869	Nov	Julius	"Schmydt, Ewa Rozyna"	"Schmidt, Eva Rosine"	Nowina	1	Lublin 1869	00106	465	S.Pohl Perry									
+Blonke	Gottlieb	Blonke	Gottlieb	B	1869	Nov	Daniel	"Vetter, Justyna"	"Vetter, Justine"	Majdan Rybie	1	Lublin 1869	00106	466	S.Pohl Perry									
+Dreger	Justyna	Dreger	Justine	B	1869	Nov	August	"Kliner, Maryanna"	"Kliner, Marianne"	Wanda (=Wanda Bakus)	1	Lublin 1869	00106	467	S.Pohl Perry									
+Henning	Julianna	Henning	Julianna	B	1869	Nov	August	"Nering, Magdalena"	"Nering, Magdalene"	Jozefow	1	Lublin 1869	00106	468	S.Pohl Perry									
+Zymt	Paulina	Zimt	Pauline	B	1869	Nov	unknown	"Zymt, Fryderyka"	"Zimt, Friederike"	Wanda (=Wanda Bakus)	1	Lublin 1869	00106	469	S.Pohl Perry									
+Ikert	Krystyna	Ikert	Christine	B	1869	Nov	Andreas	"Schnejder, Rozalia"	"Schneider, Rosalie"	Aleksandria Krzywowolska	1	Lublin 1869	00107	470	S.Pohl Perry									
+Fengel	Henryk	Fengel	Heinrich	B	1869	Nov	Matthias	"Krueger, Ewa"	"Krueger, Eva"	Zalisocze	1	Lublin 1869	00107	471	S.Pohl Perry									
+Wendland	Adolfina	Wendland	Adolfine	B	1869	Nov	Ludwig	"Kran, Henryetta"	"Krahn, Henriette"	Marianka	1	Lublin 1869	00107	472	S.Pohl Perry									
+Szreder	Edward	Schroeder	Eduard	B	1869	Nov	Ludwig	"Hundt, Ewa"	"Hund, Eva"	Jamne	1	Lublin 1869	00107	473	S.Pohl Perry									
+Bejer	Gustaw	Beier	Gustav	B	1869	Nov	Gottlieb	"Schoeltz, Justyna"	"Schultz, Justine"	Izydorow (nr. Radziejow)	1	Lublin 1869	00107	474	S.Pohl Perry									
+Bigalke	Andrzej	Bigalke	Andreas	B	1869	Nov	Jakob	"Buerger, Anna Rozyna"	"Buerger, Anna Rosine"	Graniczna	1	Lublin 1869	00107	475	S.Pohl Perry									
+Bilof	Andrzej	Bilof	Andreas	B	1869	Nov	Peter	"Virus, Julianna"	"Firus, Julianna"	Bronislawow	1	Lublin 1869	00108	476	S.Pohl Perry									
+Miller	Fryderyk Wilhelm	Miller	Friedrich Wilhelm	B	1869	Nov	Ernst	"Adam, Wilhelmina"	"Adam, Wilhelmine"	Tarnow	1	Lublin 1869	00108	477	S.Pohl Perry									
+Gerke	Fryderyk	Gerke	Friedrich	B	1869	Nov	Friedrich	"Krentz, Julianna"	"Krentz, Julianna"	Skordiow	1	Lublin 1869	00108	478	S.Pohl Perry									
+Kern	Paulina	Kern	Pauline	B	1869	Nov	Wilhelm	"Schmiedt, Karolina"	"Schmidt, Karoline"	Domicelow (nr. Radziejow)	1	Lublin 1869	00108	479	S.Pohl Perry									
+Fitz	Fryderyk August	Fitz	Friedrich August	B	1869	Nov	Samuel	"Janecke, Justyna"	"Janetzki, Justine"	Wanda (=Wanda Bakus)	1	Lublin 1869	00108	480	S.Pohl Perry									
+Albrecht	Emilja	Albrecht	Emilie	B	1869	Nov	Johann	"Rosol, Karolina"	"Rossol, Karoline"	Bronislawow	1	Lublin 1869	00108	481	S.Pohl Perry									
+Blank	Paulina	Blank	Pauline	B	1869	Nov	Andreas	"Schoeltz, Krystyna"	"Schultz, Christine"	Krzywda	1	Lublin 1869	00109	482	S.Pohl Perry									
+Rotz	Rozalia	Rotz	Rosalie	B	1869	Dec	David	"Weber, Marianna"	"Weber, Marianne"	Bielin	1	Lublin 1869	00109	483	S.Pohl Perry									
+Reich	Paulina	Reich	Pauline	B	1869	Dec	Gottfried	"Schmidt, Julianna"	"Schmidt, Julianna"	Radziejow	1	Lublin 1869	00109	484	S.Pohl Perry									
+Janecki	Augusta Adolfina	Janetzki	Auguste Adolfine	B	1869	Dec	Robert	"Sieg, Ernestyna"	"Sieg, Ernestine"	Ludwinow	1	Lublin 1869	00109	485	S.Pohl Perry									
+Schitt	Wilhelm	Schuett	Wilhelm	B	1869	Dec	August	"Mancej, Maryanna"	"Manzei, Marianne"	Czulczyce	1	Lublin 1869	00109	486	S.Pohl Perry									
+Schtelter	Karol	Stelter	Karl	B	1869	Dec	Gottlieb	"Grott, Karolina"	"Groth, Karoline"	Krasne?	1	Lublin 1869	00109	487	S.Pohl Perry									
+Jantz	Florentyna Paulina	Jantz	Florentine Pauline	B	1869	Dec	Johann	"Bogs, Karolina"	"Bogs, Karoline"	Bielany	1	Lublin 1869	00110	488	S.Pohl Perry									
+Knakoski	Jakob	Knakowski	Jakob	B	1869	Dec	Ludwig	"Fandrych, Rozyna"	"Fandrich, Rosine"	Gotowka	1	Lublin 1869	00110	489	S.Pohl Perry									
+Knakoski	Jan	Knakowski	Johann	B	1869	Dec	Georg	"Kars, Anna Elzbieta"	"Kars?, Anna Elisabeth"	Rozdzalow	1	Lublin 1869	00110	490	S.Pohl Perry									
+Hekel	Ernestyna	Hekel	Ernestine	B	1869	Dec	Eduard	"Hartwich, Karolina"	"Harwich, Karoline"	Leonardow	1	Lublin 1869	00110	491	S.Pohl Perry									
+Gross	Adolf	Gross	Adolf	B	1869	Dec	Emanuel	"Mundt, Karolina"	"Mund, Karoline"	Justynow	1	Lublin 1869	00110	492	S.Pohl Perry									
+Tonn	Karolina	Tonn	Karoline	B	1869	Dec	Friedrich	"Bahnik, Fryderyka"	"Banik, Friederike"	Tomaszowka	1	Lublin 1869	00110	493	S.Pohl Perry									
+Leszke	Daniel	Leschke	Daniel	B	1869	Dec	Wilhelm	"Kramer, Wilhelmina"	"Kramer, Wilhelmine"	Gizyce	1	Lublin 1869	00111	494	S.Pohl Perry									
+Lerch	Karol Henryk	Lerch	Karl Heinrich	B	1869	Dec	Wilhelm	"Belke, Karolina"	"Belke, Karoline"	Michelsdorf (=Michalow)	1	Lublin 1869	00111	495	S.Pohl Perry									
+Borowski	Jan Karol	Borowski	Johann Karl	B	1869	Dec	Jakob	"Rywe, Rozalia"	"Riewe, Rosalie"	Wanda (=Wanda Bakus)	1	Lublin 1869	00111	496	S.Pohl Perry									
+Krause	Gottlieb	Krause	Gottlieb	B	1869	Dec	Johann	"Repke, Anna Julianna"	"Repke, Anna Julianna"	Janowica	1	Lublin 1869	00111	497	S.Pohl Perry									
+Kepke	Karol	Kipke	Karl	B	1869	Dec	Ludwig	"Patzer, Amalia"	"Patzer, Amalie"	Zurawiniec	1	Lublin 1869	00111	498	S.Pohl Perry									
+Schmiedt	Fryderyk Wilhelm	Schmiedt	Friedrich Wilhelm	B	1869	Dec	Gottlieb	"Rymer, Justyna"	"Riemer, Justine"	Zurawiniec	1	Lublin 1869	00111	499	S.Pohl Perry									
+Sauder	Krzysztof	Sauder	Christoph	B	1869	Dec	Wilhelm	"Bayer, Wilhelmina"	"Baier, Wilhelmine"	Czerwonka	1	Lublin 1869	00111	500	S.Pohl Perry									
+Rahn	Katarzyna	Rahn	Katharine	B	1869	Dec	Martin	"Szyndler, Rozalia"	"Schindler, Rosalie"	Majdan Krasieninski	1	Lublin 1869	00111	501	S.Pohl Perry									
+Appelt	August	Appelt	August	B	1869	Dec	Ludwig	"Grams, Rozyna"	"Grams, Rosine"	Staszow	1	Lublin 1869	00112	502	S.Pohl Perry									
+Bruell	Julianna	Brill	Julianna	B	1869	Dec	Ferdinand	"Kauss, Ludwika"	"Kauss, Luise"	Leszczyniec	1	Lublin 1869	00112	503	S.Pohl Perry					born November; father dead				
+Bejn	Dorota Amalia	Bein	Dorothea Amalie	B	1869	Dec	Julius	"Busler, Wilhelmina"	"Busler, Wilhelmine"	Wojciechow	1	Lublin 1869	00112	504	S.Pohl Perry									
+Pyszke	Ludwika Rozalia	Pieschke	Luise Rosalie	B	1869	Dec	Reinhard	"Fitz, Emilia"	"Fitz, Emilie"	Wladyslawow	1	Lublin 1869	00112	505	S.Pohl Perry									
+Wedemann	August Wilhelm	Wedemann	August Wilhelm	B	1869	Dec	Friedrich	"Luedtke, Ludwika"	"Luedke, Luise"	Dabrowka (nr. Aleksandrowo)?	1	Lublin 1869	00112	506	S.Pohl Perry									
+Melketin	August	Melketin	August	B	1869	Dec	Gottlieb	"Hikel, Emilia"	"Hickel, Emilie"	Bronislawow	1	Lublin 1869	00112	507	S.Pohl Perry									
+Kunkel	Natalia	Kunkel	Natalie	B	1869	Dec	Gottlieb	"Steinke, Emilia"	"Steinke, Emilie"	Aleksandrowka	1	Lublin 1869	00112	508	S.Pohl Perry									
+Lieske	Ludwik	Liske	Ludwig	B	1869	Dec	Gottlieb	"Retz, Maryanna"	"Retz, Marianne"	Gizyce	1	Lublin 1869	00113	509	S.Pohl Perry									
+Scheske	Emilia	Scheske	Emilia	B	1869	Dec	Gottlieb	"Giesel, Justyna"	"Gisel, Justine"	Tomaszowka	1	Lublin 1869	00113	510	S.Pohl Perry									
+Bartz	Wilhelmina	Bartz	Wilhelmine	B	1869	Dec	Jakob	"Werm, Wilhelmina"	"Werm, Wilhelmine"	Zawada	1	Lublin 1869	00113	511	S.Pohl Perry									
+Vogel	Karol Gottlieb	Vogel	Karl Gottlieb	B	1869	Dec	Gottlieb	"Milosz, Walerya"	"Milosch, Valerie"	Lublin	1	Lublin 1869	00113	512	S.Pohl Perry									
+Dryzner	Emilia	Driesner	Emilie	B	1869	Dec	Friedrich		"Sager?, Justine"	Gizyce	1	Lublin 1869	00113	513	S.Pohl Perry									
+Frydrich	Krzysztof	Friedrich	Christoph	B	1869	Dec	Michael	"Huf, Karolina"	"Huff, Karoline"	Felczyn	1	Lublin 1869	00113	514	S.Pohl Perry									
+	Gottlieb	Oelke	Gottlieb	B	1869	Dec	Adam	"Zaks, Katarzyna"	"Sachs, Katharine"	Nowa Gotowka	1	Lublin 1869	00113	515	S.Pohl Perry									
+Dyks	Paulina	Diks	Pauline	B	1869	Dec	Friedrich	"Steinebel, Henryetta"	"Steinebel, Henriette"	Zalisocze	1	Lublin 1869	00113	516	S.Pohl Perry									
+Mink	Erdmann	Mink	Erdmann	B	1869	Dec	Gottlieb	"Rapczynska, Justyna"	"Rapczynski, Justine"	Malinowka	1	Lublin 1869	00114	517	S.Pohl Perry									
+Schultz	Ewa	Schultz	Eva	B	1869	Dec	Friedrich	"Rejdam, Matylda"	"Reidam, Mathilde"	Antonin	1	Lublin 1869	00114	518	S.Pohl Perry									
+Kinast	Julianna	Kinast	Julianna	B	1869	Dec	Johann Wilhelm	"Tomke, Anna Justyna"	"Tomke, Anna Justine"	Jozefow	1	Lublin 1869	00114	519	S.Pohl Perry									
+	Henryk	Falkenberg	Heinrich	B	1869	Dec	Ludwig	"Dans, Zuzana"	"Dans, Susanne"	Borysow	1	Lublin 1869	00114	520	S.Pohl Perry									
+Jesske	Anna Julianna	Jeske	Anna Julianna	B	1869	Dec	Daniel	"Lother, Krystyna"	"Lother, Christine"	Amelin	1	Lublin 1869	00114	521	S.Pohl Perry									
+Hiller	Gottlieb	Hiller	Gottlieb	B	1869	Dec	Michael	"Jesske, Ewa"	"Jeske, Eva"	Sewerynowka	1	Lublin 1869	00114	522	S.Pohl Perry									
+Lehmann	Gottfried	Lehmann	Gottfried	B	1869	Dec	Daniel	"Hintz, Karolina"	"Hintz, Karoline"	Janowica	1	Lublin 1869	00114	523	S.Pohl Perry									
+Jek	Emanuel	Jek	Emanuel	B	1869	Dec	Andreas	"Rejter, Henryetta"	"Reiter, Henriette"	Wankowszczyzna	1	Lublin 1869	00114	524	S.Pohl Perry									
+Bloch	Ludwik	Bloch	Ludwig	B	1869	Dec	August	"Batke, Ernestyna"	"Batke, Ernestine"	Kaniwola	1	Lublin 1869	00115	525	S.Pohl Perry									
+Radke	Jan	Radke	Johann	B	1869	Dec	Adam	"Hinneburg, Ewa"	"Hueneberg, Eva"	Zalucze	1	Lublin 1869	00115	526	S.Pohl Perry									
+Rosentreter	August	Rosentreter	August	B	1869	Dec	Wilhelm	"Duesterhoeft, Wilhelmina"	"Duesterhoeft, Wilhelmine"	Felczyn	1	Lublin 1869	00115	527	S.Pohl Perry									
+Rodewald	Krystyan	Rodewald	Christian	B	1869	Dec	Wilhelm	"Rode, Anna"	"Rode, Anna"	Jagodno	1	Lublin 1869	00115	528	S.Pohl Perry									
+Mundt	Ludwik	Mund	Ludwig	B	1869	Dec	Ferdinand	"Ortlieb, Julianna"	"Ortlieb, Julianna"	Jozefow	1	Lublin 1869	00115	529	S.Pohl Perry									
+Tetzlaf	Krystyna	Tetzlaf	Christine	B	1869	Dec	Ferdinand	"Rust, Ludwika"	"Rust, Luise"	Gotowka	1	Lublin 1869	00115	530	S.Pohl Perry									
+Tetzlaf	Krystyan	Tetzlaf	Christian	B	1869	Dec	Ferdinand	"Rust, Ludwika"	"Rust, Luise"	Gotowka	1	Lublin 1869	00115	531	S.Pohl Perry									
+Mantej	Krzysztof	Mantei	Christoph	B	1869	Dec	Paul	"Zauder, Krystyna"	"Sauder, Christine"	Pielgrzymka	1	Lublin 1869	00115	532	S.Pohl Perry									
+Luedke	Ludwika	Luedke	Luise	B	1869	Dec	Christoph	"Spletke, Wilhelmina"	"Spletke, Wilhelmine"	Wolka Tarnowska	1	Lublin 1869	00116	534	S.Pohl Perry					file #533 blank				
+Albrecht	Wilhelm	Albrecht	Wilhelm	B	1869	Dec	Gottfried	"Fenning, Emilia"	"Fenning, Emilie"	Bielany	1	Lublin 1869	00116	535	S.Pohl Perry									
+Neumann	Wilhelm	Neumann	Wilhelm	B	1869	Dec	Daniel	"Harmel, Julianna"	"Harmel, Julianna"	Bronislawow	1	Lublin 1869	00116	536	S.Pohl Perry									
+Duesterhoeft	Andrzej	Duesterhoeft	Andreas	B	1869	Dec	Michael	"Rychter, Anna Krystyna"	"Richter, Anna Christine"	Grabina	1	Lublin 1869	00116	537	S.Pohl Perry									
+Rose	Emilia	Rose	Emilie	B	1869	Dec	Heinrich	"Rosenberg, Ludwika"	"Rosenberg, Luise"	Zawada	1	Lublin 1869	00116	538	S.Pohl Perry									
+	Emilia	Bilau	Emilie	B	1869	Dec	Gottlieb	"Tymm, Wilhelmina"	"Timm, Wilhelmine"	Juliopol	1	Lublin 1869	00116	539	S.Pohl Perry									
+Appelt	Justyna	Appelt	Justine	B	1869	Dec	Gottlieb	"Kumke, Wilhelmina"	"Kumke, Wilhelmine"	Miloszowka	1	Lublin 1869	00116	540	S.Pohl Perry									
+Holc	Krzysztof	Holtz	Christoph	B	1870	Jan	Michael	"Klukas, Anna Zuzanna"	"Klukas, Anna Susanne"	Bielsko?	1	Lublin 1869	00116	541	S.Pohl Perry									
+Kiessmann	Gottfryd	Kissmann	Gottfried	B	1869	Dec	Gottlieb	"Kauss, Anna Krystyna"	"Kauss, Anna Christine"	Janowica	1	Lublin 1869	00117	533	S.Pohl Perry									
+Albrecht	Ernestyna	Albrecht	Ernestine	B	1870	Jan	August	"Virus, Karolina"	"Firus, Karoline"	Bronislawow	1	Lublin 1869	00117	542	S.Pohl Perry									
+Schultz	Ewa Rozyna	Schultz	Eva Rosine	B	1870	Jan	Ludwig	"Schwartz, Karolina"	"Schwartz, Karoline"	Jagodno	1	Lublin 1869	00117	543	S.Pohl Perry									
+Sztumpe	Jan Karol	Stumpe	Johann Karl	B	1870	Jan	Wilhelm	"Fogl, Krystyna"	"Vogel, Christine"	Swierszczow	1	Lublin 1869	00117	544	S.Pohl Perry									
+Blige	August	Bluege	August	B	1870	Jan	Ludwig	"Strauch, Justyna"	"Strauch, Justine"	Baran	1	Lublin 1869	00117	545	S.Pohl Perry									
+Cerecki	Adam	Zeretski	Adam	B	1870	Jan	Heinrich	"Losch, Emilia"	"Losch, Emilie"	Rozplucie	1	Lublin 1869	00117	546	S.Pohl Perry									
+Bohn	Michal	Bohn	Michael	B	1870	Jan	Martin	"Lerh, Karolina"	"Lerch, Karoline"	Wanda (=Wanda Bakus)	1	Lublin 1869	00117	547	S.Pohl Perry									
+Krause	Matylda	Krause	Mathilde	B	1870	Jan	Andreas	"Schmulandt, Anna Ludwika"	"Schmuland, Anna Luise"	Malinowka	1	Lublin 1869	00117	548	S.Pohl Perry									
+Stemke	Paulina	Steinke?	Pauline	B	1870	Jan	Johann	"Cymer, Ewa"	"Ziemer, Eva"	Brzeznica Bychawska	1	Lublin 1869	00118	549	S.Pohl Perry									
+Ginter	Emilja	Guenter	Emilie	B	1870	Jan	Paul	"Jesske, Ludwika"	"Jeske, Luise"	Malokusi?	1	Lublin 1869	00118	550	S.Pohl Perry									
+Stejnebel	Juliusz	Steinebel	Julius	B	1870	Jan	Ferdinand	"Schindler, Julianna"	"Schindler, Julianna"	Teosin	1	Lublin 1869	00118	551	S.Pohl Perry									
+Ikert	Anna Rozyna	Ikert	Anna Rosine	B	1870	Jan	Adam	"Szwanke, Ludwika"	"Schwanke, Luise"	Aleksandrowka	1	Lublin 1869	00118	552	S.Pohl Perry									
+Megabir	Fryderyk	Megabir	Friedrich	B	1870	Jan	Friedrich	"Schyndler, Rozyna"	"Schindler, Rosine"	Staszow	1	Lublin 1869	00118	553	S.Pohl Perry									
+Mejer	Jan	Meier	Johann	B	1870	Jan	Christoph	"Milcner, Maryanna"	"Milzner, Marianne"	Elzbietow	1	Lublin 1869	00118	554	S.Pohl Perry									
+Schultz	Paulina	Schultz	Pauline	B	1870	Jan	Friedrich	"Ratz, Amalia Dorota"	"Ratz, Amalie Dorothea"	Teosin	1	Lublin 1869	00118	555	S.Pohl Perry									
+Schlaps	Julianna	Schlaps	Julianna	B	1870	Jan	Eduard	"Schinke, Wilhelmina"	"Schinke, Wilhelmine"	Malinowka	1	Lublin 1869	00118	556	S.Pohl Perry									
+Wanke	Karolina	Wanke	Karoline	B	1870	Jan	Johann	"Schick, Karolina"	"Schick, Karoline"	Skordiow	1	Lublin 1869	00119	557	S.Pohl Perry									
+Kneller	Gustaw	Kneller	Gustav	B	1870	Jan	unknown	"Kneller, Dorota Katarzyna"	"Kneller, Dorothea Katharine"	Turka	1	Lublin 1869	00119	558	S.Pohl Perry									
+Priebe	Henryetta	Priebe	Henriette	B	1870	Jan	August	"Mundt, Anna"	"Mund, Anna"	Zarobka	1	Lublin 1869	00119	559	S.Pohl Perry									
+Kauss	Edward	Kauss	Eduard	B	1870	Jan	Gottlieb	"Kropp, Julianna"	"Kropp, Julianna"	Trojnia	1	Lublin 1869	00119	560	S.Pohl Perry									
+Klimpel	Jagnieszka	Klimpel	Agnes	D	1869	Jan	Gottlieb		"Riedel, Emilie"	Garbow	1	Lublin 1869	00120	1	S.Pohl Perry									
+Froemke	Karol	Froemke	Karl	D	1869	Jan				Gotowka	1	Lublin 1869	00120	2	S.Pohl Perry				"Knispel, Wilhelmina"					
+Bohn	Karol	Bohn	Karl	D	1869	Jan	Samuel		"Buss, Justine"	Domicelow (nr. Radziejow)	1	Lublin 1869	00120	3	S.Pohl Perry									
+		Friedrich	stillborn male	D	1869	Jan	Christoph		"Duesterhoeft, Karoline"	Aleksandrowka	1	Lublin 1869	00121	4	S.Pohl Perry									
+Paeuske	Ernestyna	Peiske	Ernestine	D	1869	Jan	Gottfried		"Drews, Euphrosine"	Janowica	1	Lublin 1869	00121	5	S.Pohl Perry									
+Mueller	August Samuel	Miller	August Samuel	D	1869	Jan	August		"Dilge, Johanna"	Juliopol	1	Lublin 1869	00121	6	S.Pohl Perry									
+Kufeldt	Anna	Kufeld	Anna	D	1869	Jan	Christian		"Labrentz, Justine"	Antonin	1	Lublin 1869	00121	7	S.Pohl Perry									
+Mejster	Pawel Marcin	Meister	Paul Martin	D	1869	Jan	Johann		"Balkau, Karoline"	Juliopol	1	Lublin 1869	00121	8	S.Pohl Perry									
+Fryderyk	Rozyna	Friedrich	Rosine	D	1869	Jan	Leonhard		Regina	Lublin	1	Lublin 1869	00121	9	S.Pohl Perry				Mazurkiewicz					
+Noerenberg	Henryetta	Noerenberg	Henriette	D	1869	Jan	Friedrich		"Rode, Henriette"	Zurawiniec	1	Lublin 1869	00122	10	S.Pohl Perry									
+Ryske	August	Riske	August	D	1869	Jan	August		"Kahn, Susanne"	Puszki	1	Lublin 1869	00122	11	S.Pohl Perry									
+Kremer	Michal	Kraemer	Michael	D	1869	Jan				Radziejow	1	Lublin 1869	00122	12	S.Pohl Perry				"Belke, Karoline"					
+Elke	Juliusz Fryderyk	Oelke	Julius Friedrich	D	1869	Jan	Karl		"Ball, Wilhelmine"	Slugocin	1	Lublin 1869	00122	13	S.Pohl Perry									
+Huff	Andrzej	Huff	Andreas	D	1869	Jan	Michael		"Hartmann, Luise"	Laczki	1	Lublin 1869	00122	14	S.Pohl Perry									
+Klath	Ewa	Klatt	Eva	D	1869	Jan	Johann		"Janke, Karoline"	Egersdorf (=Dylazki)	1	Lublin 1869	00122	15	S.Pohl Perry									
+Kant	Gottlib	Kant	Gottlieb	D	1869	Jan	unknown		"Kant, Elisabeth"	Tomaszowka	1	Lublin 1869	00123	16	S.Pohl Perry				Duesterhoeft					
+Efa	Ludwika	Effa	Luise	D	1869	Jan	August		"Klause, Christine"	Bronislawow	1	Lublin 1869	00123	17	S.Pohl Perry									
+Fenske	Krystyna	Fenske	Christine	D	1869	Jan	Gottfried		"Kramer, Karoline"	Tytusow (nr. Radziejow)	1	Lublin 1869	00123	18	S.Pohl Perry									
+Albrecht	Wilhelmina	Albrecht	Wilhelmine	D	1869	Jan	Gottfried		"Fenning, Emilie"	Bronislawow	1	Lublin 1869	00123	19	S.Pohl Perry									
+Brill	Jan	Brill	Johann	D	1869	Jan	Ferdinand	Kautz	"Kauss, Luise"	Leszczyniec	1	Lublin 1869	00123	20	S.Pohl Perry									
+Szultz	Karolina	Schultz	Karoline	D	1869	Jan				Bielany	1	Lublin 1869	00123	21	S.Pohl Perry				Meister					
+Falkenberg	Samuel	Falkenberg	Samuel	D	1869	Jan	August		"Noerenberg, Wilhelmine"	Puszki	1	Lublin 1869	00124	22	S.Pohl Perry									
+Grams	Maryanna	Grams	Marianne	D	1869	Jan	Johann		Emilie	Adamow	1	Lublin 1869	00124	23	S.Pohl Perry				"Schultz, Ferdinand"					
+Kahn	Juliusz	Kahn	Julius	D	1869	Feb	Michael		"Abraham, Ernestine"	Klementynow	1	Lublin 1869	00124	24	S.Pohl Perry									
+Kobelke	Benjamin	Kobelke	Benjamin	D	1869	Feb				Uher	1	Lublin 1869	00124	25	S.Pohl Perry				"Horn, Julianna"					
+Hellberg	Emilia	Helberg	Emilie	D	1869	Feb	Michael		"Krueger, Anna Rosalie"	Janowica	1	Lublin 1869	00124	26	S.Pohl Perry									
+		Bauer	stillborn male	D	1869	Feb	Adolf		"Witlig?, Wilhelmine"	Lublin	1	Lublin 1869	00124	27	S.Pohl Perry									
+Landt	Marya Henryetta Teofila	Landt	Maria Henriette Teofile	D	1869	Feb	Adolf		"Dankwart, Eva Auguste"	Stryjno	1	Lublin 1869	00125	28	S.Pohl Perry									
+Szultz	Krzysztof	Schultz	Christoph	D	1869	Feb	Paul		Anna Christine	Wola Mieczyslawska	1	Lublin 1869	00125	29	S.Pohl Perry				"Kinitz, Susanne"					
+Braun	Anna Justyna	Braun	Anna Justine	D	1869	Feb	Gottfried		"Dalke, Wilhelmine"	Janowica	1	Lublin 1869	00125	30	S.Pohl Perry									
+Szendel	Zuzanna	Schendel	Susanne	D	1869	Feb				Malinowka	1	Lublin 1869	00125	31	S.Pohl Perry				"Kauss, Christoph"					
+Biler	Karol	Biller	Karl	D	1869	Feb	Karl		"Hintz, Julianna"	Adamow	1	Lublin 1869	00125	32	S.Pohl Perry									
+Stephan	Gottlieb	Stefan	Gottlieb	D	1869	Feb			"Kryzlof?, Justine"	Slugocin	1	Lublin 1869	00125	33	S.Pohl Perry									
+Krumm	Marya Elzbieta	Krum	Marie Elisabeth	D	1869	Feb				Slugocin	1	Lublin 1869	00126	34	S.Pohl Perry				Ruchotzki					
+Litwitz	Fryderyk	Litwitz	Friedrich	D	1869	Feb	Ludwig		"Geister, Luise"	Leonardow	1	Lublin 1869	00126	35	S.Pohl Perry									
+Wagner	Ignacy Maryan	Wagner	Ignatz Marian	D	1869	Feb	Maximillian		"Lipinski, Camilla"	Lublin	1	Lublin 1869	00126	36	S.Pohl Perry									
+Kauss	Ludwika	Kaus	Luise	D	1869	Feb	Gottlieb		"Stellmach?, Marianne?"	Stoszew	1	Lublin 1869	00126	37	S.Pohl Perry									
+Szendel	Eufrozyna	Schendel	Euphrosine	D	1869	Feb	Johann		"Dalke, Eva"	Skarbin	1	Lublin 1869	00126	38	S.Pohl Perry									
+Gefrejter	Zuzanna	Gefreiter	Susanne	D	1869	Feb	Johann		"Neumann, Pauline"	Stanislawow	1	Lublin 1869	00126	39	S.Pohl Perry									
+Schultz	Gottlib	Schultz	Gottlieb	D	1869	Feb	Ferdinand		"Grams, Marianne"	Adamow	1	Lublin 1869	00127	40	S.Pohl Perry									
+Klukas	Jerzy	Klukas	Georg	D	1869	Feb				Janowica	1	Lublin 1869	00127	41	S.Pohl Perry				"Sprott, Marianne"					
+Schmaltz	Fryderyk Ferdynand	Schmaltz	Friedrich Ferdinand	D	1869	Feb	Christian		"Huener, Luise"	Nadrybie	1	Lublin 1869	00127	42	S.Pohl Perry									
+Goltz	Ludwik	Goltz	Ludwig	D	1869	Mar	Wilhelm		"Riske, Julianna"	Krasienin	1	Lublin 1869	00127	43	S.Pohl Perry									
+Elke	Julianna	Oelke	Julianna	D	1869	Mar	Friedrich		"Knispel, Ernestine"	Jozefow	1	Lublin 1869	00127	44	S.Pohl Perry									
+Lose	Anna Krystyna	Lohse	Anna Christine	D	1869	Mar				Stanislawow	1	Lublin 1869	00127	45	S.Pohl Perry				Lohse?					
+Abram	Jan Maciej	Abraham	Johann Matthias	D	1869	Mar	Gottlieb		"Jubin, Rosine"	Klementynow	1	Lublin 1869	00128	46	S.Pohl Perry									
+Tandt	Albertyna	Tondt	Albertine	D	1869	Mar	August		"Friss, Euphrosine"	Zawada	1	Lublin 1869	00128	47	S.Pohl Perry									
+Eszner	Amalia	Eschner	Amalie	D	1869	Mar	Samuel		"Kuehn, Luise"	Janowica	1	Lublin 1869	00128	48	S.Pohl Perry									
+Muth	Rozalia	Muth	Rosalie	D	1869	Mar	Johann		"Friedrich, Karoline"	Janowica	1	Lublin 1869	00128	49	S.Pohl Perry				Muth					
+Schmidt	Augusta	Schmidt	Auguste	D	1869	Mar	Gottlieb		"Riemer, Justine"	Zurawiniec	1	Lublin 1869	00128	50	S.Pohl Perry									
+Kuehn	Ludwika	Kuehn	Luise	D	1869	Mar	Andreas		"Kassner, Karoline"	Zawada	1	Lublin 1869	00128	51	S.Pohl Perry									
+Kramm	Ewa	Kramm	Eva	D	1869	Mar	Johann		Eva	Juliopol	1	Lublin 1869	00129	52	S.Pohl Perry				"Karoch, Christoph"					
+Schultz	Andrzej	Schultz	Andreas	D	1869	Mar				Egersdorf (=Dylazki)	1	Lublin 1869	00129	53	S.Pohl Perry				Holland					
+Klukas	Wilhelmina	Klukas	Wilhelmine	D	1869	Mar	Johann		"Holland, Rosalie"	Pawlow	1	Lublin 1869	00129	54	S.Pohl Perry									
+Wekwerth	Samuel	Wekwert	Samuel	D	1869	Mar				Malinowka	1	Lublin 1869	00129	55	S.Pohl Perry				"Knecht, Justine"					
+Wohlgemuth	Rudolf	Wohlgemut	Rudolf	D	1869	Mar	Gottfried		"Rode, Wilhelmine"	Zurawiniec	1	Lublin 1869	00129	56	S.Pohl Perry									
+Klingspon	Wilhelm	Klingspon	Wilhelm	D	1869	Mar	Gustav		"Schultz, Justine"	Bielin	1	Lublin 1869	00129	57	S.Pohl Perry									
+Braun	Wilhelm	Braun	Wilhelm	D	1869	Mar	Jakob		"Tetzlaf, Luise"	Janowica	1	Lublin 1869	00130	58	S.Pohl Perry									
+Hess	Wilhelmina	Hess	Wilhelmine	D	1869	Mar	Johann		"Lietke, Julianna"	Bielin	1	Lublin 1869	00130	59	S.Pohl Perry									
+Huff	Fryderyk	Huff	Friedrich	D	1869	Mar	Friedrich		"Depner, Wilhelmine"	Zurawiniec	1	Lublin 1869	00130	60	S.Pohl Perry									
+Krueger	Wilhelmina	Krueger	Wilhelmine	D	1869	Mar	Georg		"Bloch, Rosine"	Jagodno	1	Lublin 1869	00130	61	S.Pohl Perry				"Pahlke, Michael"					
+Brygert	Marcin	Briegert	Martin	D	1869	Mar				Malinowka	1	Lublin 1869	00130	62	S.Pohl Perry									
+Goltz	Ludwika	Goltz	Luise	D	1869	Mar	Gottlieb		"Maier, Michaelina"	Elzbietow	1	Lublin 1869	00130	63	S.Pohl Perry									
+Falkenberg	Henryk	Falkenberg	Heinrich	D	1869	Mar	August		"Noerenberg, Wilhelmine"	Puszki	1	Lublin 1869	00131	64	S.Pohl Perry									
+Karga	Gottlieb	Karge	Gottlieb	D	1869	Mar	Samuel		"Tiede, Rosine"	Mieszyslawka	1	Lublin 1869	00131	65	S.Pohl Perry									
+Banner	Anna Elzbieta	Banner	Anna Elisabeth	D	1869	Mar				Rozdzalow	1	Lublin 1869	00131	66	S.Pohl Perry				Holbt?					
+Schubert	Fryderyk	Schubert	Friedrich	D	1869	Mar	Daniel		"Kuehn, Wilhelmine"	Zurawiniec	1	Lublin 1869	00131	67	S.Pohl Perry									
+Bich	Marcin	Bich	Martin	D	1869	Mar	Ludwig	Zahe	"Sahe?, Luise"	Malinowka	1	Lublin 1869	00131	68	S.Pohl Perry									
+Wolf	Ludwik	Wolf	Ludwig	D	1869	Mar	Peter		"Schlack, Eleonore"	Skordiow	1	Lublin 1869	00131	69	S.Pohl Perry									
+Huf	Emilia	Huff	Emilie	D	1869	Mar	Johann		"Depner, Wilhelmine"	Zurawiniec	1	Lublin 1869	00131	70	S.Pohl Perry									
+Wolska	Elzbieta	Wolski	Elisabeth	D	1869	Mar	Martin		"Schmidt, Anna"	Antonin	1	Lublin 1869	00132	71	S.Pohl Perry				"Pide, Michael"					
+Jahnke	Justyna	Janke	Justine	D	1869	Mar	Christian		"Kelm, Anna"	Miloszowka	1	Lublin 1869	00132	72	S.Pohl Perry				"Schendler (1st spouse), Frank, Gottlieb (2nd spouse)"					
+Hartstock	Henryk	Hartstock	Heinrich	D	1869	Mar	Christoph		"Behrwald, Anna"	Teosin	1	Lublin 1869	00132	73	S.Pohl Perry									
+Hejn	Justyna	Hein	Justine	D	1869	Apr	Christoph		"Kauss, Luise"	Stoszew	1	Lublin 1869	00132	74	S.Pohl Perry									
+Bigalke	Eleonora	Bigalke	Eleonore	D	1869	Apr	Jakob		"Baum, Anna Rosine"	Graniczna	1	Lublin 1869	00132	75	S.Pohl Perry									
+Schtapel	Karol	Stapel	Karl	D	1869	Apr	Gottlieb		"Sommerfeld, Julianna"	Krasienin	1	Lublin 1869	00133	76	S.Pohl Perry									
+Patzer	Augusta	Patzer	Auguste	D	1869	Apr	Karl		"Wahl, Wilhelmine"	Bielany	1	Lublin 1869	00133	77	S.Pohl Perry									
+Schultz	Michal	Schultz	Michael	D	1869	Apr			"Schultz, Karoline"	Lublin	1	Lublin 1869	00133	78	S.Pohl Perry					from Egersdorf?				
+Appelt	Ludwik	Appelt	Ludwig	D	1869	Apr	Christoph		"Wegner, Luise"	Pielgrzymka	1	Lublin 1869	00133	79	S.Pohl Perry									
+Jahnke	Ludwik	Janke	Ludwig	D	1869	Apr	Karl		"Schroeder, Karoline"	Pielgrzymka	1	Lublin 1869	00133	80	S.Pohl Perry									
+Ortel	Karolina	Ortel	Karoline	D	1869	Apr	Michael		"Frimke?, Susanne"	Malinowka	1	Lublin 1869	00133	81	S.Pohl Perry									
+Rychert	Michal	Richert	Michael	D	1869	Apr	Wilhelm		"Biller, Marianne"	Malinowka	1	Lublin 1869	00134	82	S.Pohl Perry									
+Ikert	Wilhelm	Ikert	Wilhelm	D	1869	Apr	Michael		"Radke, Luise"	Aleksandrowka	1	Lublin 1869	00134	83	S.Pohl Perry									
+Reich	Julianna	Reich	Julianna	D	1869	Apr	Christoph		"Huck?, Luise"	Dryszczow	1	Lublin 1869	00134	84	S.Pohl Perry									
+Noerenberg	Justyna	Noerenberg	Justine	D	1869	Apr				Antonin	1	Lublin 1869	00134	85	S.Pohl Perry				"Richter, Franz"					
+Klem	Jan	Klemm	Johann	D	1869	Apr	Gottlieb		"Zielke, Eva"	Radziejow	1	Lublin 1869	00134	86	S.Pohl Perry									
+Kelm	Zuzanna	Kelm	Susanne	D	1869	Apr				Sobolew	1	Lublin 1869	00134	87	S.Pohl Perry				"Arndt (1st spouse); Hundt, Peter (2nd spouse)"					
+Mueller	Gottlib	Mueller	Gottlieb	D	1869	Apr				Sobolew	1	Lublin 1869	00135	88	S.Pohl Perry				"Badke, Karoline"					
+Radke	August	Radke	August	D	1869	Apr	Christoph		"Hermann, Susanne"	Zarobka	1	Lublin 1869	00135	89	S.Pohl Perry									
+Ryndfleisz	Krzysztof Fryderyk	Rindfleisch	Christoph Friedrich	D	1869	Apr	Johann		"Piper, Johanna"	Nadrybie	1	Lublin 1869	00135	90	S.Pohl Perry									
+Neumann	Karol	Neumann	Karl	D	1869	Apr				Wojciechow	1	Lublin 1869	00135	91	S.Pohl Perry				"Reske, Emilie"	died October 1867				
+Sommer	Albertyna	Sommer	Albertine	D	1869	Apr	Johann		"Rinas, Julianna"	Teosin	1	Lublin 1869	00135	92	S.Pohl Perry									
+Krause	Juljanna	Krause	Julianna	D	1869	Apr	Gottlieb		"Schiewe, Rosalie"	Janowica	1	Lublin 1869	00135	93	S.Pohl Perry									
+Seemann	Juljusz	Seemann	Julius	D	1869	Apr	Michael		"Teske, Luise"	Adamow	1	Lublin 1869	00136	94	S.Pohl Perry									
+Makus	Samuel	Makus	Samuel	D	1869	Apr				Nadrybie	1	Lublin 1869	00136	95	S.Pohl Perry				"Skalej, Anna Christine"					
+Scholtz	Rudolf	Schultz	Rudolf	D	1869	Apr	August		"Fiebig, Eva"	Lublin	1	Lublin 1869	00136	96	S.Pohl Perry									
+Wegwerth	August	Wegwert	August	D	1869	Apr	Johann		"Schalm, Karoline"	Stanislawow	1	Lublin 1869	00136	97	S.Pohl Perry									
+Rode	Ferdynand	Rode	Ferdinand	D	1869	Apr	Friedrich		"Nast, Marianne"	Jozefin	1	Lublin 1869	00136	98	S.Pohl Perry									
+Schiewe	Gottlieb	Schiewe	Gottlieb	D	1869	Apr	Gottlieb		"Schultz, Anna Justine"	Majdan Krasieninski	1	Lublin 1869	00136	99	S.Pohl Perry									
+Jess	Gottlieb	Jess	Gottlieb	D	1869	Apr	Andreas		"Mund, Emilie"	Bronislawow	1	Lublin 1869	00137	100	S.Pohl Perry									
+Krueger	Helena	Krueger	Helene	D	1869	Apr				Konopnica	1	Lublin 1869	00137	101	S.Pohl Perry				"Rotz, Johann"					
+Schwartz	Agata	Schwartz	Agata	D	1869	Apr				Lublin	1	Lublin 1869	00137	102	S.Pohl Perry				"Schwartz, Gottlieb"					
+Markwart	Anna	Markwart	Anna	D	1869	Apr	Martin		"Bodach, Eva"	Malinowka	1	Lublin 1869	00137	103	S.Pohl Perry									
+Gonske	Maryanna	Ganske	Marianne	D	1869	Apr				Rozdzalow	1	Lublin 1869	00137	104	S.Pohl Perry				Glimm					
+Wiesenthal	Michal	Wiesenthal	Michael	D	1869	Apr	Wilhelm		"Drews, Marianne"	Janowica	1	Lublin 1869	00137	105	S.Pohl Perry									
+Demlang	August	Demlang	August	D	1869	Apr	Heinrich		"Schachtschneider, Wilhelmine"	Sobolew	1	Lublin 1869	00138	106	S.Pohl Perry									
+Schmiedtke	Anna	Schmidtke	Anna	D	1869	Apr	Jakob		"Heger, Justine"	Sobolew	1	Lublin 1869	00138	107	S.Pohl Perry									
+Buls	Andrzej	Buls	Andreas	D	1869	Apr	Christian		"Neumann, Rosalie"	Gotowka	1	Lublin 1869	00138	108	S.Pohl Perry									
+Poleski	Ludwik	Poleski	Ludwig	D	1869	Apr	August		"Winkel, Emilie"	Juliopol	1	Lublin 1869	00138	109	S.Pohl Perry									
+Schultz	Justyna	Schultz	Justine	D	1869	Apr	Karl		"Zerbin, Luise"	Wolka Nadrybska	1	Lublin 1869	00138	110	S.Pohl Perry									
+		Repke	Anna Karoline	D	1869	May				Aleksandria Niedzialowska	1	Lublin 1869	00138	111	S.Pohl Perry				"Wudke, Julius"					
+Herzog	Ludwika	Herzog	Luise	D	1869	May	Christian		"Richter, Rosalie"	Janowica	1	Lublin 1869	00139	112	S.Pohl Perry				"Kissmann, Gottfried"					
+Rolof	Jan	Rolof	Johann	D	1869	May	Michael		"Hermann, Christine"	Wolka Nadrybska	1	Lublin 1869	00139	113	S.Pohl Perry									
+		Bigalke	Marianne	D	1869	May	Christoph		"Weiss, Karoline"	Stoszew	1	Lublin 1869	00139	114	S.Pohl Perry				"Reske, Martin"					
+Repke	Anna	Repke	Anna	D	1869	May				Aleksandria Niedzialowska	1	Lublin 1869	00139	115	S.Pohl Perry				"Wudke, Julius"					
+Bade	Herrman Emil	Bade	Herman Emil	D	1869	May	Wilhelm		"Bade, Luise"	Jagodno	1	Lublin 1869	00139	116	S.Pohl Perry									
+Schendel	Ewa	Schendel	Eva	D	1869	May	Johann		"Polege, Karoline"	Pielgrzymka	1	Lublin 1869	00139	117	S.Pohl Perry									
+Brandt	Jan	Brandt	Johann	D	1869	May	Friedrich		"Drews, Christine"	Puszki	1	Lublin 1869	00140	118	S.Pohl Perry									
+Zerthier	Fryderyk	Serthier	Friedrich	D	1869	May	Gottfried		"Losch, Henriette"	Rozplucie	1	Lublin 1869	00140	119	S.Pohl Perry									
+Zieretzka	Ernestyna	Zeretski	Ernestine	D	1869	May	Heinrich		"Losch, Ernestine"	Rozplucie	1	Lublin 1869	00140	120	S.Pohl Perry									
+Duesterhoeft	Juljanna	Duesterhoeft	Julianna	D	1869	May	Samuel		"Stebner, Eva"	Aleksandria Niedzialowska	1	Lublin 1869	00140	121	S.Pohl Perry									
+Schiewe	Gottlib	Schiewe	Gottlieb	D	1869	May	Gottlieb		"Muth, Marianne"	Janowica	1	Lublin 1869	00140	122	S.Pohl Perry									
+Gandzel	Karolina	Handzel?	Karoline	D	1869	May	Friedrich		"Karock, Wilhelmine"	Dzialyn	1	Lublin 1869	00140	123	S.Pohl Perry									
+Klath	Wilhelmina	Klatt	Wilhelmine	D	1869	May	Andreas		"Beitler, Karoline"	Aleksandrowka	1	Lublin 1869	00141	124	S.Pohl Perry									
+Elke	Jan	Oelke	Johann	D	1869	May				Egersdorf (=Dylazki)	1	Lublin 1869	00141	125	S.Pohl Perry				"Kaus, Karoline"					
+Schultz	Rozalia	Schultz	Rosalie	D	1869	May				Krasienin	1	Lublin 1869	00141	126	S.Pohl Perry				"Weigner, Friedrich"					
+Kruedener	Grzegor von	Kruedener	Gregor von	D	1869	May	Fromhold		Christine	Lublin	1	Lublin 1869	00141	127	S.Pohl Perry				"Kasperowski, Petra"	Baron von Kruedener				
+Hueller	Jan	Hiller	Johann	D	1869	May	Michael		"Hiller, Rosine"	Sewerynowka	1	Lublin 1869	00141	128	S. Pohl Perry				"Bittner, Karoline"					
+Bruell	Ferdynand	Brill	Ferdinand	D	1869	May				Leszczyniec	1	Lublin 1869	00141	129	S. Pohl Perry				"Kaus, Luise"					
+Nerenberg	Anna Krystyna	Noerenberg	Anna Christine	D	1869	May	Michael		"Zimmer, Luise"	Bielany	1	Lublin 1869	00142	130	S. Pohl Perry									
+Krebs	Rozalia	Krebs	Rosalie	D	1869	May	August		"Kropp, Pauline"	Janowica	1	Lublin 1869	00142	131	S. Pohl Perry									
+		Richter	stillborn male	D	1869	May	August		"Zielke, Henriette"	Janowica	1	Lublin 1869	00142	132	S. Pohl Perry									
+Beetke	Justyna	Betke	Justine	D	1869	May	Gottlieb		"Hintz, Emilie"	Krasienin	1	Lublin 1869	00142	133	S. Pohl Perry									
+Zager	Andrzej	Sager	Andreas	D	1869	Jun				Zurawiniec	1	Lublin 1869	00142	134	S. Pohl Perry				"Kuehn, Karoline"					
+Jabusch	Wilchelm Albert	Jabusch	Wilhelm Albert	D	1869	Jun	August		"Nitz, Johanna Auguste"	Wojciechow	1	Lublin 1869	00142	135	S. Pohl Perry									
+Grams	Ewa	Grams	Eva	D	1869	Jun	Gottlieb		"Schroeder, Susanne"	Miloszowka	1	Lublin 1869	00143	136	S. Pohl Perry									
+Geske	Michal	Jeske	Michael	D	1869	Jun				Masluchy?	1	Lublin 1869	00143	137	S. Pohl Perry				"Blech, Dorothea"					
+Fritz	Adolf	Fritz	Adolf	D	1869	Jun	Wilhelm		"Wohlgemut, Karoline"	Zurawiniec	1	Lublin 1869	00143	138	S. Pohl Perry									
+Meger	Juljanna	Meger	Julianna	D	1869	Jun	Christian		"Kant, Karoline"	Antonin	1	Lublin 1869	00143	139	S. Pohl Perry									
+Bluemke	Ludwika	Bluemke	Luise	D	1869	Jun	Gottlieb		"Domres, Justine"	Stefanow	1	Lublin 1869	00143	140	S. Pohl Perry									
+Zylke	Amalia	Zielke	Amalie	D	1869	Jun	Johann		"Makus, Karoline"	Janowica	1	Lublin 1869	00143	141	S. Pohl Perry									
+Grawun	Marcin	Grawun	Martin	D	1869	Jun	Samuel		"Dreger?, Eva"	Janowica	1	Lublin 1869	00144	142	S. Pohl Perry									
+Schroeder	August	Schroeder	August	D	1869	Jun	Friedrich		"Fitzner, Friederike"	Juliopol	1	Lublin 1869	00144	143	S. Pohl Perry									
+Schultz	Gottlib	Schultz	Gottlieb	D	1869	Jun	Karl		"Zerbin, Anna Luise"	Wolka Nadrybska	1	Lublin 1869	00144	144	S. Pohl Perry									
+Peltzer	Anna Karolina	Peltzer	Anna Karoline	D	1869	Jun	Ludwig		"Klingspon, Justine"	Domicelow (nr. Radziejow)	1	Lublin 1869	00144	145	S. Pohl Perry									
+Polno	Michal	Polnau	Michael	D	1869	Jun	Gottlieb		"Schultz, Pauline"	Zawada	1	Lublin 1869	00144	146	S. Pohl Perry									
+Sens	Wilhelm	Sens	Wilhelm	D	1869	Jun	Johann		"Hiller, Julianna"	Bielin	1	Lublin 1869	00144	147	S. Pohl Perry									
+Pfeiffer	Edwart	Pfeiffer	Eduard	D	1869	Jun	Stefan		"Schmidke, Justine"	Amelin	1	Lublin 1869	00145	148	S. Pohl Perry									
+Wohlgemuth	Gottfrid	Wohlgemut	Gottfried	D	1869	Jul	Jakob		"Fenske, Anna"	Zurawiniec	1	Lublin 1869	00145	149	S. Pohl Perry									
+Stephan	Frydryk	Stefan	Friedrich	D	1869	Jul	Gottlieb		"Krinke, Justine"	Malinowka	1	Lublin 1869	00145	150	S. Pohl Perry									
+Hensel	George	Hensel	Georg	D	1869	Jul	Julius		"Fort, Malwine Luise"	Lublin	1	Lublin 1869	00145	151	S. Pohl Perry									
+Krentz	Wilchelmina	Krentz	Wilhelmine	D	1869	Jul	Christoph		"Hintz, Eva"	Zurawiniec	1	Lublin 1869	00145	152	S. Pohl Perry				"Lueck, Gustav"					
+Kryger	August	Krueger	August	D	1869	Jul	Friedrich		"Jahn, Amalie"	Malinowka	1	Lublin 1869	00145	153	S. Pohl Perry									
+Henschel	Anna Helena	Henschel	Anna Helene	D	1869	Jul	Christoph		Anna Rosine	Graniczna	1	Lublin 1869	00146	154	S. Pohl Perry				"Degen, Johann"					
+Jess	Jan	Jess	Johann	D	1869	Jul	Gottfried		"Degner, Anna Marianne"	Grabina	1	Lublin 1869	00146	155	S. Pohl Perry									
+Krueger	Herrmann Jan	Krueger	Herman Johann	D	1869	Jul	Johann		"Horn, Beate"	Wojciechow	1	Lublin 1869	00146	156	S. Pohl Perry									
+Rohlof	Emilia	Rolof	Emilie	D	1869	Jul	Martin		"Stenzel, Karoline"	Bielany	1	Lublin 1869	00146	157	S. Pohl Perry									
+Biler	Magdalena	Biller	Magdalene	D	1869	Jul				Skarbin	1	Lublin 1869	00146	158	S. Pohl Perry				"Guenter, Johann Gottlieb"					
+Pokrant	Rozalia	Pokrant	Rosalie	D	1869	Jul	Ludwig		"Baganz, Henriette"	Bielany	1	Lublin 1869	00146	159	S. Pohl Perry									
+Schmidt	Gottlib	Schmidt	Gottlieb	D	1869	Jul	Johann Ludwig		"Gregor, Christine"	Bronislawow	1	Lublin 1869	00147	160	S. Pohl Perry									
+Schroeder	Wilchelmina	Schroeder	Wilhelmine	D	1869	Jul	August		"Schultz, Friederike"	Juliopol	1	Lublin 1869	00147	161	S. Pohl Perry									
+Thide	Gottlib	Thiede	Gottlieb	D	1869	Jul	Gottlieb		"Koebernik, Anna Christine"	Sobolew	1	Lublin 1869	00147	162	S. Pohl Perry									
+Tefs	Samuel	Tews	Samuel	D	1869	Jul	Paul		"Hawart, Karoline"	Bielin	1	Lublin 1869	00147	163	S. Pohl Perry									
+Mueler	Edward	Mueller	Eduard	D	1869	Jul	August		"Duelge, Johanna"	Juliopol	1	Lublin 1869	00147	164	S. Pohl Perry									
+Hendzel	Maksymilian Wolter	Hendzel	Maximillian Walter	D	1869	Jul	Julius		"Forth, Malwine Luise"	Lublin	1	Lublin 1869	00147	165	S. Pohl Perry									
+Manthej	Krzysztof	Mantei	Christoph	D	1869	Jul	Michael		Eleonore	Kijany	1	Lublin 1869	00148	166	S. Pohl Perry				"Patzwald, Wilhelmine"					
+Henkl	Henrieta	Henkel	Henriette	D	1869	Jul				Lublin	1	Lublin 1869	00148	167	S. Pohl Perry				Freimann					
+Albrecht	Anna Elzbieta	Albrecht	Anna Elisabeth	D	1869	Jul				Bronislawow	1	Lublin 1869	00148	168	S. Pohl Perry				Fandrich					
+Grams	Krzystof	Grams	Christoph	D	1869	Jul	Gottlieb		"Kabusch, Julianna"	Malinowka	1	Lublin 1869	00148	169	S. Pohl Perry									
+Grams	Anna Justyna	Grams	Anna Justine	D	1869	Jul	Daniel		"Jeske, Anna Susanne"	Brzeziny (nr. Trojnia)	1	Lublin 1869	00148	170	S. Pohl Perry				"Jekel, Andreas"					
+Totz	Juljus Herrmann	Totz	Julius Hermann	D	1869	Jul	Karl		"Gregor, Pauline"	Amelin	1	Lublin 1869	00148	171	S. Pohl Perry									
+Arndt	Gottlib	Arndt	Gottlieb	D	1869	Jul	Gottlieb		"Koroch, Julianna"	Krzywda	1	Lublin 1869	00149	172	S. Pohl Perry									
+Sieg	Gottlib	Sieg	Gottlieb	D	1869	Jul				Krasienin	1	Lublin 1869	00149	173	S. Pohl Perry					"Sieg, Karoline (daughter)"				
+Martin	Adam	Martin	Adam	D	1869	Aug				Kluczkowice	1	Lublin 1869	00149	174	S. Pohl Perry				"Rodak, Christine"					
+Schwening	Zuzanna	Schwening	Susanne	D	1869	Aug	Johann		"Reich, Susanne"	Teresin	1	Lublin 1869	00149	175	S. Pohl Perry									
+		Gast	stillborn male	D	1869	Aug	Jakob?		"Scharnban?, Johanna"	Mieszyslawka	1	Lublin 1869	00149	176	S. Pohl Perry									
+Schubert	Samuel	Schubert	Samuel	D	1869	Aug	Ludwig		"Hintz, Emilie"	Trojnia	1	Lublin 1869	00149	177	S. Pohl Perry									
+Piper	Ferdynand	Piper	Ferdinand	D	1869	Aug				Nadrybie	1	Lublin 1869	00150	178	S. Pohl Perry				"Witzan, Friederike"					
+Albrecht	Ludwika	Albrecht	Luise	D	1869	Aug	Martin		"Patzer, Euphrosine"	Bielany	1	Lublin 1869	00150	179	S. Pohl Perry									
+Gejster	Fryderyk Wilchelm	Geister	Friedrich Wilhelm	D	1869	Aug				Wojciechow	1	Lublin 1869	00150	180	S. Pohl Perry				"Fankowski, Marianne"					
+Muzalf	Ludwika	Musalf	Luise	D	1869	Aug	Gottlieb		"Freiheit, Marianne"	Katy	1	Lublin 1869	00150	181	S. Pohl Perry									
+Jess	Daniel	Jess	Daniel	D	1869	Aug	Peter		"Lemke, Anna Dorothea"	Justynow	1	Lublin 1869	00150	182	S. Pohl Perry				"Bartz, Anna"					
+Ratke	Gottlieb	Radke	Gottlieb	D	1869	Aug	Christoph		"Ikert, Anna Christine"	Baran	1	Lublin 1869	00150	183	S. Pohl Perry				"Klatt, Luise"					
+Lentz	Maryanna	Lentz	Marianne	D	1869	Aug				Aleksandria Krzywowolska	1	Lublin 1869	00151	184	S. Pohl Perry				"Wanke, Michael"					
+Schlak	Justyna	Schlak	Justine	D	1869	Aug	Christian		"Janke, Dorothea"	Konotopa	1	Lublin 1869	00151	185	S. Pohl Perry									
+Jeske	Ewa	Jeske	Eva	D	1869	Aug	Daniel		"Liedke, Luise"	Juliopol	1	Lublin 1869	00151	186	S. Pohl Perry									
+Lojewska	Ewa	Lojewski	Eva	D	1869	Aug	Johann		"Bild?, Anna"	Plouszowice	1	Lublin 1869	00151	187	S. Pohl Perry									
+Potz	Karol	Potz	Karl	D	1869	Aug	Christian		"Engfer, Julianna"	Zalisocze	1	Lublin 1869	00151	188	S. Pohl Perry									
+Krentz	Eleonora	Krentz	Eleonore	D	1869	Aug				Puszki	1	Lublin 1869	00151	189	S. Pohl Perry				"Wehrmann, Friederich"					
+Duelge	Karol	Dilge	Karl	D	1869	Sep	Julius		"Mueller, Julianna"	Juliopol	1	Lublin 1869	00152	190	S. Pohl Perry									
+Drath	Rudolf	Drath	Rudolf	D	1869	Sep	Phillip		"Effa, Wilhelmine"	Bronislawow	1	Lublin 1869	00152	191	S. Pohl Perry									
+Koch	Anna Maryanna	Koch	Anna Marianne	D	1869	Sep				Sarnow	1	Lublin 1869	00152	192	S. Pohl Perry				Pieser	"Neumann, Rosine (daughter w/ spouse: Neumann, Josef)"				
+Wolter	Paulina	Wolter	Pauline	D	1869	Sep	Johann		"Sommerfeld, Henriette"	Kijany	1	Lublin 1869	00152	193	S. Pohl Perry									
+Winter	Michal	Winter	Michael	D	1869	Sep				Adamow	1	Lublin 1869	00152	194	S. Pohl Perry				"Bonn, Elisabeth"					
+Schwartzwald	Maryanna	Schwartzwald	Marianne	D	1869	Sep	David		"Baummiller, Anna"	Antonin	1	Lublin 1869	00152	195	S. Pohl Perry									
+Richter	Karolina	Richter	Karoline	D	1869	Sep	Adam		"Omnick, Wilhelmine"	Wierzchowiska	1	Lublin 1869	00153	196	S. Pohl Perry									
+Hirsekorn	Karolina	Hirsekorn	Karoline	D	1869	Sep	Ferdinand		"Schrank, Julianna"	Bialopole	1	Lublin 1869	00153	197	S. Pohl Perry									
+Riske	Florentyna	Riske	Florentine	D	1869	Sep	August		"Rath, Eleonore"	Leonardow	1	Lublin 1869	00153	198	S. Pohl Perry									
+Holtz	Jan	Holtz	Johann	D	1869	Sep	Johann		"Kitzmann, Eva"	Bielsko	1	Lublin 1869	00153	199	S. Pohl Perry				"Kupfer, Karoline"					
+Arndt	Wilchelmina	Arndt	Wilhelmine	D	1869	Sep	Johann		"Albrecht, Anna"	Bielany	1	Lublin 1869	00153	200	S. Pohl Perry									
+Carn	Justyna	Zarn	Justine	D	1869	Sep	August		"Lentz, Julianna"	Radziejow	1	Lublin 1869	00153	201	S. Pohl Perry									
+		Leske	stillborn male	D	1869	Sep	Martin		"Abraham, Justine"	Rozdzalow	1	Lublin 1869	00154	202	S. Pohl Perry									
+Degner	Anna Maryanna	Degner	Anna Marianne	D	1869	Sep	Martin		"Patzer, Karoline"	Grabina	1	Lublin 1869	00154	203	S. Pohl Perry				"Jeske, Gottfried"					
+Kreisel	Augusta	Kreisel	Auguste	D	1869	Oct	Karl		"Hoffmann, Luise"	Lublin	1	Lublin 1869	00154	204	S. Pohl Perry				"Felkner, Wilhelm"					
+Gross	Adolf	Gross	Adolf	D	1869	Oct	Johann Friedrich		"Kuehn, Julianna"	Teosin	1	Lublin 1869	00154	205	S. Pohl Perry									
+Weiss	Emilia	Weiss	Emilie	D	1869	Oct	Samuel		"Hett, Karoline"	Tomaszowka	1	Lublin 1869	00154	206	S. Pohl Perry									
+Kelbert	Jakob	Kelbert	Jakob	D	1869	Oct	Friedrich		"Blank, Elisabeth"	Teosin	1	Lublin 1869	00154	207	S. Pohl Perry									
+Zander	Anna Justyna	Sander	Anna Justine	D	1869	Oct	Gottlieb		"Rahn, Emilie"	Skarbin	1	Lublin 1869	00155	208	S. Pohl Perry									
+Schueler	Adolf Edward	Schueler	Adolf Eduard	D	1869	Oct	Eduard Wilhelm		"Stopczik, Maria"	Lublin	1	Lublin 1869	00155	209	S. Pohl Perry									
+Krueger	Adolf	Krueger	Adolf	D	1869	Oct	Ludwig		"Regner, Rosalie"	Rozdzalow	1	Lublin 1869	00155	210	S. Pohl Perry									
+Makus	Andrzej	Makus	Andreas	D	1869	Oct	Andreas		"Wander, Julianna"	Aleksandria Krzywowolska	1	Lublin 1869	00155	211	S. Pohl Perry									
+Thiel	Michal	Thiel	Michael	D	1869	Oct	unknown		"Thiel, Wilhelmine"	Kaniwola	1	Lublin 1869	00155	212	S. Pohl Perry									
+Podryska	Juljanna	Podryski	Julianna	D	1869	Oct	Christian		"Schinke, Karoline"	Siedliszcze	1	Lublin 1869	00155	213	S. Pohl Perry									
+Zierath	Karolina	Zierath	Karoline	D	1869	Oct	Gottfried		"Bethin, Anna"	Stanislawow	1	Lublin 1869	00156	214	S. Pohl Perry				"Kramf, Karl"					
+Blejch	Ernestyna	Bleich	Ernestine	D	1869	Oct	Paul		"Krueger, Karoline"	Bielin	1	Lublin 1869	00156	215	S. Pohl Perry									
+Kinas	Juljanna	Kinas	Julianna	D	1869	Oct	Gottlieb		"Reich, Anna"	Malinowka	1	Lublin 1869	00156	216	S. Pohl Perry									
+Marawe	Karol	Morawe	Karl	D	1869	Oct	Wilhelm		"Gronn, Anna"	Opole	1	Lublin 1869	00156	217	S. Pohl Perry				"Maiwskro?, Marcella"					
+Marcinski	Gustaw	Marcinski	Gustav	D	1869	Oct	Johann		"Guenter, Anna Christine"	Trojnia	1	Lublin 1869	00156	218	S. Pohl Perry									
+Neumann	Jan Gottlib	Neumann	Johann Gottlieb	D	1869	Nov				Klementynow	1	Lublin 1869	00156	219	S. Pohl Perry				"Klekitzki?, Jadwiga Theresa"					
+Rutsch	Fryderyk	Rutsch	Friedrich	D	1869	Nov	Ferdinand		"Sperling, Justine"	Justynow	1	Lublin 1869	00157	220	S. Pohl Perry									
+Preuss	Michal	Preuss	Michael	D	1869	Nov	Karl		"Drews, Justine"	Antonin	1	Lublin 1869	00157	221	S. Pohl Perry									
+Korok	Krystyan	Korock	Christian	D	1869	Nov	Christian		"Wolfram, Justine"	Teosin	1	Lublin 1869	00157	222	S. Pohl Perry									
+Tyberowski	Karl	Tyborowski	Karl	D	1869	Nov	Josef		Karoline	Pawlow	1	Lublin 1869	00157	223	S. Pohl Perry				"Janke, Anna"					
+Betcher	Michal	Betcher	Michael	D	1869	Nov	Michael		"Hett, Anna"	Puszki	1	Lublin 1869	00157	224	S. Pohl Perry									
+Belke	Emilia	Belke	Emilie	D	1869	Nov	Karl		"Nessman, Luise"	Radziejow	1	Lublin 1869	00157	225	S. Pohl Perry									
+Jantz	Teressa	Jantz	Theresa	D	1869	Nov	Michael		"Piel, Eleonore"	Teosin	1	Lublin 1869	00158	226	S. Pohl Perry									
+Frytsch	Zuzanna	Fritz	Susanne	D	1869	Nov	Daniel		"Albrecht, Rosalie"	Malinowka	1	Lublin 1869	00158	227	S. Pohl Perry				"Ortel, Michael"					
+Ansorg	Marcin	Ansorg	Martin	D	1869	Nov	Wilhelm		"Liening, Karoline"	Justynow	1	Lublin 1869	00158	228	S. Pohl Perry									
+Strohschein	Bertha Theressa	Strohschein	Berta Theresa	D	1869	Nov	Ludwig		"Stenzel, Justine"	Adamow	1	Lublin 1869	00158	229	S. Pohl Perry									
+Podryzky	Krystyan	Podricki	Christian	D	1869	Nov				Siedliszcze	1	Lublin 1869	00158	230	S. Pohl Perry					"Podricki, Christian (son)"				
+Guenther	Magdalena	Guenter	Magdalene	D	1869	Nov	Gottlieb		"Guenter, Magdalene"	Skarbin	1	Lublin 1869	00158	231	S. Pohl Perry									
+		Flemke	stillborn male	D	1869	Nov	Samuel?		"Hochhertz, Katherine"	Wystrow	1	Lublin 1869	00159	232	S. Pohl Perry									
+Noerenberg	Wilhelmina	Noerenberg	Wilhelmine	D	1869	Nov	Gottlieb		"Liske, Eleonore"	Bielin	1	Lublin 1869	00159	233	S. Pohl Perry									
+Pazzer	Eufrozyna	Patzer	Euphrosine	D	1869	Nov				Bielany	1	Lublin 1869	00159	234	S. Pohl Perry				"Albrecht, Martin"					
+Kusser	Rozalia	Kisser	Rosalie	D	1869	Nov	Gottfried		"Herzog, Luise"	Skarbin	1	Lublin 1869	00159	235	S. Pohl Perry									
+		Liske	stillborn male	D	1869	Nov	Ferdinand		"Schmidt, Karoline"	Klementynow	1	Lublin 1869	00159	236	S. Pohl Perry									
+Bozenius	Karolina	Bosenius	Karoline	D	1869	Nov	Ferdinand		"Hermann, Eleonore"	Malinowka	1	Lublin 1869	00159	237	S. Pohl Perry									
+Rodhe	Gottfried	Rode	Gottfried	D	1869	Nov	Andreas		"Jeske, Julia"	Zurawiniec	1	Lublin 1869	00160	238	S. Pohl Perry									
+Elitz	Juliana	Elitz	Julianna	D	1869	Nov	unknown		"Elitz, Luise"	Wola Osowinska	1	Lublin 1869	00160	239	S. Pohl Perry									
+Myslak	Wilhelmyna	Mislak	Wilhelmine	D	1869	Dec	Friedrich		"Steinebel, Julianna"	Zalisocze	1	Lublin 1869	00160	240	S. Pohl Perry									
+Blanck	Paulina	Blank	Pauline	D	1869	Dec	Andreas		"Schultz, Christine"	Krzywowola?	1	Lublin 1869	00160	241	S. Pohl Perry									
+Schmidt	August	Schmidt	August	D	1869	Dec	Michael		"Kaus, Justine"	Czerwonka	1	Lublin 1869	00160	242	S. Pohl Perry									
+Schopich	Julia	Schopich	Julia	D	1869	Dec				Lublin	1	Lublin 1869	00160	243	S. Pohl Perry				Breining					
+Hekel	Ernestina	Hekel	Ernestine	D	1869	Dec	Eduard		"Hartwig, Karoline"	Leonardow	1	Lublin 1869	00161	244	S. Pohl Perry									
+Klingspon	Justjna	Klingspon	Justine	D	1869	Dec	Martin		"Drews, Elisabeth"	Tytusow (nr. Radziejow)	1	Lublin 1869	00161	245	S. Pohl Perry									
+Sonnenberg	Eufrozyna	Sonnenberg	Euphrosine	D	1869	Dec	Samuel		"Gust, Julianna"	Izydorow (nr. Radziejow)	1	Lublin 1869	00161	246	S. Pohl Perry									
+Fegen	Ewa	Fegen	Eva	D	1869	Dec				Graniczna	1	Lublin 1869	00161	247	S. Pohl Perry				Hein					
+Schmydt	Julia Augusta	Schmidt	Julia Auguste	D	1869	Dec	Johann		"Beltz, Auguste"	Plawanice?	1	Lublin 1869	00161	248	S. Pohl Perry									
+		Stentzel	stillborn female	D	1869	Dec	Martin		"Wahl, Eleonore"	Izydorow (nr. Radziejow)	1	Lublin 1869	00161	249	S. Pohl Perry									
+Bartz	Wilhelmina	Bartz	Wilhelmine	D	1869	Dec	Jakob		"Werner, Wilhelmine"	Zawada	1	Lublin 1869	00162	250	S. Pohl Perry									
+Boblitz	Henryetta	Boblitz	Henriette	D	1869	Dec				Majdan Rybie	1	Lublin 1869	00162	251	S. Pohl Perry				"Brunke, Christian"					
+		Brill	Julianna	D	1869	Dec	Ferdinand		"Kaus, Luise"	Leszczyniec	1	Lublin 1869	00162	252	S. Pohl Perry									
+Trejmark?	Anna Rozyna	Temart	Anna Rosine	D	1869	Dec				Aleksandria Niedzialowska	1	Lublin 1869	00162	253	S. Pohl Perry				"Krause, Christian"					
+Rentz	Krzysztof	Rentz	Christoph	D	1869	Dec	Andreas		"Marks, Marianne"	Aleksandria Niedzialowska	1	Lublin 1869	00162	254	S. Pohl Perry				"Jeske?, Rosalie"					
+Jantz	Wihelm	Jantz	Wilhelm	D	1869	Dec	Heinrich?		"Lau, Wilhelmine"	Puszki	1	Lublin 1869	00162	255	S. Pohl Perry									
+Ehlke	Gottlieb	Oelke	Gottlieb	D	1870	Jan	Julius		"Wakel?, Katharine"	Ochoza Kol.?	1	Lublin 1869	00163	256	S. Pohl Perry									
+Kuehn	Michal	Kuehn	Michael	D	1870	Jan	Karl		"Trelenberg, Rosalie"	Lipniak	1	Lublin 1869	00163	257	S. Pohl Perry									
+Muenk	Erdmann	Minke	Erdmann	D	1870	Jan	Gottlieb		"Rapchinski, Justine"	Malinowka	1	Lublin 1869	00163	258	S. Pohl Perry									
+Rose	Emilia	Rose	Emilie	D	1870	Jan	Heinrich		"Rosenberg, Luise"	Zawada	1	Lublin 1869	00163	259	S. Pohl Perry									
+		Nachtigall	stillborn male?	D	1870	Jan	David		"Foth?, Elisabeth"	Zalisocze	1	Lublin 1869	00163	260	S. Pohl Perry									
+Tetzlaff	Krystian	Tetzlaff	Christian	D	1870	Jan	Ferdinand		"Rus, Luise"	Gotowka	1	Lublin 1869	00163	261	S. Pohl Perry									
+Bonn	Gustav	Bonn	Gustav	D	1870	Jan	Friedrich		"Fandrich?, Pauline"	Tytusow (nr. Radziejow)	1	Lublin 1869	00164	262	S. Pohl Perry									
+Lej?	Rozalia	Leich?	Rosalie	D	1870	Jan				Firlej	1	Lublin 1869	00164	263	S. Pohl Perry				Schimmel	"Schimmel, Adolf (son)"				
+Schrank	Jan Tomas	Schrank	Johann Thomas	D	1870	Jan				Czerwonka	1	Lublin 1869	00164	264	S. Pohl Perry				"Binick, Rosalie"					
+Krause	Matilda	Krause	Mathilde	D	1870	Jan	Andreas		"Schmuland, Luise"	Malinowka	1	Lublin 1869	00164	265	S. Pohl Perry									
+		zz		D	1869						1	Lublin 1869	00165		S. Pohl Perry					Index: A-P				
+		zz		D	1869						1	Lublin 1869	00166		S. Pohl Perry					Index: P-Z				
+		zz		B	1869						1	Lublin 1869	00167		S. Pohl Perry					Index: A-B				
+		zz		B	1869						1	Lublin 1869	00168		S. Pohl Perry					Index: B-H				
+		zz		B	1869						1	Lublin 1869	00169		S. Pohl Perry					Index: H-L				
+		zz		B	1869						1	Lublin 1869	00170		S. Pohl Perry					Index: L-R				
+		zz		B	1869						1	Lublin 1869	00171		S. Pohl Perry					Index: R-W				
+		zz		B	1869						1	Lublin 1869	00172		S. Pohl Perry					Index: W-Z				
+Gruening	Fryderyk Arnhold	Gruening	Friedrich Arnold	M	1869	Oct		"Wilke, Henryetta"	"Wilke, Henriette"	Szczecin	1	Lublin 1869	00173	67	S. Pohl Perry		"Gruening, Michael & Kisser, Wilhelmine"	"Wilke, Ferdinand & Bleich?, Wilhelmine"						
+Bartz	Lorentz	Bartz	Lorenz	M	1869	Oct		"Kropp, Paulina"	"Kropp, Pauline"	Janowica	1	Lublin 1869	00174	68	S. Pohl Perry		"Bartz, Gottfried & Bach, Rosine"	"Kropp, Gottlieb & Bittner, Friederike"	"Muth, Rosalie (1st wife); Krebs, August (1st husband)"					
+Makkus	Gottfrid	Makus	Gottfried	M	1869	Oct		"Piper, Maryanna"	"Piper, Marianne"	Janowica	1	Lublin 1869	00174	69	S. Pohl Perry		"Makus, Samuel & Skalei, Anna Kristine"	"Piper, Peter & Koziszke, Wilhelmine"						
+Wahnke	Michal	Wanke	Michael	M	1869	Nov		"Lenz, Anna"	"Lentz, Anna"	Aleksandrowka	1	Lublin 1869	00175	70	S. Pohl Perry		"Wanke, Christoph & Wanke, Kristine"	"Lentz, Christian & Hintz, Karolina"	"Lentz, Marianne (1st wife)"					
+Krieger	Ludwik	Krueger	Ludwig	M	1869	Nov		"Knispel, Wilhelmina"	"Knispel, Wilhelmine"	Gotowka	1	Lublin 1869	00175	71	S. Pohl Perry		"Krueger, Susanne"	"Knispel, Johann & Metz, Julianna"	Fromke (1st husband)					
+Bankonin	Krystian	Bankonin	Christian	M	1869	Nov		"Muczler, Rosyna"	"Mutschler, Rosine"	Kulczyn	1	Lublin 1869	00176	72	S. Pohl Perry		"Bankonin, Jakob & Haak, Magdalene"	"Mutschler, Gregor & Beichler, Kristine"	"Resse, Jakob (1st husband)"					
+Simon	Gustaw Karol	Simon	Gustav Karl	M	1869	Nov		"Mueller, Henryetta"	"Miller, Henriette"	Bronislawow	1	Lublin 1869	00176	73	S. Pohl Perry		"Simon, Franz & Kamin, Auguste"	"Mueller, Anna"						
+Peter	Daniel	Peter	Daniel	M	1869	Nov		"Schorack, Krystyna"	"Schoenrok, Christine"	Teosin	1	Lublin 1869	00177	74	S. Pohl Perry		"Peter, Johann & Pankratz, Rosalie"	"Schoenrok, Gottlieb & Schelling, Marianne"						
+Kilinski	Adolf Albert	Kelinski	Adolf Albert	M	1869	Nov		"Schuelke, Matylda"	"Schilke, Mathilde"	Malinowka	1	Lublin 1869	00177	75	S. Pohl Perry		"Kelinski, Karl & Wilhelmine"	"Schilke, Christoph & Timm?, Anna Rosine"						
+Albrecht	Marcin	Albrecht	Martin	M	1870	Jan			"Duesterhoeft, Eleonore"	Bielany	1	Lublin 1869	00178	76	S. Pohl Perry		"Albrecht, Matthias & Gniese, Marianne"	"Duesterhoeft, Matthias & Platt, Karolina"	"Patzer, Euphrosine (1st wife)"					
+		zz		M	1869						1	Lublin 1869	00178		S. Pohl Perry					Index: A-G				
+Kotke	Friederich Wilhelm	Kotke	Friedrich Wilhelm	M	1869	Jan		"Stobe, Rozalia"	"Staube, Rosalie"	Swierszczow	1	Lublin 1869	00179	1	S. Pohl Perry		"Kotke, Friedrich & Lange, Justine"	"Staube, Martin & Streubel, Luise"	"Timm, Wilhelmine (1st wife)"					
+		zz		M	1869						1	Lublin 1869	00179		S. Pohl Perry					Index: G-Z				
+Bloch	Krzychtof	Bloch	Christoph	M	1869	Jan		"Hejn, Elzbieta"	"Hein, Elisabeth"	Kaniwola	1	Lublin 1869	00180	2	S. Pohl Perry		"Bloch, Martin & Ganzke, Luise"	"Hein, Daniel & Jantz, Rosalie"	"Kelm, Luise (1st wife), Zelmer, Johann (1st husband)"					
+Muth	Gottfried	Muth	Gottfried	M	1869	Jan		"Milbradt, Julianna"	"Milbradt, Julianna"	Sobolew	1	Lublin 1869	00180	3	S. Pohl Perry		"Muth, Gottlieb & Abraham, Anna"	"Milbradt, Ludwig & Biberich, Rosalie"						
+Anzarg	Wilhelm	Ansorg	Wilhelm	M	1869	Jan		"Linink, Carolina"	"Lining, Karoline"	Justynow	1	Lublin 1869	00181	4	S. Pohl Perry		"Ansorg, Wilhelm & Henke, Karoline"	"Lining, Martin & Breit, Maria"	"Lining, Rosalie (1st wife)"					
+Wagel	Jahn Gottlieb	Wagel	Johann Gottlieb	M	1869	Jan		"Milosz, Walerya"	"Milosch, Valerie"	Lublin	1	Lublin 1869	00181	5	S. Pohl Perry		"Wagel, Christian & Seidel, Anna Rosine"	"Milosch, Johann & Sarandeki, Josephine?"						
+Szwedzinski	Leon Andrzej	Schwedzinski	Leon Andreas	M	1869	Feb			"Oestreich, Marianne Elisabeth Luise"	Szczuchnia	1	Lublin 1869	00182	6	S. Pohl Perry		"Schwedzinski, Peter & Baranski, Josephine?"	"Oestreich, Wilhelm & Liese, Emilie"						
+Ymmler	Gottfrid	Imler	Gottfried	M	1869	Feb		"Heck, Julia"	"Heck, Julia"	Adamow	1	Lublin 1869	00182	7	S. Pohl Perry		"Imler, Wilhelm & Sturzbecher, Anna Daria"	"Heck, Gottlieb & Drews, Karoline"						
+Gentzler	Jan	Gentzler	Johann	M	1869	Feb		"Wohlgemuth, Justyna"	"Wohlgemut, Justine"	Zurawiniec	1	Lublin 1869	00183	8	S. Pohl Perry		"Gentzler, Johann & Braun, Susanne"	"Wohlgemut, Jakob & Fenske, Anna Kristine"	"Egert, Anna Justine (1st wife)"					
+Jeske	Gottlieb	Jeske	Gottlieb	M	1869	Feb		"Schramm, Justyna"	"Schramm, Justine"	Trojnia	1	Lublin 1869	00183	9	S. Pohl Perry		"Jeske, Gottlieb & Kropp, Eva"	"Schramm, Wilhelm & Lass, Monika"						
+Hejmann	Dawid	Heimann	David	M	1869	Feb		"Kuehn, Carolina"	"Kuehn, Karoline"	Zurawiniec	1	Lublin 1869	00184	10	S. Pohl Perry		"Heimann, Jakob & Timm, Marianne"	"Kuehn, Andreas & Kachner?, Karoline"						
+Makkuss	Josef	Makus	Josef	M	1869	Feb		"Mohlzan, Julianna"	"Molzahn, Julianna"	Wankowszczyzna	1	Lublin 1869	00184	11	S. Pohl Perry		"Makus, Michael & Winter, Anna Kristine"	"Molzahn, August & Naberg, Luise"						
+Poltz	Karol Ludwik	Polz	Karl Ludwig	M	1869	Feb					1	Lublin 1869	00179	12						file missing; name from index				
+Pachal	Ludwik	Pahl	Ludwig	M	1869	Feb					1	Lublin 1869	00179	13						file missing; name from index				
+Giese	Fryderyk Albert	Giese	Friedrich Albert	M	1869	Feb		"Meyer, Wilhelmina"	"Meier, Wilhelmine"	Rybie	1	Lublin 1869	00185	14	S. Pohl Perry		"Giese, Karl & Gewe?, Karoline"	"Meyer, Johann & Sawistowek, Karoline"						
+Drejer	Ferdynand	Dreier	Ferdinand	M	1869	Feb		"Hengstman, Paulina"	"Hengstmann, Pauline"	Irena	1	Lublin 1869	00185	15	S. Pohl Perry		"Dreier, Johann & Reisner, Johanna"	"Hengstmann, Friedrich & Arndt, Rosalie"	"Kurzick, Michael (1st husband)"					
+Will	August	Will	August	M	1869	Apr		"Lipke, Henryetta"	"Lipke, Henriette"	Nowina	1	Lublin 1869	00186	16	S. Pohl Perry		"Will, Gottlieb & Adam, Henriette"	"Lipke, Martin & Molketin, Susanne"	"Drews, Ludwig (1st husband)"					
+Gatzke	Fryderyk	Gatzke	Friedrich	M	1869	Apr		"Cybardt, Paulina Wilhelmina"	"Ziebart, Pauline Wilhelmine"	Ludwinow	1	Lublin 1869	00186	17	S. Pohl Perry		"Gatzke, Johann & Kristine"	"Ziebart, August & Deide, Karoline"						
+Schwartz	Andrzej	Schwartz	Andreas	M	1869	Apr		"Weiss, Natalia Paulina"	"Weiss, Natalie Pauline"	Radzyn	1	Lublin 1869	00187	18	S. Pohl Perry		"Schwartz, Gottlieb & Gramp, Agatha"	"Weiss, Wilhelm & Liszewski, Friederike"						
+Reich	Marcin	Reich	Martin	M	1869	Apr		"Lerch, Anna Katarzyna"	"Lerch, Anna Katharine"	Wolka Tarnowska	1	Lublin 1869	00187	19	S. Pohl Perry		"Reich, Andreas & Mittelstaedt, Justine"	"Lerch, Gregor & Siebert, Anna Rosalie"	"Becker, Karoline (1st wife)"					
+Zelmar	Jan Fryderyk	Zelmer	Johann Friedrich	M	1869	Apr		"Kinitz, Anna Ludwika"	"Kinitz, Anna Luise"	Baran	1	Lublin 1869	00188	20	S. Pohl Perry		"Zelmer, Michael & Melzer, Johanna"	"Kinitz, Gottlieb & Janke, Anna Karoline"	"Krueger, Gottlieb (1st husband)"					
+Jahnke	Daniel	Janke	Daniel	M	1869	Apr		"Fangrad, Rozalia"	"Fangradt, Rosalie"	Laczki	1	Lublin 1869	00188	21	S. Pohl Perry		"Janke, Michael & Braun, Susanne"	"Fangradt, Johann & Klukas, Susanne"						
+Kotke	August	Kotke	August	M	1869	Apr		"Proch, Henryetta"	"Proch, Henriette"	Wladyslawow	1	Lublin 1869	00189	22	S. Pohl Perry		"Kotke, Ludwig & Zarniko, Daria"	"Proch, Johann & Krueger, Charlotte"	"Matwich, Rosine (1st wife); Geiger, Gottlieb (1st husband)"					
+Schinkel	Marcin	Schinkel	Martin	M	1869	Apr		"Blinke, Karolina"	"Bluemke, Karoline"	Borysow	1	Lublin 1869	00189	23	S. Pohl Perry		"Schinkel, Daniel & Mann, Anna Marianne"	"Bluemke, Michael & Lueck, Anna Kristine"						
+Pyde	August	Pide	August	M	1869	May		"Mejer, Justyna"	"Meier, Justine"	Sobolew	1	Lublin 1869	00190	24	S. Pohl Perry		"Pide, Martin & Nikolai, Anna Daria"	"Meier, Gottlieb & Kolm, Wilhelmine"	"Wendland, Wilhelmine (1st wife)"					
+Schultz	Jahn Ferdynand	Schultz	Johann Ferdinand	M	1869	May		"Lik, Ludwika"	"Lueck, Luise"	Adamow	1	Lublin 1869	00190	25	S. Pohl Perry		"Schultz, Friedrich & Keil?, Justine"	"Lueck, Johann Michael & Krause, Daria"	"Grams, Marianne (1st wife); Getzke, Christoph (1st husband)"					
+Oehme	Wiktor	Oehme	Victor	M	1869	May		"Rudnicka, Elena Amalia"	"Rudnicki, Helene Amalie"	Lublin	1	Lublin 1869	00191	26	S. Pohl Perry		"Oehme, Wilhelm & Merkisch, Valeska"	"Rudnicki, Anton & Januszewski, Antonina"						
+Meger	Adam	Meger	Adam	M	1869	May		"Markwart, Anna"	"Markwart, Anna"	Antonin	1	Lublin 1869	00191	27	S. Pohl Perry		"Meger, Lorenz & Anna Katharine"	"Markwart, Andreas & Kufert, Justine"	"Krueger, Elisabeth (1st wife) & Holland, Gottfried (1st husband)"					
+Bouxhoewden	Rudolph von	Buxhoewden	Rudolf von	M	1869	May		"Okolowic, Josefina Lucija"	"Okolowicz, Josefine Lucia"	Lublin	1	Lublin 1869	00192	28	S. Pohl Perry		"Buxhoewden, Otto von & Hin?, Anita?"	"Okolowicz, Nikolai & Musnitzki, Lucia"		Baron von Buxhoewden				
+Franck	Gottlieb	Frank	Gottlieb	M	1869	Jun		"Kunkel, Susanna"	"Kunkel, Susanne"	Miloszowka	1	Lublin 1869	00192	29	S. Pohl Perry		"Frank, Jakob & Doberstein, Eva"	"Kunkel, Johann Gottlieb & Klukas?"	"Janke, Justine (1st wife)"					
+Rychter	Frantischek	Richter	Franz	M	1869	Jun		"Markwart, Maryanna"	"Markwart, Marianne"	Antonin	1	Lublin 1869	00193	30	S. Pohl Perry		"Richter, Franz & Klatt, Julianna"	"Markwart, Andreas & Kufert, Anna Justine"	"Noerenberg, Justine (1st wife)"					
+Raedler	Ernst August Wilhelm	Raedler	Ernst August Wilhelm	M	1869	Jul		"Scholz, Maria Johanna"	"Schultz, Marie Johanna"	Lublin	1	Lublin 1869	00193	31	S. Pohl Perry		"Raedler, Friedrich & Schaefer?, Susanne"	"Schultz, Karl & Fogt, Eleonore Johanna"						
+Wegner	Fryderyk	Wegner	Friedrich	M	1869	Jul		"Schindler, Elenora"	"Schindler, Eleonore"	Maziarka (nr. Borkow)	1	Lublin 1869	00195	32	S. Pohl Perry		"Wegner, Martin & Hinz, Charlotte"	"Schindler, Gottlieb & Martal, Rosalie"	"Schultz, Rosalie (1st wife)"					
+Lewin	Karol Gustaw	Lewin	Karl Gustav	M	1869	Aug		"Malzan, Wilhelmyna Henryetta"	"Malzahn, Wilhelmine Henriette"	Zabrodzie	1	Lublin 1869	00195	33	S. Pohl Perry		"Lewin, Daniel & Wiese, Karoline"	"Molzahn, Friedrich & Bade, Eva Rosine"						
+Weiss	Jan Sammel	Weiss	Johann Samuel	M	1869	Aug		"Hett, Karolina"	"Hett, Karoline"	Tomaszowka	1	Lublin 1869	00196	34	S. Pohl Perry		"Weiss, Johann & Hedekorn?, Beate"	"Hett, Friedrich & Nering, Anna Luise"						
+Hejn	Krysztof	Hein	Christoph	M	1869	Aug		"Tierling, Zuzanna"	"Tierling, Susanne"	Felczyn	1	Lublin 1869	00196	35	S. Pohl Perry		"Hein, Christoph & Schmidt, Justine"	"Tierling, August & Less, Christine"	"Kletke, Wilhelmine (1st wife)"					
+Senff	Karl Fryderich	Senf	Karl Friedrich	M	1869	Aug		"Tonn, Amalia"	"Tonn, Amalie"	Drazgow (nr. Baranow) ?	1	Lublin 1869	00197	36	S. Pohl Perry		"Senf, Otto & Dick, Wilhelmine"	"Tonn, Friedrich & Hoffmann, Rosine"						
+Wutke	Julius	Wutke	Julius	M	1869	Aug		"Roth, Zuzanna"	"Roth, Susanne"	Huta Niedzialowska?	1	Lublin 1869	00197	37	S. Pohl Perry		"Wutke, Michael & Wohlmann, Luise"	"Roth, Gregor & Peter, Susanne"	"Radke, Anna Kristine (1st wife)"					
+Guenther	Jan Gottlieb	Guenter	Johann Gottlieb	M	1869	Aug		"Walter, Ludowika"	"Walter, Luise"	Kaniwola	1	Lublin 1869	00198	38	S. Pohl Perry		"Guenter, Johann Gottlieb & Schultz, Marie Elisabeth"	"Walter, August & Knakowski, Kristine"	"Biller, Magdalene (1st wife)"					
+Karok	Gottlieb	Karock	Gottlieb	M	1869	Sep		"Wagner, Justyna"	"Wagner, Justine"	Bielin	1	Lublin 1869	00198	39	S. Pohl Perry		"Karock, Peter & Missal, Justine"	"Wagner, Daniel & Bernard, Eva Rosine"						
+Stenzel	Krzysztof	Stentzel	Christoph	M	1869	Sep		"Selke, Ewa Rozyna"	"Selke, Eva Rosine"	Bielin	1	Lublin 1869	00199	40	S. Pohl Perry		"Stentzel, Ludwig & Bernard, Rosine"	"Selke, Martin & Reich, Anna Kristine"						
+Endler	Jan Gottlieb	Endler	Johann Gottlieb	M	1869	Sep		"Myslak, Augusta"	"Mislak, Auguste"	Gotowka	1	Lublin 1869	00199	41	S. Pohl Perry		"Endler, Gottlieb & Krueger, Julianna"	"Mislak, Friedrich & Steinebel, Julianna"						
+Schendel	August	Schendel	August	M	1869	Sep		"Zstejnnebel, Beata"	"Steinebel, Beate"	Bielin	1	Lublin 1869	00200	42	S. Pohl Perry		"Schendel, Martin & Rotz, Helene"	"Steinebel, Samuel & Gissel, Luise"	"Klatt, Karolina (1st wife); Wolter, Karl (1st husband)"					
+Guenther	Paul	Guenter	Paul	M	1869	Sep		"Geske, Ludowika"	"Jeske, Luise"	Malokusi?	1	Lublin 1869	00200	43	S. Pohl Perry		"Guenter, Jakob & Friedrich, Anna"	"Jeske, Michael & Blech, Daria"	"Jeske, Rosalie (1st wife); Krueger, Johann (1st husband)"					
+Bentz	Daniel	Benz	Daniel	M	1869	Sep		"Fejfer, Krystyna"	"Pfeiffer, Christine"	Puszki	1	Lublin 1869	00201	44	S. Pohl Perry		"Benz, Gottlieb & Stuermer, Justine"	"Pfeiffer, Andreas & Schilling, Katharine"						
+Schultz	Henrichi	Schultz	Heinrich	M	1869	Sep		"Arndt, Anna"	"Arndt, Anna"	Teosin	1	Lublin 1869	00201	45	S. Pohl Perry		"Schultz, Anton & Kuehn, Katharine"	"Arndt, Martin & Radzow?, Christine"	"Wisner, Rosalie (1st wife); Karber, Wilhelm (1st husband)"					
+Wyckie	Kryctyan	Wutzke	Christian	M	1869	Sep		"Renwantz, Anna Marya"	"Renwanz, Anna Marie"	Zalisocze	1	Lublin 1869	00202	46	S. Pohl Perry		"Wutzke, Johann & Rinas, Karoline"	"Renwanz, Johann & Renwanz, Anna"						
+Mejer	Michal	Meier	Michael	M	1869	Sep		"Becker, Mathilde"	"Becker, Mathilde"	Zarobka	1	Lublin 1869	00202	47	S. Pohl Perry		"Meyer, Michael & Hackbart, Eva"	"Becker, Andreas & Tonn, Anna Rosine"						
+Bekker	Jahn	Becker	Johann	M	1869	Sep		"Lewin, Henryetta"	"Lewin, Henriette"	Wolka Nadrybska	1	Lublin 1869	00203	48	S. Pohl Perry		"Becker, Andreas & Tonn, Anna Rosine"	"Lewin, Christian & Adam, Wilhelmine"						
+Karau	Krzysztyan	Karau	Christian	M	1869	Oct		"Kern, Wilhelmina"	"Kern, Wilhelmine"	Juliopol	1	Lublin 1869	00203	49	S. Pohl Perry		"Karau, Martin & Stebner, Justine"	"Kern, Andreas & Luchtof?, Anna Elisabeth"	"Kramm, Eva (1st wife); Zaft, August (1st husband)"					
+Botzon	Henryk	Botzon	Heinrich	M	1869	Oct		"Kamin, Justyna"	"Kamin, Justine"	Bronislawow	1	Lublin 1869	00204	50	S. Pohl Perry		"Botzon, Johann & Schmidtke, Eva"	"Kamin, Franz & Gumrich, Charlotte"	"Gnatt, Johann (1st husband)"					
+Albrecht	Jan	Albrecht	Johann	M	1869	Oct		"Rossol, Karolina"	"Rossol, Karoline"	Bronislawow	1	Lublin 1869	00204	51	S. Pohl Perry		"Albrecht, Gottlieb & Matz, Euphrosine"	"Rossol, Woitech & Neumann, Elisabeth"	"Klammer, Christian (1st husband)"					
+Sonnenberg	Michal	Sonnenberg	Michael	M	1869	Oct		"Stiebner, Beata Scharlotte"	"Stebner, Beate Charlotte"	Jozefow	1	Lublin 1869	00205	52	S. Pohl Perry		"Sonnenberg, Michael & Gess, Karoline"	"Stebner, Martin & Firus, Daria"						
+Reymann	Karol Fryderik	Reiman	Karl Friedrich	M	1869	Oct		"Koehn, Juliana"	"Kuehn, Julianna"	Lubki?	1	Lublin 1869	00205	53	S. Pohl Perry		"Reiman, Karl & Hansch, Rosine"	"Kuehn, Christoph & Kartz, Justine"	"Schultz, Hermann (1st husband)"					
+Brandt	Fryderik Wilhelm	Brandt	Friedrich Wilhelm	M	1869	Oct		"Muller, Wilhelmina"	"Miller, Wilhelmine"	Dzialyn	1	Lublin 1869	00206	54	S. Pohl Perry		"Brandt, Johann & Tick?, Daria"	"Miller, Karl & Neumann, Christine"						
+Kumbejn	Gottfrid	Kumbein	Gottfried	M	1869	Oct		"Radys, Karolina"	"Radis, Karoline"	Debowa Kloda	1	Lublin 1869	00206	55	S. Pohl Perry		"Kumbein, Johann & Kuehn, Luise"	"Radis, Gottfried & Bussler, Anna Justine"						
+Ryske	Michal	Riske	Michael	M	1869	Oct		"Doberstejn, Paulina"	"Doberstein, Pauline"	Miastkowek	1	Lublin 1869	00207	56	S. Pohl Perry		"Riske, Gottlieb & Jakobowski, Karoline"	"Doberstein, August & Schmidt, Justine"						
+Pieschler	Jan	Pischler	Johann	M	1869	Oct		"Isbrecht, Anna"	"Isbrecht, Anna"	Bielin	1	Lublin 1869	00207	57	S. Pohl Perry		"Pischler, Johann & Zippel, Magdalene"	"Isbrecht, Jakob & Petrov, Marianne"						
+Thiede	Jan	Tiede	Johann	M	1869	Oct		"Jack, Justyna"	"Jek, Justine"	Wolka Mieczyslawska	1	Lublin 1869	00208	58	S. Pohl Perry		"Tiede, Peter & Otter?, Katharine"	"Jek, Christoph & Lerch, Rosine"	"Karok, Eva (1st wife)"					
+Grosskreutz	Jan Piotr	Grosskreutz	Johann Peter	M	1869	Oct		"Kluk, Rozyna"	"Kluk, Rosine"	Wladyslawow	1	Lublin 1869	00208	59	S. Pohl Perry		"Grosskreutz, Johann Michael & Matwich, Justine"	"Kluk, Samuel & Kowalski, Wilhelmine"						
+Doberstejn	Fryderik	Doberstein	Friedrich	M	1869	Oct		"Hettig, Katarzyna"	"Hettig, Katharine"	Wojciechow	1	Lublin 1869	00209	60	S. Pohl Perry		"Doberstein, Johann & Gast, Charlotte"	"Hettig, Christian & Schanul?, Julianna"						
+Bekker	Karol Jakob	Becker	Karl Jakob	M	1869	Oct		"Moor, Agata Ludwika"	"Mohr, Agathe Luise"	Wojciechow	1	Lublin 1869	00209	61	S. Pohl Perry		"Becker, Christian & Fegel, Christine"	"Mohr, Wilhelm & Wichner, Anna"						
+Zedewitz	Franzinszk	Zedewitz	Franz	M	1869	Oct		"Futter, Dorota Katarzyna"	"Futter, Dorothea Katharine"	Wojciechow	1	Lublin 1869	00210	62	S. Pohl Perry		"Zedewitz, Gottlieb & Riemer, Anna"	"Vutter?, Nikolaus & Neuzuw?, Anna Marie"	"Poleski, Karoline (1st wife); Gettig, Christian (1st husband)"					
+Mueller	Jan Karol Wylhelm	Mueller	Johann Karl Wilhelm	M	1869	Oct		"Geisler, Maryanna"	"Geisler, Marianne"	Wojciechow	1	Lublin 1869	00210	63	S. Pohl Perry		"Miller, Gottlieb & Ditmar, Kristine"	"Geisler, Friedrich & Frankowski, Wilhelmine Marianne"						
+Jeske	Jan	Jeske	Johann	M	1869	Oct		"Schram, Karolina"	"Schramm, Karoline"	Wytyczno	1	Lublin 1869	00211	64	S. Pohl Perry		"Jeske, Michael & Kolk?, Justine"	"Schramm, Johann & Fandrich, Marianne"	"Klann, Helene (1st wife); Milke, Josef (1st husband)"					
+Blech	August	Blech	August	M	1869	Oct		"Wendlandt, Michalina"	"Wendland, Michaeline"	Marianka	1	Lublin 1869	00211	65	S. Pohl Perry		"Blech, Samuel & Lange, Marianne"	"Wendland, Daniel & Kudesianow?, Dorothea"	"Blachoski, Gottlieb (1st wife)"					
+Piaroski-Noctzel	Juliusz	Piaroski-Nutzel?	Julius	M	1869	Oct		"Remus, Maryanna"	"Remus, Marianne"	Zalucze	1	Lublin 1869	00212	66	S. Pohl Perry		"Piaroski, Matthias"	"Remus, Johann & Ziebart, Anna"						
+Dysselberger	Jan	Disselberger	Johann	B	1868	Nov	Johann	"Jung, Barbara"	"Jung, Barbara"	Konstantynow	1	Lublin 1868-2	00003	495	S. Pohl Perry									
+Ziegler	Ernestyna	Ziegler	Ernestine	B	1868	Nov	Johann	"Jahnke, Wilhelmina"	"Janke, Wilhelmine"	Jagodno	1	Lublin 1868-2	00003	496	S. Pohl Perry									
+Huf	Andrzej	Huff	Andreas	B	1868	Nov	Michael	"Hoffman, Ludwika"	"Hoffman, Luise"	Laczki	1	Lublin 1868-2	00004	497	S. Pohl Perry									
+Hebner	Amalia	Hebner	Amalie	B	1868	Nov	Friedrich	"Seidler, Wilhelmina"	"Seidler, Wilhelmine"	Zurawiniec	1	Lublin 1868-2	00004	498	S. Pohl Perry									
+Gernadt	Samuel	Gernadt	Samuel	B	1868	Nov	Daniel	"Hollandt, Karolina"	"Holland, Karoline"	Egersdorf (=Dylazki)	1	Lublin 1868-2	00005	499	S. Pohl Perry									
+Nerenberg	Samuel	Noerenberg	Samuel	B	1868	Nov	August	"Falkenberg, Wilhelmina"	"Falkenberg, Wilhelmine"	Teresin	1	Lublin 1868-2	00005	500	S. Pohl Perry									
+Bohn	Karl	Bohn	Karl	B	1868	Nov	Samuel	"Buss, Justina"	"Buss, Justine"	Domicelow (nr. Radziejow)	1	Lublin 1868-2	00006	501	S. Pohl Perry									
+Peiszke	Gottfried	Peischke	Gottfried	B	1868	Nov	Gottfried	"Drefs, Eufrozyna"	"Drews, Euphrosine"	Janowica	1	Lublin 1868-2	00006	502	S. Pohl Perry									
+Krahn	Karol Adolf	Krahn	Karl Adolf	B	1868	Nov	Friedrich	"Kowalska, Wilhelmina"	"Kowalski, Wilhelmine"	Jozefow	1	Lublin 1868-2	00007	503	S. Pohl Perry									
+Knecht	Andrzej	Knecht	Andreas	B	1868	Nov	Christoph	"Szylke, Karolina"	"Schilke, Karoline"	Malinowka	1	Lublin 1868-2	00007	504	S. Pohl Perry									
+Rymer	Ferdynand Fryderyk	Riemer	Ferdinand Friedrich	B	1868	Nov	Johann	"Prel, Wilhelmina"	"Prell, Wilhelmine"	Nadrybie	1	Lublin 1868-2	00008	505	S. Pohl Perry									
+Flamke	Jakob	Flamke	Jakob	B	1868	Nov	Jakob	"Pecz, Anna Wilhelmina"	"Pesch, Anna Wilhelmine"	Teosin	1	Lublin 1868-2	00008	506	S. Pohl Perry									
+Soch	Ewa	Soch	Eva	B	1868	Nov	Gottlieb	"Eisbrener, Maryanna"	"Eisbrenner, Marianne"	Izydorow (nr. Radziejow)	1	Lublin 1868-2	00009	507	S. Pohl Perry									
+Soch	Julianna	Soch	Julianna	B	1868	Nov	Gottlieb	"Eisbrener, Maryanna"	"Eisbrenner, Marianne"	Izydorow (nr. Radziejow)	1	Lublin 1868-2	00009	508	S. Pohl Perry									
+Oelke	Juljusz Fryderyk	Elke	Julius Friedrich	B	1868	Nov	Karl	"Romke, Anna Wilhelmina"	"Romke, Anna Wilhelmine"	Slugocin	1	Lublin 1868-2	00010	509	S. Pohl Perry									
+Gross	Julianna	Gross	Julianna	B	1868	Nov	Georg	"Rozyn, Paulina"	"Rosin, Pauline"	Aleksandrowka	1	Lublin 1868-2	00010	510	S. Pohl Perry									
+Henning	Leopold	Henning	Leopold	B	1868	Nov	Gottfried	"Kuehn, Julianna"	"Kuehn, Julianna"	Zalisocze	1	Lublin 1868-2	00011	511	S. Pohl Perry									
+Fenske	Wilhelmina	Fenske	Wilhelmine	B	1868	Nov	Gottfried	"Kramer, Karolina"	"Kramer, Karoline"	Tytusow (nr. Radziejow)	1	Lublin 1868-2	00011	512	S. Pohl Perry									
+Schmidt	Wilhelm	Schmidt	Wilhelm	B	1868	Nov	Ludwig	"Arndt, Justyna"	"Arndt, Justine"	Bielin	1	Lublin 1868-2	00012	513	S. Pohl Perry									
+Rywe	Fryderyk	Riewe	Friedrich	B	1868	Nov	Martin	"Schultz, Justyna"	"Schultz, Justine"	Michelsdorf (=Michalow)	1	Lublin 1868-2	00012	514	S. Pohl Perry									
+Kufert	Ewa	Kufert	Eva	B	1868	Nov	Ludwig	"Ryske, Julianna"	"Riske, Julianna"	Sewerynowka	1	Lublin 1868-2	00013	515	S. Pohl Perry									
+Szubert	Augusta	Schubert	Auguste	B	1868	Nov	Daniel	"Kuehn, Wilhelmina"	"Kuehn, Wilhelmine"	Zurawiniec	1	Lublin 1868-2	00013	516	S. Pohl Perry									
+Jung	Jan Jakob	Jung	Johann Jakob	B	1868	Nov	Johann	"Tarruhn, Emilia"	"Taron, Emilie"	Zarobka	1	Lublin 1868-2	00014	517	S. Pohl Perry									
+Gryning	Erdman	Gruening	Erdman	B	1868	Nov	Karl	"Szelern, Karolina"	"Schelern?, Karoline"	Justynow	1	Lublin 1868-2	00014	518	S. Pohl Perry									
+Nerenberg	Henryeta	Noerenberg	Henriette	B	1868	Dec	Friedrich	"Rode, Henryetta"	"Rode, Henriette"	Zurawiniec	1	Lublin 1868-2	00015	519	S. Pohl Perry									
+Hanis	Julianna	Hanis	Julianna	B	1868	Dec	Gottlieb	"Kabusz, Karolina"	"Kabusch, Karoline"	Janowica	1	Lublin 1868-2	00015	520	S. Pohl Perry									
+Cander	Samuel	Zander	Samuel	B	1868	Dec	August	"Ganske, Wilhelmina"	"Ganske, Wilhelmine"	Janowica	1	Lublin 1868-2	00016	521	S. Pohl Perry									
+Patzwald	Emilia Zofia	Patzwald	Emilie Sophie	B	1868	Dec	Jakob	"Schmidt, Wilhelmina"	"Schmidt, Wilhelmine"	Nowina	1	Lublin 1868-2	00016	522	S. Pohl Perry									
+Poc	Karol Gottlib	Potz	Karl Gottlieb	B	1868	Dec	Michael	"Fiszer, Ewa"	"Fischer, Eva"	Lesniczowka	1	Lublin 1868-2	00017	523	S. Pohl Perry									
+Wolter	August	Wolter	August	B	1868	Dec	Ludwig	"Makus, Justyna"	"Makus, Justine"	Janowica	1	Lublin 1868-2	00017	524	S. Pohl Perry									
+Lik	Amalia	Lueck	Amalie	B	1868	Dec	Friedrich	"Gec, Wilhelmina"	"Goetz, Wilhelmine"	Skrobanos	1	Lublin 1868-2	00018	525	S. Pohl Perry									
+Szmydt	August	Schmidt	August	B	1868	Dec	Michael	"Kauss, Justyna"	"Kauss, Justine"	Sobolew	1	Lublin 1868-2	00018	526	S. Pohl Perry									
+Schliske	Gottfryd	Schliske	Gottfried	B	1868	Dec	Paul	"Betke, Anna"	"Betke, Anna"	Juliopol	1	Lublin 1868-2	00019	527	S. Pohl Perry					father dead				
+Baader	Natalia	Bader	Natalie	B	1868	Dec	Gottlieb August	"Zymon, Paulina"	"Simon, Pauline"	Gotowka	1	Lublin 1868-2	00019	528	S. Pohl Perry									
+Hirsekorn	Ludwik	Hirsekorn	Ludwig	B	1868	Dec	Christoph	"Klath, Maryanna"	"Klatt, Marianne"	Chutcze	1	Lublin 1868-2	00020	529	S. Pohl Perry									
+Sokolowski	Jan	Sokolowski	Johann	B	1868	Dec	Johann	"Ginter, Krystyna"	"Guenter, Christina"	Amelin	1	Lublin 1868-2	00020	530	S. Pohl Perry									
+Abram	Juliusz Hermann	Abram	Julius Hermann	B	1868	Dec	Paul	"Balkau, Ludwika"	"Balkau, Luise"	Zabiele	1	Lublin 1868-2	00021	531	S. Pohl Perry									
+Kliner	Wilhelmina	Kliner	Wilhelmine	B	1868	Dec	Johann	"Henkel, Anna Julianna"	"Henkel, Anna Julianna"	Wytyczno	1	Lublin 1868-2	00021	532	S. Pohl Perry									
+Ruc	Wilhelmina	Rutz	Wilhelmine	B	1868	Dec	Julius	"Bunk, Krystyna"	"Bunch, Christina"	Justynow	1	Lublin 1868-2	00022	533	S. Pohl Perry									
+Blejch	Fryderyk Wilhelm	Bleich	Friedrich Wilhelm	B	1868	Dec	unknown	"Wendlandt, Wilhelmina"	"Wendland, Wilhelmine"	Marianka	1	Lublin 1868-2	00022	534	S. Pohl Perry					widow Bleich				
+Petschke	August	Petschke	August	B	1868	Dec	Karl	"Matjcje?, Ernestyna"	"Matthaeus?, Ernestine"	Debowiec	1	Lublin 1868-2	00023	535	S. Pohl Perry									
+Ryske	August	Riske	August	B	1868	Dec	August	"Kan, Zuzanna"	"Kahn, Susanna"	Puszki	1	Lublin 1868-2	00023	536	S. Pohl Perry									
+Kopyszke	Wilhelm Gottfryd	Kopischke	Wilhelm Gottfried	B	1868	Dec	Teodor	"Dejde, Karolina"	"Deido, Karoline"	Ludwinow	1	Lublin 1868-2	00024	537	S. Pohl Perry									
+Radke	Michal	Radke	Michael	B	1868	Dec	Martin	"Kalke?, Karolina"	"Kalk, Karoline"	Radziejow	1	Lublin 1868-2	00024	538	S. Pohl Perry									
+	Karol	Gerschtoff	Karl	B	1868	Dec	unknown		"Gerschtoff, Amalie"	Stanislawow	1	Lublin 1868-2	00025	539	S. Pohl Perry			"spouse: Rosowski?, Woiciech"						
+Fredryg	Katarzyna	Friedrich	Katharine	B	1868	Dec	Jakob	"Gefrejter, Maryanna"	"Gefreiter, Marianne"	Teresin	1	Lublin 1868-2	00025	540	S. Pohl Perry									
+Szultz	Gottlib	Schultz	Gottlieb	B	1868	Dec	Andreas	"Zielke, Wilhelmina"	"Zielke, Wilhelmine"	Staszow	1	Lublin 1868-2	00026	541	S. Pohl Perry									
+Burkowic	Wilhelmina	Burkowitz	Wilhelmine	B	1868	Dec	Gottfried	"Zedewitz, Augusta"	"Sedewitz, Auguste"	Wladyslawow	1	Lublin 1868-2	00026	542	S. Pohl Perry									
+Elke	Justyna Ewa	Oelke	Justine Eva	B	1868	Dec	Friedrich	"Hiller?, Wilhelmina"	"Hiller?, Wilhelmine"	Juliopol	1	Lublin 1868-2	00027	543	S. Pohl Perry									
+Schultz	Fryderyk Gottlib	Schultz	Friedrich Gottlieb	B	1868	Dec	Ferdinand	"Grams, Maryanna"	"Grams, Marianne"	Adamow	1	Lublin 1868-2	00027	544	S. Pohl Perry									
+Kunkel	Karolina	Kunkel	Karoline	B	1868	Dec	Peter	"Fiszer, Salomei"	"Fischer, Salome"	Gotowka	1	Lublin 1868-2	00028	545	S. Pohl Perry									
+Rentz	Wilhelmina	Rentz	Wilhelmine	B	1868	Dec	Johann	"Ratke, Ewa"	"Radke, Eva"	Gizyce	1	Lublin 1868-2	00028	546	S. Pohl Perry									
+Redel	Wilhelmina	Redel	Wilhelmine	B	1868	Dec	Friedrich	"Riwe, Ewa"	"Riewe, Eva"	Nowina	1	Lublin 1868-2	00029	547	S. Pohl Perry									
+Koberstejn	Julianna	Koberstein	Julianna	B	1868	Dec	Martin	"Fitz, Maryanna"	"Fitz, Marianne"	Malinowka	1	Lublin 1868-2	00029	548	S. Pohl Perry									
+Domress	Gottlib	Domres	Gottlieb	B	1868	Dec	Johann	"Kram, Anna Elzbieta"	"Kramm, Anna Elisabeth"	Stefanow	1	Lublin 1868-2	00030	549	S. Pohl Perry									
+Hirsekorn	Justyna	Hirsekorn	Justine	B	1868	Dec	Andreas	"Belke, Anna"	"Belke, Anna"	Michelsdorf (=Michalow)	1	Lublin 1868-2	00030	550	S. Pohl Perry									
+Kowalski	Adolf	Kowalski	Adolf	B	1868	Dec	Ludwig	"Schuett, Karolina"	"Schuett, Karoline"	Czulczyce	1	Lublin 1868-2	00031	551	S. Pohl Perry									
+Galster	Krzysztof	Galster	Christoph	B	1868	Dec	August	"Dreger, Karolina"	"Dreger, Karoline"	Kobyle	1	Lublin 1868-2	00031	552	S. Pohl Perry									
+Pacer	Gottlib	Patzer	Gottlieb	B	1868	Dec	Gottfried	"Raczynski, Elzbieta"	"Rachinski, Elisabeth"	Aleksandrowka	1	Lublin 1868-2	00032	553	S. Pohl Perry									
+Hellberg	Emilia	Helberg	Emilie	B	1868	Dec	Michael	"Krueger, Anna Rozyna"	"Krueger, Anna Rosine"	Janowica	1	Lublin 1868-2	00032	554	S. Pohl Perry									
+Keding	Jan	Keding	Johann	B	1868	Dec	Gottlieb	"Krause, Julianna"	"Krause, Julianna"	Antonin	1	Lublin 1868-2	00033	555	S. Pohl Perry									
+Grulke	Augusta Krystyna	Grulke	Auguste Christina	B	1868	Dec	August	"Resler, Albertyna"	"Roesler, Albertine"	Wladyslawow	1	Lublin 1868-2	00033	556	S. Pohl Perry									
+Ryppin	Karol	Rieppin	Karl	B	1868	Dec	Karl	"Hintz, Helena"	"Hintz, Helene"	Radziejow	1	Lublin 1868-2	00034	557	S. Pohl Perry									
+Borowski	Michal	Borowski	Michael	B	1868	Dec	Andreas	"Jek, Karolina"	"Jaek, Karoline"	Wola Mieczyslawska	1	Lublin 1868-2	00034	558	S. Pohl Perry									
+Wutke	Anna Filipina	Wutke	Anna Phillipina	B	1868	Dec	Ludwig	"Deryng, Karolina"	"Doering, Karoline"	Puszki	1	Lublin 1868-2	00035	559	S. Pohl Perry									
+	Ludwik	Jesse	Ludwig	B	1868	Dec	Michael	"Ryske, Krystyna"	"Riske, Christina"	Bielsko	1	Lublin 1868-2	00035	560	S. Pohl Perry									
+Mengden	Karl de	Mengden	Karl von	B	1868	Dec	Karl de (von)	"Sienkiewicz, Konstancza"	"Sienkiewicz, Constance"	Krasnystaw	1	Lublin 1868-2	00036	561	S. Pohl Perry					born September				
+		Stuermer	Anna Phillipina	B	1869	Jan	unknown?		"Stuermer, Amalie"	Zawada	1	Lublin 1868-2	00036	562	S. Pohl Perry									
+Rentz	Emil	Renz	Emil	B	1869	Jan	Christoph	"Buss, Matylda"	"Buss, Mathilde"	Aleksandrowka	1	Lublin 1868-2	00037	563	S. Pohl Perry									
+Adam	Paulina Wilhelmina	Adam	Pauline Wilhelmine	B	1869	Jan	Friedrich	"Tessman, Florentyna"	"Tessman, Florentine"	Tarnow	1	Lublin 1868-2	00037	564	S. Pohl Perry									
+Tepper	Edward Wilhelm	Tepper	Eduard Wilhelm	B	1869	Jan	Karl	"Elke, Karolina"	"Oelke, Karoline"	Slugocin	1	Lublin 1868-2	00038	565	S. Pohl Perry									
+Reichwald	Karol	Reichwald	Karl	B	1869	Jan	Ferdinand	"Wolska, Justyna"	"Wolski, Justine"	Czulczyce	1	Lublin 1868-2	00038	566	S. Pohl Perry									
+Rolof	Karol	Roloff	Karl	B	1869	Jan	Andreas	"Bartz, Karolina"	"Bartz, Karoline"	Bielin	1	Lublin 1868-2	00039	567	S. Pohl Perry									
+Brauer	Anna Hulda	Brauer	Anna Hulda	B	1869	Jan	Karl	"Brejt, Johanna"	"Breit, Johanna"	Debowiec	1	Lublin 1868-2	00039	568	S. Pohl Perry									
+Fogel	Karolina	Vogel	Karoline	B	1869	Jan	Christian	"Fenske, Eufrozyna"	"Fenske, Euphrosine"	Bielin	1	Lublin 1868-2	00040	569	S. Pohl Perry									
+Dumke	Amalia	Dumke	Amalie	B	1869	Jan	Julius	"Schmidt, Ewa Rozyna"	"Schmidt, Eva Rosine"	Nowina	1	Lublin 1868-2	00040	570	S. Pohl Perry									
+Krause	Fryderyk Jan	Krause	Friedrich Johann	B	1869	Jan	Johann	"Roden, Wilhelmina"	"Roden, Wilhelmine"	Wytyczno	1	Lublin 1868-2	00041	571	S. Pohl Perry									
+Zimmer	August	Zimmer	August	B	1869	Jan	Gottlieb	"Szwartz, Ludwika"	"Schwartz, Luise"	Malinowka	1	Lublin 1868-2	00041	572	S. Pohl Perry									
+Bluemke	Ludwika	Bluemke	Luise	B	1869	Jan	Gottlieb	"Dumres, Justyna"	"Domres, Justine"	Stefanow	1	Lublin 1868-2	00042	573	S. Pohl Perry									
+Lentz	Anna Ludwika	Lenz	Anna Luise	B	1869	Jan	Ludwig	"Braun, Karolina"	"Braun, Karoline"	Bielany	1	Lublin 1868-2	00042	574	S. Pohl Perry									
+Dyko	Krystyan Ferdynand	Diko	Christian Ferdinand	B	1869	Jan	Gottlieb	"Kumk?, Maryanna"	"Kumk, Marianne"	Rachow	1	Lublin 1868-2	00043	575	S. Pohl Perry									
+Krause	Emilia	Krause	Emilie	B	1869	Jan	Karl	"Mueller, Justyna"	"Mueller, Justine"	Czulczyce	1	Lublin 1868-2	00043	576	S. Pohl Perry									
+Gast	Wilhelm Henryk	Gast	Wilhelm Heinrich	B	1869	Jan	Johann	"Herzog, Wilhelmina"	"Herzog, Wilhelmine"	Rubie/Rybie	1	Lublin 1868-2	00044	577	S. Pohl Perry									
+Welke	Adolf	Welke	Adolf	B	1869	Jan	unknown	"Welke, Krystyana"	"Welke, Christiana"	Jagodno	1	Lublin 1868-2	00044	578	S. Pohl Perry					spouse: Krahn				
+Abram	Anna Ludwika	Abram	Anna Luise	B	1869	Jan	Wilhelm	"Jeske, Ewa"	"Jeske, Eva"	Sewerynowka	1	Lublin 1868-2	00045	579	S. Pohl Perry									
+Lutter	Gottfryd	Luther	Gottfried	B	1869	Jan	Andreas	"Majewska, Rozyna"	"Majewski, Rosine"	Antonin	1	Lublin 1868-2	00045	580	S. Pohl Perry									
+		ZZ		B	1868						1	Lublin 1868-2	00048		S. Pohl Perry					Index: A-D				
+		ZZ		B	1868						1	Lublin 1868-2	00049		S. Pohl Perry					Index: D-G				
+		ZZ		B	1868						1	Lublin 1868-2	00050		S. Pohl Perry					Index: G-H				
+		ZZ		B	1868						1	Lublin 1868-2	00051		S. Pohl Perry					Index: H-K				
+		ZZ		B	1868						1	Lublin 1868-2	00052		S. Pohl Perry					Index: K-M				
+		ZZ		B	1868						1	Lublin 1868-2	00053		S. Pohl Perry					Index: M-P				
+		ZZ		B	1868						1	Lublin 1868-2	00054		S. Pohl Perry					Index: P-S				
+		ZZ		B	1868						1	Lublin 1868-2	00055		S. Pohl Perry					Index: S-T				
+		ZZ		B	1868						1	Lublin 1868-2	00056		S. Pohl Perry					Index: T-Z				

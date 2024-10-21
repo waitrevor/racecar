@@ -1,0 +1,104 @@
+<div class="main-content">
+  <h1 class="centered-content">Volhynia Archives Death Indexes - 1900-1918</h1>
+  <h2>Volhynian Lutheran Parishes</h2>
+
+  <p>
+      These newly transcribed indexes are a first point of access to the extensive collection of Lutheran parish birth, marriage, and death records in the
+      <a target="_blank" href="http://www.archives.gov.ua/Eng/Archives/ra06.php">Zhytomyr Archive</a> and
+      <a target="_blank" href="http://www.archives.gov.ua/Eng/Archives/ra17.php">Rowno Archive</a>. The Zhytomyr Archive covers the parishes of Emilchin, Heimtal, Novograd-Volhynski, Radomyschl, and Zhytomyr for selected years in the period 1900 to 1919.
+      <span id="yui_3_16_0_ym19_1_1477698020762_21303"> The Rowno Archive covers the parishes of Tutchin, Rowno, and some from Kupla church. </span>
+      They are incomplete but nevertheless these records contain a considerable amount of useful information.
+  </p>
+
+  <p>
+      Indices for records from Rowno archives parishes of Rowno, Tutchin, and some from Kupla will follow soon.
+  </p>
+
+  <p>
+      This page allows you to do partial name searches such as searching for "chu" in the middle of a name as well as Soundex searching.
+  </p>
+
+  <p>
+      You can also search the <a href="#/members/Volhynia_1900-18_birth.html">Birth</a> and <a href="#/members/Volhynia_1900-18_marriage.html">Marriage</a> databases.
+  </p>
+
+  <p>
+      Back to the <a href="#/members/Volhynia_1900-18.html">Introductory Volhynian Archive page</a>.
+  </p>
+
+  <h2>Using the Search Tool</h2>
+
+  <p>
+      We encourage you to review <a href="#/members/SearchInstruct.html">instructions</a> for using our search tool, especially if this is your first time. They will provide hints and tips for optimizing your search, ensuring a better chance of getting results.
+  </p>
+
+  <form id="ZhytomyrDeath" action="/sggee/SGGEESearch" method="post" name="ZhytomyrDeath">
+      <input name="op" value="search" type="hidden">
+      <input name="searchWhat" value="ZhytomyrDeath" type="hidden">
+
+      <div class="form-section">
+          <input name="surname" type="text" placeholder="Surname">
+          <input name="given_name" type="text" placeholder="Given Name">
+          <input name="year" type="text" placeholder="Death Year">
+          <input name="place_buried" type="text" placeholder="Death Place">
+      </div>
+
+      <div class="form-section">
+          <input name="father" type="text" placeholder="Father's Given Name">
+          <input name="mothers_givenname" type="text" placeholder="Mother's Given Name">
+          <input name="mothers_surname" type="text" placeholder="Mother's Surname">
+      </div>
+
+      <div class="form-section">
+          <input name="spouse" type="text" placeholder="Spouse's Name (Given or Surname)">
+      </div>
+
+      <div class="flex-row-container">
+          <div class="form-section">
+              <label class="radio-option">
+                  <input name="search_type" value="normal" checked="checked" type="radio">
+                  <span>Normal Search</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="advanced" type="radio">
+                  <span>Case Sensitive / Advanced Search</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="exact" type="radio">
+                  <span>Exact Match</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="dmsoundex" type="radio">
+                  <span style="width: 140%;">Soundex</span>
+              </label>
+          </div>
+
+          <div class="form-section">
+              Sort Results by:
+            <label>
+              <select name="sort_by">
+                  <option value="0">Surname</option>
+                  <option value="1">Given Name</option>
+                  <option value="3">Birth Date</option>
+                  <option value="4">Birth Place</option>
+              </select>
+            </label>
+            <label>
+              Number of Results Per Page:
+              <select name="numToReturn">
+                  <option value="5">5</option>
+                  <option value="10">10</option>
+                  <option value="15">15</option>
+                  <option value="20">20</option>
+                  <option value="25">25</option>
+                  <option value="50" selected>50</option>
+              </select>
+            </label>
+          </div>
+      </div>
+
+      <div class="centered-content">
+          <button name="search_and_display_db_button" value="Search the Database" type="submit">Search</button>
+      </div>
+  </form>
+</div>

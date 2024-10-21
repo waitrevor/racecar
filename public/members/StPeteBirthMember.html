@@ -1,0 +1,95 @@
+<div class="main-content">
+  <h1 class="centered-content">Advanced Search - VKP Birth &amp; Confirmation Records</h1>
+
+  <h2>Volhynia, Kiev and Podolia Lutheran Parishes</h2>
+
+  <p>
+      See the <a href="#/databases.html" target="_blank">Databases</a> page for explanatory information about the VKP database.
+  </p>
+
+  <p>This database is an index of:</p>
+
+  <ul>
+      <li>Births for the parishes of Zhitomir, Rozyszcze, Heimtal (all in Volhynia), Kiev, and Podolia for years 1833 to 1885, with some years missing.</li>
+      <li>Births for Rozyszcze parish for the missing years 1865, 1871, and 1884.</li>
+      <li>Births for Rozyszcze parish for the years 1886 to 1899.</li>
+      <li>Confirmations for Rozyszcze parish for the years 1862 to 1886.</li>
+      <li>Births for Wladimir-Wolynsk parish for the years 1891 to 1895 plus an index of names only for the year 1896.</li>
+      <li>Births for Tutschin kantorate for the years 1849 to 1903 with some years and parts of years missing.</li>
+  </ul>
+
+  <p>
+      <strong>Note:</strong>&nbsp; A search will bring up both Births and Confirmations.&nbsp; The letter C in the page column instead of a page number identifies the entry as a Confirmation that took place in the year noted with the film number.&nbsp; For Confirmations, the Event Place has the form “B- xxx, C or R place- yyy”,&nbsp; where xxx stands for the Birth Place, and yyy stands for either the Confirmation Place or the Residence Place depending on which one is given in the confirmation record.
+  </p>
+
+  <p><span>SGGEE Members</span> - This page allows you to do partial name searches such as searching for "chu" in the middle of a name. Note that this advanced search is not available on the public version of this database.</p>
+
+  <p>You can also search the <a href="#/members/StPeteMarriageMember.html">Marriage</a> and <a href="#/members/StPeteDeathMember.html">Death</a> databases.</p>
+
+  <h2>Using the Search Tool</h2>
+
+  <p>
+      We encourage you to review <a href="#/members/SearchInstruct.html">instructions</a> for using our search tool, especially if this is your first time. They will provide hints and tips for optimizing your search, ensuring a better chance of getting results.
+  </p>
+
+  <form id="StPeteBirthMembers" action="/sggee/SGGEESearch" method="post" name="StPeteBirthMembers">
+      <input name="op" value="search" type="hidden">
+      <input name="searchWhat" value="StPeteBirth" type="hidden">
+
+      <div class="form-section">
+          <input name="last_name" type="text" placeholder="Surname" size="22">
+          <input name="first_name" type="text" placeholder="Given Name" size="24">
+          <input name="year" type="text" placeholder="Birth Year" size="17">
+          <input name="place" type="text" placeholder="Birth Place" size="17">
+      </div>
+
+      <div class="form-section">
+          <input name="father" type="text" placeholder="Father's Given Name" size="22">
+          <input name="mother" type="text" placeholder="Mother's Given Name" size="30">
+          <input name="mother_surname" type="text" placeholder="Mother's Surname" size="30">
+      </div>
+
+      <div class="flex-row-container">
+          <div class="form-section">
+              <label class="radio-option">
+                  <input name="search_type" value="normal" checked="checked" type="radio">
+                  <span>Normal Search</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="advanced" type="radio">
+                  <span>Case Sensitive / Advanced Search</span>
+              </label>
+              <label class="radio-option">
+                  <input name="search_type" value="exact" type="radio">
+                  <span>Exact Match</span>
+              </label>
+          </div>
+
+          <div class="form-section">
+              <span>Sort Results by:</span>
+              <select name="sort_by" size="1">
+                  <option value="0">Surname</option>
+                  <option value="1">Given Name</option>
+                  <option value="3">Birth Date</option>
+                  <option value="4">Birth Place</option>
+              </select>
+          </div>
+
+            <div class="form-section">
+                Number of results to display per page:
+                <select name="numToReturn" size="1">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="15">15</option>
+                    <option value="20">20</option>
+                    <option value="25">25</option>
+                    <option selected="selected" value="50">50</option>
+                </select>
+            </div>
+        </div>
+        
+      <div class="centered-content">
+          <button name="search_and_display_db_button" value="Search the Database" type="submit">Search</button>
+      </div>
+  </form>
+</div>

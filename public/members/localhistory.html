@@ -1,0 +1,70 @@
+<div class="main-content">
+    <h1 class="centered-content">Community &amp; Local History Books</h1>
+    <h2>About Community History Books</h2>
+    <p>Many of the areas in  which our ancestors settled in Canada and the USA have produced history  books of the area, variously called Centennial books, Anniversary  books, Jubilee books etc. which describe or tell about the original  settlers in these areas.</p>
+    <p>This page is where members  having copies of these books have offered to share this information  with other members by offering to lookup articles for other members if  a name in a book is of interest to another member.</p>
+    <p><a href="#/members/AvailBooks.html">Books Currently Available</a></p>
+    <p>See also this link to an outside group that has <a href="https://digitalcollections.ucalgary.ca/Browse/Collections/Local-Historie">many area histories in Canada</a>. First do a search by subject, and then when you find a book, do a search for any surname you seek.</p>
+    <p>&nbsp;</p>
+    <h2>How to Use This Page</h2>
+    <p>The  name of the book is listed along with a description of the area covered  by the book, the membership number of the person owning the book and a  list of the people shown in the index of the book. If you think you may  be related to one or more of these individuals and would like to know  for sure, you can obtain the name and address of the person willing to  do lookups, from the Member Data page.</p>
+    <p>If you ask for  copies of information from these books, please remember that some of  the material is copyrighted. Should the owner of the book offer to send  you copies of any material, please remember to reimburse them for the  cost of the copies and the postage. The minimum suggested amount is  $1.00 for envelope, postage and handling plus 25 cents per page  photocopied.</p>
+    <p>&nbsp;</p>
+    <h2>Submitting Information for This Page</h2>
+    <p>If  you have any books not listed here and are willing to do lookups for  fellow members please provided SGGEE with the name of the book, your  e-mail address and, if there is one, a scanned image or clear photocopy  of the name index from the book.</p>
+    <p>&nbsp;</p>
+    <h2>Search the History Books Index</h2>
+    <form id="historyBooks" action="/sggee/SGGEESearch" method="post" name="historyBooks">
+      <input name="op" value="search" type="hidden">
+      <input name="searchWhat" value="SGGEEhistorybooks" type="hidden">
+      <table width="600" border="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td><div>Name to find in index</div></td>
+            <td><div>Books to search</div></td>
+            <td><div>Nearest town</div></td>
+            <td><div>State or province</div></td>
+          </tr>
+          <tr>
+            <td><input name="Names" type="text" size="25"></td>
+            <td><input name="BookName" type="text" size="20"></td>
+            <td><input name="Nearest" type="text" size="20"></td>
+            <td><input name="StateProv" type="text" size="20"></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <input name="case_sensitive" value="case_sensitive" type="checkbox">
+      Case sensitive<br>
+      <input name="exact_match" value="exact_match" type="checkbox">
+      Exact match<br>
+      <br>
+      Sort results by
+  <select name="sort_by" size="1">
+    <option selected="selected" value="0">Names in Book</option>
+    <option value="1">Book Name</option>
+    <option value="2">Nearest Town</option>
+    <option value="3">State or Province</option>
+    <option value="4">Member ID</option>
+  </select>
+  <br>
+  <br>
+  <button name="search_and_display_db_button" value="Search the Database" type="submit">Search the Database</button>
+  <br>
+  <br>
+    </form>
+    <p><strong>Advanced Search Tips</strong></p>
+    <ul>
+      <li>+  after a number or letter will return all occurrences of records with  one or more of the characters preceding the +. Thus Cab+ finds Cab,  Cabby, and so on.</li>
+      <li>* after a number or letter will return  all occurrences of records with zero or more of the characters  preceding the *. Thus ab* finds sad, cab, sabbath, and so on.</li>
+      <li>?  after a number or letter indicates that the number or letter preceding  the ? is optional. Thus ou?r finds color, colour, and so on.</li>
+      <li>.  (the period) puts any character or number in its place that is found in  the records searched. Thus n.t finds not, nit, nat, and so on.</li>
+      <li>[^c]  finds any record that does not contain c (or whatever other character  is inserted after the ^ inside the brackets). Thus ar[^c] finds are,  art, but not arc. If you want to find all the names that begin with the  letter B, type ^B in the Name blank (case sensitve search only).</li>
+      <li>[0-9] puts any digit in place of the bracketed item. Thus 1234[0-9] finds 12346, 12348, 12349, and so on</li>
+      <li>^  finds all records that start with the letters following the ^. Thus  ^war finds war, ward, and wart, but not southward, eastward, forewarn  and so on.</li>
+      <li>$ matches the end of the record field. Thus happy$ would find Edith Happy, but not happy birthday.</li>
+      <li>() groups characters together. Thus (123) finds 123, 64123, 61234, etc.</li>
+      <li>You can also use multiple special characters if you are brave enough. Thus (123)+ finds 123, 123123, and 123123123, and so on.</li>
+    </ul>
+  </div>
+  

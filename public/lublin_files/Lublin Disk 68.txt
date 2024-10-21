@@ -1,0 +1,1200 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki							
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater	Mutter oder Braut (P)	Mutter oder Braut (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Bräutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen							
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event Type	Year	Month	Father	Mother or Bride (P)	Mother or Bride (D)	Village	Disk	Folder	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes							
+		Steinke	Emilie	B	1895	Sep	Johann		"Holtz, Marianna"	Sobieszczany	68	Lublin 1861-1903	00214		K Krueger												
+		Kano	Mathilde	B	1895	Jul	Gottlieb		"Dering, Pauline"	Malinowka	68	Lublin 1861-1903	00218		K Krueger												
+		Kress	Alexander	B	1895	Aug	unknown/unbekannt		"Kress, Emilie"	Albertow	68	Lublin 1861-1903	00219		K Krueger												
+		Fischer	Karl	B	1895	Sep	Valentin		"Marczewski, Emma"	Cycow	68	Lublin 1861-1903	00220		K Krueger												
+		Friedrich	Adolf	B	1895	Sep	unknown/unbekannt		"Friedrich, Pauline"	Marynin	68	Lublin 1861-1903	00221		K Krueger												
+		Dreger	Johann	B	1897	Mar	Martin		"Jeske, Marianna"	Swidniki	68	Lublin 1861-1903	00226		K Krueger												
+		Schilke	Friederich	D	1897	Nov	Michael		"Zerbin, Marianna"	Lubartow	68	Lublin 1861-1903	00229		K Krueger												
+		Sandmann	Wilhelm Paul	D	1897	Jun	Friedrich [Karl]		"Metzger, Maria"	Lublin	68	Lublin 1861-1903	00237		K Krueger												
+		Uhl	August Alexander	M	1897	Jul			"Weissmann, Marianna"		68	Lublin 1861-1903	00243		K Krueger		"Uhl, Heinrich & Mueller, Amalie"	"Weissmann, Jakob & Weber, [Pauline]"		Bride's mother written Apolonia Weberow							
+		Adam	Emilie	B	1898	Apr	Karl		"Senf, Pauline"	Lublin	68	Lublin 1861-1903	00250-51		K Krueger												
+		Stefan	David	D	1898	Jun	Gottlieb		Natalie	Tatary	68	Lublin 1861-1903	00251		K Krueger					56y/J							
+		Wolski	Mieczyslaw Alexander Bennona	D	1898	May	Alexander Peter		"Semadeni, Maria Julia"	Lublin	68	Lublin 1861-1903	00252		K Krueger												
+		Hoffmann	August	B	1898	Mar	Friedrich		"Muench, Luise"	Jasieniec	68	Lublin 1861-1903	00255		K Krueger												
+		Bonach	Olga	B	1897	Jan	Gottfried		"Schmidt, Karoline"	Garbatowka	68	Lublin 1861-1903	00263		K Krueger												
+		Pij	Sewerine	B	1897	Jan	Rudolf		"Lentz, Karoline"	Lublin	68	Lublin 1861-1903	00272		K Krueger												
+		Fuchs	Friedrich August	D	1896	Dec				Lublin	68	Lublin 1861-1903	00274		K Krueger					80y/J							
+		Mekelburg	Edmund	B	1897	Jan	Christian		"Kintop, Amalie"	Hermanow	68	Lublin 1861-1903	00278		K Krueger												
+		Bloch	Emilie	B	1897	Jan	Stefan		"Gerst, Josefine"	Okalew	68	Lublin 1861-1903	00279		K Krueger												
+		Gendler	Gustav Adolf	M	1898	Nov			"Skorunski, Marianna Agnes"	Lublin	68	Lublin 1861-1903	00281		K Krueger		"Gendler, Heinrich & Marschner, Berta"	"Skorunski, Ignatz & Turbiszow, Marianna"									
+		Schwarz	Eduard	B	1892	Sep	August		"Lehmann, Emilie"	Suszczany	68	Lublin 1861-1903	00284		K Krueger												
+		Librenz	Alexander	B	1896	May	Heinrich		"Winkel, Julianna"	Okalew	68	Lublin 1861-1903	00285		K Krueger												
+		Weiss	Karl	B	1896	Apr	Johann		"Schultz, Emilie"	Cichostow	68	Lublin 1861-1903	00286		K Krueger												
+		Steinke	Alexander	B	1896	Apr	August		"Hansch, Marianna"	Cichostow	68	Lublin 1861-1903	00287		K Krueger												
+		Sonnenburg	Lothar Viktor	B	1898	Nov	Wilhelm		"von der Osten Sacken, Maria Sewerine"	Lublin	68	Lublin 1861-1903	00297		K Krueger												
+		Pfeiffer	Heinrich	B	1874	Feb	Wilhelm		"Hennig, Karoline"	Bielany	68	Lublin 1861-1903	00302		K Krueger												
+		Reinberger	Olga	B	1899	Dec	Andreas		"Roth, Eleonore"	Glusk	68	Lublin 1861-1903	00312		K Krueger												
+		Harke	Heinrich	B	1879	Feb	Friedrich		"Reich, Anna"	Bystrzejowice	68	Lublin 1861-1903	00315		K Krueger					register entry							
+		Podritzki	Lidia	B	1898	Jul	Christian		"Gitzel, Pauline"	Adamow	68	Lublin 1861-1903	00319		K Krueger												
+		Hermann	Johann Gottlieb	B	1874	Jan	Heinrich		"Janke, Christine"	Pawlow	68	Lublin 1861-1903	00320		K Krueger												
+		Patzwald	Ludwig	B	1899	May	August		"Kaus, Luise"	Streczyn Nowe	68	Lublin 1861-1903	00322		K Krueger												
+		Bittner	Emilie	B	1899	May	August		"Werner, Ottilie"	Kocia Gora	68	Lublin 1861-1903	00323		K Krueger												
+		Pinkowski	Ludwig	B	1899	Apr	Ludwig		"Wilde, Natalie"	Wola Lisowska	68	Lublin 1861-1903	00324		K Krueger												
+		Betker	Olga	B	1899	May	Jakob		"Milbradt, Hulda"	Jelino	68	Lublin 1861-1903	00325		K Krueger												
+		Dei	Adolf	B	1899	May	Michael		"Bluege, Marianna"	Slawinek	68	Lublin 1861-1903	00326		K Krueger												
+		Friedrich	Alexander	B	1899	Jun	Josef		"Harmel, Amalie"	Wilczopole	68	Lublin 1861-1903	00327		K Krueger												
+		Kubke	Andreas	B	1899	Apr	Julius		"Janke, Karoline"	Egersdorf	68	Lublin 1861-1903	00328		K Krueger												
+		Schmidt	Alexander	B	1900	Feb	Friedrich		"Duesterhoeft, Rosalie"	Olempin	68	Lublin 1861-1903	00329		K Krueger												
+		Kelm	Wanda	B	1900	Mar	Friedrich		"Wedlich, Anna Amalie"	Siostrzytow	68	Lublin 1861-1903	00330		K Krueger												
+		Hepner	Ludwig	B	1900	Feb	unknown/unbekannt		"Muench, Rosalie"	Kalinowszczyzna	68	Lublin 1861-1903	00331		K Krueger				married name Hepner								
+		[Selmann]	Rudolf	B	1897	Feb	Gottlieb		"Peischke, Emilie"	Stefanow	68	Lublin 1861-1903	00344		K Krueger												
+		Friedrich	Gottlieb	D	1901	Aug	Samuel			Baran	68	Lublin 1861-1903	00347		K Krueger					74y/J							
+		Kurtz	Adolf	B	1901	Oct	Ludwig		"Kopke, Amalie"	Baran	68	Lublin 1861-1903	00355		K Krueger												
+		Rode	Michael	B	1901	Oct	Johann		"Czechoczinski, Eva"	Bekiesza	68	Lublin 1861-1903	00357		K Krueger												
+		Walter	August	D	1901	Nov	Martin		"Kakowski, Wilhelmine"	Cichostow	68	Lublin 1861-1903	00359		K Krueger												
+Hikel vel Hekel		Hikel	Eduard	M	1900	Feb	Eduard		"Strauch, Pauline"		68	Lublin 1861-1903	00363		K Krueger		"Hikel, Eduard & Hartwich, Katharina"	"Strauch, Martin & Jantz, Ernestine"									
+		Kisser	Thomas	D	1901	Sep				Lublin	68	Lublin 1861-1903	00368		K Krueger					23y/J							
+		Kluge	Rudolf	B	1896	Nov	Heinrich		"Braun, Julianna"	Grabniak	68	Lublin 1861-1903	00372		K Krueger												
+		Hapke	Gustav	B	1901	Oct	Friedrich		"Kube, Karoline"	Cycow	68	Lublin 1861-1903	00375		K Krueger												
+		Gueldenstern	Eduard	D	1901	Oct	Johann Friedrich		"Radke, Josefine"	Wyganow	68	Lublin 1861-1903	00380		K Krueger					6d/T							
+		Gueldenstern	Eduard	B	1901	Oct	Johann Friedrich		"Radke, Josefine"	Wyganow	68	Lublin 1861-1903	00382		K Krueger												
+		Riske	Emil	D	1902	Sep	Friedrich		"Arndt, Emilie"	Konopnica	68	Lublin 1861-1903	00397		K Krueger					9m							
+		Potz	Marta	B	1902	Jun	Ludwig		"Schepke, Julianna"	Cycow	68	Lublin 1861-1903	00402		K Krueger												
+		Erber	Gottlieb	B	1902	Apr	Wilhelm		"Wutke, Wilhelmine"	Barki	68	Lublin 1861-1903	00403		K Krueger												
+		Elsner	Pauline	B	1902	Mar	Erdmann		"Wikner, Helene"	Streczyn Nowe	68	Lublin 1861-1903	00404		K Krueger												
+		Klatt	Wanda	B	1902	Feb	Gustav		"Jess, Pauline"	Cycow	68	Lublin 1861-1903	00405		K Krueger					twin							
+		Klatt	Maria	B	1902	Feb	Gustav		"Jess, Pauline"	Cycow	68	Lublin 1861-1903	00406		K Krueger					twin							
+		Patzwald	Adolf	B	1902	Aug	Sigismund		"Mittelstaedt, Luise"	Nadrybie	68	Lublin 1861-1903	00407		K Krueger												
+		Zielke	Daniel	D	1902	Mar	Daniel		Marianna	Janowica	68	Lublin 1861-1903	00408		K Krueger					49y/J							
+		Guenter	August	D	1902	Jan	Michael Peter		"Schmidt, Albertine"	Barki	68	Lublin 1861-1903	00409		K Krueger					18d/T							
+		Kinetz	Eduard	B	1901	Jan	Gottlieb		"Splett, Pauline"	Janowica	68	Lublin 1861-1903	00413		K Krueger												
+		Reschke	Johann	D	1901	Nov	Gottlieb		"Nikel, Christine"	Cycow	68	Lublin 1861-1903	00414		K Krueger					62y/J							
+		Peischke	Gottlieb	D	1901	Nov				Stefanow	68	Lublin 1861-1903	00415		K Krueger					80y/J							
+		Fehler	Ottilie	B	1901	May	Matthias		"Konczok, Christine"	Cycow	68	Lublin 1861-1903	00416		K Krueger												
+		Lemke	Rudolf	B	1901	Sep	Adolf		"Mertin, Marianna"	Janowica	68	Lublin 1861-1903	00417		K Krueger												
+		Steinke	Adelgunde	B	1901	Jul	Wilhelm		"Buchholtz, Luise"	Janowica	68	Lublin 1861-1903	00418		K Krueger												
+		Busse	Olga	B	1902	Nov	Johann		"Helmich, Emilie Maria"	Lublin	68	Lublin 1861-1903	00421		K Krueger												
+		Hapke	Lidia	B	1902	Nov	Friedrich		"Kube, Karoline"	Cycow	68	Lublin 1861-1903	00429		K Krueger												
+		Grann	Gottlieb	B	1902	Oct	Andreas		"Hakbart, Karoline"	Cichostow	68	Lublin 1861-1903	00434		K Krueger												
+Duelge	Joanna	Duelge	Johanna	D	1866	Jan	August	"Haekbart, Anna"	"Hakbart, Anne"	Juliopol	68	Lublin 1867-1869	00004	2	K Krueger					Compilation Table							
+Horn 	Pauline	Horn	Pauline	D	1866	Jan	Julian	"Moewer, Karolina"	"Moewer, Karoline"	Lublin	68	Lublin 1867-1869	00004	3	K Krueger					Compilation Table							
+Jeske	August Karol Fryderyk	Jeske	August Karl Friedrich	D	1866	Jan	Daniel	"Luettke, Ludwika"	"Luetke, Luise"	Juliopol	68	Lublin 1867-1869	00004	4	K Krueger					Compilation Table							
+Menke	Anna Krystyna	Menke 	Anna Christine	D	1866	Jan	Johann	"Martin, Ludwika"	"Martin, Luise"	Debina	68	Lublin 1867-1869	00004	5	K Krueger					Compilation Table							
+Thierling	August	Tierling	August	D	1866	Jan				Klementynow	68	Lublin 1867-1869	00004	7	K Krueger				"Jess, Christine"	Compilation Table							
+Fangrad	Karolina	Fangrad 	Karoline	D	1866	Jan				Miloszowka	68	Lublin 1867-1869	00004	8	K Krueger				"Klatt, Peter"	Compilation Table							
+Kuehn	Gustaw	Kuehn	Gustav	D	1866	Jan	Heinrich	"Dawid, Helena"	"David, Helene"	Juliopol	68	Lublin 1867-1869	00005	9	K Krueger					Compilation Table							
+Tefs	Henryk	Tews	Heinrich	D	1866	Jan	Paul	"Harwart, Ewa"	"Harwart, Eva"	Bielin	68	Lublin 1867-1869	00005	10	K Krueger					Compilation Table							
+		Schrank	Wilhelm	D	1866	Jan	Gottlieb		"Schultz, Dorothea"	Aleksandrowka	68	Lublin 1867-1869	00006	11	K Krueger					Compilation Table							
+Peltzer	Ludwika	Peltzer	Luise	D	1866	Jan	Johann	"Braunn, Wilhelmina"	"Braun, Wilhelmine"	Wolka Nadrybska	68	Lublin 1867-1869	00005	12	K Krueger					Compilation Table							
+Grytzke	Jan Gottlieb	Gritzke	Johann Gottlieb	D	1866	Jan				Miaskowek	68	Lublin 1867-1869	00006	13	K Krueger					Compilation Table							
+Kannewischer	Marya	Kannewischer	Marie	D	1866	Jan	Johann	"Natrop, Kostancya"	"Natrop, Constance"	Ruda	68	Lublin 1867-1869	00005	14	K Krueger					Compilation Table							
+Schletz	Justyna Julianna	Schletz	Justine Julianne	D	1866	Jan	Johann	"Bich, Karolina"	"Bich, Karoline"	Justynow	68	Lublin 1867-1869	00005	15	K Krueger					Compilation Table							
+Brokob	Ewa	Brokob	Eva	D	1866	Aug	Friedrich	"Harwart, Anna"	"Harwart, Anna"	Bielin	68	Lublin 1867-1869	00005	16	K Krueger					Compilation Table							
+Burghardt	Emilia	Burghard	Emilie	D	1866	Jan	Samuel	"Heger, Justyna"	"Heger, Justine"	Aleksandrowka	68	Lublin 1867-1869	00005	17	K Krueger					Compilation Table							
+Schendler	Gottfried	Schendler	Gottfried	D	1866	Jan	Christoph	"Schultz, Rozyna"	"Schultz, Rosine"	Stasiew	68	Lublin 1867-1869	00006	18	K Krueger					Compilation Table							
+Frischke	Justyna Florentyna	Frischke	Justine Florentine	D	1866	Jan				Justynow	68	Lublin 1867-1869	00006	19	K Krueger				"Ansorg, Wilhelm"	Compilation Table							
+Klath	Ludwika	Klatt 	Luise	D	1866	Jan				Justynow	68	Lublin 1867-1869	00006	20	K Krueger				Will	Compilation Table							
+		Pisanski	Karoline	D	1866	Oct	Karl		Henriette	Lublin	68	Lublin 1867-1869	00006	154	K Krueger				Majewski	Compilation Table							
+Lembke	Anna Rozyna	Lemke	Anna Rosine	D	1867	Jan				Aleksandrowka	68	Lublin 1867-1869	00007	1	K Krueger				"Teske, Johann"	Compilation Table							
+Heger	Gottfried	Heger	Gottfried	D	1867	Jan	Christoph	"Schmidt, Elzbieta"	"Schmidt, Elisabeth"	Tomaszowka	68	Lublin 1867-1869	00007	2	K Krueger					Compilation Table							
+Reich	Jan	Reich	Johann	D	1867	Jan	Kornelius	"Molcon, Karolina"	"Molzan, Karoline"	Tartak	68	Lublin 1867-1869	00007	7	K Krueger					Compilation Table							
+Reich	Erdmann	Reich	Erdmann	D	1867	Jan	Kornelius	"Molcon, Karolina"	"Molzan, Karoline"	Tartak	68	Lublin 1867-1869	00007	3	K Krueger					Compilation Table							
+Ratz	Julianna	Ratz	Julianne	D	1867	Jan	Johann	"Krueger, Helena"	"Krueger, Helene"	Teosin	68	Lublin 1867-1869	00007	4	K Krueger					Compilation Table							
+Pede	Marya  	Pide	Maria	D	1867	Jan				Wistrow	68	Lublin 1867-1869	00007	5	K Krueger				Jadiske	Compilation Table							
+Schilberg	Krystyan	Schilberg	Christian	D	1867	Jan	Karl	"Herrman, Rozyna"	"Hermann, Rosine"	Wolka Nadrybska	68	Lublin 1867-1869	00007	6	K Krueger					Compilation Table							
+Ansorg	Gottlieb	Ansorg	Gottlieb	D	1867	Jan	Wilhelm	"Lining, Anna Rozina"	"Lining, Anna Rosine"	Justynow	68	Lublin 1867-1869	00008	10	K Krueger					Compilation Table							
+Schultz	Jan	Schultz	Johann	D	1867	Jan				Godziembow	68	Lublin 1867-1869	00008	11	K Krueger				"Kreh, Marie "	Compilation Table							
+Albrecht	Ernestyna Edomina	Albrecht	Ernestine Edomine	D	1867	Jan				Bielany	68	Lublin 1867-1869	00008	12	K Krueger				"Albrecht, Martin "	Compilation Table							
+Dill	Fryderyk Erdmann	Dill	Friedrich Erdmann	D	1867	Jan	Karl	"Richter, Ludwika"	"Richter, Luise"	Bielany	68	Lublin 1867-1869	00008	13	K Krueger					Compilation Table							
+Bekker	Ernest Ferdynand	Becker	Ernest Ferdinand	D	1867	Jan	Ludwig	"Schwartz, Wilhelmina"	"Schwartz, Wilhelmine"	Wolka Ostrowska	68	Lublin 1867-1869	00008	14	K Krueger					Compilation Table							
+Klingspon	Gustaw	Klingspon	Gustav	D	1867	Jan	Gottlieb	"Klingspon, Karolina"	"Klingspon, Karoline"	Izydorow	68	Lublin 1867-1869	00008	15	K Krueger					Compilation Table							
+Weltz	Beata	Weltz	Beate	D	1867	Jan				Aleksandrowka	68	Lublin 1867-1869	00009	16	K Krueger				"Ladwig, Daniel "	Compilation Table							
+Reschke	Wilhelmina	Reschke	Wilhelmine	D	1867	Jan	August	"Kuehn, Anna Zuzanna"	"Kuehn, Anna Susanne"	Klementynow	68	Lublin 1867-1869	00009	17	K Krueger					Compilation Table							
+Redmann	Wilhelm	Redmann	Wilhelm	D	1867	Jan	Daniel	"Henne, Anna Justyna"	"Henne, Anna Justine"	Aleksandrowka	68	Lublin 1867-1869	00009	18	K Krueger					Compilation Table							
+		Karszewski	Christoph	D	1867	Jan				Kulczyn	68	Lublin 1867-1869	00009	7	K Krueger				"Karleski, Josefine"	Compilation Table							
+Mittelstaedt	Piotr	Mittelstaedt	Peter	D	1867	Feb	Johann	"Wendlandt, Ester"	"Wendland, Ester"	Amelin	68	Lublin 1867-1869	00022	19	K Krueger					Compilation Table							
+Hueller	Krystyna	Hiller	Christine	D	1867	Feb				Amelin	68	Lublin 1867-1869	00022	20	K Krueger				"Jeske, Daniel "	Compilation Table							
+Bekker	Rozyna	Becker	Rosine	D	1867	Feb	Gottlieb	"Peter, Dorotta"	"Peter, Dorothea"	Janowica	68	Lublin 1867-1869	00022	21	K Krueger					Compilation Table							
+Polno	Hernryk	Polno	Heinrich	D	1867	Feb	Gottlieb	"Schultz, Paulina"	"Schultz, Pauline"	Gizyce	68	Lublin 1867-1869	00022	22	K Krueger					Compilation Table							
+Schroeder	Krystyna	Schroeder	Christine	D	1867	Feb				Pielgrzymka	68	Lublin 1867-1869	00022	23	K Krueger				"Noerenberg, Johann "	Compilation Table							
+Mantej	Karolina	Mantei	Karoline	D	1867	Feb	Michael	"Banik, Julianna"	"Banik, Julianne"	Aleksandria Krzywowolska	68	Lublin 1867-1869	00022	24	K Krueger					Compilation Table							
+Bich	Gottfried	Bich	Gottfried	D	1867	Feb	Ludwig	"Zache, Ludwika"	"Zache, Luise"	Aleksandrowka	68	Lublin 1867-1869	00022	27	K Krueger					Compilation Table							
+Buelau	Henryetta  	Bilof	Henriette	D	1867	Feb	Gottlieb	"Timm, Wilhelmina"	"Timm, Wilhelmine"	Dzialyn	68	Lublin 1867-1869	00023	25	K Krueger					Compilation Table							
+Jeske	Ewa	Jeske	Eva	D	1867	Feb	Daniel	"Hueller, Krystyna"	"Hiller, Christine"	Amelin	68	Lublin 1867-1869	00023	26	K Krueger					Compilation Table							
+Weltz	Henryk	Weltz	Hermann Heinrich	D	1867	Feb	Johann	"Lentz, Amalia"	"Lentz, Amalie"	Podgorz	68	Lublin 1867-1869	00023	28	K Krueger					Compilation Table							
+Buss	Jakob	Buss 	Jakob	D	1867	Feb	Gottfried	"Grams, Anna"	"Grams, Anna"	Pawlow	68	Lublin 1867-1869	00029	29	K Krueger					Compilation Table							
+Schmaltz	Karl	Schmaltz	Karl	D	1867	Feb	Christian	"Piper, Ludwika"	"Piper, Luise"	Nadrybie	68	Lublin 1867-1869	00023	30	K Krueger					Compilation Table							
+Knecht	Ernestyna	Knecht	Ernestine	D	1867	Feb	Christoph	"Schilke, Karolina"	"Schilke, Karoline"	Miloszowka	68	Lublin 1867-1869	00023	31	K Krueger					Compilation Table							
+Weltz 	Berta Amalia	Weltz	Berta Amalie	D	1867	Feb	Johann	"Lentz, Amalia"	"Lentz, Amalie"	Podgorz	68	Lublin 1867-1869	00023	32	K Krueger					Compilation Table							
+Weltz 	Emil Rudolf	Weltz	Emil Rudolf	D	1867	Feb	Johann	"Lentz, Amalia"	"Lentz, Amalie"	Podgorz	68	Lublin 1867-1869	00024	33	K Krueger					Compilation Table							
+Kuhfeldt	Anna Rozyna	Kuhfeldt	Anna Rosine	D	1867	Feb	Friedrich	"Fandrich, Anna Zuzanna"	"Fandrich, Anna Susanne"	Aleksandrowka	68	Lublin 1867-1869	00024	34	K Krueger					Compilation Table							
+Holtz	Jan	Holtz	Johann	D	1867	Feb	Christoph	"Froehlich, Krystyna"	"Froehlich, Christine"	Bielsko	68	Lublin 1867-1869	00024	35	K Krueger					Compilation Table							
+Egert		Egert	stillborn	D	1867	Feb	Gottfried	"Kramer, Justyna"	"Kramer, Justine"	Serebryszcze	68	Lublin 1867-1869	00024	36	K Krueger					Compilation Table							
+Kramer	Justyna	Kramer	Justine	D	1867	Feb				Serebryszcze	68	Lublin 1867-1869	00024	37	K Krueger				"Egert, Gottfried"	Compilation Table							
+Bruss	Jozef	Bruss	Josef	D	1867	Feb	Johann	"Endert, Anna"	"Endert, Anna"	Lublin	68	Lublin 1867-1869	00024	38	K Krueger					Compilation Table							
+Potz	Wilhelm	Potz 	Wilhelm	D	1867	Feb	Christian	"Engfer, Julianna"	"Engfer, Julianne"	Zalisocze	68	Lublin 1867-1869	00025	39	K Krueger					Compilation Table							
+Brokob	Fryderyk	Brokob	Friedrich	D	1867	Feb	Friedrich	"Harwart, Anna"	"Harwart, Anna"	Bielin	68	Lublin 1867-1869	00024	40	K Krueger					Compilation Table							
+Hauf	Krystyna	Hauf	Christine	D	1867	Feb	Gottfried	"Jerke, Julianna"	"Jerke, Julianne"	Felczyn	68	Lublin 1867-1869	00025	41	K Krueger					Compilation Table							
+Baumueller	Jan	Baumueller	Johann	D	1867	Feb				Antonin	68	Lublin 1867-1869	00025	42	K Krueger					Compilation Table							
+Lehmann		Lehmann	stillborn	D	1867	Feb	Gottlieb	"Friske, Ludwika"	"Friske, Luise"	Zarobka	68	Lublin 1867-1869	00025	43	K Krueger					Compilation Table							
+Kuehn	Wilhelmina	Kuehn	Wilhelmine	D	1867	Mar	Ferdinand	"Klukas, Anna Elzbieta"	"Klukas, Anna Elisabethe"	Janowica	68	Lublin 1867-1869	00025	44	K Krueger					Compilation Table							
+Kurtzmann	Michal	Kurtzmann	Michael	D	1867	Mar	Andreas	"Boroski, Ludwika"	"Boroski, Luise"	Pawlow	68	Lublin 1867-1869	00025	45	K Krueger					Compilation Table							
+Siefert	Weronika	Siefert	Veronika	D	1867	Mar	Johann	"Bartz, Szarlotta"	"Bartz, Charlotte"	Nadrybie	68	Lublin 1867-1869	00036	46	K Krueger					Compilation Table							
+Winter	Michal	Winter	Michael	D	1867	Mar				Adamow	68	Lublin 1867-1869	00036	47	K Krueger				"Teske, Luise "	Compilation Table							
+Pulter	Jakob	Pulter	Jakob	D	1867	Mar	Adam	"Jahnke, Zuzanna"	"Janke, Susanne"	Teosin	68	Lublin 1867-1869	00036	48	K Krueger					Compilation Table							
+Radke	Ludwik	Radke	Ludwig	D	1867	Mar	Christoph	"Hermann, Zuzanna"	"Hermann, Susanne"	Zarobka	68	Lublin 1867-1869	00036	49	K Krueger					Compilation Table							
+Holtz	Justyna	Holtz	Justine	D	1867	Mar	Gottlieb	"Thiede, Karolina"	"Tiede, Karoline"	Pawlow	68	Lublin 1867-1869	00036	50	K Krueger					Compilation Table							
+Thiede 	Ewa	Tiede 	Eva	D	1867	Mar	Johann	"Karo, Justyna"	"Karo, Justine"	Pawlow	68	Lublin 1867-1869	00036	51	K Krueger					Compilation Table							
+Buchholtz	Marya  	Buchholtz	Marie	D	1867	Mar	Johann		"Hopp, Anna"	Teosin	68	Lublin 1867-1869	00036	52	K Krueger				"Bleich, Heinrich "	Compilation Table							
+Bigalke	Andrzej	Bigalke	Andreas	D	1867	Mar				Felczyn	68	Lublin 1867-1869	00037	53	K Krueger				"Heger, Anna "	Compilation Table; surviving children listed							
+Peter	Eufrozyna	Peter	Euphrosine	D	1867	Mar				Teosin	68	Lublin 1867-1869	00037	54	K Krueger				Nachtigal	Compilation Table; surviving child listed							
+Schmaltz	Jan	Schmaltz	Johann	D	1867	Mar				Nadrybie	68	Lublin 1867-1869	00037	55	K Krueger				"Pante, Luise"	Compilation Table							
+Kunkel	Daniel	Kunkel	Daniel	D	1867	Mar	Gottlieb	"Grams, Karolina"	"Grams, Karoline"	Miloszowka	68	Lublin 1867-1869	00037	56	K Krueger					Compilation Table							
+Repp	Augusta Wilhelmina Berta	Repp	Auguste Wilhelmine Berta	D	1867	Mar	Karl	"Belke, Henryetta"	"Belke, Henriette"	Kobyle	68	Lublin 1867-1869	00038	57	K Krueger					Compilation Table							
+Hoeppner	Ferdynand	Hoepner	Ferdinand	D	1867	Mar	Friedrich	"Felski, Emilia"	"Felski, Emilie"	Nadrybie	68	Lublin 1867-1869	00038	58	K Krueger					Compilation Table							
+Kriesel	Rozia	Kriesel	Rosie	D	1867	Mar				Wojciechow	68	Lublin 1867-1869	00039	59	K Krueger				"Jabusch, August"	Compilation Table							
+Werner	August	Werner	August	D	1867	Mar				Siestrzytow	68	Lublin 1867-1869	00037	60	K Krueger				"Roestel, Charlotte"	Compilation Table							
+Mertins	Anna Justyna	Mertins	Anna Justine	D	1867	Mar	Johann	"Dorok, Anna Krystyna"	"Dorok, Anna Christine"	Aleksandria Krzywowolska	68	Lublin 1867-1869	00038	61	K Krueger					Compilation Table							
+Gust	Julianna	Gust	Julianne	D	1867	Mar	Gottfried	"Schmidt, Karolina"	"Schmidt, Karoline"	Wankowszczyzna	68	Lublin 1867-1869	00038	62	K Krueger					Compilation Table							
+Siewert	Michal	Siewert	Michael	D	1867	Mar	Matthias	"Berwald, Rozalia"	"Berwald, Rosalie"	Teosin	68	Lublin 1867-1869	00038	63	K Krueger					Compilation Table							
+Isbrecht	Jan	Isbrecht	Johann	D	1867	Mar	Jakob	"Peter, Wilhelmina"	"Peter, Wilhelmine"	Domicelow	68	Lublin 1867-1869	00038	64	K Krueger					Compilation Table							
+Rolof	Rozyna	Rolof	Rosine	D	1867	Mar	Michael	"Hermann, Anna Krystyna"	"Hermann, Anna Christine"	Wolka Nadrybska	68	Lublin 1867-1869	00038	65	K Krueger					Compilation Table							
+Winke	August	Winke	August	D	1867	Mar				Dzialyn	68	Lublin 1867-1869	00039	66	K Krueger				"Mueller, Friederike"	Compilation Table							
+Domres	Ferdynand	Domres	Ferdinand	D	1867	Mar	Johann	"Kramp, Anna Eliza"	"Kramp, Anna Elisa"	Miloszowka	68	Lublin 1867-1869	00039	67	K Krueger					Compilation Table							
+Schlag (marride name)	Krystyna	Schlag (married name)	Christine	D	1867	Mar				Skordiow	68	Lublin 1867-1869	00039	68	K Krueger				Schlag	Compilation Table							
+Bleich	Piotr	Bleich	Peter	D	1867	Mar	Heinrich	"Buchholtz, Marya"	"Buchholtz, Marie"	Teosin	68	Lublin 1867-1869	00039	69	K Krueger					Compilation Table							
+Stabka	Marya  	Stabka	Marie	D	1867	Apr	Bazytego?	"Schefler, Emilia"	"Scheffler, Emilie"	Chlaniow	68	Lublin 1867-1869	00053	70	K Krueger					Compilation Table							
+Geske	Anna Ludwika	Geske	Anna Luise	D	1867	Apr	Martin	"Radke, Wilhelmina"	"Radke, Wilhelmine"	Hordziez	68	Lublin 1867-1869	00053	71	K Krueger					Compilation Table							
+Luettau	Justyna	Luetau	Justine	D	1867	Apr	Franz	"Erbeling, Gottlieba"	"Erbling, Gottlieba"	Lublin	68	Lublin 1867-1869	00053	72	K Krueger					Compilation Table							
+Krueger	Joanna	Krueger	Johanne	D	1867	Apr	Johann	"Huk, Julianna"	"Huk, Julianne"	Czerwonka	68	Lublin 1867-1869	00054	73	K Krueger					Compilation Table							
+Radke	Edward	Radke	Eduard	D	1867	Apr	August	"Draheim, Justyna"	"Draheim, Justine"	Gizyce	68	Lublin 1867-1869	00053	74	K Krueger					Compilation Table							
+Schendel	Wilhelm	Schendel	Wilhelm	D	1867	Apr	Michael	"Jahnke, Elzbieta"	"Janke, Elisabeth"	Teosin	68	Lublin 1867-1869	00053	75	K Krueger					Compilation Table							
+Tschense	Piotr	Tschense	Peter	D	1867	Apr	Christian	"Schmidt, Anna"	"Schmidt, Anna"	Teosin	68	Lublin 1867-1869	00053	76	K Krueger					Compilation Table							
+Henschel	Wilhelmina	Henschel	Wilhelmine	D	1867	Apr	Gottfried	"Mattner, Justyna"	"Mattner, Justine"	Graniczna	68	Lublin 1867-1869	00053	77	K Krueger					Compilation Table							
+Kamien	Franciszen	Kamien	Franz	D	1867	Apr				Bronislawow	68	Lublin 1867-1869	00054	78	K Krueger				"Froehlich, Justine"	Compilation Table; surviving children listed							
+Glaesmann	Jan	Glaesmann	Johann	D	1867	Apr	Martin	"Burchat, Karolina"	"Burchat, Karoline"	Rachow	68	Lublin 1867-1869	00054	79	K Krueger					Compilation Table							
+Buedler	Ludwik	Buedler	Ludwig	D	1867	Apr				Rachow	68	Lublin 1867-1869	00054	80	K Krueger				"Zepik, Marianna"	Compilation Table; surviving children listed							
+Kupec	Jozef	Kupetz	Joseph	D	1867	Apr	Paul	"Ofenhamer, Rozalia"	"Ofenhammer, Rosalie"	Izydorow	68	Lublin 1867-1869	00055	81	K Krueger					Compilation Table							
+Horn	Anna	Horn	Anna	D	1867	Apr	Wilhelm	"Doberstein, Henryette"	"Doberstein, Henriette"	Wankowszczyzna	68	Lublin 1867-1869	00054	82	K Krueger					Compilation Table							
+Schmiedtke	Rozyna	Schmidtke	Rosine	D	1867	Apr	Michael	"Kauss, Justyna"	"Kauss, Justine"	Lipniak	68	Lublin 1867-1869	00055	83	K Krueger					Compilation Table							
+Pyde	Martin	Pide	Martin	D	1867	Apr	Johann	"Betcher, Justyna"	"Betcher, Justine"	Klementynow	68	Lublin 1867-1869	00054	84	K Krueger					Compilation Table							
+Zielke	Karolina	Zielke	Karoline	D	1867	Apr				Janowica	68	Lublin 1867-1869	00054	85	K Krueger				"Bloch, Gottfried"	Compilation Table							
+Makkus	Julianna	Makus	Julianne	D	1867	Apr	Gottfried	"Burrman, Anna Dorotta"	"Burmann, Anna Dorothea"	Janowica	68	Lublin 1867-1869	00055	86	K Krueger					Compilation Table							
+Kisser	Anna Katarzyna	Kisser	Anna Katharine	D	1867	Apr	Gottlieb	"Krueger, Anna Krystyna"	"Krueger, Anna Christine"	Ruszow	68	Lublin 1867-1869	00055	87	K Krueger					Compilation Table							
+Beutler	Anna	Beutler	Anna	D	1867	Apr	Johann	"Kriese, Anna Krystyna"	"Kriese, Anna Christine"	Aleksandrowka	68	Lublin 1867-1869	00057	88	K Krueger					Compilation Table							
+Bloch	August	Bloch	August	D	1867	Apr	Gottfried	"Zielke, Karolina"	"Zielke, Karoline"	Janowica	68	Lublin 1867-1869	00055	89	K Krueger					Compilation Table							
+Kaschub	Gottlieb	Kaschub	Gottlieb	D	1867	Apr				Janowica	68	Lublin 1867-1869	00055	90	K Krueger				"Zielke, Dorothea"	Compilation Table							
+Gerke	Ludwik	Gerke 	Ludwig	D	1867	Apr	Johann	"Lohb, Rozyna"	"Lob, Rosine"	Aleksandrowka	68	Lublin 1867-1869	00057	91	K Krueger					Compilation Table							
+Wilde	Julianna	Wilde 	Julianne	D	1867	Apr	Martin	"Klath, Ludwika"	"Klatt, Luise"	Justynow	68	Lublin 1867-1869	00057	92	K Krueger					Compilation Table							
+Kurenke	Krystyna	Kurenke	Christine	D	1867	Apr	Friedrich	"Herrman, Eufrozyna"	"Hermann, Euphrosine"	Zurawieniec	68	Lublin 1867-1869	00057	93	K Krueger					Compilation Table							
+Jubin	Samuel	Jubin	Samuel	D	1867	Apr	Gottfried	"Kowalski, Eleonora"	"Kowalski, Eleonore"	Wankowszczyzna	68	Lublin 1867-1869	00056	94	K Krueger					Compilation Table							
+Siebert	Emilia	Siebert	Emilie	D	1867	Apr	Johann	"Besler, Ewa"	"Besler, Eva"	Bielany	68	Lublin 1867-1869	00058	95	K Krueger					Compilation Table							
+Fabijanska	Joanna Franciszka	Fabieanska	Johanna Franziska	D	1867	Apr	Kajetan	"Engel, Wilhelmina"	"Engel, Wilhelmine"	Lublin	68	Lublin 1867-1869	00055	96	K Krueger					Compilation Table							
+Nerling	Edward	Nerling	Eduard	D	1867	Apr	Julius	"Kuehn, Maryanna"	"Kuehn, Marianne"	Hordziez	68	Lublin 1867-1869	00056	97	K Krueger					Compilation Table							
+Seemann	Pauline	Seemann	Pauline	D	1867	Apr	Michael	"Werner, Krystyna"	"Werner, Christine"	Adamow	68	Lublin 1867-1869	00056	98	K Krueger					Compilation Table							
+Pyde	Gottlieb	Pide	Gottlieb	D	1867	Apr	Johann	"Betcher, Justyna"	"Betcher, Justine"	Klementynow	68	Lublin 1867-1869	00056	99	K Krueger					Compilation Table							
+Winkel	Emilia	Winkel	Emilie	D	1867	Apr	August	"Geske, Wilhelmina"	"Geske, Wilhelmine"	Serokomla	68	Lublin 1867-1869	00056	100	K Krueger					Compilation Table							
+Gatzke	Maryanna	Gatzke	Marianne	D	1867	Apr	Friedrich	"Maryng, Rozyna"	"Maring, Rosine"	Zawada	68	Lublin 1867-1869	00058	101	K Krueger					Compilation Table							
+Hund	Ernestyna	Hundt	Ernestine	D	1867	Apr	Karl	"Arndt, Justyna"	"Arndt, Justine"	Antonin	68	Lublin 1867-1869	00056	102	K Krueger					Compilation Table							
+Hemmerling	Matylda	Hemmerling	Mathilde	D	1867	Apr	Samuel	"Groenke, Wilhelmina"	"Grenke, Wilhelmine"	Janowica	68	Lublin 1867-1869	00057	104	K Krueger					Compilation Table							
+Wiedehoeft	Gustaw	Wiedehoeft	Gustav	D	1867	Apr	Friedrich	"Strohschein, Henryetta"	"Strohschein, Henriette"	Janowica	68	Lublin 1867-1869	00057	105	K Krueger					Compilation Table							
+Buss	Rozyna	Buss 	Rosine	D	1867	May				Adamow	68	Lublin 1867-1869	00057	106	K Krueger				Werner 	Compilation Table							
+Wilde	Jan	Wilde 	Johann	D	1867	May	Martin	"Klath, Ludwika"	"Klatt, Luise"	Justynow	68	Lublin 1867-1869	00069	107	K Krueger					Compilation Table							
+Bloch	Jakob	Bloch	Jakob	D	1867	May	Michael	"Strauch, Dorotta"	"Strauch, Dorothea"	Jagodno	68	Lublin 1867-1869	00070	108	K Krueger					Compilation Table; surviving children listed							
+Seemann	Julianna	Seemann	Julianne	D	1867	May	Michael	"Werner, Krystyna"	"Werner, Christine"	Adamow	68	Lublin 1867-1869	00069	109	K Krueger					Compilation Table							
+Schindler	Ewa	Schindler	Eva	D	1867	May	Johann	"Zerbyn, Zuzanna"	"Zerbin, Susanne"	Pawlow	68	Lublin 1867-1869	00069	110	K Krueger					Compilation Table							
+Rosenberg	Emilia Angelika	Rosenberg	Emilie Angelika	D	1867	May	Julius	"Wegner, Ludwika"	"Wegner, Luise"	Sewerynowka	68	Lublin 1867-1869	00069	111	K Krueger					Compilation Table							
+Ruks	Gottlieb	Ruks	Gottlieb	D	1867	May	Johann Friedrich	"Schachtschneider, Wilhelmina"	"Schachtschneider, Wilhelmine"	Stanislawow	68	Lublin 1867-1869	00069	112	K Krueger					Compilation Table							
+Bruekner	Zuzanna	Bruekner	Susanne	D	1867	May	Gottlieb	"Irrgang, Anna Dorotta"	"Irrgang, Anna Dorothea"	Justynow	68	Lublin 1867-1869	00069	113	K Krueger					Compilation Table							
+Brunn	Juliusz	Brun	Julius	D	1867	May	Ludwig	"Renn, Eleonora"	"Renn, Eleonore"	Bielany	68	Lublin 1867-1869	00070	114	K Krueger					Compilation Table							
+Fligel	Martin	Fluegel	Martin	D	1867	May	Gottlieb	"Gejer, Eufrozyna"	"Geier, Euphrosine"	Bielany	68	Lublin 1867-1869	00070	115	K Krueger					Compilation Table							
+Rosenberg	Franciszk Rudolf	Rosenberg	Franz  Rudolf	D	1867	May	Karl	"Wadsack, Zofia Wilhelmina"	"Wadsack, Sophie Wilhelmine"	Juliopol	68	Lublin 1867-1869	00070	116	K Krueger					Compilation Table							
+Werner	Krystyna	Werner	Christine	D	1867	May		"Buss, Rozyna"	"Buss, Rosine"	Adamow	68	Lublin 1867-1869	00072	117	K Krueger				Seemann	Compilation Table							
+Fenske	August	Fenske	August	D	1867	May	Johann	"Geger, Justyna"	"Geger, Justine"	Izydorow	68	Lublin 1867-1869	00070	118	K Krueger					Compilation Table							
+Schmidt	Fryderyk Karol	Schmidt	Friedrich Karl	D	1867	May	Michael	"Fenski, Rozalia"	"Fenske, Rosalie"	Wojciechow	68	Lublin 1867-1869	00071	119	K Krueger					Compilation Table							
+Strauch	Dorotta	Strauch	Dorothea	D	1867	May				Sobolew	68	Lublin 1867-1869	00074	120	K Krueger				Bloch 	Compilation Table; surviving children listed							
+Zielke	Rozalia	Zielke	Rosalie	D	1867	May	August	"Schultz, Julianna"	"Schultz, Julianne"	Janowica	68	Lublin 1867-1869	00070	121	K Krueger					Compilation Table							
+Tederka	August	Tederka	August	D	1867	May	Karl	"Radetke, Anna  Krystyna"	"Radetke, Anna Christine"	Gabow	68	Lublin 1867-1869	00071	122	K Krueger					Compilation Table							
+Kant	Herrmann Pawel	Kant	Hermann Paul	D	1867	May	Ludwig	"Mathew, Karolina"	"Mathew, Karoline"	Wojciechow	68	Lublin 1867-1869	00072	123	K Krueger					Compilation Table							
+Horn	Ludwika Weronika	Horn	Luise Veronika	D	1867	May	Unknown/unbekannt	"Horn, Berta"	"Horn, Berta"	Wojciechow	68	Lublin 1867-1869	00072	124	K Krueger					Compilation Table							
+Schwabe	Joanna Ludwika	Schwabe	Johanne Luise	D	1867	May	Gottlieb	"Buss, Zofia"	"Buss, Sophie"	Lublin	68	Lublin 1867-1869	00069	125	K Krueger				"Schwabe, Heinrich"	Compilation Table							
+Bosenius	Wilhelmina	Bosenius	Wilhelmine	D	1867	May	Ferdinand	"Herrmann, Eleonora"	"Hermann, Eleonore"	Wolka Nadrybska	68	Lublin 1867-1869	00071	126	K Krueger					Compilation Table							
+Holland	Krzysztof	Holland	Christoph	D	1867	May	Andreas	"Wutzki, Justyna"	"Wutzke, Justine"	Miloszowka	68	Lublin 1867-1869	00071	127	K Krueger					Compilation Table							
+Gross	Karolina	Gross	Karoline	D	1867	May	Michael	"Schinkel, Rozyna"	"Schinkel, Rosine"	Stasiew (=Stasin)	68	Lublin 1867-1869	00071	129	K Krueger					Compilation Table							
+Zaft	Wilhelm August	Zaft	Wilhelm August	D	1867	May	Michael	"Krueger, Krystyna"	"Krueger, Christine"	Bielany	68	Lublin 1867-1869	00072	130	K Krueger				"Kiern, Anna Wilhelmine"	Compilation Table							
+Scheske	Wilhelm	Scheske	Wilhelm	D	1867	May	Gottfried	"Semrok, Anna Karolina"	"Semrok, Anna Karoline"	Tomaszowka	68	Lublin 1867-1869	00071	131	K Krueger					Compilation Table							
+Rohlof 	Krystyna	Rolof	Christine	D	1867	May	Martin	"Stentzl, Karolina"	"Stentzel, Karoline"	Bielin	68	Lublin 1867-1869	00071	132	K Krueger					Compilation Table							
+Kuehn	Marcin	Kuehn	Martin	D	1867	May	Karl	"Trelenberg, Rozyna"	"Trelenberg, Rosine"	Lipniak	68	Lublin 1867-1869	00072	133	K Krueger					Compilation Table							
+Grunwald	Julianna	Grunwald	Julianne	D	1867	May	Adolf	"Gruening, Krystyna"	"Gruening, Christine"	Justynow	68	Lublin 1867-1869	00072	134	K Krueger					Compilation Table							
+Frederich	August	Frederich	August	D	1867	May	Friedrich	"Mejer, Rozyna"	"Meier, Rosine"	Lisiepole	68	Lublin 1867-1869	00073	135	K Krueger					Compilation Table							
+Jess	Gottlieb	Jess	Gottlieb	D	1867	May	Adam	"Eshner, Wilhelmina"	"Eschner, Wilhelmine"	Janowica	68	Lublin 1867-1869	00073	136	K Krueger					Compilation Table							
+Karyan	Michal	Karyan	Michael	D	1867	May	Samuel	"Thiede, Regina"	"Tiede, Regina"	Justynow	68	Lublin 1867-1869	00073	137	K Krueger					Compilation Table							
+Sonnenburg	Ernestyna	Sonnenburg	Ernestine	D	1867	May	Unknown/unbekannt	"Sonnenburg, Henryetta"	"Sonnenburg, Henriette"	Hordziez	68	Lublin 1867-1869	00073	138	K Krueger					Compilation Table							
+Sonnenburg	Wilhelmina	Sonnenburg	Wilhelmine	D	1867	May	Unknown/unbekannt	"Sonnenburg, Henryetta"	"Sonnenburg, Henriette"	Hordziez	68	Lublin 1867-1869	00073	139	K Krueger					Compilation Table							
+Bonn		Bonn	stillborn	D	1867	May	Wilhelm	"Krembrow, Julianna"	"Kembrow, Julianne"	Radziejow	68	Lublin 1867-1869	00073	140	K Krueger					Compilation Table							
+Steinnebel	Karolina	Steinebel	Karoline	D	1867	May	Samuel	"Gisel, Ludwika"	"Gisel, Luise"	Teosin	68	Lublin 1867-1869	00072	141	K Krueger				"Zimmer, Paul"	Compilation Table; surviving children listed							
+Vierus	Karol	Firus	Karl	D	1867	May	Friedrich	"Wolter, Julianna"	"Wolter, Julianne"	Jozefow	68	Lublin 1867-1869	00074	142	K Krueger					Compilation Table							
+Duesselberg	Magdalena	Duesselberg	Magdalene	D	1867	May	Jakob	"Krenz, Magdalena"	"Krentz, Magdalene"	Kulczyn	68	Lublin 1867-1869	00074	143	K Krueger					Compilation Table							
+Frejtag	Paulina	Freitag	Pauline	D	1867	May	Stefan	"Reich, Maryanna"	"Reich, Marianne"	Radziejow	68	Lublin 1867-1869	00073	144	K Krueger					Compilation Table							
+Stoermer	Juliusz	Stoermer 	Julius	D	1867	May	August	"Schultz, Marya "	"Schultz, Marie"	Skordiow	68	Lublin 1867-1869	00074	145	K Krueger					Compilation Table							
+Niemtz	Karolina	Niemtz	Karoline	D	1867	May	Ludwig	"Lipke, Joanna"	"Lipke, Johanne"	Wolka Nadrybska	68	Lublin 1867-1869	00074	146	K Krueger					Compilation Table							
+Elerd	Jan Fryderyk	Elerd	Johann Friedrich	D	1867	May	Gottlieb	"Rieske, Karolina"	"Riske, Karoline"	Hordziez	68	Lublin 1867-1869	00074	147	K Krueger				"Sonnenburg, Eva"	Compilation Table; surviving children listed							
+Duesterhoeft	Ludwik	Duesterhoeft	Ludwig	D	1867	May	August	"Jaeger, Florentyna"	"Jaeger, Florentine"	Bronislawow	68	Lublin 1867-1869	00074	148	K Krueger					Compilation Table							
+Eichmann	Edward	Eichmann	Eduard	D	1867	Jun	Samuel	"Schmidtdorf, Justyna"	"Schmidtdorf, Justine"	Zawada	68	Lublin 1867-1869	00087	149	K Krueger					Compilation Table							
+Rutsch	Wilhelmina	Rutsch	Wilhelmine	D	1867	Jun	Ferdinand	"Sperling, Justyna"	"Sperling, Justine"	Justynow	68	Lublin 1867-1869	00087	150	K Krueger					Compilation Table							
+Karyan	Fryderyk	Karyan	Friedrich	D	1867	Jun	Samuel	"Thiede, Regina"	"Tiede, Regina"	Justynow	68	Lublin 1867-1869	00087	151	K Krueger					Compilation Table							
+Schroeder	Dawid	Schroeder	David	D	1867	Jun	Karl	"Schultz, Ludwika"	"Schultz, Luise"	Aleksandrowka	68	Lublin 1867-1869	00087	152	K Krueger					Compilation Table							
+Schalm	Ludwik	Schalm	Ludwig	D	1867	Jun	Schalm	"Pul, Elzbieta"	"Puhl, Elisabeth"	Stanislawow	68	Lublin 1867-1869	00088	153	K Krueger					Compilation Table							
+Wojahn	Fryderyk	Wojahn	Friedrich	D	1867	Jun	Johann	"Kriesl, Anna"	"Kriesel, Anna"	Wojciechow	68	Lublin 1867-1869	00088	154	K Krueger					Compilation Table; surviving children listed							
+Jess	Karolina	Jess	Karoline	D	1867	Jun	Adam	"Eschner, Wilhelmina"	"Eschner, Wilhelmine"	Janowica	68	Lublin 1867-1869	00088	155	K Krueger					Compilation Table							
+Neumann	Paulina	Neumann	Pauline	D	1867	Jun	Gottfried	"Zielke, Amalia"	"Zielke, Amalie"	Sobolew	68	Lublin 1867-1869	00087	156	K Krueger					Compilation Table							
+Krueger	Gustaw	Krueger	Gustav	D	1867	Jun	Gottlieb	"Schmidt, Karolina"	"Schmidt, Karoline"	Radziejow	68	Lublin 1867-1869	00088	157	K Krueger					Compilation Table							
+Kissmann	Wilhelmina	Kissmann	Wilhelmine	D	1867	Jun	Gottlieb	"Kaschube, Anna Krystyna"	"Kaschube, Anna Christine"	Janowica	68	Lublin 1867-1869	00088	158	K Krueger					Compilation Table							
+Hoffmann	Jan Fryderyk	Hoffmann	Johann Friedrich	D	1867	Jun				Tomaszowka	68	Lublin 1867-1869	00088	159	K Krueger				"Letner, Anna"	Compilation Table							
+Kuehn	Julianna	Kuehn	Julianne	D	1867	Jun	Andreas	"Kassner, Karolina"	"Kassner, Karoline"	Zawada	68	Lublin 1867-1869	00088	160	K Krueger					Compilation Table							
+Welke	Emil Robert	Welke	Emil Robert	D	1867	Jun	Ferdinand	"Lange, Florentyna"	"Lange, Florentine"	Wolka Nadrybska	68	Lublin 1867-1869	00089	161	K Krueger					Compilation Table							
+Rimanne	Emilia	Rimanne	Emilie	D	1867	Jun	Ferdinand	"Fitzner, Krystyna"	"Fitzner, Christine"	Izydorow	68	Lublin 1867-1869	00090	162	K Krueger					Compilation Table							
+Fitzner	Krystyna	Fitzner	Christine	D	1867	Jun				Izydorow	68	Lublin 1867-1869	00090	163	K Krueger				"Rimanne, Ferdinand"	Compilation Table							
+Friesecke	Franciszek Pawel	Friesecke	Franz Paul	D	1867	Jun	Karl	"Schiemke, Anna"	"Schiemke, Anna"	Czwartek	68	Lublin 1867-1869	00089	164	K Krueger					Compilation Table							
+Bordo	Karol August	Bordo	Karl August	D	1867	Jun	Albert	"Roesler, Joanna"	"Roesler, Johanne"	Zemborzyce	68	Lublin 1867-1869	00089	165	K Krueger					Compilation Table							
+Heinrich	Gottlieb	Heinrich	Gottlieb	D	1867	Jun	Gottlieb	"Weichrauch, Anna Rosine"	"Weichrauch, Anna Rosine"	Lublin	68	Lublin 1867-1869	00089	166	K Krueger					Compilation Table							
+Brejning	Karol Gustaw Henryk	Breining	Karl Gustav Heinrich	D	1867	Jun	Christian	"Schopke, Julianna"	"Schopke, Julianne"	Lublin	68	Lublin 1867-1869	00089	167	K Krueger				"Natrop, Julianne Dorothea"	Compilation Table; surviving children listed							
+Klamer	Anna	Klamer	Anna	D	1867	Jun	Peter	"Krueger, Katarzyna"	"Krueger, Katharine"	Teosin	68	Lublin 1867-1869	00089	168	K Krueger				"Linmann, Jakob"	Compilation Table; surviving children listed							
+Gegen	Maryanna	Gegen	Marianne	D	1867	Jun	Johann	"Wejtz, Scharlotta"	"Weitz, Charlotte"	Rachow	68	Lublin 1867-1869	00089	169	K Krueger				Buedler	Compilation Table; surviving children listed							
+Pokrant	Henryk	Pokrant	Heinrich	D	1867	Jun	Friedrich	"Buech, Wilhelmina"	"Buech, Wilhelmine"	Bielany	68	Lublin 1867-1869	00092	170	K Krueger				"Schmidt, Susanne"	Compilation Table; surviving children listed							
+Kinetz	Gottlieb	Kinetz	Gottlieb	D	1867	Jun	Gottlieb	"Jahnke, Anna Karolina"	"Janke, Anna Karoline"	Justynow	68	Lublin 1867-1869	00090	171	K Krueger					Compilation Table							
+Schiewe	Wilhelm	Schiewe	Wilhelm	D	1867	Jun	Christoph	"Schultz, Karolina"	"Schultz, Karoline"	Justynow	68	Lublin 1867-1869	00090	172	K Krueger					Compilation Table							
+Rejter	Ernestyna	Reiter	Ernestine	D	1867	Jun	Ludwig	"Bilof, Wilhelmina"	"Bilof, Wilhelmine"	Bielany	68	Lublin 1867-1869	00090	173	K Krueger					Compilation Table							
+Baumann	Julianna	Baumann	Julianne	D	1867	Jun	Karl	"Kierczynski, Karolina"	"Kierczynski, Karoline"	Bielany	68	Lublin 1867-1869	00091	174	K Krueger					Compilation Table							
+Stejnke	Ernestyna Ida	Steinke	Ernestine Ida	D	1867	Jun	August	"Taube, Justyna"	"Taube, Justine"	Zemborzyce	68	Lublin 1867-1869	00090	175	K Krueger					Compilation Table							
+Schiewe	Anna	Schiewe	Anna	D	1867	Jun				Lublin	68	Lublin 1867-1869	00090	176	K Krueger				"Friesecke, Karl"	Compilation Table							
+Thiede	Ewa	Tiede 	Eva	D	1867	Jun	Johann	"Karyan, Ewa"	"Karyan, Eva"	Justynow	68	Lublin 1867-1869	00091	177	K Krueger					Compilation Table							
+Pokrant	Karol 	Pokrant	Karl	D	1867	Jun	Ludwig	"Bagantz, Henryetta"	"Bagantz, Henriette"	Bielany	68	Lublin 1867-1869	00091	178	K Krueger					Compilation Table							
+Schmidt	Zuzanna	Schmidt	Susanne	D	1867	Jun	Karl			Aleksandrowka	68	Lublin 1867-1869	00091	179	K Krueger				"Schultz (1st spouse), Bogucki (2nd spouse)"	Compilation Table; surviving children listed							
+Markwart	Wilhelm	Markwart	Wilhelm	D	1867	Jun	August	"Kuehn, Anna Elzbieta"	"Kuehn, Anna Elisabeth"	Janowica	68	Lublin 1867-1869	00091	180	K Krueger					Compilation Table							
+Jabusch	Jan	Jabusch	Johann	D	1867	Jul				Wojciechow	68	Lublin 1867-1869	00102	181	K Krueger				"Schiewe, Justine"	Compilation Table; surviving children listed							
+Doberstein	Berta 	Doberstein	Berta Amalie	D	1867	Jul	August	"Neumann, Augustyna"	"Neumann, Augustine"	Wojciechow	68	Lublin 1867-1869	00102	182	K Krueger					Compilation Table							
+Hejn	Julianna	Hein	Julianne	D	1867	Jul	August	"Zuknik, Emilia"	"Zuknik, Emilie"	Felczyn	68	Lublin 1867-1869	00102	183	K Krueger					Compilation Table							
+Wegner	Ewa	Wegner	Eva	D	1867	Jul	Christoph	"Horn, Ewa Rozalia"	"Horn, Eva Rosalie"	Juliopol	68	Lublin 1867-1869	00102	184	K Krueger				"Kufert, Ludwig"	Compilation Table							
+Draheim	Ludwik	Draheim	Ludwig	D	1867	Jul	Paul	"Silaf, Ewa Rozyna"	"Silaf, Eva Rosine"	Zemborzyce	68	Lublin 1867-1869	00101	185	K Krueger					Compilation Table							
+Milling	Augusta	Milling	Auguste	D	1867	Jul	August	"Steinke, Ernestyna"	"Steinke, Ernestine"	Czarna	68	Lublin 1867-1869	00103	186	K Krueger					Compilation Table							
+Worpus	Joanna	Worpus	Johanna	D	1867	Jul	not known	"Gebauer, Eleonora"	"Gebauer, Eleonore"	Gizyce	68	Lublin 1867-1869	00102	187	K Krueger				"Rudolf, Karl"	Compilation Table							
+Dyko	Wilhelmina	Diko	Wilhelmine	D	1867	Jul	Gottlieb	"Kempke, Maryanna"	"Kempke, Marianne"	Rachow	68	Lublin 1867-1869	00102	188	K Krueger					Compilation Table							
+Zawal	Gottlieb	Zawal	Gottlieb	D	1867	Jul	Andreas	"Fechner, Anna Krystyna"	"Fechner, Anna Christine"	Bielany	68	Lublin 1867-1869	00104	189	K Krueger					Compilation Table; surviving children listed							
+Kriesel	Justyna	Kriesel	Justine	D	1867	Jul	Michael	"Zerbyn, Justyna"	"Zerbin, Justine"	Pielgrzymka	68	Lublin 1867-1869	00102	190	K Krueger					Compilation Table							
+Duesterhoeft	August	Duesterhoeft	August	D	1867	Jul	Samuel	"Stebner, Ewa"	"Stebner, Eva"	Aleksandria Krzywowolska	68	Lublin 1867-1869	00103	191	K Krueger					Compilation Table							
+Wollschlaeger	Krystyna	Wollschlager	Christine	D	1867	Jul	Michael	"Jahnke, Ewa Rozyna"	"Janke, Eva Rosine"	Zarobka	68	Lublin 1867-1869	00103	192	K Krueger				"Jung, Johann"	Compilation Table							
+Wend	Samuel	Wend 	Samuel	D	1867	Jul	Michael	"Wehler, Anna Krystyna"	"Wehler, Anna Christine"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00103	193	K Krueger					Compilation Table							
+Bleich	Henryk	Bleich 	Heinrich	D	1867	Jul	Georg	"Schoenrok, Zuzanna"	"Schoenrok, Susanne"	Teosin	68	Lublin 1867-1869	00103	194	K Krueger					Compilation Table							
+Duesterhoeft	Karolina	Duesterhoeft	Karoline	D	1867	Jul	Samuel	"Wahnke, Justyna"	"Wahnke, Justine"	Aleksandria Krzywowolska	68	Lublin 1867-1869	00103	195	K Krueger					Compilation Table							
+Hutzel	Anna Zuzanna	Hutzel	Anna Susanne	D	1867	Jul	Johann	"Holtz, Anna"	"Holtz, Anna  "	Bielsko	68	Lublin 1867-1869	00103	196	K Krueger					Compilation Table							
+Zempel	Emilia	Zempel	Emilie	D	1867	Jul	Michael	"Mueller, Rozalia"	"Mieller, Rosalie"	Bielany	68	Lublin 1867-1869	00104	197	K Krueger					Compilation Table							
+Kabusch	Krystyna	Kabusch	Christine	D	1867	Jul	Andreas	"Lentz, Rozalia"	"Lentz, Rosalie"	Antonin	68	Lublin 1867-1869	00104	198	K Krueger					Compilation Table							
+Kriese	Jan	Kriese 	Johann	D	1867	Jul	Gottlieb	"Kurtzhals, Wilhelmine"	"Kurtzhals, Wilhelmine"	Bielany	68	Lublin 1867-1869	00105	199	K Krueger					Compilation Table							
+Gross	Paulina	Gross	Pauline	D	1867	Jul	Wilhelm	"Kelm, Ludwika"	"Kelm, Luise"	Justynow	68	Lublin 1867-1869	00104	200	K Krueger					Compilation Table							
+Zielke	Fryderyk Wilhelm	Zielke	Friedrich Wilhelm	D	1867	Jul	Johann	"Makus, Karolina"	"Makus, Karoline"	Janowica	68	Lublin 1867-1869	00104	201	K Krueger					Compilation Table							
+Mueller	Wilhelm August	Mueller	Wilhelm August	D	1867	Jul	Karl	"Ziebart, Karolina"	"Ziebart, Karoline"	Czulczyce	68	Lublin 1867-1869	00105	202	K Krueger					Compilation Table							
+Hall	Marya Ludwika	Hall	Marie Luise 	D	1867	Jul	Georg 	"Rosenfeldt, Aniela"	"Rosenfeld, Aniele"	Radlin	68	Lublin 1867-1869	00104	203	K Krueger					Compilation Table							
+Repp	Karolina Wilhelmina  	Repp	Karoline Wilhelmine  	D	1867	Jul	Karl	"Oelke, Henryetta"	"Oelke, Henriette"	Kobyle	68	Lublin 1867-1869	00105	204	K Krueger					Compilation Table							
+Hoffmann	Emma Augusta	Hoffmann	Emma Auguste	D	1867	Aug	August	"Rakwitz, Zuzanna"	"Rakwitz, Susanne"	Lublin	68	Lublin 1867-1869	00115	205	K Krueger				"Klempel, Gottlieb"	Compilation Table							
+Schmaltz	Wilhelmina	Schmaltz	Wilhelmine	D	1867	Aug	Johann	"Panto, Ludwika"	"Panto, Luise"	Nadrybie	68	Lublin 1867-1869	00116	206	K Krueger					Compilation Table							
+Maas	Juliusz	Maas	Julius	D	1867	Aug	Daniel	"Grass, Wilhelmina"	"Grass, Wilhelmine"	Wojciechow	68	Lublin 1867-1869	00115	207	K Krueger					Compilation Table							
+Batz	Karolina	Batz	Karoline	D	1867	Aug				Slugocin	68	Lublin 1867-1869	00115	208	K Krueger				Krinke	Compilation Table							
+Eurisch	Krystyan	Eurisch	Christian	D	1867	Aug	Jakob	"Krampitz, Krystyna"	"Krampitz, Christine"	Zurawieniec	68	Lublin 1867-1869	00115	209	K Krueger				"Gerlow, Marianne"	Compilation Table; surviving children listed							
+Bauer	Emil	Bauer	Emil	D	1867	Aug	Adolf	"Wittig, Emilia"	"Wittig, Emilia"	Lublin	68	Lublin 1867-1869	00115	210	K Krueger					Compilation Table							
+Patzer	Anna Ludwika	Patzer	Anna Luise	D	1867	Aug	Johann	"Eilert, Ernestyna"	"Eilert, Ernestine"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00115	211	K Krueger					Compilation Table							
+Frantzke	Michal	Frantzke	Michael	D	1867	Aug	Johann	"Schnik, Julianna"	"Schnik, Julianne"	Aleksandrowka	68	Lublin 1867-1869	00116	212	K Krueger					Compilation Table							
+Noetzel	Jan	Noetzel	Johann	D	1867	Aug	Christian	"Rosol, Ewa"	"Rosol, Eva"	Bronislawow	68	Lublin 1867-1869	00116	213	K Krueger					Compilation Table							
+Kopp	Krystyan	Kopp	Christian	D	1867	Aug	Christian	"Krause, Anna"	"Krause, Anna"	Zalisocze	68	Lublin 1867-1869	00116	214	K Krueger					Compilation Table							
+Jesse	Anna Matylda	Jesse	Anna Mathilde	D	1867	Aug	Wilhelm	"Rejch, Augusta"	"Reich, Auguste"	Lublin	68	Lublin 1867-1869	00115	215	K Krueger					Compilation Table							
+Kowalski	Jan	Kowalski	Johann	D	1867	Aug	Wilhelm	"Girschman, Anna Dorotta"	"Girschmann, Anna Dorothea"	Aleksandrowka	68	Lublin 1867-1869	00116	216	K Krueger					Compilation Table							
+Kowalski	Emilia	Kowalski	Emilie	D	1867	Aug	Wilhelm	"Girschman, Anna Dorotta"	"Girschmann, Anna Dorothea"	Aleksandrowka	68	Lublin 1867-1869	00116	217	K Krueger					Compilation Table							
+Krueger	Elzbieta Anna Ludwika	Krueger	Anna Elisabeth Luise	D	1867	Aug	Peter	"Krueger, Maryanna"	"Krueger, Marianne"	Miloszowka	68	Lublin 1867-1869	00117	218	K Krueger				"Meger, Adam"	Compilation Table							
+Sauder	Ludwik	Sauder	Ludwig	D	1867	Aug	Gottlieb	"Schultz, Karolina"	"Schultz, Karoline"	Graniczna	68	Lublin 1867-1869	00117	219	K Krueger					Compilation Table							
+Glaesmann	Marcin	Glaesmann	Martin	D	1867	Aug	Friedrich	"Siechler, Anna"	"Siechler, Anna"	Miloszowka	68	Lublin 1867-1869	00117	220	K Krueger				"Burchat, Karoline"	Compilation Table							
+Mund	Henryk	Mund	Heinrich	D	1867	Aug	Adam	"Henschl, Anna Marya"	"Henschel, Anna Marie"	Janowica	68	Lublin 1867-1869	00117	221	K Krueger					Compilation Table							
+Kwast	Wilhelmina	Kwast	Wilhelmine	D	1867	Aug	Martin	"Bekker, Augusta"	"Becker, Auguste"	Nadrybie	68	Lublin 1867-1869	00117	222	K Krueger					Compilation Table							
+Buchholtz	Karol Herrmann	Buchholtz	Karl Hermann	D	1867	Aug	Karl	"Marcicki, Joanna Wilhelmina"	"Marcicki, Johanne Wilhelmine"	Kucz	68	Lublin 1867-1869	00117	223	K Krueger					Compilation Table							
+Arndt	Ludwika  	Arndt	Luise	D	1867	Aug	Christoph	"Hejn, Justyna"	"Hein, Justine"	Stasiew (=Stasin)	68	Lublin 1867-1869	00117	224	K Krueger					Compilation Table							
+Schubert	Wilhelmina	Schubert	Wilhelmine	D	1867	Aug	Daniel	"Kuehn, Wilhelmina"	"Kuehn, Wilhelmine"	Zurawieniec	68	Lublin 1867-1869	00118	225	K Krueger					Compilation Table							
+Klukas	Krystyan	Klukas	Christian	D	1867	Aug	Unknown/unbekannt	"Klukas, Rozyna"	"Klukas, Rosine"	Miloszowka	68	Lublin 1867-1869	00118	227	K Krueger					Compilation Table							
+Demlang	Gottlieb	Demlang	Gottlieb	D	1867	Aug	Heinrich	"Schachtshnejder, Wilhelmina"	"Schachtschneider, Wilhelmine"	Sobolew	68	Lublin 1867-1869	00118	228	K Krueger					Compilation Table							
+Totzke	Karolina Emilia	Totzke	Karoline Emilie	D	1867	Aug	August	"Link, Karolina"	"Link, Karoline"	Nadrybie	68	Lublin 1867-1869	00118	229	K Krueger					Compilation Table							
+Hoeppner	Kaspar	Hoeppner	Kaspar	D	1867	Sep	Johann	"Schroeder, Ludwika"	"Schroeder, Luise"	Nadrybie	68	Lublin 1867-1869	00131	230	K Krueger					Compilation Table							
+Bryks	Andrzej	Briks	Andreas	D	1867	Sep	Ferdinand			Jagodno	68	Lublin 1867-1869	00131	231	K Krueger					Compilation Table							
+Selmer	Anna	Selmer	Anna	D	1867	Sep	Wilhelm	"Schmulandt, Ludwika"	"Schmulandt, Luise"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00132	232	K Krueger					Compilation Table							
+Hellberg	Juliusz	Helberg	Julius	D	1867	Sep	Samuel	"Schwartz, Ernestyna"	"Schwartz, Ernestine"	Janowica	68	Lublin 1867-1869	00132	233	K Krueger					Compilation Table							
+Selmer	Gustaw	Selmer	Gustav	D	1867	Sep	Wilhelm	"Schmulandt, Ludwika"	"Schmulandt, Luise"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00132	235	K Krueger					Compilation Table							
+Hejn	Gottfried	Hein	Gottfried	D	1867	Sep	Johann	"Kurtzman, Ludwika"	"Kurtzmann, Luise"	Pawlow	68	Lublin 1867-1869	00132	234	K Krueger					Compilation Table							
+Schindler	Krzysztof	Schindler	Christoph	D	1867	Sep	Michael	"Eliasz, Roza"	"Elias, Rose"	Pawlow	68	Lublin 1867-1869	00132	236	K Krueger					Compilation Table							
+Krueger	Gottlieb	Krueger	Gottlieb	D	1867	Sep	Wilhelm	"Schubert, Karolina"	"Schubert, Karoline"	Zurawieniec	68	Lublin 1867-1869	00132	237	K Krueger					Compilation Table							
+Bonin	Anna Elzbieta	Bonin	Anna Elisabeth	D	1867	Sep				Pawlow	68	Lublin 1867-1869	00134	238	K Krueger				Tiede	Compilation Table							
+Jubin	Emilia	Jubin	Emilie	D	1867	Sep	Gottfried	"Kowalski, Eleonora"	"Kowalski, Eleonore"	Wankowszczyzna	68	Lublin 1867-1869	00133	239	K Krueger					Compilation Table							
+Hejn	Ewa	Hein 	Eva	D	1867	Sep	Johann	"Kurtzman, Ludwika"	"Kurtzmann, Luise"	Pawlow	68	Lublin 1867-1869	00133	240	K Krueger					Compilation Table							
+Fangrad	Michal	Fangrad 	Michael	D	1867	Sep	Ludwig	"Thiede, Katarzyna"	"Tiede, Katharine"	Pawlow	68	Lublin 1867-1869	00133	241	K Krueger					Compilation Table							
+Friederich	Gottfried	Friederich	Gottfried	D	1867	Sep	Konrad	"Kowalski, Julianna"	"Kowalski, Julianne"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00133	242	K Krueger					Compilation Table							
+Holland 	Ludwik	Holland	Ludwig	D	1867	Sep	Gottlieb	"Arndt, Karolina"	"Arndt, Karoline"	Antonin	68	Lublin 1867-1869	00133	243	K Krueger					Compilation Table							
+Markwart	Henryetta	Markwart	Henriette	D	1867	Sep	August	"Kuehn, Anna Elzbieta"	"Kuehn, Anna Elisabeth"	Janowica	68	Lublin 1867-1869	00133	244	K Krueger					Compilation Table							
+Gebauer	Jan Karol	Gebauer	Johann Karl	D	1867	Sep	Georg	"Schultz, Henryetta"	"Schultz, Henriette"	Juliopol	68	Lublin 1867-1869	00133	245	K Krueger					Compilation Table							
+Riske	August Marcin	Riske	August Martin	D	1867	Sep	Martin	"Radke, Krystyna"	"Radke, Christine"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00134	246	K Krueger					Compilation Table							
+Gatzke	Anna Elzbieta	Gatzke	Anna Elisabeth	D	1867	Sep	Gottfried	"Hueller, Anna Ludwika"	"Hiller, Anna Luise"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00134	247	K Krueger					Compilation Table							
+Molzan	Eleonora	Molzan	Eleonore	D	1867	Sep	Unknown/unbekannt	"Molzan, Julianna"	"Molzan, Julianne"	Wankowszczyzna	68	Lublin 1867-1869	00134	248	K Krueger					Compilation Table							
+Haller	Ewa	Haller	Eva	D	1867	Sep	Friedrich	"Wollenberg, Efrosyna"	"Wollenberg, Euphrosine"	Amelin	68	Lublin 1867-1869	00134	249	K Krueger					Compilation Table							
+Mattner	Michal	Mattner	Michael	D	1867	Sep	Gottfried	"Zerbyn, Anna"	"Zerbin, Anna"	Graniczna	68	Lublin 1867-1869	00134	250	K Krueger					Compilation Table							
+Schindler	Rozalia	Schindler	Rosalie	D	1867	Oct				Janowica	68	Lublin 1867-1869	00144	251	K Krueger				Helberg	Compilation Table							
+Burchart	Klara Ludwika	Burchart	Klara Luise	D	1867	Oct				Rybie	68	Lublin 1867-1869	00144	252	K Krueger				"Giese, Karl"	Compilation Table							
+Nast	Ferdynand Henryk	Nast	Ferdinand Heinrich	D	1867	Oct	Karl	"Hellert, Julianna"	"Hellert, Julianne"	Jozefow	68	Lublin 1867-1869	00144	253	K Krueger					Compilation Table							
+Schultz	Karl	Schultz	Karl	D	1867	Oct				Rybie	68	Lublin 1867-1869	00144	254	K Krueger				"Justynski, Karoline"	Compilation Table							
+Wahl	Matylda	Wahl	Mathilde	D	1867	Oct	Eduard	"Neumann, Augusta"	"Neumann, Auguste"	Wojciechow	68	Lublin 1867-1869	00144	255	K Krueger					Compilation Table							
+Bung	Krystyna	Bung	Christine	D	1867	Oct				Justynow	68	Lublin 1867-1869	00145	256	K Krueger				"Rutsch, Julius"	Compilation Table							
+Hejn	Justyna	Hein	Justine	D	1867	Oct	Johann	"Rygel, Ludwika"	"Riegel, Luise"	Izydorow	68	Lublin 1867-1869	00144	257	K Krueger					Compilation Table							
+Weiss	August	Weiss	August	D	1867	Oct				Tomaszowka	68	Lublin 1867-1869	00144	258	K Krueger				"Hieske, Susanna"	Compilation Table							
+Wegner	Julianna	Wegner	Julianne	D	1867	Oct	Daniel	"Knakawski, Agnieszka"	"Knakowski, Agnes"	Aleksandria Krzywowolska	68	Lublin 1867-1869	00145	259	K Krueger					Compilation Table							
+Kuehn	Andrzej	Kuehn	Andreas	D	1867	Oct	Johann	"Hejman, Julianna"	"Heiman, Julianne"	Zawada	68	Lublin 1867-1869	00145	260	K Krueger					Compilation Table							
+Blank	August	Blank	August	D	1867	Oct	Heinrich	"Schultz, Krystyna"	"Schultz, Christine"	Krzywda	68	Lublin 1867-1869	00146	261	K Krueger					Compilation Table							
+Schoepke	Appolonia	Schoepke	Appolonia	D	1867	Oct	Gottlieb	"Fogel, Paulina"	"Vogel, Pauline"	Lublin	68	Lublin 1867-1869	00146	263	K Krueger					Compilation Table							
+Albrecht	Paulina	Albrecht	Pauline	D	1867	Oct	Andreas	"Nikolaj, Eufrozyna"	"Nikolai, Euphrosine"	Bronislawow	68	Lublin 1867-1869	00145	262	K Krueger					Compilation Table							
+Hejn 	Emilia	Hein	Emilie	D	1867	Oct	Johann	"Rygtow, Ludwika"	"Rigtow?, Luise"	Izydorow	68	Lublin 1867-1869	00145	264	K Krueger					Compilation Table							
+Braun	Emilia	Braun	Emilie	D	1867	Oct	Wilhelm	"Bohn, Rozyna"	"Bohn, Rosine"	Adamow	68	Lublin 1867-1869	00145	265	K Krueger					Compilation Table							
+Kyok	Czeslaw Edward	Kiok	Czeslaw Eduard	D	1867	Oct	Moritz	"Brejning, Amalia"	"Breining, Amalie"	Lublin	68	Lublin 1867-1869	00145	266	K Krueger					Compilation Table							
+Arndt	Karol	Arndt	Karl	D	1867	Nov	Ludwig	"Strauch, Maryanna"	"Strauch, Marianne"	Hniszow	68	Lublin 1867-1869	00155	267	K Krueger				"Kisser, Dorothea"	Compilation Table; surviving children listed							
+Grams	Gottlieb	Grams	Gottlieb	D	1867	Nov	Gottlieb	"Noehring, Ludwika"	"Noehring, Luise"	Bielsko	68	Lublin 1867-1869	00156	268	K Krueger					Compilation Table							
+Szatkowski	Dorotta	Schatkowski	Dorothea	D	1867	Nov	Peter	"Milke, Krystyna"	"Milke, Christine"	Gotowka	68	Lublin 1867-1869	00156	269	K Krueger					Compilation Table							
+Rosin	Karol	Rosin	Karl	D	1867	Nov	Friedrich	"Wegner, Krystyna"	"Wegner, Christine"	Bielsko	68	Lublin 1867-1869	00156	270	K Krueger					Compilation Table							
+Witte	Emilia Jozefina	Witte	Emilie Josefine	D	1867	Nov	Konstantin	"Andruszkiewicz, Ewellina"	"Andruszkiewicz, Eweline"	Lublin	68	Lublin 1867-1869	00156	271	K Krueger					Compilation Table							
+Krueger	Ewa	Krueger	Eva	D	1867	Nov	Karl	"Nass, Katarzyna"	"Nass, Katharine"	Bielin	68	Lublin 1867-1869	00155	268	K Krueger					Compilation Table							
+Szymanska	Anna Justyna	Schimanski	Anna Justine	D	1867	Nov	Ludwig	"Rahn, Wilhelmina"	"Rahn, Wilhelmine"	Janowica	68	Lublin 1867-1869	00156	273	K Krueger					Compilation Table							
+Zielke	Zuzanna	Zielke	Susanne	D	1867	Nov	Friedrich	"Schiming, Ludwika"	"Schiming, Luise"	Zurawieniec	68	Lublin 1867-1869	00156	274	K Krueger					Compilation Table							
+Noehring	Ludwika	Noehring	Luise	D	1867	Nov				Bielsko	68	Lublin 1867-1869	00156	275	K Krueger				"Grams, Gottlieb"	Compilation Table; surviving children listed							
+Big	Emmanuel	Big	Emanuel	D	1867	Nov	Ludwig	"Zahe, Ludwika"	"Zahe, Luise"	Aleksandrowka	68	Lublin 1867-1869	00157	276	K Krueger					Compilation Table							
+Winter	Ludwik	Winter	Ludwig	D	1867	Nov	Adam	"Kruschel, Ewa"	"Kruschel, Eva"	Leonardow	68	Lublin 1867-1869	00157	277	K Krueger					Compilation Table							
+Buss	Ludwik	Buss 	Ludwig	D	1867	Nov	Friedrich	"Gatzki, Elzbieta"	"Gatzke, Elisabeth"	Kulczyn	68	Lublin 1867-1869	00157	278	K Krueger					Compilation Table							
+Buss	Jan	Buss 	Johann	D	1867	Nov	Ludwig	"Oelke, Helena"	"Oelke, Helene"	Kulczyn	68	Lublin 1867-1869	00157	279	K Krueger					Compilation Table							
+Wolter	Karol	Wolter	Karl	D	1867	Nov	Karl	"Krueger, Zofia"	"Krueger, Sophie"	Teosin	68	Lublin 1867-1869	00157	280	K Krueger					Compilation Table							
+Schmidt	Karol	Schmidt	Karl	D	1867	Nov	Kasimir	"Englerdt, Katarzyna"	"Englerdt, Katharine"	Lublin	68	Lublin 1867-1869	00157	281	K Krueger					Compilation Table							
+Schmidt	Anna Justyna	Schmidt	Anna Justine	D	1867	Nov				Felczyn	68	Lublin 1867-1869	00157	282	K Krueger				Hein 	Compilation Table							
+Jeske	Gottfreid	Jeske	Gottfried	D	1867	Nov	Johann	"Pluegentz, Katarzyna"	"Pluegentz, Katharine"	Trojna	68	Lublin 1867-1869	00158	283	K Krueger					Compilation Table; surviving children listed							
+Pohl	Gottlieb	Pohl	Gottlieb	D	1867	Nov				Graniczna	68	Lublin 1867-1869	00158	284	K Krueger					Compilation Table; surviving children listed							
+Schendler	Anna Maryanna	Schendler	Anna Marianne	D	1867	Dec	Johann	"Poleg, Karolina"	"Poleg, Karoline"	Pielgrzymka	68	Lublin 1867-1869	00158	285	K Krueger				"Becker, Wilhelm"	Compilation Table							
+Eschner	Andrzej	Eschner	Andreas	D	1867	Dec	Michael	"Poleski, Justyna"	"Poleski, Justine"	Hordziez	68	Lublin 1867-1869	00158	286	K Krueger					Compilation Table							
+Kassner	Julianna	Kassner	Julianne	D	1867	Dec	Gottfried	"Schultz, Karolina"	"Schultz, Karoline"	Jozefow	68	Lublin 1867-1869	00167	287	K Krueger					Compilation Table							
+Rotz	Wilhelmina	Rotz	Wilhelmine	D	1867	Dec	Michael	"Rode, Ludwika"	"Rode, Luise"	Gotowka	68	Lublin 1867-1869	00167	288	K Krueger					Compilation Table							
+Winke	Zuzanna	Winke	Susanne	D	1867	Dec	August	"Winter, Ludwika"	"Winter, Luise"	Sewerynowka	68	Lublin 1867-1869	00167	289	K Krueger					Compilation Table							
+Omnik	Jan Jakob	Omnik	Johann Jakob	D	1867	Dec				Lublin	68	Lublin 1867-1869	00168	290	K Krueger				"Kaufmann, Anna Eleonore"	Compilation Table; surviving children listed							
+Lieske	Erdmann	Lieske	Erdmann	D	1867	Dec	Gottlieb	"Rentz, Maryanna"	"Rentz, Marianne"	Gizyce	68	Lublin 1867-1869	00168	291	K Krueger					Compilation Table							
+Krueger	August	Krueger	August	D	1867	Dec				Wojciechow	68	Lublin 1867-1869	00170	292	K Krueger				"Horn, Johanna Berta Mathilde"	Compilation Table							
+Bytner	Anna Katarzyna	Bittner	Anna Katharine	D	1867	Dec				Niedrzwica Wielka	68	Lublin 1867-1869	00168	293	K Krueger				"Rudka, Johann August"	Compilation Table							
+Strohscher	Michal	Strohscher	Michael	D	1867	Dec	Gottlieb	"Schmidtke, Rozyna"	"Schmidtke, Rosine"	Rachow	68	Lublin 1867-1869	00168	294	K Krueger					Compilation Table							
+Majewski	Anna Krystyna	Majewski	Anna Christine	D	1867	Dec	Gottlieb	"Binder, Anna rozyna"	"Binder, Anna Rosine"	Zurawieniec	68	Lublin 1867-1869	00168	295	K Krueger					Compilation Table							
+Bloch	Emilia	Bloch	Emilie	D	1867	Dec	Christoph	"Brauer, Wilhelmina"	"Brauer, Wilhelmine"	Zarobka	68	Lublin 1867-1869	00168	296	K Krueger					Compilation Table							
+Buettner	Ernestyna	Bittner	Ernestine	D	1867	Dec	Johann	"Adam, Anna Katarzyna"	"Adam, Anna Katharine"	Rozdzialow	68	Lublin 1867-1869	00169	297	K Krueger					Compilation Table							
+Krueger	August	Krueger	August	D	1867	Dec	Ludwig	"Regner, Rozalia"	"Regner, Rosalie"	Rozdzialow	68	Lublin 1867-1869	00169	298	K Krueger					Compilation Table							
+Schultz	Gustaw	Schultz	Gustav	D	1867	Dec	Hermann	"Kuehn, Julia"	"Kuehn, Julie"	Lubki	68	Lublin 1867-1869	00169	299	K Krueger					Compilation Table							
+Ansorg		Ansorg	stillborn	D	1867	Dec	Wilhelm	"Lining, Rozalia"	"Lining, Rosalie"	Justynow	68	Lublin 1867-1869	00170	300	K Krueger					Compilation Table							
+Petznik	Fryderyk	Petznik	Friedrich	D	1867	Dec	Johann	"Tejfer, Katarzyna"	"Teifer, Katharine"	Juliopol	68	Lublin 1867-1869	00169	301	K Krueger					Compilation Table							
+Krause	Karolina	Krause	Karoline	D	1867	Dec	August	"Krueger, Krystyna"	"Krueger, Christine"	Klementynow	68	Lublin 1867-1869	00169	302	K Krueger					Compilation Table							
+Mattner	Karolina	Mattner	Karoline	D	1867	Dec	Ferdinand	"Rudke, Rozina"	"Rudke, Rosine"	Niedrzwica Wielka	68	Lublin 1867-1869	00169	303	K Krueger					Compilation Table							
+Soch	Gottfried	Soch	Gottfried	D	1867	Dec	Gottlieb	"Eisbrenner, Maryanna"	"Eisbrenner, Marianne"	Izydorow	68	Lublin 1867-1869	00169	304	K Krueger					Compilation Table							
+Wolfram	Karolina	Wolfram	Karoline	D	1867	Dec	Christian	"Eichman, Karolina"	"Eichmann, Karoline"	Teosin	68	Lublin 1867-1869	00171	305	K Krueger				Kopp	Compilation Table; surviving children listed							
+Brueggemann	Henryk Franciszek	Brueggemann	Heinrich Franz	D	1867	Dec	Gustav Karl Ferdinand	"Kelm, Ottylia Wilhelmina"	"Kelm, Ottilie Wilhelmine"	Dziesiata	68	Lublin 1867-1869	00170	306	K Krueger					Compilation Table							
+Baldt	Jan Henryk	Baldt	Johann Heinrich	D	1867	Dec	Albert	"Gill, Joanna"	"Gill, Johanne"	Rybie	68	Lublin 1867-1869	00170	307	K Krueger					Compilation Table							
+Rutkowski	Daniel	Rutkowski	Daniel	D	1867	Dec	Johann	"Semke, Ludwika"	"Semke, Luise"	Teosin	68	Lublin 1867-1869	00171	308	K Krueger					Compilation Table							
+Lucht	Maryanna	Lucht	Marianna	D	1867	Dec	Ludwig	"Kuehn, Ludwika"	"Kuehn, Luise"	Janowica	68	Lublin 1867-1869	00170	309	K Krueger					Compilation Table							
+Spon	August	Spon	August	D	1867	Dec	Johann	"Weber, Elzbieta"	"Weber, Elisabeth"	Wankowszczyzna	68	Lublin 1867-1869	00171	310	K Krueger					Compilation Table							
+Muth	Gottlieb	Muth	Gottlieb	D	1867	Dec	Samuel	"Patzer, Zuzanna"	"Patzer, Susanne"	Sobolew	68	Lublin 1867-1869	00171	311	K Krueger				"Abram, Johanna"	Compilation Table; surviving children listed							
+Braun	Rozalia	Braun	Rosalie	D	1867	Dec	Gottfried	"Dalke, Wilhelmina"	"Dalke, Wilhelmine"	Janowica	68	Lublin 1867-1869	00171	312	K Krueger					Compilation Table							
+Ehrenfried	Bogumil	Ehrenfried	Gottlieb	D	1867	Dec				Lublin	68	Lublin 1867-1869	00170	313	K Krueger				"Simecki, Sewerine Luise Alexandra"	Compilation Table							
+Brueggemann	Florentyna Matylda	Brueggemann	Florentine Mathilde	D	1867	Dec	Gustav Karl Ferdinand	"Kelm, Ottylia Wilhelmina"	"Kelm, Ottilie Wilhelmine"	Zemborzyce	68	Lublin 1867-1869	00171	314	K Krueger					Compilation Table							
+Piper	Karolina	Piper	Karoline	D	1867	Dec	Karl	"Roghan, Fryderyka"	"Roghan, Friederike"	Nadrybie	68	Lublin 1867-1869	00171	315	K Krueger					Compilation Table							
+Schultz	Rozalia	Schultz	Rosalie	D	1867	Dec	Karl	"Justynski, Karolina"	"Justynski, Karoline"	Rybie	68	Lublin 1867-1869	00172	316	K Krueger					Compilation Table							
+Jantz	August Edward	Jantz	August Eduard	D	1867	Dec	Friedrich	"Bruessof, Klara"	"Bruessof, Klara"	Bielany	68	Lublin 1867-1869	00172	317	K Krueger					Compilation Table							
+Bessel	Juliusz	Bessel	Julius	D	1867	Dec	Daniel	"Schuehman, Justyna"	"Schuehmann, Justine"	Puszcza	68	Lublin 1867-1869	00172	318	K Krueger					Compilation Table							
+Bartz	Michal	Bartz	Michael	D	1867	Dec	Daniel	"Krause, Anna"	"Krause, Anna"	Zalisocze	68	Lublin 1867-1869	00172	319	K Krueger					Compilation Table							
+Hauer	Krystyna	Hauer	Christine	D	1867	Dec	Konrad	"Krause, Marya"	"Krause, Marie"	Wystrow	68	Lublin 1867-1869	00172	320	K Krueger					Compilation Table							
+Arndt	Michal	Arndt	Michael	D	1867	Dec	Gottlieb	"Horoch, Julianna"	"Horoch, Julianne"	Krzywda	68	Lublin 1867-1869	00172	321	K Krueger				"Peter, Anna"	Compilation Table							
+Jahn 	Karolina	Jahn	Karoline	D	1868	Jan				Rybie	68	Lublin 1867-1869	00009	1	K Krueger				"Rogahn, Friedrich"	Compilation Table; surviving children listed							
+Bryknor	Gottfried	Brikner	Gottfried	D	1868	Jan	Friedrich	"Duesterheft, Ludwika"	"Duesterhoeft, Luise"	Skordiow	68	Lublin 1867-1869	00009	2	K Krueger					Compilation Table							
+Witte	Alexandra	Witte	Alexandra	D	1868	Jan	Konstantin	"Andruszkiewicz, Ewelina"	"Andruszkiewicz, Ewelina"	Lublin	68	Lublin 1867-1869	00010	3	K Krueger					Compilation Table							
+Lik	Jan	Lueck	Johann	D	1868	Jan	Julius	"Hintz, Emilia"	"Hintz, Emilie"	Adamow	68	Lublin 1867-1869	00010	4	K Krueger					Compilation Table							
+Betcher	Henryk	Betcher	Heinrich	D	1868	Jan	Johann	"Hegin, Wilhelmina"	"Hegin, Wilhelmine"	Klementynow	68	Lublin 1867-1869	00010	5	K Krueger					Compilation Table							
+Kryzel	Wilhelm	Krisel	Wilhelm	D	1868	Jan	Johann	"Tuerke, Marya"	"Tuerke, Marie"	Wojciechow	68	Lublin 1867-1869	00010	6	K Krueger					Compilation Table							
+Burchart	Juliusz	Burchard	Julius	D	1868	Jan	Johann	"Rentz, Emilia"	"Rentz, Emilie"	Domicelow	68	Lublin 1867-1869	00010	7	K Krueger					Compilation Table							
+Brunke	Henryetta	Brunke	Henriette	D	1868	Jan	August	"Betke, Rozyna"	"Betke, Rosine"	Majdan Rejowieck	68	Lublin 1867-1869	00011	8	K Krueger					Compilation Table							
+Manska	Rozalia	Manski	Rosalie	D	1868	Jan	Stefan	"Klath, Karolina"	"Klatt, Karoline"	Pawlow	68	Lublin 1867-1869	00010	9	K Krueger					Compilation Table							
+Stephan	Konstancya	Stefan	Konstance	D	1868	Jan				Rybie	68	Lublin 1867-1869	00010	10	K Krueger				"Hering, [Martin]"	Compilation Table							
+Folgeman	Dorota	Folgemann	Dorothea	D	1868	Jan	Johann	Dorota	Dorothea	Zawada	68	Lublin 1867-1869	00011	11	K Krueger				Moring	Compilation Table							
+Wolter	Jan Henryk	Wolter	Johann Heinrich	D	1868	Jan	Ludwig	"Makus, Justyna"	"Makus, Justine"	Rozdzialow	68	Lublin 1867-1869	00011	12	K Krueger					Compilation Table							
+Draheim	Rudolf	Draheim	Rudolf	D	1868	Jan	August	"Krause, Augusta"	"Krause, Auguste"	Zemborzyce	68	Lublin 1867-1869	00011	13	K Krueger					Compilation Table							
+Klath	Gottfryd	Klatt	Gottfried	D	1868	Jan	Andreas	"Holland, Marya"	"Holland, Marie"	Lipniak	68	Lublin 1867-1869	00011	14	K Krueger				"Roechert, Karoline"	Compilation Table							
+Mueller	Karol	Mueller	Karl	D	1868	Jan				Juliopol	68	Lublin 1867-1869	00011	15	K Krueger				"Neumann, Christine"	Compilation Table							
+Bigalke	Gottlieb	Bigalke	Gottlieb	D	1868	Jan	Wilhelm	"Schachtschneider, Joanna"	"Schachtschneider, Johanne"	Felczyn	68	Lublin 1867-1869	00012	16	K Krueger					Compilation Table							
+Radke	Paulina	Radke	Pauline	D	1868	Jan	Peter	"Wolter, Julianna"	"Wolter, Julianne"	Rozdzialow	68	Lublin 1867-1869	00012	17	K Krueger					Compilation Table							
+Hyller	Elzbieta	Hiller	Elisabeth	D	1868	Jan	Paul	"Rozentreter, Katharyna"	"Rosentreter, Katherine"	Gizyce	68	Lublin 1867-1869	00012	18	K Krueger				Kramer	Compilation Table							
+Krueger	Gottlieb	Krueger 	Gottlieb	D	1868	Jan				Domicelow	68	Lublin 1867-1869	00012	19	K Krueger				"Schmidt, Christine"	Compilation Table							
+Bether	Anna Elzbieta	Betcher	Anna Elisabeth 	D	1868	Jan				Klementynow	68	Lublin 1867-1869	00012	20	K Krueger				"Kahn, Friedrich"	Compilation Table							
+Peltzer	Godfryd	Peltzer	Gottfied	D	1868	Jan	Johann	"Braun, Wilhelmina"	"Braun, Wilhelmine"	Wolka Nadrybska	68	Lublin 1867-1869	00012	21	K Krueger					Compilation Table							
+Frieseke	Gustav Adolf	Frieseke	Gustav Adolf	D	1868	Jan	Karl	"Schimke, Anna"	"Schimke, Anna"	Lublin	68	Lublin 1867-1869	00011	22	K Krueger					Compilation Table							
+Nimtz	Julianna	Nimtz	Julianne	D	1868	Jan	Ludwig	"Libke, Anna Fryderyka"	"Libke, Anna Friederike"	Wolka Nadrybska	68	Lublin 1867-1869	00013	23	K Krueger					Compilation Table							
+Donorocka	Eufrozyna	Donorocki	Euphrosine	D	1868	Jan	Adam	"Kuhn, Ewa"	"Kuehn, Eva"	Bronislawow	68	Lublin 1867-1869	00012	24	K Krueger					Compilation Table							
+Grams	Ludwik	Grams	Ludwig	D	1868	Feb	Daniel	"Jeske, Anna Zuzanna"	"Jeske, Anna Susanne"	Sewerynowka	68	Lublin 1867-1869	00209	25	K Krueger					Compilation Table							
+Jess	Samuel	Jess 	Samuel	D	1868	Feb	Andreas	"Henschl, Wilhelmina"	"Henschel, Wilhelmine"	Wola Mieczyslawska	68	Lublin 1867-1869	00026	26	K Krueger					Compilation Table							
+Peltzer	Maryanna	Peltzer	Marianne	D	1868	Feb				Gizyce	68	Lublin 1867-1869	00026	27	K Krueger				"Lieske, Martin"	Compilation Table							
+Wegner	Anna Karolina	Wegner	Anna Karolina	D	1868	Feb	Michael	"Heger, Maryanna"	"Heger, Marianne"	Felczyn	68	Lublin 1867-1869	00026	28	K Krueger					Compilation Table							
+Guenther	Krystyan	Guenther	Christian	D	1868	Feb	Gottlieb	"Biller, Eleonora"	"Bieler, Eleonore"	Janowica	68	Lublin 1867-1869	00026	29	K Krueger					Compilation Table							
+Braun	Maryanna	Braun (foster name)	Marianne	D	1868	Feb	Gottfried (foster father)			Wolka Nadrybska	68	Lublin 1867-1869	00026	30	K Krueger					Compilation Table; Foster child from Warszawa; biological parents unknown							
+Egert	Anna Justyna	Egert	Anna Justine	D	1868	Feb	Michael	"Braun, Eleonora"	"Braun, Eleonore"	Zurawiniec	68	Lublin 1867-1869	00026	31	K Krueger				"Gentzler, Johann"	Compilation Table							
+Wutke		Wutke	stillborn	D	1868	Feb	Julius	"Repke, Karolina"	"Repke, Karoline"	Rozdzialow	68	Lublin 1867-1869	00026	32	K Krueger					Compilation Table							
+Schultz	Hermann	Schultz	Hermann	D	1868	Feb				Lubki	68	Lublin 1867-1869	00027	33	K Krueger				"Kuehn, Julianne"	Compilation Table							
+Polno	Juliusz	Polno	Julius	D	1868	Feb	Gottlieb	"Schultz, Paulina"	"Schultz, Pauline"	Zawada	68	Lublin 1867-1869	00027	34	K Krueger					Compilation Table							
+Buss	Fryderyk	Buss	Friedrich	D	1868	Feb	Johann	"Orlowski, Anna"	"Orlowski, Anna"	Gizyce	68	Lublin 1867-1869	00027	35	K Krueger					Compilation Table							
+Scheske	Wilhelm	Scheske	Wilhelm	D	1868	Feb	Gottlieb	"Giesel, Anna Justyna"	"Giesel, Anna Justine"	Tomaszowka	68	Lublin 1867-1869	00027	36	K Krueger					Compilation Table							
+Glaeske	Anna	Glaeske	Anna	D	1868	Feb	Gottfried	"Liedke, Krystyna"	"Luedke, Christine"	Teosin	68	Lublin 1867-1869	00028	37	K Krueger					Compilation Table							
+Frederich	Ewa Rozyna	Friedrich	Eva Rosine	D	1868	Feb	Michael	"Huf, Karolina"	"Huff, Karoline"	Felczyn	68	Lublin 1867-1869	00027	38	K Krueger					Compilation Table							
+Hejmann	Eleonora	Heimann	Eleonore	D	1868	Feb				Lublin	68	Lublin 1867-1869	00027	39	K Krueger				"Zielke (1st husband), Lange (2nd husband)"	Compilation Table							
+Abram	Erdman 	Abram	Erdmann	D	1868	Feb	Gottlieb	"Jubin, Rozyna"	"Jubin, Rosine"	Klementynow	68	Lublin 1867-1869	00028	40	K Krueger					Compilation Table							
+Grams	Adolf Gotthilf	Grams	Adolf Gotthilf	D	1868	Feb	Daniel	"Fitzner, Joanna"	"Fitzner, Johanne"	Sewerynowka	68	Lublin 1867-1869	00028	41	K Krueger					Compilation Table							
+Nerling	Emil	Nerling	Emil	D	1868	Feb	Julius	"Nikolay, Ludwika"	"Nikolai, Luise"	Bronislawow	68	Lublin 1867-1869	00028	42	K Krueger					Compilation Table							
+Schuenmann	Michal	Schuenmann	Michael	D	1868	Feb				Puszcza	68	Lublin 1867-1869	00028	43	K Krueger				"Tober, Marianne"	Compilation Table							
+Rimer	Fryderyk Karol	Riemer	Friedrich Karl	D	1868	Feb	Ludwig	"Schilke, Augusta"	"Schilke, Auguste"	Nadrybie	68	Lublin 1867-1869	00028	44	K Krueger					Compilation Table							
+Holtz	Daniel	Holtz	Daniel	D	1868	Feb	Gottlieb	"Thiede, Karolina"	"Tiede, Karoline"	Pawlow	68	Lublin 1867-1869	00028	45	K Krueger					Compilation Table							
+Stopczyk	Helena Anna	Stopczyk	Helene Anna	D	1868	Feb	Wilhelm	"Bartsch, Matylda"	"Bartsch, Mathilde"	Lublin	68	Lublin 1867-1869	00027	46	K Krueger					Compilation Table							
+Schlecht	Rozalia	Schlecht	Rosalie	D	1868	Feb	Gottlieb	"Zimpl, Wilhelmina"	Zimpel. Wilhelmine	Tomaszowka	68	Lublin 1867-1869	00029	47	K Krueger					Compilation Table							
+Weiss	Wilhelm	Weiss	Wilhelm	D	1868	Feb				Radzyn	68	Lublin 1867-1869	00029	48	K Krueger				"Liszewski, Friederike"	Compilation Table							
+Hering	Karolina	Hering	Karoline	D	1868	Feb	Martin	"Staephan, Konstancia"	"Stefan, Konstance"	Rybie	68	Lublin 1867-1869	00029	49	K Krueger			"Misch, Johann"	"Misch, Johann"	Compilation Table							
+Manski	Jan	Manski	Johann	D	1868	Feb				Pawlow	68	Lublin 1867-1869	00029	50	K Krueger			"Manski, Luise"	Luise	Compilation Table							
+Jeske	Anna Krystyna	Jeske	Anna Christine	D	1868	Mar	Gottlieb	"Mittelschtaedt, Wilhelmia"	"Mittelstaedt, Wilhelmine"	Juliopol	68	Lublin 1867-1869	00059	51	K Krueger					Compilation Table							
+Werner	Gottlieb	Werner	Gottlieb	D	1868	Mar	Gottlieb	"Steinwaldt, Anna"	"Steinwald, Anna"	Zawada	68	Lublin 1867-1869	00059	52	K Krueger					Compilation Table							
+Rode	Emilia	Rode	Emilie	D	1868	Mar	Friedrich	"Nast, Maryanna"	"Nast, Marianne"	Hordziez	68	Lublin 1867-1869	00059	53	K Krueger					Compilation Table							
+Grams	Wilhelm	Grams	Wilhelm	D	1868	Mar	Gottlieb	"Schroeder, Zuzanna"	"Schroeder, Susanne"	Miloszowka	68	Lublin 1867-1869	00059	54	K Krueger					Compilation Table							
+Krueger	Krystyna	Krueger	Christine	D	1868	Mar	Gottfried	"Freitag, Justyna"	"Freitag, Justine"	Domicelow	68	Lublin 1867-1869	00059	55	K Krueger					Compilation Table							
+Klamer	Julianna	Klamer	Julianne	D	1868	Mar	Christian	"Rossl, Karolina"	"Rossol, Karoline"	Bronislawow	68	Lublin 1867-1869	00059	56	K Krueger					Compilation Table							
+Pulter	Adam	Pulter	Adam	D	1868	Mar	Heinrich	"Lange, Krystyna"	"Lange, Christine"	Teosin	68	Lublin 1867-1869	00059	57	K Krueger					Compilation Table; surviving children listed							
+Lokstejn	Krystyna	Lokstein	Christine	D	1868	Mar				Trojnia	68	Lublin 1867-1869	00060	58	K Krueger			"Strauch, Johann"	Strauch	Compilation Table							
+Hueller	Anna	Hiller	Anna	D	1868	Mar	Johann	"Winter, Karolina"	"Winter, Karoline"	Sewerynowka	68	Lublin 1867-1869	00060	59	K Krueger					Compilation Table							
+Hollandt	Gotfried	Holland	Gottfried	D	1868	Mar				Pawlow	68	Lublin 1867-1869	00060	60	K Krueger			"Markwart, Anna"	"Markwart, Anna"	Compilation Table							
+Makkus	Ludwika	Makus	Luise	D	1868	Mar	Gottfried	"Burmann, Anna Dorota"	"Burmann, Anna Dorothea"	Janowica	68	Lublin 1867-1869	00060	61	K Krueger					Compilation Table							
+Rogahn	Marcin	Rogahn	Martin	D	1868	Mar	Friedrich	"Jahn, Karolina"	"Jahn, Karoline"	Rybie	68	Lublin 1867-1869	00060	62	K Krueger					Compilation Table							
+Eurisch	Krystyan	Eurisch	Christian	D	1868	Mar	Christian	"Gierl, Maryanna"	"Gierl, Marianne"	Zurawiniec	68	Lublin 1867-1869	00060	63	K Krueger					Compilation Table							
+Buss	Andrzej	Buss	Andreas	D	1868	Mar	Gottlieb	"Jahnke, Justyna"	"Janke, Justine"	Pawlow	68	Lublin 1867-1869	00060	64	K Krueger					Compilation Table							
+Schmidt	Piotr	Schmidt	Peter  	D	1868	Mar	Friedrich	"Szoenkok, Wilhelmina"	"Schoenrok, Wilhelimne"	Zalisocze	68	Lublin 1867-1869	00061	65	K Krueger					Compilation Table							
+Pulter	Wilhelm	Pulter	Wilhelm	D	1868	Mar	Peter	"Poltz, Zofia"	"Poltz, Sophie"	Teosin	68	Lublin 1867-1869	00061	66	K Krueger					Compilation Table							
+Schendel	Gottfried	Schendel	Gottfried	D	1868	Mar				Pielgrzymka	68	Lublin 1867-1869	00061	67	K Krueger				"Wedmann, Katharine"	Compilation Table; surviving children listed							
+Hein	Anna Krystyna	Hein	Anna Christine	D	1868	Mar	Christoph	"Kauss, Ludwika"	"Kauss, Luise"	Miloszowka	68	Lublin 1867-1869	00061	68	K Krueger					Compilation Table							
+Schendel	Jakob	Schendel	Jakob	D	1868	Mar	August	"Klath, Karolina"	"Klatt, Karoline"	Bielin	68	Lublin 1867-1869	00061	69	K Krueger					Compilation Table							
+Banguerel	Emilia	Banguerel	Emilie	D	1868	Mar	Karl Friedrich	"Vuillemier, Maryanna"	"Vuillemier, Marianne"	Karczewiec	68	Lublin 1867-1869	00061	70	K Krueger				"Banguerel, Julian?"	Compilation Table							
+Preiss	Anna Zuzanna	Preis	Anna Susanne	D	1868	Mar	Ludwig	"Baranoski, Justyna"	"Baranoski, Justine"	Wankowszczyzna	68	Lublin 1867-1869	00061	71	K Krueger					Compilation Table							
+Horn	Karol Emil Hermann 	Horn	Karl Emil Hermann	D	1868	Apr	Martin	"Oestreich, Ludwika"	"Oestreich, Luise"	Wojciechow	68	Lublin 1867-1869	00040	76	K Krueger					Compilation Table							
+Hus	Karolina	Huss	Karoline	D	1868	Apr	Daniel	"Sues, Anna Elzbieta"	"Suess, Anna Elisabeth"	Justynow	68	Lublin 1867-1869	00040	77	K Krueger					Compilation Table							
+Klath	Ferdynana	Klatt	Ferdinand	D	1868	Apr	Andreas	"Beutler, Karolina"	"Beutler, Karoline"	Justynow	68	Lublin 1867-1869	00040	78	K Krueger					Compilation Table							
+Rohde	Wilhelm	Rode	Wilhelm	D	1868	Apr	Wilhelm	"Hentz, Karolina"	"Hentz, Karoline"	Zurawieniec	68	Lublin 1867-1869	00040	79	K Krueger					Compilation Table							
+Egert	August	Egert	August	D	1868	Apr	Michael	"Noerenberg, Rozyna"	"Noerenberg, Rosine"	Teosin	68	Lublin 1867-1869	00040	80	K Krueger					Compilation Table							
+Girschman	Anna Dorota	Girschmann	Anna Dorothea	D	1868	Apr				Aleksandrowka	68	Lublin 1867-1869	00040	81	K Krueger				"Kowalski, Wilhelm"	Compilation Table							
+Wiesenthal	Julianna	Wiesenthal	Julianne	D	1868	Apr	Karl	"Schmidt, Wilhelmina"	"Schmidt, Wilhelmine"	Zurawiniec	68	Lublin 1867-1869	00041	82	K Krueger					Compilation Table							
+Bussler	August	Bussler	August	D	1868	Apr				Wojciechow	68	Lublin 1867-1869	00041	83	K Krueger				"Buss, Dorothea"	Compilation Table							
+Reetz	Stefan	Reetz	Stefan	D	1868	Apr	Stefan	"Rejuke, Wilhelmina"	"Reinke, Wilhelmine"	Wojciechow	68	Lublin 1867-1869	00041	84	K Krueger					Compilation Table							
+Kitzer	Henryetta Mathilda	Kitzer	Henriette Mathilde	D	1868	Apr	Michael	Wilhelmina	Wilhelmine	Wojciechow	68	Lublin 1867-1869	00041	85	K Krueger					Compilation Table							
+Ruchocki	Edward	Rochocki	Eduard	D	1868	Apr	Eduard	"Kurtz, Maryanna"	"Kurtz, Marianna"	Slugocin	68	Lublin 1867-1869	00041	86	K Krueger					Compilation Table							
+Kramer	Marcin	Kramer	Martin	D	1868	Apr	Andreas	"Fejfer, Marya"	"Pfeiffer, Marie"	Wystrow	68	Lublin 1867-1869	00041	87	K Krueger					Compilation Table							
+Abram	Ludwika	Abram 	Luise	D	1868	Apr	Wilhelm	"Jeske, Ewa"	"Jeske, Eva"	Juliopol	68	Lublin 1867-1869	00042	88	K Krueger					Compilation Table							
+Reetz	Krystyna	Reetz	Christine	D	1868	Apr	Stephan	"Reinke, Wilhelmina"	"Reinke, Wilhelmine"	Wojciechow	68	Lublin 1867-1869	00041	89	K Krueger					Compilation Table							
+Zuknik	Ewa Rozyna	Zuknik	Eva Rosine	D	1868	Apr	Adolf	"Zielke, Joanna Dorota"	"Zielke, Johanne Dorothea"	Janowica	68	Lublin 1867-1869	00042	90	K Krueger					Compilation Table							
+Fentzki	Juliusz	Fenski	Julius	D	1868	Apr	Jakob	"Nerenberg, Emilia"	"Noerenberg, Emilie"	Zurawiniec	68	Lublin 1867-1869	00042	91	K Krueger					Compilation Table							
+Betcher	Augustyna	Betcher	Augustine	D	1868	Apr	Michael	"Mantej, Emilia"	"Mantei, Emilie"	Klementyn	68	Lublin 1867-1869	00042	92	K Krueger					Compilation Table							
+Wahl	Wilhelm	Wahl	Wilhelm	D	1868	Apr	Eduard	"Neumann, Justyna"	"Neumann, Justine"	Wojciechow	68	Lublin 1867-1869	00042	93	K Krueger					Compilation Table							
+Bussler	Leopold Rejnhold	Bussler	Leopold Reinhold	D	1868	Apr	August	"Buss, Dorota"	"Buss, Dorothea"	Wojciechow	68	Lublin 1867-1869	00042	94	K Krueger					Compilation Table							
+Hettig	Krystyan	Hetting	Christian	D	1868	Apr	Adam	"August, Katarzyna"	"August, Katharine"	Wojciechow	68	Lublin 1867-1869	00042	95	K Krueger				"Zuter, Katharine"	Compilation Table							
+Weber de Rittersdorf	Ludwika	Weber	Luise	D	1868	Apr				Lublin	68	Lublin 1867-1869	00043	96	K Krueger				Preszel	Compilation Table							
+Liersch	Adolf	Liersch	Adolf	D	1868	Apr	Wilhelm	"Jabin, Elzbieta"	"Jabin, Elisabeth"	Felczyn	68	Lublin 1867-1869	00043	97	K Krueger					Compilation Table							
+Henschel	Julia	Henschel	Julia	D	1868	Apr	Gottfried	"Mattner, Justyna"	"Mattner, Justine"	Graniczna	68	Lublin 1867-1869	00043	98	K Krueger					Compilation Table							
+Liedtke	Wilhelm	Liedke	Wilhelm	D	1868	Apr	Ludwig	"Tohn, Ewa Rosyna"	"Tonn, Eva Rosine"	Sobolew	68	Lublin 1867-1869	00044	99	K Krueger					Compilation Table							
+Mulsaln	Daniel	Mulsaln	Daniel	D	1868	Apr	Gottlieb	"Frjer, Maryanna "	"Frier, Marianna"	Teosin	68	Lublin 1867-1869	00043	100	K Krueger					Compilation Table							
+Geske	Amalia	Geske	Amalie  	D	1868	Apr	Gottlieb	"Gryning, Zuzanna Ludwika"	"Gruening, Susanne Luise"	Malokusi	68	Lublin 1867-1869	00043	101	K Krueger					Compilation Table							
+Kimel	Fryderyk August	Kimmel	Friedrich August	D	1868	Apr	Johann Friedrich	"Fejfer, Anna Rozyna"	"Pfeiffer, Anna Rosine"	Wankowszczyzna	68	Lublin 1867-1869	00043	102	K Krueger					Compilation Table							
+Gitzel	Ludwik	Gitzel	Ludwig	D	1868	Apr	Friedrich	"Schilberg, Krystyna"	"Schilberg, Christine"	Janowica	68	Lublin 1867-1869	00043	103	K Krueger					Compilation Table							
+Mahlke	Michal	Mahlke	Michael	D	1868	Apr	Michael	"Rolof, Szarlotta"	"Rolof, Charlotte"	Slugocin	68	Lublin 1867-1869	00044	104	K Krueger					Compilation Table							
+Krueger	Otylia	Krueger	Ottilie	D	1868	May	Wilhelm	"Kisling, Henryetta"	"Kiesling, Henriette"	Wojciechow	68	Lublin 1867-1869	00075	105	K Krueger					Compilation Table							
+Kargow 	Ewa	Karge 	Eva	D	1868	May	Christoph	"Kinetz, Zuzanna"	"Kinetz, Susanne"	Wolka Mieczyslawska	68	Lublin 1867-1869	00075	106	K Krueger				"Tiede, Johann"	Compilation Table							
+Hutt	August 	Hutt	August	D	1868	May	Michael	"Hamermejstre, Maryanna"	"Hammermeister, Marianne"	Izydorow	68	Lublin 1867-1869	00075	107	K Krueger					Compilation Table							
+Harmel	Gottlieb	Harmel 	Gottlieb	D	1868	May	August	"Mejer, Justyna"	"Meier, Justine"	Trojnia	68	Lublin 1867-1869	00075	108	K Krueger					Compilation Table							
+Hensel	Juliusz Artur	Hensel	Julius Artur	D	1868	May	Friedrich	"Forsch, Ludwika"	"Forsch, Luise"	Lublin	68	Lublin 1867-1869	00081	109	K Krueger					Compilation Table							
+Golnik	Piotr	Golnik	Peter  	D	1868	May				Bielin	68	Lublin 1867-1869	00075	110	K Krueger					Compilation Table; surviving children listed							
+Thejse	Anna	Teise	Anna	D	1868	May	Friedrich	"Weiss, Ewa"	"Weiss, Eva"	Zurawiniec	68	Lublin 1867-1869	00075	111	K Krueger				"Neumann, Friedrich"	Compilation Table							
+Leske	Ernestyna	Leske	Ernestine	D	1868	May	Martin	"Kottke, Karolina"	"Kotke, Karoline"	Rozdzialow	68	Lublin 1867-1869	00076	112	K Krueger					Compilation Table							
+Brandschoedel	August	Brandschoedel	August	D	1868	May				Stropin	68	Lublin 1867-1869	00076	113	K Krueger				"Hardwig, Julianna"	Compilation Table							
+Jahnke	Maryanna	Janke	Marianna	D	1868	May	Karl	"Lax, Karolina"	"Laks, Karoline"	Egersdorf	68	Lublin 1867-1869	00076	114	K Krueger					Compilation Table							
+Wejnert	Justyna	Weinert	Justine	D	1868	May	Christian	"Jess, Elzbieta"	"Jess, Elisabeth"	Antonin	68	Lublin 1867-1869	00076	115	K Krueger					Compilation Table							
+Mejsner	Michal	Meissner	Michael	D	1868	May	Johann	"Schinke, Elzbieta"	"Schinke, Elisabeth"	Pawlow	68	Lublin 1867-1869	00076	116	K Krueger					Compilation Table							
+Markwart	Rozalia	Markwart	Rosalie	D	1868	May	Martin	"Bodak, Ewa"	"Bodach, Eve"	Malinowka	68	Lublin 1867-1869	00076	117	K Krueger					Compilation Table							
+Rechert	Justyna	Roechert	Justine	D	1868	May	Gottlieb	"Abram, Justyna"	"Abram, Justine"	Pawlow	68	Lublin 1867-1869	00076	118	K Krueger					Compilation Table							
+Markwart	Krystyan	Markwart	Christian	D	1868	May	Martin	"Bodak, Ewa"	"Bodak, Eva"	Malinowka	68	Lublin 1867-1869	00077	119	K Krueger					Compilation Table							
+Wedmann	Emil	Wedmann	Emil	D	1868	May	Gottfried	"Weber, Ludwika"	"Weber, Luise"	Trojnia	68	Lublin 1867-1869	00077	120	K Krueger					Compilation Table							
+Wejnert	Justyna	Weinert	Justine	D	1868	May	Michael	"Doehrung, Rozalie"	"Dering?, Rosalie"	Wolka Mieczyslawska	68	Lublin 1867-1869	00077	121	K Krueger					Compilation Table							
+Ziemmer	Paulina	Ziemer	Pauline	D	1868	May	Paul	"Jessel, Wilhelmina"	"Jessel, Wilhelmine"	Brzeziny	68	Lublin 1867-1869	00077	122	K Krueger					Compilation Table							
+Hopp	Anna	Hopp	Anna	D	1868	May	Heinrich			Teosin	68	Lublin 1867-1869	00077	123	K Krueger				"Buchholtz, Johann"	Compilation Table							
+Gllaesman	Michal	Glaesmann	Michael	D	1868	May	Martin	"Burchat, Karolina"	"Burchat, Karoline"	Miloszowka	68	Lublin 1867-1869	00077	124	K Krueger					Compilation Table							
+Stentzel	Ludwik	Stentzel	Ludwig	D	1868	May				Bielin	68	Lublin 1867-1869	00077	125	K Krueger				"Bernaton, Anna Rosalie"	Compilation Table							
+Roechert	Karolina	Roechert	Karoline	D	1868	May	Johann	"Kufeld, Maryanna"	"Kufeld, Marianne"	Lipniak	68	Lublin 1867-1869	00078	126	K Krueger				"Giese (1st husband), Mater (2nd husband), Klatt (3rd husband)"	Compilation Table							
+Klukas	Krzysztof	Klukas	Christoph	D	1868	May	Johann	"Hollandt, Roza"	"Holland, Rosa"	Pawlow	68	Lublin 1867-1869	00078	127	K Krueger					Compilation Table							
+Koerner	Teodor	Koerner	Theodor	D	1868	May	August	"Koerner, Joanna"	"Koerner, Johanne"	Tomaszowka	68	Lublin 1867-1869	00078	128	K Krueger					Compilation Table							
+Radke	Karolina	Radke	Karoline	D	1868	May	Martin	"Schultz, Rozyna"	"Schultz, Rosine"	Gizyce	68	Lublin 1867-1869	00078	129	K Krueger				"Steinke, Daniel"	Compilation Table							
+Tiszler	Michal	Tischler	Michael	D	1868	May		Katarzyna	Katharine	Kaniwola	68	Lublin 1867-1869	00078	130	K Krueger				"Kaus, Justine"	Compilation Table							
+Boese	Ludwika	Boese	Luise	D	1868	May	Alexander	Joanna	Johanne	Rozplucie	68	Lublin 1867-1869	00078	131	K Krueger				"Magdans, Gottlieb"	Compilation Table							
+Ehrenfeld	Adelgunda	Ehrenfeld	Adelgunde	D	1868	May	Gustav			Jamne	68	Lublin 1867-1869	00078	132	K Krueger				"Nikolai, Julius"	Compilation Table							
+Schlieske	Pawel	Schlieske	Paul	D	1868	May				Juliopol	68	Lublin 1867-1869	00079	133	K Krueger				"Betke, Anna"	Compilation Table							
+Hepner 	Ferdynand Fryderyk	Hepner	Ferdinand Friedrich	D	1868	May	Friedrich	"Felski, Julianna Emilie"	"Felski, Julianne Emilie"	Nadrybie	68	Lublin 1867-1869	00079	134	K Krueger					Compilation Table							
+Fruedrichs	Paulina	Friedrichs	Pauline	D	1868	May	Stefan	"Pidt, Julianna"	"Pide, Julianna"	Janopol	68	Lublin 1867-1869	00079	135	K Krueger					Compilation Table							
+Noerenberg	Julianna	Noerenberg	Julianne	D	1868	May	Michael	"Ziemer, Ludwika"	"Ziemer, Luise"	Glusk	68	Lublin 1867-1869	00079	136	K Krueger					Compilation Table							
+Stiller	Gustav  	Stiller	Gustav	D	1868	May	August	"Zawistowski, Elzbieta"	"Zawistowski, Elisabeth"	Rozdzialow	68	Lublin 1867-1869	00079	137	K Krueger					Compilation Table							
+Zotzmann	Fryderyk Krysztof	Zotzmann	Friedrich Christoph	D	1868	May				Karczewiec	68	Lublin 1867-1869	00079	138	K Krueger				"Geske, Christine"	Compilation Table							
+Ruchocka	Ludwika	Ruchocki	Luise	D	1868	May	August	"Faust, Rozyna"	"Faust, Rosine"	Slugocin	68	Lublin 1867-1869	00079	139	K Krueger					Compilation Table							
+Klukas	Gottlieb	Klukas	Gottlieb	D	1868	May	Johann	"Hollandt, Rozyna"	"Holland, Rosine"	Pawlow	68	Lublin 1867-1869	00080	140	K Krueger					Compilation Table							
+Kruenke	Michal	Kruenke	Michael	D	1868	May	Michael	"Bartz, Karolina"	"Bartz, Karoline"	Slugocin	68	Lublin 1867-1869	00080	141	K Krueger					Compilation Table							
+Hollandt	Julianna	Holland	Julianne	D	1868	May	Gottlieb	"Markwart, Anna"	"Markwart, Anna"	Pawlow	68	Lublin 1867-1869	00080	142	K Krueger					Compilation Table							
+Glimm	Emilia	Glimm	Emilie	D	1868	May	August	"Fandrysk, Karolina"	"Fandrisk, Karoline"	Bronislawow	68	Lublin 1867-1869	00080	143	K Krueger					Compilation Table							
+Kiedynk	Julianna	Kiedynk (Keding?)	Julianne	D	1868	May	Christoph	"Arndt, Eleonora"	"Arndt, Eleonore"	Wolka Mieczyslawska	68	Lublin 1867-1869	00080	144	K Krueger					Compilation Table							
+Mueller	Jan	Mueller	Johann	D	1868	May	Ludwig	"Korok, Ewa"	"Korok, Eva"	Teosin	68	Lublin 1867-1869	00080	145	K Krueger					Compilation Table							
+Korok	Ewa	Korok	Eva	D	1868	May	Christian	"Steinke, Ewa"	"Steinke, Eva"	Teosin	68	Lublin 1867-1869	00080	146	K Krueger				"Mueller, Ludwig"	Compilation Table							
+Bloch	Michal	Bloch	Michael	D	1868	May	August	"Bautke, Ernestyna"	"Bautke, Ernestine"	Kaniwola	68	Lublin 1867-1869	00081	147	K Krueger					Compilation Table							
+Linmann	Jakob	Linmann	Jakob	D	1868	May	Matthias	"Khels?, Ewa"	"Khels, Eve"	Teosin	68	Lublin 1867-1869	00081	148	K Krueger					Compilation Table							
+Zwer	Samuel	Zwer	Samuel	D	1868	May	Samuel			Zalisocze	68	Lublin 1867-1869	00081	149	K Krueger					Compilation Table							
+Tefs	Eufrosyna	Tews	Euphrosine	D	1868	Jun	Samuel	"Schiewe, Eufrozyna"	"Schiewe, Euphrosine"	Jozefow	68	Lublin 1867-1869	00081	150	K Krueger					Compilation Table							
+Lauch	Magdalena	Lauch	Magdalene	D	1868	Jun	Michael	Kataryna	Katharine	Wojciechow	68	Lublin 1867-1869	00095	151	K Krueger				"Disselberger, Jakob"	Compilation Table							
+Bloch	Gottlieb	Bloch	Gottlieb	D	1868	Jun	Christoph	"Kielm, Ludwika"	"Kielm, Luise"	Kaniwola	68	Lublin 1867-1869	00092	152	K Krueger					Compilation Table							
+Bloch	Krysztof August	Bloch	Christoph August	D	1868	Jun	Christoph	"Drefs, Eleonora"	"Drews, Eleonore"	Nadrybie	68	Lublin 1867-1869	00092	153	K Krueger					Compilation Table							
+Fitz	August	Fitz	August	D	1868	Jun	Ludwig	"Thierling, Rozyna"	"Tierling, Rosine"	Stanislawow	68	Lublin 1867-1869	00092	154	K Krueger					Compilation Table							
+Rychlewski	Michal	Richlewski	Michael	D	1868	Jun	Gottlieb	"Holtz, Ewa"	"Holtz, Eva"	Pawlow	68	Lublin 1867-1869	00092	155	K Krueger					Compilation Table							
+Arndt	Wilhelmina	Arndt (married name)	Wilhelmine	D	1868	Jun				Lublin	68	Lublin 1867-1869	00092	156	K Krueger				Arndt	Compilation Table; surviving children listed							
+Frantz	Jan	Frantz	Johann	D	1868	Jun	Christian	Ludwika	Luise	Jagodne	68	Lublin 1867-1869	00093	157	K Krueger				"Krause, Beate"	Compilation Table							
+Manska	Ludwika	Manski	Luise	D	1868	Jun	Stefan	"Jahnke, Zuzanna"	"Janke, Susanne"	Pawlow	68	Lublin 1867-1869	00093	158	K Krueger					Compilation Table							
+Sontag	Krystyna	Sonntag	Christine	D	1868	Jun	Johann	"Lass, Julianna"	"Lass, Julianne"	Izydorow	68	Lublin 1867-1869	00093	159	K Krueger					Compilation Table							
+Rieske	Michal	Riske	Michael	D	1868	Jun	August	"Rotke, Eleonora"	"Rotke, Eleonore"	Ernestynow	68	Lublin 1867-1869	00093	160	K Krueger					Compilation Table							
+Stroscher	Fryderyk	Stroscher	Friedrich	D	1868	Jun	Gottlieb	"Schmidt, Rozyna"	"Schmidt, Rosine"	Rachow	68	Lublin 1867-1869	00093	161	K Krueger					Compilation Table							
+Schendel	Paulina Ludwika	Schendel	Pauline Luise	D	1868	Jun	Unknown/unbekannt	Schendel Wilhelmina	"Schendel, Wilhelmine"	Pielgrzymka	68	Lublin 1867-1869	00093	163	K Krueger					Compilation Table							
+Bether	Justyna	Bether	Justine	D	1868	Jun	Martin	"Mantej, Justyna"	"Mantei, Justine"	Klementynow	68	Lublin 1867-1869	00093	163	K Krueger					Compilation Table							
+Thiede-Rychlewski	Wilhelmina	Richlewski-Tiede 	Wilhelmine	D	1868	Jun	Georg	"Schultz, Elzbieta"	"Schultz, Elisabeth"	Bielsko	68	Lublin 1867-1869	00094	164	K Krueger					Compilation Table							
+Borchat	Marya	Borchat	Marie	D	1868	Jun				Bielin	68	Lublin 1867-1869	00094	165	K Krueger				"Grams (1st husband), Benke (2nd husband)"	Compilation Table; surviving children listed							
+Lange	Krystyna	Lange	Christine	D	1868	Jun	Johann	Elzbieta	Elisabeth	Teosin	68	Lublin 1867-1869	00094	166	K Krueger				Pulter	Compilation Table							
+Tefs	Pawel	Tews	Paul	D	1868	Jun				Bielin	68	Lublin 1867-1869	00094	167	K Krueger					Compilation Table							
+Witt	Elzbieta	Witt	Elisabeth	D	1868	Jun	Christian	Eleonora	Eleonore	Teosin	68	Lublin 1867-1869	00094	168	K Krueger				"Richert, Samuel"	Compilation Table							
+Schildberg	Justyna	Schildberg	Justine	D	1868	Jun	Ferdinand	"Sagen, Ludwika"	"Sagen, Luise"	Pawlow	68	Lublin 1867-1869	00095	169	K Krueger					Compilation Table							
+Jess	Karolina	Jess	Karoline	D	1868	Jun	Daniel	"Radz, Anna"	"Radz, Anna"	Justynow	68	Lublin 1867-1869	00094	170	K Krueger					Compilation Table							
+Schroeder	Jan	Schroeder	Johann	D	1868	Jun	August	"Schultz, Fryderyka"	"Schultz, Friederike"	Juliopol	68	Lublin 1867-1869	00095	171	K Krueger					Compilation Table							
+Sitz	Marya	Sitz	Marie	D	1868	Jun	Heinrich	"Henkel, Ludwika"	"Henkel, Luise"	Pawlow	68	Lublin 1867-1869	00096	172	K Krueger					Compilation Table							
+Bartlog?	Fryderyk	Bartlog	Friedrich	B	1868	Jun	Friedrich	"Magnus, Anna Rozyna"	"Magnus, Anna Rosine"	Swidnik Maly	68	Lublin 1867-1869	00095	173	K Krueger					Compilation Table							
+Kruenke	Jan	Kruenke	Johann	D	1868	Jun	Johann	"Ruchocki, Justyna"	"Ruchocki, Justine"	Slugocin	68	Lublin 1867-1869	00095	174	K Krueger					Compilation Table							
+Tefs	Marcin	Tews	Martin	D	1868	Jun	Paul	"Harwardt, Ewa"	"Harwart, Eva"	Bielin	68	Lublin 1867-1869	00095	175	K Krueger					Compilation Table							
+Kierber	Wilhelm	Kierber	Wilhelm	D	1868	Jun				Strachoslaw	68	Lublin 1867-1869	00095	176	K Krueger				"Arndt, Anna"	Compilation Table							
+Tyberowski	Adam	Tyberowski	Adam	D	1868	Jun	Karl	"Jahnke, Anna"	"Janke, Anna"	Pawlow	68	Lublin 1867-1869	00096	177	K Krueger					Compilation Table							
+Kriesel	Karol Edward	Kriesel	Karl Eduard	D	1868	Jun	Christoph	"Bahn, Ewa"	"Bahn, Eva"	Slugocin	68	Lublin 1867-1869	00094	178	K Krueger					Compilation Table							
+		Krause	Dorothea	D	1868	Jun	Johann		"Repp, Julianna"	Janowica	68	Lublin 1867-1869	00105	179	K Krueger					Compilation Table							
+Tyberowski	Anna	Tyberowski	Anna	D	1868	Jun	Karl	"Jahnke, Anna"	"Janke, Anna"	Pawlow	68	Lublin 1867-1869	00106	180	K Krueger					Compilation Table							
+Holtz	Gottlieb	Holtz	Gottlieb	D	1868	Jul				Bielsko	68	Lublin 1867-1869	00105	182	K Krueger				"Jess, Anna"	"Compilation Table; 3 sons, 5 daughters"							
+Geske?	Rozalia	Jeske	Rosalie	D	1868	Jul	Michael		"Blech, Dorothea"	Malokuszin?	68	Lublin 1867-1869	00106	183	K Krueger				"Guenther, Paul"	"Compilation Table; 1 son, 2 daughters"							
+Rejs	Jan	Reiss	Johann	D	1868	Jul				Lublin	68	Lublin 1867-1869	00106	184	K Krueger				"Jabs, Anna"	Compilation Table							
+		Stripling	Andreas	D	1868	Jul	Johann		"Weidmann, Anna"	Amelin	68	Lublin 1867-1869	00106	185	K Krueger					Compilation Table							
+Bleske	Dorota	Bleske	Dorothea	D	1868	Jul				Lipniak	68	Lublin 1867-1869	00106	186	K Krueger				Becker	Compilation Table							
+Bejer	Ludwika	Beier	Luise	D	1868	Jul	Gottfried		Marianne	Mieszyslawka	68	Lublin 1867-1869	00106	187	K Krueger				"Schindel, Michael"	Compilation Table							
+Kopmann	Mik	Kopman	Mik	D	1868	Jul				Wola Rudzka	68	Lublin 1867-1869	00106	188	K Krueger					Compilation Table							
+Bujak	Maryanna	Bujak	Marianne Berta	D	1868	Jul	Friedrich		"Herzog, Julianne"	Rozdzalow	68	Lublin 1867-1869	00107	189	K Krueger					Compilation Table							
+Filips	Ferdynand	Philips	Ferdinand	D	1868	Jul	Georg		Katharina	Lublin	68	Lublin 1867-1869	00107	190	K Krueger				"Jaschonski, Josefa"	Compilation Table; surviving children listed							
+Krueger	Karolina	Krueger	Karoline	D	1868	Jul	Michael		"Felske, Anna"	Nadrybie	68	Lublin 1867-1869	00107	191	K Krueger					Compilation Table							
+Neuman	Karol	Neumann	Karl	D	1868	Jul	Friedrich		"Teiss, Anna"	Zurawieniec	68	Lublin 1867-1869	00107	192	K Krueger					Compilation Table							
+Krueger	Jan	Krueger	Johann	D	1868	Jul				Jamne	68	Lublin 1867-1869	00108	193	K Krueger				"Jeske, Luise"	Compilation Table; 3 daughters							
+Prues	Ernest Ryszard Teodor	Pruess	Ernst Richard Theodor	D	1868	Jul	Ernst		"Abraham, Elisabeth"	Lublin	68	Lublin 1867-1869	00108	194	K Krueger					Compilation Table							
+Bankonin	Krystyan	Bankonin	Christian	D	1868	Jul	Leonard		"Splett, Luise"	Dabrowka (nr. Aleksandrowo)?	68	Lublin 1867-1869	00108	195	K Krueger					Compilation Table							
+Lieske	Gustaw	Lieske	Gustav	D	1868	Jul	Martin		"Neumann, Susanne"	Gizyce	68	Lublin 1867-1869	00107	196	K Krueger					Compilation Table							
+Hett	Gottfryd	Hett	Gottfried	D	1868	Jul	Ludwig		"Gerke, Julianne"	Antonin	68	Lublin 1867-1869	00107	197	K Krueger					Compilation Table							
+Tymm	Fryderyk	Timm	Friedrich	D	1868	Jul	Johann Adam		"Kreder, Jakobine"	Zawada	68	Lublin 1867-1869	00107	198	K Krueger					Compilation Table							
+Gentzler	Amalia	Gensler	Amalie  	D	1868	Jul	Johann		"Egert, Anna Justine"	Zurawiniec	68	Lublin 1867-1869	00108	199	K Krueger					Compilation Table							
+Klamer	Emilia	Klammer	Emilie	D	1868	Jul	Johann		"Appelt, Christine"	Bronislawow	68	Lublin 1867-1869	00108	200	K Krueger					Compilation Table							
+Gueldenstern	Maryanna	Gueldenstern	Marianne	D	1868	Jul	Christian		"Heck, Marianne"	Wolka Domaszewska	68	Lublin 1867-1869	00108	201	K Krueger					Compilation Table							
+Lachecki	Krzysztof	Lachecki	Christoph	D	1868	Jul	Gottfried		"Radis, Marianne"	Juliopol	68	Lublin 1867-1869	00108	202	K Krueger					Compilation Table							
+Dilge	Ludwika Jozefina	Duelge	Luise Josephine	D	1868	Aug	Julius		"Miller, Anna"	Juliopol	68	Lublin 1867-1869	00119	203	K Krueger					Compilation Table							
+Kelm	August	Kelm	August	D	1868	Aug	Peter		"Egert, Luise"	Teosin	68	Lublin 1867-1869	00119	204	K Krueger					Compilation Table							
+Gross	Karolina	Gross	Karoline	D	1868	Aug	Wilhelm		"Kelm, Luise"	Justynow	68	Lublin 1867-1869	00119	205	K Krueger					Compilation Table							
+		Mund	stillborn female	D	1868	Aug	Adam		"Henschel, Marianne"	Janowica	68	Lublin 1867-1869	00119	206	K Krueger					Compilation Table							
+Disselberger	Katarzyna	Disselberger	Katharina	D	1868	Aug	Jakob		"Lauch, Magdalene"	Wojciechow	68	Lublin 1867-1869	00119	207	K Krueger					Compilation Table							
+Kuehn	August	Kuehn	August	D	1868	Aug	Andreas		"Gatzke, Karoline"	Aleksandrowka	68	Lublin 1867-1869	00119	208	K Krueger					Compilation Table							
+Frytsch	Rozalia	Fritsch	Rosalie	D	1868	Aug				Malinowka	68	Lublin 1867-1869	00119	209	K Krueger					Compilation Table							
+Keding	Zuzanna	Keding	Susanne	D	1868	Aug	Christoph		"Arndt, Eleonore"	Wolka Mieczyslawska	68	Lublin 1867-1869	00120	210	K Krueger					Compilation Table							
+Preiss	Fryderyk August	Preiss	Friedrich August	D	1868	Aug	August		"Herzog, Rosine"	Rozdzalow	68	Lublin 1867-1869	00120	211	K Krueger					Compilation Table							
+Mogdans	Gottlib	Mogdans	Gottlieb	D	1868	Aug				Rozplucie	68	Lublin 1867-1869	00120	212	K Krueger					"Compilation Table; Mogdans, Michael (son/Sohn)"							
+Knak	Rozyna Fryderyka	Knack	Rosine Friederike	D	1868	Aug	Ferdinand		"Piper, Wilhelmine"	Nadrybie	68	Lublin 1867-1869	00120	213	K Krueger					Compilation Table							
+Waker	Georg	Wacker	Georg	D	1868	Aug	Sebastian		"Schwartz, Anna"	Hansk	68	Lublin 1867-1869	00120	214	K Krueger					Compilation Table							
+Waker	Barbara	Wacker	Barbara	D	1868	Aug	Sebastian		"Schwartz, Anna"	Hansk	68	Lublin 1867-1869	00120	215	K Krueger					Compilation Table							
+Wandrig	Zuzanna	Wandrich	Susanne	D	1868	Aug				Malinowka	68	Lublin 1867-1869	00121	216	K Krueger					Compilation Table; surviving children listed							
+Wendlandt	Erdman	Wendland	Erdmann	D	1868	Aug	Johann		"Kuntz, Anna"	Stara Wies	68	Lublin 1867-1869	00121	217	K Krueger					Compilation Table							
+Tews	Henryk	Tews	Heinrich	D	1868	Aug	Christian		"Baerwald, Eva"	Skordiow	68	Lublin 1867-1869	00121	218	K Krueger					Compilation Table							
+Nachtigal	Emilia	Nachtigal	Emilie	D	1868	Aug	David		"Foth, Elisabeth"	Zalisocze	68	Lublin 1867-1869	00121	219	K Krueger					Compilation Table							
+Holtz	Daniel	Holtz	Daniel	D	1868	Aug	Gottlieb		"Jess, Anna"	Bielsko	68	Lublin 1867-1869	00121	220	K Krueger					Compilation Table							
+Brauer	Wilhelmina	Brauer	Wilhelmine	D	1868	Aug	Johann		"Schwartz, Karoline"	Janowica	68	Lublin 1867-1869	00121	221	K Krueger					Compilation Table							
+Roeske	Wilhelmina	Roeske	Wilhelmine	D	1868	Aug	Martin		"Bigalke, Maria"	Stasiew (=Stasin)	68	Lublin 1867-1869	00121	222	K Krueger					Compilation Table							
+Geister	Paulina	Geister	Pauline	D	1868	Aug	Unknown/unbekannt		"Geister, Luise"	Leonardow	68	Lublin 1867-1869	00122	223	K Krueger					Compilation Table; mother is widow Litwitz							
+Stopel	Wilhelm	Stapel	Wilhelm	D	1868	Aug	Christian		"Friedrich, Wilhelmine"	Malinowka	68	Lublin 1867-1869	00122	224	K Krueger					Compilation Table							
+Piper	Karol Fryderyk	Piper	Karl Friedrich	D	1868	Aug	Friedrich		"Becker, Henriette"	Nadrybie	68	Lublin 1867-1869	00122	225	K Krueger					Compilation Table							
+Schmydck	Katarzyna	Schmidtsk	Katharina	D	1868	Aug	Johann		"Bilau, Anna Rosine"	Felczyn	68	Lublin 1867-1869	00122	226	K Krueger					Compilation Table							
+Bloch	Matylda	Bloch	Mathilde	D	1868	Aug	Johann		"Bluege, Emilie"	Zurawieniec	68	Lublin 1867-1869	00120	227	K Krueger					Compilation Table							
+Breitkreutz	Henryetta	Breitkreutz	Henriette	D	1868	Aug				Wojciechow	68	Lublin 1867-1869	00123	228	K Krueger				"Klemens, Johann"	Compilation Table							
+Wendlandt	Wilhelmina	Wendland	Wilhelmine	D	1868	Aug	Michael		"Wilde, Anna"	Sobolew	68	Lublin 1867-1869	00122	229	K Krueger				"Pide, August"	Compilation Table; surviving children listed							
+Klath	Karolina	Klatt	Karoline	D	1868	Aug				Bielin	68	Lublin 1867-1869	00122	230	K Krueger				"Schendel, August"	Compilation Table; surviving children listed							
+Selmer	Michal	Zelmer	Michael	D	1868	Aug				Baranow	68	Lublin 1867-1869	00122	231	K Krueger				"Meltzer, Julianne"	Compilation Table; surviving children listed							
+Meltzer	Julianna	Meltzer	Julianne	D	1868	Aug				Baranow	68	Lublin 1867-1869	00123	232	K Krueger				"Zelmer, [Michael]"	Compilation Table							
+Pyde	Emilia	Pide	Emilie	D	1868	Aug	Johann		"Betcher, Justine"	Klementynow	68	Lublin 1867-1869	00123	233	K Krueger					Compilation Table							
+Rap	Wilhelm	Rapp	Wilhelm	D	1868	Aug	Andreas		"Kotke, Anna Christine"	Janowica	68	Lublin 1867-1869	00123	234	K Krueger					Compilation Table							
+Betcher	Rozalia	Betcher	Rosalie	D	1868	Aug	Johann		"Klemens, Marianne"	Wolka Mieczyslawska	68	Lublin 1867-1869	00123	235	K Krueger					Compilation Table							
+Kelm	Ludwika	Kelm	Luise	D	1868	Aug	Paul		"Gantzken?, Dorothea"	Kaniwola	68	Lublin 1867-1869	00123	236	K Krueger				"Bloch, Christoph"	Compilation Table; surviving children listed							
+Guenther	Ludwika	Guenther	Luise	D	1868	Aug	Christoph		Marianne	Przymus	68	Lublin 1867-1869	00124	237	K Krueger				"Mittelstaedt, Peter"	Compilation Table; surviving children listed							
+Somerfeldt	Justyna	Sommerfeld	Justine	D	1868	Aug	Johann Daniel		"Kufeldt, Elisabeth"	Malinowka	68	Lublin 1867-1869	00123	238	K Krueger					Compilation Table							
+Tefs	Krystyna	Tews	Christine	D	1868	Aug	Paul		"Harwart, Eva"	Bielin	68	Lublin 1867-1869	00124	239	K Krueger					Compilation Table							
+Schultz	Amalia	Schultz	Amalie  	D	1868	Aug	Ferdinand		"Grams, Marianne"	Adamow	68	Lublin 1867-1869	00124	240	K Krueger					Compilation Table							
+Jonton	Ludwik	Jonton	Ludwig	D	1868	Aug	Christian		"Grams, Julianne"	Niedzialowice	68	Lublin 1867-1869	00124	241	K Krueger					Compilation Table							
+Schreinert	Emilia	Schreinert	Emilie	D	1868	Aug	Unknown/unbekannt		"Schreinert, Karoline"	Nadrybie	68	Lublin 1867-1869	00124	242	K Krueger					Compilation Table							
+Zirk	Fryderyk	Zirk	Friedrich	D	1868	Aug	Martin		"Noetzel, Susanne"	Aleksandrowka	68	Lublin 1867-1869	00126	243	K Krueger					Compilation Table							
+Schreder	August	Schroeder	August	D	1868	Aug	August		"Schultz, Friederike"	Juliopol	68	Lublin 1867-1869	00125	244	K Krueger					Compilation Table							
+Matter	Ludwika	Matter	Luise	D	1868	Aug	Eduard		"Schmidtke, Eleonore"	Rachow	68	Lublin 1867-1869	00124	245	K Krueger					Compilation Table							
+Prodel	Michal	Prodel	Michael	D	1868	Aug	Gottlieb		"Prechel, Justine"	Kaniwola	68	Lublin 1867-1869	00125	246	K Krueger					Compilation Table							
+Bergman	Juliusz	Bergman	Julius	D	1868	Aug	Wilhelm		"Noerenberg, Karoline"	Trojnia	68	Lublin 1867-1869	00125	247	K Krueger					Compilation Table							
+Selmer	Wilhelmina	Zelmer	Wilhelmine	D	1868	Aug	Michael		"Meltzer, Julianne"	Baranow	68	Lublin 1867-1869	00125	248	K Krueger					Compilation Table							
+Selmer	Karolina	Zelmer	Karoline	D	1868	Aug	Michael		"Meltzer, Julianne"	Baranow	68	Lublin 1867-1869	00125	249	K Krueger					Compilation Table							
+Stopel	Paulina	Stapel	Pauline	D	1868	Aug	Christian		"Friedrich, Wilhelmine"	Malinowka	68	Lublin 1867-1869	00126	250	K Krueger					Compilation Table							
+Schwartz	Emma Matylda	Schwartz	Emma Mathilde	D	1868	Sep	Andreas		"Breit, Amalie"	Janowica	68	Lublin 1867-1869	00126	251	K Krueger					Compilation Table							
+Thiede 	Stefan	Tiede	Stefan	D	1868	Sep	Johann		"Karge, Eva"	Mieszyslawka	68	Lublin 1867-1869	00125	252	K Krueger					Compilation Table							
+Betcher	Krystyna	Betcher	Christine	D	1868	Sep	Johann		"Kleeman, Marianne"	Mieszyslawka	68	Lublin 1867-1869	00125	253	K Krueger					Compilation Table							
+Pyde	Wilhelmina	Pide	Wilhelmine	D	1868	Sep	August		"Wendland, Wilhelmine"	Sobolew	68	Lublin 1867-1869	00126	254	K Krueger					Compilation Table							
+Toll	Albert Gottfried baron de	Toll	Albert Gottfried baron de	D	1868	Sep	"Hugo Witrich, baron de"		"Karczewski, Albertine Regina"	Lublin	68	Lublin 1867-1869	00124	255	K Krueger					Compilation Table; Hussar cavalry							
+Wendlandt	Wilhelmina	Wendland	Wilhelmine	D	1868	Sep	Michael		Marianne	Perekraszcze	68	Lublin 1867-1869	00135	256	K Krueger				"Schultz, Ludwig"	Compilation Table							
+Braun	Dorotta	Braun	Dorothea	D	1868	Sep	Friedrich		"Zeh, Margarete"	Adamow	68	Lublin 1867-1869	00135	257	K Krueger					Compilation Table							
+Schmitdorf	Justyna	Schmidtdorf	Justine	D	1868	Sep	Gottlieb		Anna	Zawada	68	Lublin 1867-1869	00135	258	K Krueger				"Eichmann, Samuel"	Compilation Table							
+		Fitzner	Ernestine Wilhelmine	D	1868	Sep	Christian		"Koth, Wilhelmine"	Juliopol	68	Lublin 1867-1869	00135	259	K Krueger					Compilation Table							
+		Rach	Luise	D	1868	Sep	Friedrich		"Schmidt, Henriette"	Dabie	68	Lublin 1867-1869	00135	260	K Krueger					Compilation Table							
+		Buss	Julius	D	1868	Sep	Ferdinand		"Semler, Justine"	Tomaszowka	68	Lublin 1867-1869	00135	261	K Krueger					Compilation Table							
+Bloch	Augusta	Bloch	Auguste	D	1868	Sep	Christoph		"Kelm, Luise"	Kaniwola	68	Lublin 1867-1869	00135	262	K Krueger					Compilation Table							
+Schmaltz	Jan	Schmaltz	Johann	D	1868	Sep	Johann		"Panto, Luise"	Nadrybie	68	Lublin 1867-1869	00136	263	K Krueger					Compilation Table							
+Ratz	Wilhelm	Ratz	Wilhelm	D	1868	Sep	Peter		"Strauss, Luise"	Bialopole	68	Lublin 1867-1869	00136	264	K Krueger					Compilation Table							
+Selmer	Juliusz	Zelmer	Julius	D	1868	Sep	Michael		"Meltzer, Julianne"	Baranow	68	Lublin 1867-1869	00136	266	K Krueger					Compilation Table							
+Wahl	Fryderyk August	Wahl	Friedrich August	D	1868	Sep	Daniel Eduard		"Neumann, Auguste"	Wojciechow	68	Lublin 1867-1869	00136	265	K Krueger					Compilation Table							
+		Krause	Christine	D	1868	Sep				Jagodne	68	Lublin 1867-1869	00136	267	K Krueger					Compilation Table							
+Mas	Wilhelm	Mass	Wilhelm	D	1868	Sep	Daniel		"Grass, Wilhelmine"	Wojciechow	68	Lublin 1867-1869	00136	268	K Krueger					Compilation Table							
+Fischer	Ludwik	Fischer	Ludwig	D	1868	Sep	Samuel		"Stok, Christine"	Kontie (=Katy)	68	Lublin 1867-1869	00136	269	K Krueger					Compilation Table							
+Mejster	Jan	Meister	Johann	D	1868	Sep	Georg		"Hammermeister, Christine"	Juliopol	68	Lublin 1867-1869	00137	271	K Krueger				"Balkau, Karoline"	Compilation Table							
+Mittelstedt	Alexander	Mittelstaedt	Alexander	D	1868	Sep	Peter		"Guenther, Luise"	Przymus	68	Lublin 1867-1869	00137	272	K Krueger					Compilation Table							
+Roechert	Juliusz	Roechert	Julius	D	1868	Sep	Samuel		"Witte, Elisabeth"	Teosin	68	Lublin 1867-1869	00137	273	K Krueger					Compilation Table							
+Soelmer	Gottlib	Zelmer	Gottlieb	D	1868	Sep	Michael		"Splett, Justine"	Serokomla	68	Lublin 1867-1869	00138	274	K Krueger					Compilation Table							
+Blank	Wilhelmina	Blank	Wilhelmine	D	1868	Sep	Andreas		"Schultz, Christine"	Krzywda	68	Lublin 1867-1869	00137	275	K Krueger					Compilation Table							
+Frejtag	Erdman	Freitag	Erdmann	D	1868	Sep	Samuel		"Weber, Luise"	Izydorow	68	Lublin 1867-1869	00137	276	K Krueger					Compilation Table							
+Mink	Emilia	Mink	Emilie	D	1868	Sep	Gottlieb		"Rapczinski, Justine"	Malinowka	68	Lublin 1867-1869	00137	277	K Krueger					Compilation Table							
+Milke	Emilia	Milke	Emilie	D	1868	Sep	Friedrich		"Taube, Rosalie"	Teosin	68	Lublin 1867-1869	00137	278	K Krueger					Compilation Table							
+Knyspel	Dorotta	Knispel	Dorothea	D	1868	Sep				Jozefin (=Jozefow?)	68	Lublin 1867-1869	00146	270	K Krueger				"Kinast, Wilhelm"	Compilation Table; 1 daughter (Henriette)							
+Neumann	Wilhelmina	Neumann	Wilhelmine	D	1868	Oct	Daniel		"Harmel, Julianna"	Bronislawow	68	Lublin 1867-1869	00146	281	K Krueger					Compilation Table							
+Dill	Karol Edward	Dill	Karl Eduard	D	1868	Oct	Karl		"Richter, Luise"	Bielany	68	Lublin 1867-1869	00146	282	K Krueger					Compilation Table							
+Krueger	August	Krueger	August	D	1868	Oct	Christoph		"Hundt, Marianne"	Felczyn	68	Lublin 1867-1869	00146	285	K Krueger					Compilation Table							
+Binder	Anna Rozyna	Binder	Anna Rosine	D	1868	Oct				Janopol	68	Lublin 1867-1869	00149	284	K Krueger				"Majewski, Gottlieb"	Compilation Table; 1 son (Johann)							
+Stebner	Jan	Stebner	Johann	D	1868	Oct	Karl		"Reimer, Henriette"	Wankowszczyzna	68	Lublin 1867-1869	00147	286	K Krueger					"Compilation Table; mother's second husband, Geik?"							
+Burchad	Justyna	Burchard	Justine	D	1868	Oct	Samuel		"Heger, Justine"	Aleksandrowka	68	Lublin 1867-1869	00147	287	K Krueger					Compilation Table							
+Burchad	Jan Krzysztof	Burchard	Johann Christoph	D	1868	Oct	Samuel		"Heger, Justine"	Aleksandrowka	68	Lublin 1867-1869	00147	288	K Krueger					Compilation Table							
+Kapiszke	Ernest Piotr	Kapischke	Ernst Peter	D	1868	Oct	Wilhelm		"Bluemke, Karoline"	Nadrybie	68	Lublin 1867-1869	00147	289	K Krueger					Compilation Table							
+Gerke	Paulina	Gerke	Pauline	D	1868	Oct	Friedrich		"Krentz, Justine"	Skordiow	68	Lublin 1867-1869	00147	290	K Krueger					Compilation Table							
+Hoffmann	Gottlib	Hoffmann	Gottlieb	D	1868	Oct				Janowica	68	Lublin 1867-1869	00147	292	K Krueger				"Freimark, Rosalie"	Compilation Table							
+Duesterhoeft	Wilhelm	Duesterhoeft	Wilhelm	D	1868	Oct				Aleksandrowka	68	Lublin 1867-1869	00148	293	K Krueger				"Zielke, Anna Justine"	Compilation Table; surviving children listed							
+Lucyus	Benjaminn	Lucius	Benjamin	D	1868	Oct	Karl		"Rau, Ernestine"	Malinowka	68	Lublin 1867-1869	00147	294	K Krueger					Compilation Table							
+Kisser	Anna	Kisser	Anna	D	1868	Oct	Gottlieb		"Krueger, Anna Christine"	Aleksandrowka	68	Lublin 1867-1869	00148	295	K Krueger					Compilation Table							
+Stresing	Fryderyk	Stresing	Friedrich	D	1868	Oct	Peter		"Wolfert, Julianne"	Wojciechow	68	Lublin 1867-1869	00148	296	K Krueger					Compilation Table							
+Kisser	Paulina	Kisser	Pauline	D	1868	Oct	Gottlieb		"Krueger, Anna Christine"	Aleksandrowka	68	Lublin 1867-1869	00148	297	K Krueger					Compilation Table							
+Ratz	Emilia	Ratz	Emilie	D	1868	Oct	Johann		"Huff, Julianne"	Bielin	68	Lublin 1867-1869	00148	299	K Krueger					Compilation Table							
+Wilde	Julianna	Wilde	Julianne	D	1868	Oct	Ludwig		"Pide, Ernestine"	Sobolew	68	Lublin 1867-1869	00148	300	K Krueger					Compilation Table							
+Luettke	Ferdynand Wilhelm	Luetke	Ferdinand Wilhelm	D	1868	Oct	Wilhelm		"Frank, Wilhelmine"	Sewerynowka	68	Lublin 1867-1869	00149	301	K Krueger					Compilation Table							
+Jeske	Gottfried	Jeske	Gottfried	D	1868	Oct	Unknown/unbekannt		"Jeske, Wilhelmine"	Izydorow	68	Lublin 1867-1869	00148	302	K Krueger					Compilation Table							
+Kneller	Julianna	Kneller	Julianne	D	1868	Oct	Heinrich		"Noetzel, Anna Elisabeth"	Malinowka	68	Lublin 1867-1869	00149	303	K Krueger					Compilation Table							
+Bekker		Becker	Adam	D	1868	Nov				Stasiew (=Stasin)	68	Lublin 1867-1869	00149	304	K Krueger				"Trelenberg, Marianne"	Compilation Table; surviving children listed							
+Mejer	Marya	Meier	Maria	D	1868	Nov	Gottfried		Maria	Zarobka	68	Lublin 1867-1869	00159	302	K Krueger				Schultz	"Compilation Table; 2 sons, 1 daughter"							
+Lambrecht	Emil	Lambrecht	Emil	D	1868	Nov	August		"Rentz, Justine"	Aleksandrowka	68	Lublin 1867-1869	00159	303	K Krueger					Compilation Table							
+Klath	Gottlob	Klatt	Gottlieb	D	1868	Nov	Gottlieb		"Nickel, Luise"	Bronislawow	68	Lublin 1867-1869	00159	304	K Krueger					Compilation Table							
+Winter	Michal	Winter	Michael	D	1868	Nov	Adam		"Kruschel, Eva"	Leonardow	68	Lublin 1867-1869	00160	305	K Krueger					Compilation Table							
+Badke	Fryderyk Wilhelm	Badke	Friedrich Wilhelm	D	1868	Nov	Johann		"Muth, Anna Rosine"	Sobolew	68	Lublin 1867-1869	00159	306	K Krueger					Compilation Table							
+Kautz	Marcin	Kautz	Martin	D	1868	Nov	Samuel		"Benz, Helene"	Puszki	68	Lublin 1867-1869	00159	307	K Krueger					Compilation Table							
+Rejch	Gustaw	Reich	Gustav	D	1868	Nov	Gottfried		"Schmidt, Julianne"	Radziejow	68	Lublin 1867-1869	00160	308	K Krueger					Compilation Table							
+Majewski	Jan	Majewski	Johann	D	1868	Nov	Gottlieb		"Binder, Anna Rosine"	Janopol	68	Lublin 1867-1869	00160	309	K Krueger					Compilation Table							
+Jahnke	Daniel	Janke	Daniel	D	1868	Nov	Daniel		"Janke, Eva "	Pielgrzymka	68	Lublin 1867-1869	00159	310	K Krueger					Compilation Table							
+Ziehmer	Anna Elzbieta	Ziemer	Anna Elisabeth 	D	1868	Nov	Martin		"Hartwig, Eva"	Janowica	68	Lublin 1867-1869	00160	311	K Krueger				Schwartz	Compilation Table; surviving children listed							
+Gnise	August	Gniese	August	D	1868	Nov	Friedrich		"Bluege, Marianne"	Bronislawow	68	Lublin 1867-1869	00159	312	K Krueger					Compilation Table							
+Sager	Gottlib	Sager	Gottlieb	D	1868	Nov	August		"Fender, Florentine"	Zurawieniec	68	Lublin 1867-1869	00160	313	K Krueger					Compilation Table							
+Kriesel	Jan	Kriesel	Johann	D	1868	Nov	Wilhelm		"Lange, Wilhelmine"	Wojciechow	68	Lublin 1867-1869	00161	313	K Krueger					Compilation Table							
+Bejer	Jan	Beier	Johann	D	1868	Nov	Wilhelm		"Wisner, Karoline"	Chutze	68	Lublin 1867-1869	00160	315	K Krueger					Compilation Table							
+Jans	Emilia	Jantz	Emilie	D	1868	Nov	Michael		"[Piel], Eleonore"	Teosin	68	Lublin 1867-1869	00161	316	K Krueger					Compilation Table							
+Huff	Julianna	Huff	Julianne	D	1868	Nov				Bielin	68	Lublin 1867-1869	00161	317	K Krueger				"Ratz, Johann"	Compilation Table; 2 daughters							
+Stensel	Wilhelmina	Stenzel	Wilhelmine	D	1868	Nov	Gottlieb		"Fitz, Marianne"	Bielin	68	Lublin 1867-1869	00161	318	K Krueger					Compilation Table							
+Endler	Augusta	Endler	Auguste	D	1868	Nov	Gottfried		"Krueger, Julianne"	Gotowka	68	Lublin 1867-1869	00161	319	K Krueger				Dingel	Compilation Table							
+Klann	Edward	Klann	Eduard	D	1868	Nov	Christoph		"Messinger, Anna"	Zarobka	68	Lublin 1867-1869	00161	320	K Krueger					Compilation Table							
+Kunkel	Regina	Kunkel	Regina	D	1868	Dec	Unknown/unbekannt		"Kunkel, Marianne"	Mieszyslawka	68	Lublin 1867-1869	00173	321	K Krueger					Compilation Table							
+Schmidt	Anna Rozyna	Schmidt	Anna Rosine	D	1868	Dec				Leszczyniec	68	Lublin 1867-1869	00173	322	K Krueger				"Heck, August"	Compilation Table; surviving children listed							
+Horn	Emilia	Horn	Emilie	D	1868	Dec	Wilhelm		"Doberstein, Henriette"	Wankowszczyzna	68	Lublin 1867-1869	00173	323	K Krueger					Compilation Table							
+Jubin	Ludwika	Jubin	Luise	D	1868	Dec	Gottfried		"Hauf, Wilhelmine"	Aleksandrowka	68	Lublin 1867-1869	00173	324	K Krueger					Compilation Table							
+Reese	Jakob	Roese	Jakob	D	1868	Dec				Kulczyn	68	Lublin 1867-1869	00173	325	K Krueger				"Mutschler, Rosine"	Compilation Table							
+Wejss	Ludwika	Weiss	Luise	D	1868	Dec	Gottfried		"Driesner, Pauline"	Aleksandrowka	68	Lublin 1867-1869	00173	326	K Krueger					Compilation Table							
+Bilow	Wilhelm	Bilof	Wilhelm	D	1868	Dec	Peter		"Firus, Julianne"	Bronislawow	68	Lublin 1867-1869	00173	327	K Krueger					Compilation Table							
+Majwalt	Edward	Maiwald	Eduard	D	1868	Dec	Johann Karl		"Denert, Henriette"	Bogdanka	68	Lublin 1867-1869	00174	328	K Krueger					Compilation Table							
+Richert	Michal	Richert	Michael	D	1868	Dec	Samuel		"Witte, Elisabeth"	Teosin	68	Lublin 1867-1869	00174	329	K Krueger					Compilation Table							
+Rymer	Ferdynand Fryderyk	Riemer	Ferdinand Friedrich	D	1868	Dec	Johann		"Proehl, Wilhelmine"	Nadrybie	68	Lublin 1867-1869	00174	330	K Krueger					Compilation Table							
+Hekendorf	August	Heckendorf	August	D	1868	Dec	Johann		"Majewski, Henriette"	Bielany	68	Lublin 1867-1869	00174	331	K Krueger					Compilation Table							
+Ratz	Rozalia	Ratz	Rosalie	D	1868	Dec	Johann		"Huff, Julianne"	Bielin	68	Lublin 1867-1869	00174	332	K Krueger					Compilation Table							
+Betcher	Krzysztof	Betcher	Christoph	D	1868	Dec	Michael		"Mantei, Emilie"	Klementynow	68	Lublin 1867-1869	00174	333	K Krueger					Compilation Table							
+Buelau	Gustaw	Bilau	Gustav	D	1868	Dec	Gottlieb		"Timm, Wilhelmine"	Dzialyn	68	Lublin 1867-1869	00175	334	K Krueger					Compilation Table							
+Gezel	Wilhelm	Gesell	Wilhelm	D	1868	Dec	Vinzent		"Geik?, Julianne"	Justynow	68	Lublin 1867-1869	00175	335	K Krueger					Compilation Table							
+Schultz	Gottlib	Schultz	Gottlieb	D	1868	Dec	Andreas		"Zielke, Wilhelmine"	Stasiew (=Stasin)	68	Lublin 1867-1869	00174	336	K Krueger					Compilation Table							
+Schendler	Anna Katarzyna	Schendler	Anna Katharina	D	1868	Dec				Kaniwola	68	Lublin 1867-1869	00175	337	K Krueger				Tischler	"Compilation Table; Tischler, Gottlieb (son), 1 daughter"							
+Lining	Rozalia	Lining	Rosalie	D	1868	Dec	Martin		"Breit, Katharina"	Justynow	68	Lublin 1867-1869	00175	338	K Krueger				"Ansorg, Wilhelm"	Compilation Table							
+Sawal	Emilia	Zawal	Emilie	D	1868	Dec	Samuel		"Ziebart, Marianne"	Bielany	68	Lublin 1867-1869	00175	339	K Krueger					Compilation Table							
+		Hinkel (married name)	Anna Wilhelmine	D	1868	Dec				Lipniak	68	Lublin 1867-1869	00175	340	K Krueger				Hinkel	Compilation Table							
+Pohl	Ludwik	Pohl	Ludwig	D	1868	Dec				Mieszyslawka	68	Lublin 1867-1869	00175	341	K Krueger				"Kwast, Karoline"	Compilation Table; surviving childrend listed							
+Kriger	Emma	Krueger	Emma	D	1868	Dec	Peter		"Wildemann, Margarate"	Janowica	68	Lublin 1867-1869	00176	342	K Krueger					Compilation Table							
+Peiske	Gottfryd	Peiske	Gottfried	D	1868	Dec	Gottfried		"Drews, Euphrosine"	Janowica	68	Lublin 1867-1869	00176	343	K Krueger					Compilation Table							
+Brehm	August	Brehm	August	D	1868	Dec	Johann		"Fischler, Justine"	Kaniwola	68	Lublin 1867-1869	00176	344	K Krueger					Compilation Table							
+Endler	Paulina	Endler	Pauline	D	1868	Dec	Gottlieb		"Krueger, Julianne"	Gotowka	68	Lublin 1867-1869	00176	345	K Krueger					Compilation Table							
+Knecht	Andrzej	Knecht	Andreas	D	1868	Dec	Christoph		"Milke, Karoline"	Malinowka	68	Lublin 1867-1869	00176	346	K Krueger					Compilation Table							
+Krueger	Justyna	Krueger	Justine	D	1868	Dec	Gottfried		"Klingspon, Eva Rosine"	Domicelow	68	Lublin 1867-1869	00176	347	K Krueger					Compilation Table							
+Scholtz	Juliusz Hermann	Scholtz	Julius Hermann	D	1868	Dec	August		"Fibich, Ida"	Lublin	68	Lublin 1867-1869	00176	348	K Krueger					Compilation Table							
+Manske	Michal	Manske	Michael	D	1869	Jan	Stefan		"Henkel, Luise"	Pawlow	68	Lublin 1867-1869	00177	349	K Krueger					Compilation Table							
+Sander	Samuel	Zander	Samuel	D	1869	Jan	August		"Ganske, Wilhelmine"	Janowica	68	Lublin 1867-1869	00177	350	K Krueger					Compilation Table							
+Kapuschke	Franciszek	Kapuschke	Franz	D	1869	Jan				Nadrybie	68	Lublin 1867-1869	00177	351	K Krueger					Compilation Table							
+Tschens	Krystyan	Tschense	Christian	D	1869	Jan	Christian		"Schmidt, Karoline"	Jamne	68	Lublin 1867-1869	00178	352	K Krueger					Compilation Table							
+Patzer	Gottlib	Patzer	Gottlieb	D	1869	Jan	Gottfried		"Raczinski, Elisabeth"	Aleksandrowka	68	Lublin 1867-1869	00178	353	K Krueger					Compilation Table							
+Schmidtke	Krzysztof	Schmidtke	Christoph	D	1869	Jan				Lipniak	68	Lublin 1867-1869	00177	354	K Krueger				"Tiede, Julianne"	Compilation Table							
+Kryger	Julianna	Krueger	Julianne	D	1869	Jan	Ludwig		Christine	Gotowka	68	Lublin 1867-1869	00178	355	K Krueger				"Kitter, Christian"	Compilation Table; surviving children listed							
+Rahn	Adam	Rahn	Adam	D	1869	Jan	Samuel		Regina	Gotowka	68	Lublin 1867-1869	00178	356	K Krueger				Anna	Compilation Table; surviving children listed							
+Meissner	Karol	Meissner	Karl	D	1869	Jan	Johann		"Wagner, Anna"	Lublin	68	Lublin 1867-1869	00177	357	K Krueger				"Neproketzki, Victoria"	Compilation Table							
+Wegner	Wilhelmina	Wegner	Wilhelmine	D	1869	Jan	Daniel		"Knakowski, Agnes"	Aleksandrowka	68	Lublin 1867-1869	00177	358	K Krueger					Compilation Table							
+Lentz	Anna Ludwika	Lentx	Anna Luise	D	1869	Jan	Ludwig		"Braun, Karoline"	Bielany	68	Lublin 1867-1869	00178	359	K Krueger					Compilation Table							
+Klimpel	Jagnieszka	Klimpel	Agnes	D	1869	Jan	Gottlieb		"Riedel, Emilie"	Garbow	68	Lublin 1867-1869	00013	1	K Krueger					Compilation Table							
+Froemke	Karol	Froemke	Karl	D	1869	Jan				Gotowka	68	Lublin 1867-1869	00014	2	K Krueger				"Knispel, Wilhelmina"	Compilation Table							
+Bohn	Karol	Bohn	Karl	D	1869	Jan	Samuel		"Buss, Justine"	Domicelow (nr. Radziejow)	68	Lublin 1867-1869	00014	3	K Krueger					Compilation Table							
+		Friedrich	stillborn male	D	1869	Jan	Christoph		"Duesterhoeft, Karoline"	Aleksandrowka	68	Lublin 1867-1869	00014	4	K Krueger					Compilation Table							
+Paeuske	Ernestyna	Peiske	Ernestine	D	1869	Jan	Gottfried		"Drews, Euphrosine"	Janowica	68	Lublin 1867-1869	00014	5	K Krueger					Compilation Table							
+Mueller	August Samuel	Miller	August Samuel	D	1869	Jan	August		"Dilge, Johanna"	Juliopol	68	Lublin 1867-1869	00014	6	K Krueger					Compilation Table							
+Kufeldt	Anna	Kufeld	Anna	D	1869	Jan	Christian		"Labrentz, Justine"	Antonin	68	Lublin 1867-1869	00014	7	K Krueger					Compilation Table							
+Mejster	Pawel Marcin	Meister	Paul Martin	D	1869	Jan	Johann		"Balkau, Karoline"	Juliopol	68	Lublin 1867-1869	00014	8	K Krueger					Compilation Table							
+Fryderyk	Rozyna	Friedrich	Rosine	D	1869	Jan	Leonhard		Regina	Lublin	68	Lublin 1867-1869	00013	9	K Krueger				Mazurkiewicz	Compilation Table							
+Noerenberg	Henryetta	Noerenberg	Henriette	D	1869	Jan	Friedrich		"Rode, Henriette"	Zurawiniec	68	Lublin 1867-1869	00015	10	K Krueger					Compilation Table							
+Ryske	August	Riske	August	D	1869	Jan	August		"Kahn, Susanne"	Puszki	68	Lublin 1867-1869	00015	11	K Krueger					Compilation Table							
+Kremer	Michal	Kraemer	Michael	D	1869	Jan				Radziejow	68	Lublin 1867-1869	00015	12	K Krueger				"Belke, Karoline"	Compilation Table							
+Elke	Juliusz Fryderyk	Oelke	Julius Friedrich	D	1869	Jan	Karl		"Ball, Wilhelmine"	Slugocin	68	Lublin 1867-1869	00015	13	K Krueger					Compilation Table							
+Huff	Andrzej	Huff	Andreas	D	1869	Jan	Michael		"Hartmann, Luise"	Laczki	68	Lublin 1867-1869	00013	14	K Krueger					Compilation Table							
+Klath	Ewa	Klatt	Eva	D	1869	Jan	Johann		"Janke, Karoline"	Egersdorf (=Dylazki)	68	Lublin 1867-1869	00013	15	K Krueger					Compilation Table							
+Kant	Gottlib	Kant	Gottlieb	D	1869	Jan	unknown		"Kant, Elisabeth"	Tomaszowka	68	Lublin 1867-1869	00015	16	K Krueger				Duesterhoeft	Compilation Table							
+Efa	Ludwika	Effa	Luise	D	1869	Jan	August		"Klause, Christine"	Bronislawow	68	Lublin 1867-1869	00015	17	K Krueger					Compilation Table							
+Fenske	Krystyna	Fenske	Christine	D	1869	Jan	Gottfried		"Kramer, Karoline"	Tytusow (nr. Radziejow)	68	Lublin 1867-1869	00016	18	K Krueger					Compilation Table							
+Albrecht	Wilhelmina	Albrecht	Wilhelmine	D	1869	Jan	Gottfried		"Fenning, Emilie"	Bronislawow	68	Lublin 1867-1869	00016	19	K Krueger					Compilation Table							
+Brill	Jan	Brill	Johann	D	1869	Jan	Ferdinand	Kautz	"Kauss, Luise"	Leszczyniec	68	Lublin 1867-1869	00016	20	K Krueger					Compilation Table							
+Szultz	Karolina	Schultz	Karoline	D	1869	Jan				Bielany	68	Lublin 1867-1869	00016	21	K Krueger				Meister	Compilation Table							
+Falkenberg	Samuel	Falkenberg	Samuel	D	1869	Jan	August		"Noerenberg, Wilhelmine"	Puszki	68	Lublin 1867-1869	00016	22	K Krueger					Compilation Table							
+Grams	Maryanna	Grams	Marianne	D	1869	Jan	Johann		Emilie	Adamow	68	Lublin 1867-1869	00016	23	K Krueger				"Schultz, Ferdinand"	Compilation Table							
+Kahn	Juliusz	Kahn	Julius	D	1869	Feb	Michael		"Abraham, Ernestine"	Klementynow	68	Lublin 1867-1869	00016	24	K Krueger					Compilation Table							
+Kobelke	Benjamin	Kobelke	Benjamin	D	1869	Feb				Uher	68	Lublin 1867-1869	00017	25	K Krueger				"Horn, Julianna"	Compilation Table							
+Hellberg	Emilia	Helberg	Emilie	D	1869	Feb	Michael		"Krueger, Anna Rosalie"	Janowica	68	Lublin 1867-1869	00017	26	K Krueger					Compilation Table							
+Landt	Marya Henryetta Teofila	Landt	Maria Henriette Theofile	D	1869	Feb	Adolf		"Dankwart, Eva Auguste"	Stryjno	68	Lublin 1867-1869	00017	29	K Krueger					Compilation Table							
+Szultz	Krzysztof	Schultz	Christoph	D	1869	Feb	Paul		Anna Christine	Wola Mieczyslawska	68	Lublin 1867-1869	00017	30	K Krueger				"Kinitz, Susanne"	Compilation Table							
+Braun	Anna Justyna	Braun	Anna Justine	D	1869	Feb	Gottfried		"Dalke, Wilhelmine"	Janowica	68	Lublin 1867-1869	00017	31	K Krueger					Compilation Table							
+Szendel	Zuzanna	Schendel	Susanne	D	1869	Feb				Malinowka	68	Lublin 1867-1869	00017	32	K Krueger				"Kauss, Christoph"	Compilation Table							
+Biler	Karol	Biller	Karl	D	1869	Feb	Karl		"Hintz, Julianna"	Adamow	68	Lublin 1867-1869	00017	33	K Krueger					Compilation Table							
+Krumm	Marya Elzbieta	Krum	Marie Elisabeth	D	1869	Feb				Slugocin	68	Lublin 1867-1869	00018	35	K Krueger				Ruchotzki	Compilation Table							
+Litwitz	Fryderyk	Litwitz	Friedrich	D	1869	Feb	Ludwig		"Geister, Luise"	Leonardow	68	Lublin 1867-1869	00030	35	K Krueger					Compilation Table							
+Wagner	Ignacy Maryan	Wagner	Ignatz Marian	D	1869	Feb	Maximillian		"Lipinski, Camilla"	Lublin	68	Lublin 1867-1869	00030	36	K Krueger					Compilation Table							
+Kauss	Ludwika	Kaus	Luise	D	1869	Feb	Gottlieb		"Stellmach?, Marianne?"	Stoszew	68	Lublin 1867-1869	00030	37	K Krueger					Compilation Table							
+Szendel	Eufrozyna	Schendel	Euphrosine	D	1869	Feb	Johann		"Dalke, Eva"	Skarbin	68	Lublin 1867-1869	00030	38	K Krueger					Compilation Table							
+Gefrejter	Zuzanna	Gefreiter	Susanne	D	1869	Feb	Johann		"Neumann, Pauline"	Stanislawow	68	Lublin 1867-1869	00030	39	K Krueger					Compilation Table							
+Schultz	Gottlib	Schultz	Gottlieb	D	1869	Feb	Ferdinand		"Grams, Marianne"	Adamow	68	Lublin 1867-1869	00030	40	K Krueger					Compilation Table							
+Klukas	Jerzy	Klukas	Georg	D	1869	Feb				Janowica	68	Lublin 1867-1869	00030	41	K Krueger				"Sprott, Marianne"	Compilation Table							
+Schmaltz	Fryderyk Ferdynand	Schmaltz	Friedrich Ferdinand	D	1869	Feb	Christian		"Huener, Luise"	Nadrybie	68	Lublin 1867-1869	00031	42	K Krueger					Compilation Table							
+Goltz	Ludwik	Goltz	Ludwig	D	1869	Mar	Wilhelm		"Riske, Julianna"	Krasienin	68	Lublin 1867-1869	00031	43	K Krueger					Compilation Table							
+Elke	Julianna	Oelke	Julianna	D	1869	Mar	Friedrich		"Knispel, Ernestine"	Jozefow	68	Lublin 1867-1869	00031	44	K Krueger					Compilation Table							
+Lose	Anna Krystyna	Lohse	Anna Christine	D	1869	Mar				Stanislawow	68	Lublin 1867-1869	00031	45	K Krueger				Lohse?	Compilation Table							
+Abram	Jan Maciej	Abraham	Johann Matthias	D	1869	Mar	Gottlieb		"Jubin, Rosine"	Klementynow	68	Lublin 1867-1869	00031	46	K Krueger					Compilation Table							
+Tandt	Albertyna	Tondt	Albertine	D	1869	Mar	August		"Friss, Euphrosine"	Zawada	68	Lublin 1867-1869	00031	47	K Krueger					Compilation Table							
+Eszner	Amalia	Eschner	Amalie	D	1869	Mar	Samuel		"Kuehn, Luise"	Janowica	68	Lublin 1867-1869	00031	48	K Krueger					Compilation Table							
+Muth	Rozalia	Muth	Rosalie	D	1869	Mar	Johann		"Friedrich, Karoline"	Janowica	68	Lublin 1867-1869	00032	49	K Krueger				Muth	Compilation Table							
+Schmidt	Augusta	Schmidt	Auguste	D	1869	Mar	Gottlieb		"Riemer, Justine"	Zurawiniec	68	Lublin 1867-1869	00032	50	K Krueger					Compilation Table							
+Kuehn	Ludwika	Kuehn	Luise	D	1869	Mar	Andreas		"Kassner, Karoline"	Zawada	68	Lublin 1867-1869	00032	51	K Krueger					Compilation Table							
+Kramm	Ewa	Kramm	Eva	D	1869	Mar	Johann		Eva	Juliopol	68	Lublin 1867-1869	00032	52	K Krueger				"Karoch, Christoph"	Compilation Table							
+Schultz	Andrzej	Schultz	Andreas	D	1869	Mar				Egersdorf (=Dylazki)	68	Lublin 1867-1869	00032	53	K Krueger				Holland	Compilation Table							
+Klukas	Wilhelmina	Klukas	Wilhelmine	D	1869	Mar	Johann		"Holland, Rosalie"	Pawlow	68	Lublin 1867-1869	00032	54	K Krueger					Compilation Table							
+Wekwerth	Samuel	Wekwert	Samuel	D	1869	Mar				Malinowka	68	Lublin 1867-1869	00032	55	K Krueger				"Knecht, Justine"	Compilation Table							
+Wohlgemuth	Rudolf	Wohlgemut	Rudolf	D	1869	Mar	Gottfried		"Rode, Wilhelmine"	Zurawiniec	68	Lublin 1867-1869	00044	56	K Krueger					Compilation Table							
+Klingspon	Wilhelm	Klingspon	Wilhelm	D	1869	Mar	Gustav		"Schultz, Justine"	Bielin	68	Lublin 1867-1869	00044	57	K Krueger					Compilation Table							
+Braun	Wilhelm	Braun	Wilhelm	D	1869	Mar	Jakob		"Tetzlaf, Luise"	Janowica	68	Lublin 1867-1869	00044	58	K Krueger					Compilation Table							
+Hess	Wilhelmina	Hess	Wilhelmine	D	1869	Mar	Johann		"Lietke, Julianna"	Bielin	68	Lublin 1867-1869	00044	59	K Krueger					Compilation Table							
+Huff	Fryderyk	Huff	Friedrich	D	1869	Mar	Friedrich		"Depner, Wilhelmine"	Zurawiniec	68	Lublin 1867-1869	00045	60	K Krueger					Compilation Table							
+Krueger	Wilhelmina	Krueger	Wilhelmine	D	1869	Mar	Georg		"Bloch, Rosine"	Jagodno	68	Lublin 1867-1869	00045	61	K Krueger				"Pahlke, Michael"	Compilation Table							
+Brygert	Marcin	Briegert	Martin	D	1869	Mar				Malinowka	68	Lublin 1867-1869	00045	62	K Krueger					Compilation Table; surviving children listed							
+Goltz	Ludwika	Goltz	Luise	D	1869	Mar	Gottlieb		"Maier, Michaelina"	Elzbietow	68	Lublin 1867-1869	00045	63	K Krueger					Compilation Table							
+Falkenberg	Henryk	Falkenberg	Heinrich	D	1869	Mar	August		"Noerenberg, Wilhelmine"	Puszki	68	Lublin 1867-1869	00045	64	K Krueger					Compilation Table							
+Karga	Gottlieb	Karge	Gottlieb	D	1869	Mar	Samuel		"Tiede, Rosine"	Mieszyslawka	68	Lublin 1867-1869	00045	65	K Krueger					Compilation Table							
+Banner	Anna Elzbieta	Banner	Anna Elisabeth	D	1869	Mar				Rozdzalow	68	Lublin 1867-1869	00046	66	K Krueger				Holbt?	Compilation Table							
+Schubert	Fryderyk	Schubert	Friedrich	D	1869	Mar	Daniel		"Kuehn, Wilhelmine"	Zurawiniec	68	Lublin 1867-1869	00046	67	K Krueger					Compilation Table							
+Bich	Marcin	Bich	Martin	D	1869	Mar	Ludwig	Zahe	"Sahe?, Luise"	Malinowka	68	Lublin 1867-1869	00046	68	K Krueger					Compilation Table							
+Wolf	Ludwik	Wolf	Ludwig	D	1869	Mar	Peter		"Schlack, Eleonore"	Skordiow	68	Lublin 1867-1869	00046	69	K Krueger					Compilation Table							
+Huf	Emilia	Huff	Emilie	D	1869	Mar	Johann		"Depner, Wilhelmine"	Zurawiniec	68	Lublin 1867-1869	00046	70	K Krueger					Compilation Table							
+Wolska	Elzbieta	Wolski	Elisabeth	D	1869	Mar	Martin		"Schmidt, Anna"	Antonin	68	Lublin 1867-1869	00046	71	K Krueger				"Pide, Michael"	Compilation Table							
+Jahnke	Justyna	Janke	Justine	D	1869	Mar	Christian		"Kelm, Anna"	Miloszowka	68	Lublin 1867-1869	00046	72	K Krueger				"Schendler (1st spouse), Frank, Gottlieb (2nd spouse)"	Compilation Table							
+Hartstock	Henryk	Hartstock	Heinrich	D	1869	Mar	Christoph		"Behrwald, Anna"	Teosin	68	Lublin 1867-1869	00045	73	K Krueger					Compilation Table							
+Hejn	Justyna	Hein	Justine	D	1869	Apr	Christoph		"Kauss, Luise"	Stoszew	68	Lublin 1867-1869	00047	74	K Krueger					Compilation Table							
+Bigalke	Eleonora	Bigalke	Eleonore	D	1869	Apr	Jakob		"Baum, Anna Rosine"	Graniczna	68	Lublin 1867-1869	00047	75	K Krueger					Compilation Table							
+Schtapel	Karol	Stapel	Karl	D	1869	Apr	Gottlieb		"Sommerfeld, Julianna"	Krasienin	68	Lublin 1867-1869	00047	76	K Krueger					Compilation Table							
+Patzer	Augusta	Patzer	Auguste	D	1869	Apr	Karl		"Wahl, Wilhelmine"	Bielany	68	Lublin 1867-1869	00047	77	K Krueger					Compilation Table							
+Schultz	Michal	Schultz	Michael	D	1869	Apr			"Schultz, Karoline"	Lublin	68	Lublin 1867-1869	00047	78	K Krueger					Compilation Table							
+Appelt	Ludwik	Appelt	Ludwig	D	1869	Apr	Christoph		"Wegner, Luise"	Pielgrzymka	68	Lublin 1867-1869	00047	79	K Krueger					Compilation Table							
+Jahnke	Ludwik	Janke	Ludwig	D	1869	Apr	Karl		"Schroeder, Karoline"	Pielgrzymka	68	Lublin 1867-1869	00048	80	K Krueger					Compilation Table							
+Ortel	Karolina	Ortel	Karoline	D	1869	Apr	Michael		"Frimke?, Susanne"	Malinowka	68	Lublin 1867-1869	00048	81	K Krueger					Compilation Table							
+Rychert	Michal	Richert	Michael	D	1869	Apr	Wilhelm		"Biller, Marianne"	Malinowka	68	Lublin 1867-1869	00048	82	K Krueger					Compilation Table							
+Ikert	Wilhelm	Ikert	Wilhelm	D	1869	Apr	Michael		"Radke, Luise"	Aleksandrowka	68	Lublin 1867-1869	00048	83	K Krueger					Compilation Table							
+Reich	Julianna	Reich	Julianna	D	1869	Apr	Christoph		"Huck?, Luise"	Dryszczow	68	Lublin 1867-1869	00048	84	K Krueger					Compilation Table							
+Noerenberg	Justyna	Noerenberg	Justine	D	1869	Apr				Antonin	68	Lublin 1867-1869	00048	85	K Krueger				"Richter, Franz"	Compilation Table							
+Klem	Jan	Klemm	Johann	D	1869	Apr	Gottlieb		"Zielke, Eva"	Radziejow	68	Lublin 1867-1869	00048	86	K Krueger					Compilation Table							
+Kelm	Zuzanna	Kelm	Susanne	D	1869	Apr				Sobolew	68	Lublin 1867-1869	00049	87	K Krueger				"Arndt (1st spouse); Hundt, Peter (2nd spouse)"	Compilation Table							
+Mueller	Gottlib	Mueller	Gottlieb	D	1869	Apr				Sobolew	68	Lublin 1867-1869	00049	88	K Krueger				"Badke, Karoline"	Compilation Table							
+Radke	August	Radke	August	D	1869	Apr	Christoph		"Hermann, Susanne"	Zarobka	68	Lublin 1867-1869	00049	89	K Krueger					Compilation Table							
+Ryndfleisz	Krzysztof Fryderyk	Rindfleisch	Christoph Friedrich	D	1869	Apr	Johann		"Piper, Johanna"	Nadrybie	68	Lublin 1867-1869	00049	90	K Krueger					Compilation Table							
+Neumann	Karol	Neumann	Karl	D	1867	Oct				Wojciechow	68	Lublin 1867-1869	00049	91	K Krueger				"Reske, Emilie"	Compilation Table							
+Sommer	Albertyna	Sommer	Albertine	D	1869	Apr	Johann		"Rinas, Julianna"	Teosin	68	Lublin 1867-1869	00062	92	K Krueger					Compilation Table							
+Krause	Juljanna	Krause	Julianna	D	1869	Apr	Gottlieb		"Schiewe, Rosalie"	Janowica	68	Lublin 1867-1869	00062	93	K Krueger					Compilation Table							
+Seemann	Juljusz	Seemann	Julius	D	1869	Apr	Michael		"Teske, Luise"	Adamow	68	Lublin 1867-1869	00062	94	K Krueger					Compilation Table							
+Makus	Samuel	Makus	Samuel	D	1869	Apr				Nadrybie	68	Lublin 1867-1869	00062	95	K Krueger				"Skalej, Anna Christine"	Compilation Table							
+Scholtz	Rudolf	Scholtz	Rudolf	D	1869	Apr	August		"Fiebig, Eva"	Lublin	68	Lublin 1867-1869	00062	96	K Krueger					Compilation Table							
+Wegwerth	August	Wegwert	August	D	1869	Apr	Johann		"Schalm, Karoline"	Stanislawow	68	Lublin 1867-1869	00062	97	K Krueger					Compilation Table							
+Rode	Ferdynand	Rode	Ferdinand	D	1869	Apr	Friedrich		"Nast, Marianne"	Jozefin	68	Lublin 1867-1869	00062	98	K Krueger					Compilation Table							
+Schiewe	Gottlieb	Schiewe	Gottlieb	D	1869	Apr	Gottlieb		"Schultz, Anna Justine"	Majdan Krasieninski	68	Lublin 1867-1869	00063	99	K Krueger					Compilation Table							
+Jess	Gottlieb	Jess	Gottlieb	D	1869	Apr	Andreas		"Mund, Emilie"	Bronislawow	68	Lublin 1867-1869	00063	100	K Krueger					Compilation Table							
+Krueger	Helena	Krueger	Helene	D	1869	Apr				Konopnica	68	Lublin 1867-1869	00063	101	K Krueger				"Rotz, Johann"	Compilation Table							
+Schwartz	Agata	Schwartz	Agata	D	1869	Apr				Lublin	68	Lublin 1867-1869	00063	102	K Krueger				"Schwartz, Gottlieb"	Compilation Table							
+Markwart	Anna	Markwart	Anna	D	1869	Apr	Martin		"Bodach, Eva"	Malinowka	68	Lublin 1867-1869	00063	103	K Krueger					Compilation Table							
+Gonske	Maryanna	Ganske	Marianne	D	1869	Apr				Rozdzalow	68	Lublin 1867-1869	00063	104	K Krueger				Glimm	Compilation Table							
+Wiesenthal	Michal	Wiesenthal	Michael	D	1869	Apr	Wilhelm		"Drews, Marianne"	Janowica	68	Lublin 1867-1869	00064	105	K Krueger					Compilation Table							
+Demlang	August	Demlang	August	D	1869	Apr	Heinrich		"Schachtschneider, Wilhelmine"	Sobolew	68	Lublin 1867-1869	00064	106	K Krueger					Compilation Table							
+Schmiedtke	Anna	Schmidtke	Anna	D	1869	Apr	Jakob		"Heger, Justine"	Sobolew	68	Lublin 1867-1869	00064	107	K Krueger					Compilation Table							
+Buls	Andrzej	Buls	Andreas	D	1869	Apr	Christian		"Neumann, Rosalie"	Gotowka	68	Lublin 1867-1869	00064	108	K Krueger					Compilation Table							
+Poleski	Ludwik	Poleski	Ludwig	D	1869	Apr	August		"Winkel, Emilie"	Juliopol	68	Lublin 1867-1869	00064	109	K Krueger					Compilation Table							
+Schultz	Justyna	Schultz	Justine	D	1869	Apr	Karl		"Zerbin, Luise"	Wolka Nadrybska	68	Lublin 1867-1869	00064	110	K Krueger					Compilation Table							
+		Repke	Anna Karoline	D	1869	May				Aleksandria Niedzialowska	68	Lublin 1867-1869	00064	111	K Krueger				"Wudke, Julius"	Compilation Table							
+Herzog	Ludwika	Herzog	Luise	D	1869	May	Christian		"Richter, Rosalie"	Janowica	68	Lublin 1867-1869	00065	112	K Krueger				"Kissmann, Gottfried"	Compilation Table							
+Rolof	Jan	Rolof	Johann	D	1869	May	Michael		"Hermann, Christine"	Wolka Nadrybska	68	Lublin 1867-1869	00065	113	K Krueger					Compilation Table							
+		Bigalke	Marianne	D	1869	May	Christoph		"Weiss, Karoline"	Stoszew	68	Lublin 1867-1869	00065	114	K Krueger				"Reske, Martin"	Compilation Table							
+Repke	Anna	Repke	Anna	D	1869	May				Aleksandria Niedzialowska	68	Lublin 1867-1869	00065	115	K Krueger				"Wudke, Julius"	Compilation Table							
+Bade	Herrman Emil	Bade	Herman Emil	D	1869	May	Wilhelm		"Bade, Luise"	Jagodno	68	Lublin 1867-1869	00065	116	K Krueger					Compilation Table							
+Schendel	Ewa	Schendel	Eva	D	1869	May	Johann		"Polege, Karoline"	Pielgrzymka	68	Lublin 1867-1869	00065	117	K Krueger					Compilation Table							
+Brandt	Jan	Brandt	Johann	D	1869	May	Friedrich		"Drews, Christine"	Puszki	68	Lublin 1867-1869	00065	118	K Krueger					Compilation Table							
+Zerthier	Fryderyk	Serthier	Friedrich	D	1869	May	Gottfried		"Losch, Henriette"	Rozplucie	68	Lublin 1867-1869	00066	119	K Krueger					Compilation Table							
+Zieretzka	Ernestyna	Zeretski	Ernestine	D	1869	May	Heinrich		"Losch, Ernestine"	Rozplucie	68	Lublin 1867-1869	00066	120	K Krueger					Compilation Table							
+Duesterhoeft	Juljanna	Duesterhoeft	Julianna	D	1869	May	Samuel		"Stebner, Eva"	Aleksandria Niedzialowska	68	Lublin 1867-1869	00066	121	K Krueger					Compilation Table							
+Schiewe	Gottlib	Schiewe	Gottlieb	D	1869	May	Gottlieb		"Muth, Marianne"	Janowica	68	Lublin 1867-1869	00082	122	K Krueger					Compilation Table							
+Gandzel	Karolina	Gandzel	Karoline	D	1869	May	Friedrich		"Karock, Wilhelmine"	Dzialyn	68	Lublin 1867-1869	00082	123	K Krueger					Compilation Table							
+Klath	Wilhelmina	Klatt	Wilhelmine	D	1869	May	Andreas		"Beitler, Karoline"	Aleksandrowka	68	Lublin 1867-1869	00082	124	K Krueger					Compilation Table							
+Elke	Jan	Oelke	Johann	D	1869	May				Egersdorf (=Dylazki)	68	Lublin 1867-1869	00082	125	K Krueger				"Kaus, Karoline"	Compilation Table							
+Schultz	Rozalia	Schultz	Rosalie	D	1869	May				Krasienin	68	Lublin 1867-1869	00082	126	K Krueger				"Weigner, Friedrich"	Compilation Table							
+Kruedener	Grzegor von	Kruedener	Gregor von	D	1869	May	Fromhold		Christine	Lublin	68	Lublin 1867-1869	00082	127	K Krueger				"Kasperowski, Petra"	Compilation Table; Baron von Kruedener							
+Hueller	Jan	Hiller	Johann	D	1869	May	Michael		"Hiller, Rosine"	Sewerynowka	68	Lublin 1867-1869	00082	128	K Krueger				"Bittner, Karoline"	Compilation Table							
+Bruell	Ferdynand	Brill	Ferdinand	D	1869	May				Leszczyniec	68	Lublin 1867-1869	00083	129	K Krueger				"Kaus, Luise"	Compilation Table							
+Nerenberg	Anna Krystyna	Noerenberg	Anna Christine	D	1869	May	Michael		"Zimmer, Luise"	Bielany	68	Lublin 1867-1869	00083	130	K Krueger					Compilation Table							
+Krebs	Rozalia	Krebs	Rosalie	D	1869	May	August		"Kropp, Pauline"	Janowica	68	Lublin 1867-1869	00083	131	K Krueger					Compilation Table							
+		Richter	stillborn male	D	1869	May	August		"Zielke, Henriette"	Janowica	68	Lublin 1867-1869	00083	132	K Krueger					Compilation Table							
+Beetke	Justyna	Betke	Justine	D	1869	May	Gottlieb		"Hintz, Emilie"	Krasienin	68	Lublin 1867-1869	00083	133	K Krueger					Compilation Table							
+Zager	Andrzej	Sager	Andreas	D	1869	Jun				Zurawiniec	68	Lublin 1867-1869	00083	135	K Krueger				"Kuehn, Karoline"	Compilation Table							
+Jabusch	Wilchelm Albert	Jabusch	Wilhelm Albert	D	1869	Jun	August		"Nitz, Johanna Auguste"	Wojciechow	68	Lublin 1867-1869	00083	136	K Krueger					Compilation Table							
+Grams	Ewa	Grams	Eva	D	1869	Jun	Gottlieb		"Schroeder, Susanne"	Miloszowka	68	Lublin 1867-1869	00084	137	K Krueger					Compilation Table							
+Geske	Michal	Jeske	Michael	D	1869	Jun				Masluchy?	68	Lublin 1867-1869	00084	138	K Krueger				"Blech, Dorothea"	Compilation Table							
+Fritz	Adolf	Fritz	Adolf	D	1869	Jun	Wilhelm		"Wohlgemut, Karoline"	Zurawiniec	68	Lublin 1867-1869	00084	139	K Krueger					Compilation Table							
+Meger	Juljanna	Meger	Julianna	D	1869	Jun	Christian		"Kant, Karoline"	Antonin	68	Lublin 1867-1869	00083	134	K Krueger					Compilation Table							
+Bluemke	Ludwika	Bluemke	Luise	D	1869	Jun	Gottlieb		"Domres, Justine"	Stefanow	68	Lublin 1867-1869	00084	140	K Krueger					Compilation Table							
+Zylke	Amalia	Zielke	Amalie	D	1869	Jun	Johann		"Makus, Karoline"	Janowica	68	Lublin 1867-1869	00084	141	K Krueger					Compilation Table							
+Grawun	Marcin	Grawun	Martin	D	1869	Jun	Samuel		"Dreger?, Eva"	Janowica	68	Lublin 1867-1869	00084	142	K Krueger					Compilation Table							
+Schroeder	August	Schroeder	August	D	1869	Jun	Friedrich		"Fitzner, Friederike"	Juliopol	68	Lublin 1867-1869	00097	143	K Krueger					Compilation Table							
+Schultz	Gottlib	Schultz	Gottlieb	D	1869	Jun	Karl		"Zerbin, Anna Luise"	Wolka Nadrybska	68	Lublin 1867-1869	00097	144	K Krueger					Compilation Table							
+Peltzer	Anna Karolina	Peltzer	Anna Karoline	D	1869	Jun	Ludwig		"Klingspon, Justine"	Domicelow (nr. Radziejow)	68	Lublin 1867-1869	00097	145	K Krueger					Compilation Table							
+Polno	Michal	Polnau	Michael	D	1869	Jun	Gottlieb		"Schultz, Pauline"	Zawada	68	Lublin 1867-1869	00097	146	K Krueger					Compilation Table							
+Sens	Wilhelm	Sens	Wilhelm	D	1869	Jun	Johann		"Hiller, Julianna"	Bielin	68	Lublin 1867-1869	00097	147	K Krueger					Compilation Table							
+Pfeiffer	Edwart	Pfeiffer	Eduard	D	1869	Jun	Stefan		"Schmidtke, Justine"	Amelin	68	Lublin 1867-1869	00097	148	K Krueger					Compilation Table							
+Wohlgemuth	Gottfrid	Wohlgemut	Gottfried	D	1869	Jul	Jakob		"Fenske, Anna"	Zurawiniec	68	Lublin 1867-1869	00097	149	K Krueger					Compilation Table							
+Stephan	Frydryk	Stefan	Friedrich	D	1869	Jul	Gottlieb		"Krinke, Justine"	Malinowka	68	Lublin 1867-1869	00098	150	K Krueger					Compilation Table							
+Hensel	George	Hensel	Georg	D	1869	Jul	Julius		"Fort, Malwine Luise"	Lublin	68	Lublin 1867-1869	00098	151	K Krueger					Compilation Table							
+Krentz	Wilchelmina	Krentz	Wilhelmine	D	1869	Jul	Christoph		"Hintz, Eva"	Zurawiniec	68	Lublin 1867-1869	00098	152	K Krueger				"Lueck, Gustav"	Compilation Table							
+Kryger	August	Krueger	August	D	1869	Jul	Friedrich		"Jahn, Amalie"	Malinowka	68	Lublin 1867-1869	00098	153	K Krueger					Compilation Table							
+Henschel	Anna Helena	Henschel	Anna Helene	D	1869	Jul	Christoph		Anna Rosine	Graniczna	68	Lublin 1867-1869	00098	154	K Krueger				"Degen, Johann"	Compilation Table							
+Jess	Jan	Jess	Johann	D	1869	Jul	Gottfried		"Degner, Anna Marianne"	Grabina	68	Lublin 1867-1869	00098	155	K Krueger					Compilation Table							
+Krueger	Herrmann Jan	Krueger	Herman Johann	D	1869	Jul	Johann		"Horn, Beate"	Wojciechow	68	Lublin 1867-1869	00098	156	K Krueger					Compilation Table							
+Rohlof	Emilia	Rolof	Emilie	D	1869	Jul	Martin		"Stenzel, Karoline"	Bielany	68	Lublin 1867-1869	00109	157	K Krueger					Compilation Table							
+Biler	Magdalena	Biller	Magdalene	D	1869	Jul				Skarbin	68	Lublin 1867-1869	00109	158	K Krueger				"Guenter, Johann Gottlieb"	Compilation Table							
+Pokrant	Rozalia	Pokrant	Rosalie	D	1869	Jul	Ludwig		"Baganz, Henriette"	Bielany	68	Lublin 1867-1869	00109	159	K Krueger					Compilation Table							
+Schmidt	Gottlib	Schmidt	Gottlieb	D	1869	Jul	Johann Ludwig		"Gregor, Christine"	Bronislawow	68	Lublin 1867-1869	00109	160	K Krueger					Compilation Table							
+Schroeder	Wilchelmina	Schroeder	Wilhelmine	D	1869	Jul	August		"Schultz, Friederike"	Juliopol	68	Lublin 1867-1869	00109	161	K Krueger					Compilation Table							
+Thide	Gottlib	Thiede	Gottlieb	D	1869	Jul	Gottlieb		"Koebernik, Anna Christine"	Sobolew	68	Lublin 1867-1869	00109	162	K Krueger					Compilation Table							
+Tefs	Samuel	Tews	Samuel	D	1869	Jul	Paul		"Hawart, Karoline"	Bielin	68	Lublin 1867-1869	00109	164	K Krueger					Compilation Table							
+Mueler	Edward	Mueller	Eduard	D	1869	Jul	August		"Duelge, Johanna"	Juliopol	68	Lublin 1867-1869	00110	165	K Krueger					Compilation Table							
+Hendzel	Maksymilian Wolter	Hendzel	Maximillian Walter	D	1869	Jul	Julius		"Forth, Malwine Luise"	Lublin	68	Lublin 1867-1869	00110	166	K Krueger					Compilation Table							
+Manthej	Krzysztof	Mantei	Christoph	D	1869	Jul	Michael		Eleonore	Kijany	68	Lublin 1867-1869	00110	167	K Krueger				"Patzwald, Wilhelmine"	Compilation Table							
+Henkl	Henrieta	Henkel	Henriette	D	1869	Jul				Lublin	68	Lublin 1867-1869	00110	168	K Krueger				Freimann	Compilation Table							
+Albrecht	Anna Elzbieta	Albrecht	Anna Elisabeth	D	1869	Jul				Bronislawow	68	Lublin 1867-1869	00110	169	K Krueger				Fandrich	Compilation Table							
+Grams	Krzystof	Grams	Christoph	D	1869	Jul	Gottlieb		"Kabusch, Julianna"	Malinowka	68	Lublin 1867-1869	00109	163	K Krueger					Compilation Table							
+Grams	Anna Justyna	Grams	Anna Justine	D	1869	Jul	Daniel		"Jeske, Anna Susanne"	Brzeziny (nr. Trojnia)	68	Lublin 1867-1869	00110	170	K Krueger				"Jekel, Andreas"	Compilation Table							
+Totz	Juljus Herrmann	Totz	Julius Hermann	D	1869	Jul	Karl		"Gregor, Pauline"	Amelin	68	Lublin 1867-1869	00111	171	K Krueger					Compilation Table							
+Arndt	Gottlib	Arndt	Gottlieb	D	1869	Jul	Gottlieb		"Koroch, Julianna"	Krzywda	68	Lublin 1867-1869	00111	172	K Krueger					Compilation Table							
+Sieg	Gottlib	Sieg	Gottlieb	D	1869	Jul				Krasienin	68	Lublin 1867-1869	00111	173	K Krueger					"Compilation Table; Sieg, Karoline (daughter)"							
+Martin	Adam	Martin	Adam	D	1869	Aug				Kluczkowice	68	Lublin 1867-1869	00111	174	K Krueger				"Rodak, Christine"	Compilation Table							
+Schwening	Zuzanna	Schwening	Susanne	D	1869	Aug	Johann		"Reich, Susanne"	Teresin	68	Lublin 1867-1869	00111	175	K Krueger					Compilation Table							
+		Gast	stillborn male	D	1869	Aug	Jakob		"[Scharnban?], Johanna"	Mieszyslawka	68	Lublin 1867-1869	00111	176	K Krueger					Compilation Table							
+Schubert	Samuel	Schubert	Samuel	D	1869	Aug	Ludwig		"Hintz, Emilie"	Trojnia	68	Lublin 1867-1869	00111	177	K Krueger					Compilation Table							
+Piper	Ferdynand	Piper	Ferdinand	D	1869	Aug				Nadrybie	68	Lublin 1867-1869	00112	178	K Krueger				"Witzan, Friederike"	Compilation Table							
+Albrecht	Ludwika	Albrecht	Luise	D	1869	Aug	Martin		"Patzer, Euphrosine"	Bielany	68	Lublin 1867-1869	00112	179	K Krueger					Compilation Table							
+Gejster	Fryderyk Wilchelm	Geister	Friedrich Wilhelm	D	1869	Aug				Wojciechow	68	Lublin 1867-1869	00127	180	K Krueger				"Fankowski, Marianne"	Compilation Table							
+Muzalf	Ludwika	Musalf	Luise	D	1869	Aug	Gottlieb		"Freiheit, Marianne"	Katy	68	Lublin 1867-1869	00127	181	K Krueger					Compilation Table							
+Jess	Daniel	Jess	Daniel	D	1869	Aug	Peter		"Lemke, Anna Dorothea"	Justynow	68	Lublin 1867-1869	00127	182	K Krueger				"Bartz, Anna"	Compilation Table							
+Ratke	Gottlieb	Radke	Gottlieb	D	1869	Aug	Christoph		"Ikert, Anna Christine"	Baran	68	Lublin 1867-1869	00127	183	K Krueger				"Klatt, Luise"	Compilation Table							
+Lentz	Maryanna	Lentz	Marianne	D	1869	Aug				Aleksandria Krzywowolska	68	Lublin 1867-1869	00127	184	K Krueger				"Wanke, Michael"	Compilation Table							
+Schlak	Justyna	Schlak	Justine	D	1869	Aug	Christian		"Janke, Dorothea"	Konotopa	68	Lublin 1867-1869	00127	185	K Krueger					Compilation Table							
+Jeske	Ewa	Jeske	Eva	D	1869	Aug	Daniel		"Liedke, Luise"	Juliopol	68	Lublin 1867-1869	00127	186	K Krueger					Compilation Table							
+Lojewska	Ewa	Lojewski	Eva	D	1869	Aug	Johann		"Bild?, Anna"	Plouszowice	68	Lublin 1867-1869	00128	187	K Krueger					Compilation Table							
+Potz	Karol	Potz	Karl	D	1869	Aug	Christian		"Engfer, Julianna"	Zalisocze	68	Lublin 1867-1869	00128	188	K Krueger					Compilation Table							
+Krentz	Eleonora	Krentz	Eleonore	D	1869	Aug				Puszki	68	Lublin 1867-1869	00128	189	K Krueger				"Wehrmann, Friederich"	Compilation Table							
+Duelge	Karol	Dilge	Karl	D	1869	Sep	Julius		"Mueller, Julianna"	Juliopol	68	Lublin 1867-1869	00128	190	K Krueger					Compilation Table							
+Drath	Rudolf	Drath	Rudolf	D	1869	Sep	Phillip		"Effa, Wilhelmine"	Bronislawow	68	Lublin 1867-1869	00128	191	K Krueger					Compilation Table							
+Koch	Anna Maryanna	Koch	Anna Marianne	D	1869	Sep				Sarnow	68	Lublin 1867-1869	00128	192	K Krueger				Pieser	Compilation Table; surviving children listed							
+Wolter	Paulina	Wolter	Pauline	D	1869	Sep	Johann		"Sommerfeld, Henriette"	Kijany	68	Lublin 1867-1869	00129	193	K Krueger					Compilation Table							
+Winter	Michal	Winter	Michael	D	1869	Sep				Adamow	68	Lublin 1867-1869	00129	194	K Krueger				"Bonn, Elisabeth"	Compilation Table							
+Schwartzwald	Maryanna	Schwartzwald	Marianne	D	1869	Sep	David		"Baummiller, Anna"	Antonin	68	Lublin 1867-1869	00129	195	K Krueger					Compilation Table							
+Richter	Karolina	Richter	Karoline	D	1869	Sep	Adam		"Omnick, Wilhelmine"	Wierzchowiska	68	Lublin 1867-1869	00129	196	K Krueger					Compilation Table							
+Hirsekorn	Karolina	Hirsekorn	Karoline	D	1869	Sep	Ferdinand		"Schrank, Julianna"	Bialopole	68	Lublin 1867-1869	00129	197	K Krueger					Compilation Table							
+Riske	Florentyna	Riske	Florentine	D	1869	Sep	August		"Rath, Eleonore"	Leonardow	68	Lublin 1867-1869	00139	198	K Krueger					Compilation Table							
+Holtz	Jan	Holtz	Johann	D	1869	Sep	Johann		"Kitzmann, Eva"	Bielsko	68	Lublin 1867-1869	00139	199	K Krueger				"Kupfer, Karoline"	Compilation Table							
+Arndt	Wilchelmina	Arndt	Wilhelmine	D	1869	Sep	Johann		"Albrecht, Anna"	Bielany	68	Lublin 1867-1869	00139	200	K Krueger					Compilation Table							
+Carn	Justyna	Zarn	Justine	D	1869	Sep	August		"Lentz, Julianna"	Radziejow	68	Lublin 1867-1869	00139	201	K Krueger					Compilation Table							
+		Leske	stillborn male	D	1869	Sep	Martin		"Abraham, Justine"	Rozdzalow	68	Lublin 1867-1869	00139	202	K Krueger					Compilation Table							
+Degner	Anna Maryanna	Degner	Anna Marianne	D	1869	Sep	Martin		"Patzer, Karoline"	Grabina	68	Lublin 1867-1869	00139	203	K Krueger				"Jeske, Gottfried"	Compilation Table							
+Kreisel	Augusta	Kreisel	Auguste	D	1869	Oct	Karl		"Hoffmann, Luise"	Lublin	68	Lublin 1867-1869	00139	204	K Krueger				"Felkner, Wilhelm"	Compilation Table							
+Gross	Adolf	Gross	Adolf	D	1869	Oct	Johann Friedrich		"Kuehn, Julianna"	Teosin	68	Lublin 1867-1869	00140	205	K Krueger					Compilation Table							
+Weiss	Emilia	Weiss	Emilie	D	1869	Oct	Samuel		"Hett, Karoline"	Tomaszowka	68	Lublin 1867-1869	00140	206	K Krueger					Compilation Table							
+Kelbert	Jakob	Kelbert	Jakob	D	1869	Oct	Friedrich		"Blank, Elisabeth"	Teosin	68	Lublin 1867-1869	00140	207	K Krueger					Compilation Table							
+Zander	Anna Justyna	Sander	Anna Justine	D	1869	Oct	Gottlieb		"Rahn, Emilie"	Skarbin	68	Lublin 1867-1869	00140	208	K Krueger					Compilation Table							
+Schueler	Adolf Edward	Schueler	Adolf Eduard	D	1869	Oct	Eduard Wilhelm		"Stopczik, Maria"	Lublin	68	Lublin 1867-1869	00140	209	K Krueger					Compilation Table							
+Krueger	Adolf	Krueger	Adolf	D	1869	Oct	Ludwig		"Regner, Rosalie"	Rozdzalow	68	Lublin 1867-1869	00140	210	K Krueger					Compilation Table							
+Makus	Andrzej	Makus	Andreas	D	1869	Oct	Andreas		"Wander, Julianna"	Aleksandria Krzywowolska	68	Lublin 1867-1869	00140	211	K Krueger					Compilation Table							
+Thiel	Michal	Thiel	Michael	D	1869	Oct	unknown		"Thiel, Wilhelmine"	Kaniwola	68	Lublin 1867-1869	00150	212	K Krueger					Compilation Table							
+Podryska	Juljanna	Podryski	Julianna	D	1869	Oct	Christian		"Schinke, Karoline"	Siedliszcze	68	Lublin 1867-1869	00151	213	K Krueger					Compilation Table							
+Zierath	Karolina	Zierath	Karoline	D	1869	Oct	Gottfried		"Bethin, Anna"	Stanislawow	68	Lublin 1867-1869	00150	214	K Krueger				"Kramf, Karl"	Compilation Table							
+Blejch	Ernestyna	Bleich	Ernestine	D	1869	Oct	Paul		"Krueger, Karoline"	Bielin	68	Lublin 1867-1869	00150	215	K Krueger					Compilation Table							
+Kinas	Juljanna	Kinas	Julianna	D	1869	Oct	Gottlieb		"Reich, Anna"	Malinowka	68	Lublin 1867-1869	00150	213	K Krueger					Compilation Table							
+Marawe	Karol	Morawe	Karl	D	1869	Oct	Wilhelm		"Gronn, Anna"	Opole	68	Lublin 1867-1869	00150	216	K Krueger				"Maiwskro?, Marcella"	Compilation Table							
+Marcinski	Gustaw	Marcinski	Gustav	D	1869	Oct	Johann		"Guenter, Anna Christine"	Trojnia	68	Lublin 1867-1869	00150	217	K Krueger					Compilation Table							
+Neumann	Jan Gottlib	Neumann	Johann Gottlieb	D	1869	Nov				Klementynow	68	Lublin 1867-1869	00150	218	K Krueger				"Klekitzki?, Jadwiga Theresa"	Compilation Table							
+Rutsch	Fryderyk	Rutsch	Friedrich	D	1869	Nov	Ferdinand		"Sperling, Justine"	Justynow	68	Lublin 1867-1869	00151	219	K Krueger					Compilation Table							
+Preuss	Michal	Preuss	Michael	D	1869	Nov	Karl		"Drews, Justine"	Antonin	68	Lublin 1867-1869	00151	221	K Krueger					Compilation Table							
+Korok	Krystyan	Korock	Christian	D	1869	Nov	Christian		"Wolfram, Justine"	Teosin	68	Lublin 1867-1869	00151	222	K Krueger					Compilation Table							
+Tyberowski	Karl	Tyborowski	Karl	D	1869	Nov	Josef		Karoline	Pawlow	68	Lublin 1867-1869	00151	223	K Krueger				"Janke, Anna"	Compilation Table							
+Betcher	Michal	Betcher	Michael	D	1869	Nov	Michael		"Hett, Anna"	Puszki	68	Lublin 1867-1869	00152	224	K Krueger					Compilation Table							
+Belke	Emilia	Belke	Emilie	D	1869	Nov	Karl		"Nessman, Luise"	Radziejow	68	Lublin 1867-1869	00152	225	K Krueger					Compilation Table							
+Jantz	Adolina Teressa	Jantz	Adoline Theresa	D	1869	Nov	Michael		"Piel, Eleonore"	Teosin	68	Lublin 1867-1869	00152	226	K Krueger					Compilation Table							
+Frytsch	Zuzanna	Fritz	Susanne	D	1869	Nov	Daniel		"Albrecht, Rosalie"	Malinowka	68	Lublin 1867-1869	00152	227	K Krueger				"Ortel, Michael"	Compilation Table							
+Ansorg	Marcin	Ansorg	Martin	D	1869	Nov	Wilhelm		"Liening, Karoline"	Justynow	68	Lublin 1867-1869	00164	228	K Krueger					Compilation Table							
+Strohschein	Bertha Theressa	Strohschein	Berta Theresa	D	1869	Nov	Ludwig		"Stenzel, Justine"	Adamow	68	Lublin 1867-1869	00164	229	K Krueger					Compilation Table							
+Podryzky	Krystyan	Podricki	Christian	D	1869	Nov				Siedliszcze	68	Lublin 1867-1869	00162	230	K Krueger					"Compilation Table; Podricki, Christian (son)"							
+Guenther	Magdalena	Guenter	Magdalene	D	1869	Nov	Gottlieb		"Guenter, Magdalene"	Skarbin	68	Lublin 1867-1869	00162	231	K Krueger					Compilation Table							
+		Flemke	stillborn male	D	1869	Nov	Samuel?		"Hochhertz, Katherine"	Wystrow	68	Lublin 1867-1869	00162	232	K Krueger					Compilation Table							
+Noerenberg	Wilhelmina	Noerenberg	Wilhelmine	D	1869	Nov	Gottlieb		"Liske, Eleonore"	Bielin	68	Lublin 1867-1869	00162	233	K Krueger					Compilation Table							
+Pazzer	Eufrozyna	Patzer	Euphrosine	D	1869	Nov				Bielany	68	Lublin 1867-1869	00162	234	K Krueger				"Albrecht, Martin"	Compilation Table							
+Kusser	Rozalia	Kisser	Rosalie	D	1869	Nov	Gottfried		"Herzog, Luise"	Skarbin	68	Lublin 1867-1869	00162	235	K Krueger					Compilation Table							
+		Liske	stillborn male	D	1869	Nov	Ferdinand		"Schmidt, Karoline"	Klementynow	68	Lublin 1867-1869	00163	236	K Krueger					Compilation Table							
+Bozenius	Karolina	Bosenius	Karoline	D	1869	Nov	Ferdinand		"Hermann, Eleonore"	Malinowka	68	Lublin 1867-1869	00163	237	K Krueger					Compilation Table							
+Rodhe	Gottfried	Rode	Gottfried	D	1869	Nov	Andreas		"Jeske, Julia"	Zurawiniec	68	Lublin 1867-1869	00163	238	K Krueger					Compilation Table							
+Elitz	Juliana	Elitz	Julianna	D	1869	Nov	unknown		"Elitz, Luise"	Wola Osowinska	68	Lublin 1867-1869	00163	239	K Krueger					Compilation Table							
+Myslak	Wilhelmyna	Mislak	Wilhelmine	D	1869	Dec	Friedrich		"Steinebel, Julianna"	Zalisocze	68	Lublin 1867-1869	00163	240	K Krueger					Compilation Table							
+Blanck	Paulina	Blank	Pauline	D	1869	Dec	Andreas		"Schultz, Christine"	Krzywowola?	68	Lublin 1867-1869	00163	241	K Krueger					Compilation Table							
+Schmydtke	August	Schmidtke	August	D	1869	Dec	Michael		"Kaus, Justine"	Czerwonka	68	Lublin 1867-1869	00164	242	K Krueger					Compilation Table							
+Schopich	Julia	Schopich	Julia	D	1869	Dec				Lublin	68	Lublin 1867-1869	00164	243	K Krueger				Breining	Compilation Table							
+Hekel	Ernestina	Hekel	Ernestine	D	1869	Dec	Eduard		"Hartwig, Karoline"	Leonardow	68	Lublin 1867-1869	00164	244	K Krueger					Compilation Table							
+Klingspon	Justjna	Klingspon	Justine	D	1869	Dec	Martin		"Drews, Elisabeth"	Tytusow (nr. Radziejow)	68	Lublin 1867-1869	00179	245	K Krueger					Compilation Table							
+Sonnenberg	Eufrozyna	Sonnenberg	Euphrosine	D	1869	Dec	Samuel		"Gust, Julianna"	Izydorow (nr. Radziejow)	68	Lublin 1867-1869	00179	246	K Krueger					Compilation Table							
+Fegen	Ewa	Fegen	Eva	D	1869	Dec				Graniczna	68	Lublin 1867-1869	00179	247	K Krueger				Hein	Compilation Table; surviving children listed							
+Schmydt	Julia Augusta	Schmidt	Julia Auguste	D	1869	Dec	Johann		"Beltz, Auguste"	Plawanice?	68	Lublin 1867-1869	00179	248	K Krueger					Compilation Table							
+		Stentzel	stillborn female	D	1869	Dec	Martin		"Wahl, Eleonore"	Izydorow (nr. Radziejow)	68	Lublin 1867-1869	00179	249	K Krueger					Compilation Table							
+Bartz	Wilhelmina	Bartz	Wilhelmine	D	1869	Dec	Jakob		"Werner, Wilhelmine"	Zawada	68	Lublin 1867-1869	00179	250	K Krueger					Compilation Table							
+Boblitz	Henryetta	Boblitz	Henriette	D	1869	Dec				Majdan Rybie	68	Lublin 1867-1869	00179	251	K Krueger				"Brunke, Christian"	Compilation Table							
+		Brill	Julianna	D	1869	Dec	Ferdinand		"Kaus, Luise"	Leszczyniec	68	Lublin 1867-1869	180223	252	K Krueger					Compilation Table; left and right sides on different images							
+Frejmark	Anna Rozyna	Freimark	Anna Rosine	D	1869	Dec				Aleksandria Niedzialowska	68	Lublin 1867-1869	180223	253	K Krueger				"Krause, Christian"	Compilation Table; left and right sides on different images							
+Rentz	Krzysztof	Rentz	Christoph	D	1869	Dec	Andreas		"Marks, Marianne"	Aleksandria Niedzialowska	68	Lublin 1867-1869	180223	254	K Krueger				"Jeske?, Rosalie"	Compilation Table; left and right sides on different images							
+Jantz	Wihelm	Jantz	Wilhelm	D	1869	Dec	Heinrich?		"Lau, Wilhelmine"	Puszki	68	Lublin 1867-1869	180223	255	K Krueger					Compilation Table; left and right sides on different images							
+Ehlke	Gottlieb	Oelke	Gottlieb	D	1870	Jan	Julius		"Wakel?, Katharine"	Ochoza Kol.?	68	Lublin 1867-1869	180223	256	K Krueger					Compilation Table; left and right sides on different images							
+Kuehn	Michal	Kuehn	Michael	D	1870	Jan	Karl		"Trelenberg, Rosalie"	Lipniak	68	Lublin 1867-1869	180223	257	K Krueger					Compilation Table; left and right sides on different images							
+Muenk	Erdmann	Mink	Erdmann	D	1870	Jan	Gottlieb		"Rapchinski, Justine"	Malinowka	68	Lublin 1867-1869	180223	258	K Krueger					Compilation Table; left and right sides on different images							
+Hutt	Paulina	Hutt	Pauline	D	1866	Feb	Michael	"Hammermejster, Marianna"	"Hammermeister, Marianne"	Izydorow	68	Lublin 1867-1869	00019	22	K Krueger					Compilation Table							
+Arndt	Justyna	Arndt	Justine	D	1866	Feb	Johann	"Schultz, Zuzanna"	"Schultz, Susanne"	Antonin	68	Lublin 1867-1869	00019	23	K Krueger					Compilation Table							
+Stahn	Andrzej	Stahn	Andreas	D	1866	Feb	Andreas	"Pech, Rozyna"	"Pech, Rosine"	Lublin	68	Lublin 1867-1869	00019	24	K Krueger					Compilation Table							
+Lentz (married name)	Anna Katarzyna	Lentz (married name)	Anna Katharine	D	1866	Feb				Aleksandrowka	68	Lublin 1867-1869	00019	25	K Krueger				Lentz	Compilation Table							
+Gottschalk	Ludwika	Gottschalk	Luise	D	1866	Feb	Christian	"Schmidt, Marya"	"Schmidt, Marie"	Teosin	68	Lublin 1867-1869	00019	26	K Krueger					Compilation Table							
+Patzer	Anna Elzbieta	Patzer	Anna Elisabeth	D	1866	Feb	Martin	"Lentz, Anna"	"Lentz, Anna "	Aleksandrowka	68	Lublin 1867-1869	00020	27	K Krueger					Compilation Table							
+		Kaut	Hulda Friederike	D	1866	Jan	Ludwig		"Matthias, Karoline"	Wojciechow	68	Lublin 1867-1869	00020	11	K Krueger					Compilation Table							
+Kelbert	Piotr	Kelbert	Peter	D	1866	Feb	Philipp	"Potz, Anna"	"Potz, Anna"	Teosin	68	Lublin 1867-1869	00021	28	K Krueger					Compilation Table							
+Finke	Henryk Alexander	Finke	Heinrich Alexander	D	1866	Feb				Tarnawka	68	Lublin 1867-1869	00019	29	K Krueger				"Nieprzecki, Alexandra"	Compilation Table							
+Oelke	Emilia	Oelke	Emilie	D	1866	Feb	Johann	"Kauss, Karolina"	"Kauss, Karoline"	Egersdorf (=Dylazki)	68	Lublin 1867-1869	00019	30	K Krueger					Compilation Table							
+Lentz	Krystyna	Lentz	Christine	D	1866	Feb	Samuel 	"Roechert, Karolina"	"Roechert, Karoline"	Aleksandrowka	68	Lublin 1867-1869	00020	31	K Krueger				"Waltz, Gottlieb"	Compilation Table							
+Arwaj	Johann	Arwai	Johann	D	1866	Feb				Zosin	68	Lublin 1867-1869	00020	32	K Krueger					Compilation Table							
+Gruening	Emmanuel	Gruening	Emanuel	D	1866	Feb	Samuel	"Schilbberg, Justyna"	"Schilberg, Justine"	Janowica	68	Lublin 1867-1869	00020	33	K Krueger					Compilation Table							
+Gottschalk	Henryk	Gottschalk	Heinrich	D	1866	Feb				Chelm	68	Lublin 1867-1869	00020	34	K Krueger				"[Maron, Eva]"	Compilation Table							
+Maron	Ewa	Maron	Eva	D	1866	Feb				Chelm	68	Lublin 1867-1869	00109	35	K Krueger				"Gottschalk, Heinrich"	Compilation Table							
+Lehmann	Daniel	Lehmann	Daniel	D	1866	Feb	Christoph	"Gatzke, Ewa"	"Gatzke, Eva"	Janowica	68	Lublin 1867-1869	00021	36	K Krueger					Compilation Table							
+Jeske	Krystyna	Jeske 	Christine	D	1866	Feb	Daniel	"Luettke, Ludwika"	"Luetke, Luise"	Sewerynowka	68	Lublin 1867-1869	00021	37	K Krueger					Compilation Table							
+Appelt 	Anna Katarzyna	Appelt	Anna Katharine	D	1866	Feb	Gottlieb	"Neumann, Justyna"	"Neumann, Justine"	Pielgrzymka	68	Lublin 1867-1869	00021	38	K Krueger					Compilation Table							
+Kwast	Mateusz	Kwast	Matthias	D	1866	Feb				Bielsko	68	Lublin 1867-1869	00021	39	K Krueger					Compilation Table							
+Fitzner	August	Fitzner	August	D	1866	Feb	Christian	"Kotke, Wilhelmina"	"Kotke, Wilhelmine"	Juliopol	68	Lublin 1867-1869	00021	40	K Krueger					Compilation Table							
+Grams	Rozyna	Grams	Rosine	D	1866	Mar	Gottlieb	"Pohl, Krystyna"	"Pohl, Christine"	Graniczna	68	Lublin 1867-1869	00033	41	K Krueger					Compilation Table							
+Kitzmann	Emilia	Kitzmann	Emilie	D	1866	Mar	Wilhelm	"Schachtsneider, Ewa"	"Schachtschneider, Eva"	Felczyn	68	Lublin 1867-1869	00033	42	K Krueger					Compilation Table							
+Hensel	Gottlieb	Henschel 	Gottlieb	D	1866	Mar	Johann	"Krapp, Karolina"	"Krapp, Karoline"	Radziejow	68	Lublin 1867-1869	00033	43	K Krueger					Compilation Table							
+Klath	Karolina	Klatt 	Karoline	D	1866	Mar				Pawlow	68	Lublin 1867-1869	00021	44	K Krueger				"Manski, Stefan"	Compilation Table							
+Kurtzmann	Anna Krystyna	Kurtzmann	Anna Christine	D	1866	Mar	Johann	"Hoch, Anna Kystyna"	"Hoch, Anna Christine"	Justynow	68	Lublin 1867-1869	00034	45	K Krueger					Compilation Table							
+Wegner	Michal	Wegner	Michael	D	1866	Mar	Wilhelm	"Gross, Karolina"	"Gross, Karoline"	Aleksandrowka	68	Lublin 1867-1869	00034	46	K Krueger					Compilation Table							
+Kurtz	Dorotta	Kurtz 	Dorothea	D	1866	Mar				Sewerynowka	68	Lublin 1867-1869	00033	47	K Krueger				Klan	Compilation Table							
+Rogin	Ludwik	Rogin	Ludwig	D	1866	Mar	Jancenty	"Peltzer, Justyna"	"Peltzer, Justine"	Stasiew	68	Lublin 1867-1869	00033	48	K Krueger					Compilation Table							
+Braun	Rozyna	Braun	Rosine	D	1866	Mar	Wilhelm	"Splett, Krystyna"	"Splett, Christine"	Wolka Nadrybska	68	Lublin 1867-1869	00033	49	K Krueger					Compilation Table							
+Mueller	Karolina	Mueller	Karoline	D	1866	Mar				Adamow	68	Lublin 1867-1869	00033	50	K Krueger				"Bohn, Martin"	Compilation Table							
+Kossmann	Ferdinand	Kossmann	Ferdinand	D	1866	Mar	Samuel	"Braun, Amalia"	"Braun, Amalie"	Adamow	68	Lublin 1867-1869	00033	51	K Krueger					Compilation Table							
+Mendach	Ernest	Mendach	Ernst	D	1866	Mar				Nadrybie	68	Lublin 1867-1869	00034	52	K Krueger				"Proehl, Ernestine"	Compilation Table							
+Hoffmann	Emilia	Hoffmann	Emilie	D	1866	Mar	Michael	"Frejmark, Anna Rozyna"	"Freimark, Anna Rosine"	Zarobka	68	Lublin 1867-1869	00034	53	K Krueger					Compilation Table							
+Duelge	Fryderyk	Duelge	Friedrich	D	1866	Mar	August	"Krueger, Karolina"	"Krueger, Karoline"	Juliopol	68	Lublin 1867-1869	00034	54	K Krueger					Compilation Table							
+Betcher	August	Betcher	August	D	1866	Mar	Michael	"Kisser, Karolina"	"Kisser, Karoline"	Tomaszowka	68	Lublin 1867-1869	00034	55	K Krueger					Compilation Table							
+Heydt	Gottfryd	Heidt	Gottfried	D	1866	Mar				Wankowszczyzna	68	Lublin 1867-1869	00034	56	K Krueger				"Zielke, Euphrosine Rosalie"	Compilation Table							
+Hartnik	Karol	Hartnik	Karl	D	1866	Mar				Kociergi	68	Lublin 1867-1869	00035	57	K Krueger				"Sawiski, Marie"	Compilation Table							
+Haman	Krystyna	Haman	Christine	D	1866	Mar				Izydorow	68	Lublin 1867-1869	00035	58	K Krueger				Stebner	Compilation Table							
+Schoenrock	Karol	Schoenroch	Karl	D	1866	Mar	Josef	"Reichenbach, Ewa"	"Reichenbach, Eva"	Teosin	68	Lublin 1867-1869	00035	59	K Krueger					Compilation Table							
+Waak	Natalia Henryetta	Waak	Natalie Henriette	D	1866	Mar	August	"Brunk, Justyna Wilhelmina"	"Brunke, Justine Wilhelmine"	Aleksandrowka	68	Lublin 1867-1869	00035	60	K Krueger					Compilation Table							
+Schacht	Marcin	Schacht	Martin	D	1866	Apr				Kijany	68	Lublin 1867-1869	00035	61	K Krueger				"Musalf, Karoline"	Compilation Table							
+Schmidtke	Julia	Schmidtke	Julie	D	1866	Apr	Christoph	"Schindler, Karolina"	"Schindler, Karoline"	Lubartow	68	Lublin 1867-1869	00050	62	K Krueger					Compilation Table							
+Zirk	Ferdynand Alexander	Zirk	Ferdinand Alexander	D	1866	Apr	Martin	"Netzl, Rozalia Anna"	"Netzel, Rosalie Anna"	Aleksandrowka	68	Lublin 1867-1869	00050	63	K Krueger					Compilation Table							
+Selmer	Michal	Selmer	Michael	D	1866	Apr				Egersdorf (=Dylazki)	68	Lublin 1867-1869	00050	64	K Krueger				"Kuhfeldt,Marianne"	Compilation Table; surviving children listed							
+Wentzel	Karolina	Wentzel	Karoline	D	1866	Apr	Gottlieb	"Abram, Ernestyna"	"Abram, Ernestine"	Klementynow	68	Lublin 1867-1869	00050	65	K Krueger					Compilation Table							
+Thiede - Rychlewski	Franciszek 	Richlewski-Tiede	Franz	D	1866	Apr				Pawlow	68	Lublin 1867-1869	00050	66	K Krueger				"Bonin, Anna Elisabeth"	Compilation Table; surviving children listed							
+Blejch	Justyna	Bleich	Justine	D	1866	Feb				Bielin	68	Lublin 1867-1869	00050	67	K Krueger				"Schlender, August"	Compilation Table							
+Jekel	Joanna	Jekel 	Johanna	D	1866	Apr	Karl	"Ziebart, Karolina"	"Ziebart, Karoline"	Siemien	68	Lublin 1867-1869	00050	68	K Krueger					Compilation Table							
+Sachs		Sachs	stillborn	D	1866	Apr	Edmund Alfred	"Belczykiewicz, Aleksandra Teressa"	"Belczykiewicz?, Alexandra Therese"	Lublin	68	Lublin 1867-1869	00051	69	K Krueger					Compilation Table							
+Sokolowski	Ludwik	Sokolowski	Ludwig	D	1866	Apr	Peter	"Muenchau, Karolina"	"Minchau, Karoline"	Amelin	68	Lublin 1867-1869	00051	70	K Krueger					Compilation Table							
+Gisell	Jan	Gisell	Johann	D	1866	Apr				Aleksandrowka	68	Lublin 1867-1869	00051	71	K Krueger				"Martin, Anna Christine"	Compilation Table							
+Bekker	Fryderyka	Becker	Friederike	D	1866	Apr				Lublin	68	Lublin 1867-1869	00051	72	K Krueger					Compilation Table							
+Klan	Anna	Klan	Anna	D	1866	Apr				Michelsdorf (=Michalow) (= Michalow)	68	Lublin 1867-1869	00051	73	K Krueger				"Krueger, Gottfried"	Compilation Table							
+Rymer	Maryanna	Riemer	Marianne	D	1866	Apr	Ludwig	"Schilke, Augusta"	"Schilke, Auguste"	Nadrybie	68	Lublin 1867-1869	00052	74	K Krueger					Compilation Table							
+Totz	Henryetta	Totz	Henriette	D	1866	Apr	Martin	"Lindebaum, Marya"	"Lindebaum, Marie"	Amelin	68	Lublin 1867-1869	00052	75	K Krueger					Compilation Table							
+Bekker	Krystyan	Becker	Christian	D	1866	Apr				Janowica	68	Lublin 1867-1869	00052	76	K Krueger					Compilation Table							
+Alf	Julianna	Alf	Julianne	D	1866	Apr				Radziejow	68	Lublin 1867-1869	00051	77	K Krueger				"Freitag, Stefan"	Compilation Table; surviving children listed							
+Gutknecht	Julia	Gutknecht	Julie	D	1866	Apr	Andreas	"Hartfejl, Wilhelmina"	"Hartfiel, Wilhelmine"	Justynow	68	Lublin 1867-1869	00052	78	K Krueger					Compilation Table							
+Makus	Josef	Makus	Josef	D	1866	Apr				Janowica	68	Lublin 1867-1869	00052	79	K Krueger				"Richter, Marianna"	Compilation Table; surviving children listed							
+Schroeder	Daniel	Schroeder	Daniel	D	1866	May				Miloszowka	68	Lublin 1867-1869	00052	80	K Krueger				"Bogucki, Marianna"	Compilation Table							
+Lucht	Ludwik	Lucht	Ludwig	D	1866	May				Janowica	68	Lublin 1867-1869	00067	81	K Krueger				"Kuehn, Luise"	Compilation Table; surviving children listed							
+Jess	Gottfried	Jess	Gottfried	D	1866	May	Gottfried	"Gross, Maryanna"	"Gross, Marianna"	Justynow	68	Lublin 1867-1869	00067	82	K Krueger					Compilation Table							
+Gutknecht	Justyna	Gutknecht	Justine	D	1866	May	Andreas	"Hartfejl, Wilhelmina"	"Hartfiel, Wilhelmine"	Justynow	68	Lublin 1867-1869	00067	83	K Krueger					Compilation Table							
+Wolter	Rozalia	Wolter	Rosalie	D	1866	May	Ludwig	"Makus, Justyna"	"Makus, Justine"	Rozdzalow	68	Lublin 1867-1869	00067	84	K Krueger					Compilation Table							
+Hannis	Fryderyk	Hannis	Friedrich	D	1866	May				Siennica Rozanna	68	Lublin 1867-1869	00067	85	K Krueger				"Lippern, Wilhelmine"	Compilation Table; surviving children listed							
+Mattner	Krzystof	Mattner	Christoph	D	1866	May	Wilhelm	"Schinkl, Anna Katarzyna"	"Schinkel, Katharine Anna "	Graniczna	68	Lublin 1867-1869	00067	86	K Krueger					Compilation Table							
+Wegerth	Erdmann	Wegerth	Erdmann	D	1866	May	Samuel	"Knecht, Justyna"	"Knecht, Justine"	Stasiew	68	Lublin 1867-1869	00068	87	K Krueger					Compilation Table							
+Schindler	Karolina	Schindler	Karoline	D	1866	May				Lipniak	68	Lublin 1867-1869	00068	88	K Krueger				"Schmidtke, Christoph"	Compilation Table							
+Kwill	Fryderyk	Kwill	Friedrich	D	1866	May				Kijany	68	Lublin 1867-1869	00068	89	K Krueger				"[Brodel, Henriette]"	Compilation Table							
+Jekel	Wilhelmina	Jekel 	Wilhelmine	D	1866	May	Unkown/Unbekant	"Jekel, Karolina"	"Jekel, Karoline"	Teosin	68	Lublin 1867-1869	00068	90	K Krueger					Compilation Table							
+Krueger	Ludwika	Krueger	Luise	D	1866	May				Bielin	68	Lublin 1867-1869	00068	91	K Krueger				"Jantz, Karl"	Compilation Table							
+Zimpel	Gottfried	Zimpel	Gottfried	D	1866	May	Johann	"Mueller, Ewa"	"Mueller, Eva"	Bielany	68	Lublin 1867-1869	00067	92	K Krueger					Compilation Table							
+Schendel	Georg	Schendel	Georg	D	1866	Jun				Bielin	68	Lublin 1867-1869	00068	93	K Krueger				"Kerbach, Christine"	Compilation Table							
+Wutke	August	Wutke	August	D	1866	Jun	Julius	"Rebken, Karolina"	"Rebken, Karoline"	Rozdzalow	68	Lublin 1867-1869	00085	94	K Krueger					Compilation Table							
+Ziemer	Gottlieb	Ziemer	Gottlieb	D	1866	Jun	August	"Fitz, Fryderyka"	"Fitz, Friederike"	Antonin	68	Lublin 1867-1869	00085	95	K Krueger					Compilation Table							
+Nelner	Justyna	Nelner	Justine	D	1866	Jun	Ferdinand	"Gonsch, Karolina"	"Gonsch, Karoline"	Antonin	68	Lublin 1867-1869	00085	96	K Krueger					Compilation Table							
+Kelm	Jan Georg	Kelm	Johann Georg	D	1866	Jun				Swidnik Maly	68	Lublin 1867-1869	00085	97	K Krueger				"Meier, Amalie"	Compilation Table							
+Zimpel	August	Zimpel	August	D	1866	Jun	Michael	"Mueller, Rozalia"	"Mueller, Rosalie"	Bielany	68	Lublin 1867-1869	00085	98	K Krueger					Compilation Table							
+Jubin	Gottfried Fryderyk	Jubin	Gottfried Friedrich	D	1866	Jun	Gottfried	"Kowalke, Eleonora"	"Kowalke, Eleonore"	Wankowszczyzna	68	Lublin 1867-1869	00085	99	K Krueger					Compilation Table							
+Sprenger	Gottlieb	Sprenger	Gottlieb	D	1866	Jun	Christoph	"Ziemer, Wilhelma"	"Ziemer,Wilhelmine"	Antonin	68	Lublin 1867-1869	00086	100	K Krueger					Compilation Table							
+Grunwald 	Edward	Gruenwald	Eduard 	D	1866	Jun				Justynow	68	Lublin 1867-1869	00086	101	K Krueger				"Mueller, Karoline"	Compilation Table							
+Jantz	Wilhelm	Jantz	Wilhelm	D	1866	Jun	Heinrich	"Jantz, Sara"	"Jantz, Sarah"	Teosin	68	Lublin 1867-1869	00086	102	K Krueger					Compilation Table							
+Kramer	August	Kramer	August	D	1866	Jun	Gottlieb	"Rymer, Paulina"	"Riemer, Pauline"	Gizyce	68	Lublin 1867-1869	00086	103	K Krueger					Compilation Table							
+Gnat	Ernestyna	Gnat	Ernestine	D	1866	Jun	Christoph	"Janisch, Anna Marya"	"Janisch, Anna Marie"	Bronislawow	68	Lublin 1867-1869	00086	104	K Krueger					Compilation Table							
+Eschner	Gottlieb	Eschner	Gottlieb	D	1866	Jun	Michael	"Poleski, Justyna"	"Poleski, Justine"	Bielany	68	Lublin 1867-1869	00086	105	K Krueger					Compilation Table							
+Rychert	Karolina	Richert	Karoline	D	1866	Jun	Andreas	"Much, Anna Karolina"	"Much, Anna Karoline"	Teosin	68	Lublin 1867-1869	00086	106	K Krueger					Compilation Table							
+Labytzski	Wilhelmina	Labitski	Wilhelmine	D	1866	Jun				Lubartow	68	Lublin 1867-1869	00086	107	K Krueger				"Krueger, Jakob"	Compilation Table							
+Zirk	Andrzej	Zirk	Andreas	D	1866	Jun	Martin	"Netzl, Anna"	"Netzel, Anna"	Aleksandrowka	68	Lublin 1867-1869	00087	108	K Krueger					Compilation Table							
+Ryske	Gottlieb	Riske	Gottlieb	D	1866	Jul	Ludwig	"Richter, Wilhelmina"	"Richter, Wilhelmine"	Antonin	68	Lublin 1867-1869	00099	109	K Krueger					Compilation Table							
+Gast	Karol Gottlieb	Gast	Karl Gottlieb	D	1866	Jul	Johann	"Herzog, Wilhelmina"	"Herzog, Wilhelmine"	Kobyle	68	Lublin 1867-1869	00099	110	K Krueger					Compilation Table							
+Kelbert	Ludwik	Kelbert	Ludwig	D	1866	Jul	Johann	"Blank, Elzbieta"	"Blank, Elisabeth"	Teosin	68	Lublin 1867-1869	00099	111	K Krueger					Compilation Table							
+Frank	Julianna	Frank	Julianne	D	1866	Jul	Michael	"Jenke, Karolina"	"Jenke, Karoline"	Pielgrzymka	68	Lublin 1867-1869	00099	112	K Krueger					Compilation Table							
+Holland	Ewa	Holland	Eva	D	1866	Jul	Gottlieb	"Arndt, Karolina"	"Arndt, Karoline"	Antonin	68	Lublin 1867-1869	00099	113	K Krueger					Compilation Table							
+Beutler	Ludwik	Beutler	Ludwig	D	1866	Jul	Johann	"Kriese, Anna Krystyna"	"Kriese, Anna Christine"	Aleksandrowka	68	Lublin 1867-1869	00099	114	K Krueger					Compilation Table							
+Krynke	Michal	Krinke	Michael	D	1866	Jul	Johann	"Ruchocki, Justyna"	"Ruchocki, Justine"	Slugocin	68	Lublin 1867-1869	00099	115	K Krueger					Compilation Table							
+Tefs (married name)	Helena	Tews (married name)	Helene	D	1866	Jul				Teosin	68	Lublin 1867-1869	00100	116	K Krueger				"Tews, Paul"	Compilation Table							
+Kings	Alexander	Kings	Alexander	D	1866	Jul				Lublin	68	Lublin 1867-1869	00100	117	K Krueger					Compilation Table							
+Kitzmann	Jan	Kitzmann	Johann	D	1866	Jul	Christian	"Kinast, Anna Elzbieta"	"Kinast, Anna Elisabeth"	Bielsko	68	Lublin 1867-1869	00100	118	K Krueger					Compilation Table							
+Schindel	Michal	Schindel	Michael	D	1866	Jul	Christoph	"Bigalke, Zuzanne"	"Bigalke, Susanne"	Pawlow	68	Lublin 1867-1869	00100	119	K Krueger					Compilation Table							
+Majewska	Anna Ludwika	Majewski	Anna Luise	D	1866	Jul	Gottlieb	"Binder, Anna Regina"	"Binder, Anna Regina"	Gizyce	68	Lublin 1867-1869	00100	120	K Krueger					Compilation Table							
+Pokrant	Edward	Pokrant	Eduard	D	1866	Jul	Ludwig	"Bagantz, Henryetta"	"Bagantz, Henriette"	Bielany	68	Lublin 1867-1869	00101	121	K Krueger					Compilation Table							
+Elerd	Gustaw	Elerd	Gustav	D	1866	Jul	Friedrich	"Sonnenberg, Ewa"	"Sonnenberg, Eva"	Bielany	68	Lublin 1867-1869	00101	122	K Krueger					Compilation Table							
+"Karog, "	Henryk	Karog	Heinrich	D	1866	Jul	Christian	"Wolfram, Eleonora"	"Wolfram, Eleonore"	Teosin	68	Lublin 1867-1869	00100	123	K Krueger					Compilation Table							
+Schmidt	Justyna	Schmidt	Justine	D	1866	Jul	Friedrich Wilhelm	"Zisak, Julianna"	"Zisak, Julianne"	Bielany	68	Lublin 1867-1869	00100	124	K Krueger					Compilation Table							
+Sauder	Anna Julianna	Sauder	Anna Julianne	D	1866	Jul	Gottlieb	"Schultz, Karolina"	"Schultz, Karoline"	Graniczna	68	Lublin 1867-1869	00101	125	K Krueger					Compilation Table							
+Schultz	Gottfried	Schultz	Gottfied	D	1866	Jul	Karl	"Zerbyn, Anna Elzbieta"	"Zerbin, Anne Elisabeth"	Aleksandrowka	68	Lublin 1867-1869	00101	126	K Krueger					Compilation Table							
+Klath	Anna Karolina	Klatt 	Anna Karoline	D	1866	Aug				Bronislawow	68	Lublin 1867-1869	00101	127	K Krueger				"Duesterhoeft, Martin"	Compilation Table; surviving children listed							
+Schalm	August	Schalm	August	D	1866	Aug	Michael	"Hartwig, Julianna"	"Hartwig, Julianne"	Stanislawow	68	Lublin 1867-1869	00113	128	K Krueger					Compilation Table							
+Kuhfeldt	Ludwik	Kuhfeld	Ludwig	D	1866	Aug	Christian	"Buttner, Emilia"	"Bittner, Emilie"	Antonin	68	Lublin 1867-1869	00113	129	K Krueger					Compilation Table							
+Wahl	Wilhelmina Malwina	Wahl	Wilhelmine Malwine	D	1866	Aug	Eduard	"Neumann, Augusta"	"Neumann, Auguste"	Wojciechow	68	Lublin 1867-1869	00113	130	K Krueger					Compilation Table							
+Wahl	Gustav Herrmann	Wahl	Gustav Hermann	D	1866	Aug	Eduard	"Neumann, Augusta"	"Neumann, Auguste"	Wojciechow	68	Lublin 1867-1869	00113	131	K Krueger					Compilation Table							
+Bigalke	Anna Karolina	Bigalke	Anna Karoline	D	1866	Aug	Jakob	"Buerger, Rozyna"	"Buerger, Rosine"	Graniczna	68	Lublin 1867-1869	00113	132	K Krueger					Compilation Table							
+Buttler	Jan	Buttler	Johann	D	1866	Aug				Lublin	68	Lublin 1867-1869	00114	133	K Krueger					Compilation Table							
+Knie	Antonina Karolina	Knie	Antonina Karoline	D	1866	Aug				Antonin	68	Lublin 1867-1869	00113	134	K Krueger				"Hett, Jakob"	Compilation Table							
+Zimpel	Matylda Karolina	Zimpel	Mathilde Karoline	D	1866	Aug	Michael	"Mueller, Rozalia"	"Mueller, Rosalie"	Bielany	68	Lublin 1867-1869	00114	135	K Krueger					Compilation Table							
+Mejster	Andrzej	Meister	Andreas	D	1866	Aug	Johann	"Balkau, Karolina"	"Balkau, Karoline"	Zabiele	68	Lublin 1867-1869	00114	136	K Krueger					Compilation Table							
+Lieske	Julianna	Lieske	Julianne	D	1866	Aug	Adam	"Rentz, Dorota"	"Rentz, Dorothea"	Gizyce	68	Lublin 1867-1869	00113	137	K Krueger					Compilation Table							
+Schindler	Jan	Schindler 	Johann	D	1866	Aug				Pawlow	68	Lublin 1867-1869	00114	138	K Krueger				"Zerbin, Justine"	Compilation Table							
+Zawal	Julianna	Zawal	Julianne	D	1866	Aug	Gottlieb	"Will, Justyna"	"Will, Justine"	Bielany	68	Lublin 1867-1869	00114	139	K Krueger					Compilation Table							
+Schmidt	Augusta	Schmidt	Auguste	D	1866	Aug	Karl	"Schilke, Emilia"	"Schilke, Emilie"	Nadrybie	68	Lublin 1867-1869	00114	140	K Krueger					Compilation Table							
+Rimanne	August	Rimanne	August	D	1866	Sep 	Gottfried	"Fitzner, Krystyna"	"Fitzner, Christine"	Izydorow	68	Lublin 1867-1869	00130	141	K Krueger					Compilation Table							
+Mueller	Eleonora	Mueller	Eleonore	D	1866	Sep 	Ludwig	"Karog, Ewa"	"Karog, Eva"	Teosin	68	Lublin 1867-1869	00130	142	K Krueger					Compilation Table							
+Sotke	Henryk	Sotke	Heinrich	D	1866	Sep 	Samuel	Edelberg	Edelberg	Teosin	68	Lublin 1867-1869	00130	143	K Krueger					Compilation Table							
+Nachtigall	Franciszek 	Nachtigal	Franz	D	1866	Sep 	Michael	"Peter, Eufrozyna"	"Peter, Euphrosine"	Teosin	68	Lublin 1867-1869	00131	144	K Krueger					Compilation Table							
+Kopitzke	Karol	Kopitzke	Karl	D	1866	Sep 	Johann	"Jehnke, Krystyna"	"Jenke, Christine"	Bielany	68	Lublin 1867-1869	00130	145	K Krueger					Compilation Table							
+Giese	Henryk	Giese	Heinrich	D	1866	Sep 	Gottlieb	"Gajn, Katarzyna"	"Gain, Katharine"	Bielany	68	Lublin 1867-1869	00130	146	K Krueger					Compilation Table							
+Hartwig	Anna	Hartwig	Anna	D	1866	Sep 				Lublin	68	Lublin 1867-1869	00130	147	K Krueger				"Scheffler, Matthias"	Compilation Table							
+Wegner	Gottfried	Wegner	Gottfried	D	1866	Sep 	Daniel	"Knakowski, Agniesz"	"Knakowski, Agnes"	Aleksandrowka	68	Lublin 1867-1869	00130	148	K Krueger					Compilation Table							
+Roechert	Krzysztof	Roechert	Christoph	D	1866	Sep 	Christoph	"Klukas, Marya "	"Klukas, Marie"	Laczki	68	Lublin 1867-1869	00130	149	K Krueger					Compilation Table							
+Kisser	Michal	Kisser	Michael	D	1866	Sep 	Gottlieb	"Krueger, Krystyna"	"Krueger, Christine"	Tomaszowka	68	Lublin 1867-1869	00131	150	K Krueger					Compilation Table							
+Thiede	Gottfried	Tiede	Gottfried	D	1866	Sep 	Peter	"Frank, Maryanna"	"Frank, Marianne"	Antonin	68	Lublin 1867-1869	00131	151	K Krueger					Compilation Table							
+Rotz	Michal	Rotz	Michael	D	1866	Oct	Michael	"Rode, Ludwika"	"Rode, Luise"	Teosin	68	Lublin 1867-1869	00131	152	K Krueger					Compilation Table							
+Deutschlander	Fryderyk	Deutschlaender	Friedrich	D	1866	Oct	Ludwig	"Hartwig, Wilhelmina"	"Hartwig, Wilhelmine"	Rozdzalow	68	Lublin 1867-1869	00141	153	K Krueger					Compilation Table							
+Pokrant	Henryetta	Pokrant	Heniette	D	1866	Oct	Ludwig	"Bagantz, Henryetta"	"Bagantz, Henriette"	Bielany	68	Lublin 1867-1869	00141	155	K Krueger					Compilation Table							
+Mildner	Ernest Wilhelm Otto	Mildner	Ernst Wilhelm Otto	D	1866	Oct	Wilhelm	"Hejlman, Karolina Wilhelmina"	"Heilmann, Karoline Wilhelmine"	Lublin	68	Lublin 1867-1869	00141	156	K Krueger					Compilation Table							
+Gnatt	Krzysztof	Gnat	Christoph	D	1866	Oct				Horodziez	68	Lublin 1867-1869	00142	157	K Krueger				"[Janisch, Maria]"	Compilation Table							
+Gnat	Jan	Gnat	Johann	D	1866	Oct	Christoph	"Janisch, Marya"	"Janisch, Marie"	Horodziez	68	Lublin 1867-1869	00142	158	K Krueger					Compilation Table							
+Schalm	Mattias	Schalm	Matthias	D	1866	Oct				Stanislawow	68	Lublin 1867-1869	00141	159	K Krueger				"Frommhalter, Marie"	Compilation Table							
+Jahnke	Anna Krystyna	Janke	Anna Christine	D	1866	Oct				Klementynow	68	Lublin 1867-1869	00142	160	K Krueger				Henschel	Compilation Table							
+Klix	Joanna	Kleks	Johanna	D	1866	Oct				Bronislawow	68	Lublin 1867-1869	00142	161	K Krueger				"Kamin, Franz"	Compilation Table							
+Lueck	Julianna	Lueck	Julianne	D	1866	Oct	Erdmann	"Radke, Wilhelmina"	"Radke, Wilhelmine"	Gizyce	68	Lublin 1867-1869	00143	162	K Krueger					Compilation Table							
+Hirsekorn	Teofila	Hirsekorn	Theophile	D	1866	Oct	Ferdinand	"Schrank, Julianna"	"Schrank, Julianne"	Aleksandrowka	68	Lublin 1867-1869	00142	163	K Krueger					Compilation Table							
+Kapczynska	Anna Rozalia	Kapczynski	Anna Rosalie	D	1866	Oct	Johann	"Tepper, Dorotta"	"Tepper, Dorothea"	Domicelow (nr. Radziejow) (nr. Radziejow)	68	Lublin 1867-1869	00141	164	K Krueger					Compilation Table							
+Rozyn	Wilhelm	Rosin	Wilhelm	D	1866	Oct	Martin	"Radons, Ludwika"	"Radons, Luise"	Aleksandrowka	68	Lublin 1867-1869	00141	165	K Krueger					Compilation Table							
+Kauss	Samuel	Kauss	Samuel	D	1866	Oct	Gottlieb	"Stellmach,Maryanna"	"Stelmach, Marianne"	Stasiew	68	Lublin 1867-1869	00143	166	K Krueger					Compilation Table							
+Weiss	Anna Krystyna	Weiss	Anna Christine	D	1866	Oct	Gottfried	"Drissner, Paulina"	"Driesner, Pauline"	Tomaszowka	68	Lublin 1867-1869	00142	167	K Krueger					Compilation Table							
+Abrahm	Wilhelmina	Abraham	Wilhelmine	D	1866	Oct	Gottlieb	"Jubin, Rozalia"	"Jubin, Rosalie"	Klementynow	68	Lublin 1867-1869	00142	168	K Krueger					Compilation Table							
+Betcher		Betcher	stillborn	D	1866	Oct	Michael	"Hejth, Krystyna"	"Heit, Christine"	Skordiow	68	Lublin 1867-1869	00143	169	K Krueger					Compilation Table							
+Frommhalter	Maryanna	Frommhalter	Marianne	D	1866	Oct				Stanislawow	68	Lublin 1867-1869	00143	170	K Krueger				"Schalm, [Matthias]"	Compilation Table							
+Herzog	Krystyan	Herzog	Christian	D	1866	Nov				Rozdzalow	68	Lublin 1867-1869	00143	171	K Krueger				"Mueller, Anna Christine"	Compilation Table							
+Lehmann	Wilhelm	Lehmann	Wilhelm	D	1866	Nov				Lublin	68	Lublin 1867-1869	00143	172	K Krueger					Compilation Table							
+Wessner	Karol Jan	Wessner	Karl Johann	D	1866	Nov				Lublin	68	Lublin 1867-1869	00153	173	K Krueger				"Dittmann, Adelheid"	Compilation Table							
+Ziemmer	Anna Maryanna	Ziemmer	Anna Marianne	D	1866	Nov	Friedrich	"Friedrich, Ludwika"	"Friedrich, Luise"	Skordiow	68	Lublin 1867-1869	00153	174	K Krueger					Compilation Table							
+Ladwig	Anna Julianna	Ladwig	Anna Julianne	D	1866	Nov	Daniel	"Weltzen, Beata"	"Weltzen, Beate"	Aleksandrowka	68	Lublin 1867-1869	00153	175	K Krueger					Compilation Table							
+Mund	Ernestyna	Mund	Ernestine	D	1866	Nov	Johann	"Ude, Marianna"	"Ude, Marianne"	Stanislawow	68	Lublin 1867-1869	00153	176	K Krueger					Compilation Table							
+Jejk	Ludwika	Jeik	Luise	D	1866	Nov	Christian	"Marcinkowski, Ludwika"	"Marcinkowski, Luise"	Justynow	68	Lublin 1867-1869	00153	177	K Krueger					Compilation Table							
+Boelof	Michal	Bilof	Michael	D	1866	Nov				Bielany	68	Lublin 1867-1869	00153	178	K Krueger				"Sonnenberg, Karoline"	Compilation Table							
+Jahnke	Maryanna	Janke	Marianne	D	1866	Nov	Friedrich	"Klath, Julianna"	"Klatt, Julianne"	Niedzialowice	68	Lublin 1867-1869	00153	179	K Krueger					Compilation Table							
+Ziemer	August	Ziemer	August	D	1866	Nov	August	"Patzer, Wilhelmina"	"Patzer, Wilhelmine"	Mieczyslawka	68	Lublin 1867-1869	00154	180	K Krueger					Compilation Table; mother is #183							
+Roghan	Joanna Karolina	Rogan	Johanna Karoline	D	1866	Nov	Martin	"Schilke, Joanna"	"Schilke, Johanna"	Rybie	68	Lublin 1867-1869	00154	182	K Krueger					Compilation Table							
+Patzer	Wilhelmina	Patzer	Wilhelmine	D	1866	Nov				Mieczyslawka	68	Lublin 1867-1869	00154	183	K Krueger				"Ziemer, August"	Compilation Table; son is #180							
+Kuhfeldt	Rozyna	Kuhfeld	Rosine	D	1866	Nov	Peter	"Labrentz, Justyna"	"Labrentz, Justine"	Antonin	68	Lublin 1867-1869	00154	184	K Krueger					Compilation Table							
+Landherr	Karolina	Landherr	Karoline	D	1866	Nov				Lublin	68	Lublin 1867-1869	00154	185	K Krueger					Compilation Table							
+Krahn	Karolina	Krahn	Karoline	D	1866	Nov	Andreas	"Fejfer, Marianna"	"Pfeiffer, Marianne"	Wistrow	68	Lublin 1867-1869	00154	186	K Krueger					Compilation Table							
+Manzaj	Wilhelmina	Manzei	Wilhelmine	D	1866	Nov				Nadrybie	68	Lublin 1867-1869	00154	187	K Krueger				"Riemer (1st husband); Knack, Ernst (2nd husband)"	Compilation Table; surviving children listed							
+Weiss	Julianna	Weiss	Julianne	D	1866	Nov	August	"Weiss, Julianna"	"Weiss, Julianne"	Tomaszowka	68	Lublin 1867-1869	00155	188	K Krueger					Compilation Table							
+Czarnig	Ernestyna	Czarnig	Ernestine	D	1866	Nov	August	"Schinken, Augusta"	"Schinken, Auguste"	Zalisocze	68	Lublin 1867-1869	00165	189	K Krueger					Compilation Table							
+Stoermer	August	Stoermer	August	D	1866	Dec	August	"Schultz, Paulina"	"Schultz, Pauline"	Skordiow	68	Lublin 1867-1869	00155	190	K Krueger					Compilation Table							
+Buble	Karol Edward	Buble	Karl Eduard	D	1866	Dec	Adam	"Krzyscki, Kassylda"	"Krzyscki, Kassilda"	Lublin	68	Lublin 1867-1869	00165	191	K Krueger					Compilation Table							
+Neumann	Daniel	Neumann	Daniel	D	1866	Dec	Ferdinand	Hekl Wilhelmine	"Hekel, Wilhelmine"	Miloszowka	68	Lublin 1867-1869	00165	192	K Krueger					Compilation Table							
+Gejster	Emilia	Geister	Emilie	D	1866	Dec	Johann	"Rieske, Ludwika"	"Rieske, Luise"	Bielany	68	Lublin 1867-1869	00165	193	K Krueger				"Lentz, Ludwig"	Compilation Table							
+Schmaltz	Szarlotta	Schmaltz	Charlotte	D	1866	Dec	Johann	"Panto, Ludwika"	"Panto, Luise"	Nadrybie	68	Lublin 1867-1869	00165	194	K Krueger					Compilation Table							
+Matthewes	Ida Wanda Ottylia 	Matthews	Ida Wanda Ottilie 	D	1866	Dec	Friedrich	"Matthewes, Lizetta"	"Matthews, Lizette"	Kijany	68	Lublin 1867-1869	00165	195	K Krueger					Compilation Table							
+Klammer	Krystyan	Klammer	Christian	D	1866	Dec				Bronislawow	68	Lublin 1867-1869	00166	196	K Krueger				"Rossol, Karoline"	Compilation Table; surviving children listed							
+Fehlau		Fehlau	stillborn	D	1866	Dec	Samuel	"Hess, Ewa"	"Hess, Eva"	Bielin	68	Lublin 1867-1869	00166	197	K Krueger					Compilation Table							
+Glimen	Marianna	Glimen	Marianne	D	1866	Dec				Janowica	68	Lublin 1867-1869	00165	198	K Krueger				Schimanski	Compilation Table							
+Duesterhoeft	August	Duesterhoeft	August	D	1866	Dec				Aleksandrowka	68	Lublin 1867-1869	00165	199	K Krueger				"Kant, Elisabeth"	Compilation Table							
+Mejster	Edward	Meister	Eduard	D	1866	Dec	Johann	"Balkau, Karolina"	"Balkau, Karoline"	Sewerynowka	68	Lublin 1867-1869	00166	200	K Krueger					Compilation Table							
+Schendler	Julia	Schendler	Julie	D	1866	Dec	Christoph	"Schultz, Rozyna"	"Schultz, Rosine"	Stasiew	68	Lublin 1867-1869	00166	201	K Krueger					Compilation Table							
+Bilau	Gottfried	Bilof	Gottfried	D	1866	Dec	Gottlieb	"Timm, Wilhelmina"	"Timm, Wilhelmine"	Dzialyn	68	Lublin 1867-1869	00166	202	K Krueger					Compilation Table							
+Bejer	Emil 	Beier	Emil 	D	1866	Dec	Gottlieb	"Schultz, Justyna"	"Schultz, Justine"	Tytusow	68	Lublin 1867-1869	00166	203	K Krueger					Compilation Table							
+Schmidt	Henryk	Schmidt	Heinrich	D	1866	Dec	Julius	"Reske, Henryetta"	"Reske, Henriette"	Aleksandrowka	68	Lublin 1867-1869	00166	205	K Krueger					Compilation Table							
+Bejer	Fryderyk	Beier	Friedrich	D	1866	Dec	Wilhelm	"Dill, Karolina"	"Dill, Karoline"	Bielany	68	Lublin 1867-1869	00167	206	K Krueger					Compilation Table							
+Duesterhoeft	Daniel	Duesterhoeft	Daniel	D	1866	Dec	August	"Kant, Elzbieta"	"Kant, Elisabeth"	Aleksandrowka	68	Lublin 1867-1869	00167	207	K Krueger					Compilation Table							
+Mattner	Ludwika	Mattner	Luise	D	1866	Dec	Gottfried	"Zerbyn, Anna "	"Zerbin, Anne  "	Graniczna	68	Lublin 1867-1869	00166	208	K Krueger					Compilation Table							

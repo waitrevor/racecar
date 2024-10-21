@@ -1,0 +1,78 @@
+<div class="main-content">
+  <h1 class="centered-content">Search the Pedigree Database</h1>
+  <div>
+    <p>Welcome to our advanced search tool. Please refer to the <a href="#/members/pedigree_guide.html">guidelines page</a> for instructions and hints to make the most of its features. Our database information is sourced from various reliable sources listed on our <a href="MPDSources.pdf">Master Pedigree Database Sources</a> page.</p>
+    <br>
+    <p><strong>SPECIAL FEATURE</strong>: Explore the "D-M Soundex" search option for surnames. Learn more about this new soundex system on our <a href="#/misc/soundex.html">D-M Soundex page</a>. This search considers variant spellings between English, German, Polish, and Russian versions of the name in our database, providing you with diverse options.</p>
+    <br>
+  </div>
+
+  <form id="SearchPedigree" action="/sggee/SGGEESearch" method="post" name="SearchPedigree">
+      <input name="searchWhat" value="SGGEEGenealogy" type="hidden">
+      <input name="op" value="search" type="hidden">
+
+      <div class="form-section">
+          <input name="surname" type="text" placeholder="Surname">
+          <input name="givenname" type="text" placeholder="Given Name">
+          <input name="sex" type="text" placeholder="Sex">
+          <input name="spousename" type="text" placeholder="Spouse Surname">
+          <input name="id" type="text" placeholder="Individual's ID">
+          <p class="note">Note: The ID number in this database is unique and not the same as any other database on this website.</p>
+      </div>
+      <div class="form-section">
+          <input name="birthdt" type="text" placeholder="Birth Date">
+          <input name="deathdt" type="text" placeholder="Death Date">
+          <input name="birthpl" type="text" placeholder="Birth Place">
+          <input name="deathpl" type="text" placeholder="Death Place">
+      </div>
+
+      <div class="flex-row-container">
+        <div class="form-section">
+            <label class="radio-option">
+                <input name="search_type" value="normal" checked="checked" type="radio">
+                <span>Normal Search</span>
+            </label>
+            <label class="radio-option">
+                <input name="search_type" value="advanced" type="radio">
+                <span>Case Sensitive / Advanced Search</span>
+            </label>
+            <label class="radio-option">
+                <input name="search_type" value="exact" type="radio">
+                <span>Exact Match</span>
+            </label>
+            <label class="radio-option">
+                <input name="search_type" value="dmsoundex" type="radio">
+                <span style="width: 140%;">DM Soundex Search (surnames only)</span>
+            </label>
+        </div>
+    
+        <div class="form-section">
+            Sort Results by:
+            <label>
+                <select name="sort_by">
+                    <option value="1">Surname</option>
+                    <option value="2">Given Name</option>
+                    <option value="14">Spouse</option>
+                    <option value="15">Birth Place</option>
+                    <option value="5">Death Place</option>
+                    <option value="17">Marriage Info</option>
+                </select>
+            </label>
+            Number of Results Per Page:
+            <label>
+                <select name="numToReturn">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="15">15</option>
+                    <option value="20">20</option>
+                    <option value="25">25</option>
+                    <option value="50" selected>50</option>
+                </select>
+          </label>
+        </div>
+      </div>
+      <div class="centered-content">
+        <button name="search_and_display_db_button" type="submit">Search</button>
+      </div>
+  </form>
+</div>

@@ -1,0 +1,78 @@
+<div class="main-content">
+  <h1 class="centered-content">Search the SGGEE001r10 Database</h1>
+  <div class="paragraph-section">
+    <p>This is the last version of a database provided by Al Muth (now deceased). It includes only original records data from many parishes in Central Poland. All of the data in this database is now part of the Master Pedigree Database.</p>
+    <br>
+    <p>This is a complex search tool. We encourage you to return to the <a href="#/members/pedigree_guide.html">guidelines page</a> from time to time to review the instructions and hints so that you can take full advantage of its features.</p>  
+  </div>
+
+  <form id="SearchSGGEE001r5" action="/sggee/SGGEESearch" method="post" name="SearchSGGEE001r5">
+    <input name="op" value="search" type="hidden">
+    <input name="searchWhat" value="SGGEEParallel" type="hidden">
+    <div class="form-section">
+      <input id="surname" name="surname" type="text" placeholder="Surname">
+      <input id="givenname" name="givenname" type="text" placeholder="Given Name">
+      <input id="sex" name="sex" type="text" placeholder="Sex">
+      <input id="id" name="id" type="text" placeholder="Individual's ID">
+      <input id="spousename" name="spousename" type="text" placeholder="Spouse Surname">
+    </div>
+    <div class="form-section">
+      <input id="birthdt" name="birthdt" type="text" placeholder="Birth Date">
+      <input id="marriagedt" name="marriagedt" type="text" placeholder="Marriage Date">
+      <input id="deathdt" name="deathdt" type="text" placeholder="Death Date">
+    </div>
+    <div class="form-section">
+      <input id="birthpl" name="birthpl" type="text" placeholder="Birth Place">
+      <input id="marriagepl" name="marriagepl" type="text" placeholder="Marriage Place">
+      <input id="deathpl" name="deathpl" type="text" placeholder="Death Place">
+    </div>
+
+    <div class="flex-row-container">
+      <div class="form-section">
+          <label class="radio-option">
+              <input name="search_type" value="normal" checked="checked" type="radio">
+              <span>Normal Search</span>
+          </label>
+          <label class="radio-option">
+              <input name="search_type" value="advanced" type="radio">
+              <span>Case Sensitive / Advanced Search</span>
+          </label>
+          <label class="radio-option">
+              <input name="search_type" value="exact" type="radio">
+              <span>Exact Match</span>
+          </label>
+      </div>
+
+      <div class="form-section">
+          Sort Results by:
+        <label>
+          <select name="sort_by">
+            <option selected="selected" value="1">Surname</option>
+            <option value="2">Given Name</option>
+            <option value="14">Spouse</option>
+            <option value="15">Birth Place</option>
+            <option value="5">Death Place</option>
+            <option value="17">Marriage Info</option>
+          </select>
+        </label>
+        Number of Results Per Page:
+        <label>
+          <select name="numToReturn">
+              <option value="5">5</option>
+              <option value="10">10</option>
+              <option value="15">15</option>
+              <option value="20">20</option>
+              <option value="25">25</option>
+              <option value="50" selected>50</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div class="centered-content">
+      <button name="search_and_display_db_button" value="Search the Database" type="submit">Search</button>
+    </div>
+  </form>
+
+  <p>&nbsp;</p>
+</div>

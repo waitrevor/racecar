@@ -1,0 +1,19 @@
+{
+"FORGOT_EMAIL": "You forgot to enter your email address",
+"EMAIL_SHORT": "Your email address is too short.",
+"EMAIL_LONG": "Your email address is too long.",
+"EMAIL_FORMAT": "You did not enter your email address correctly.",
+"ENTER_PASSWORD": "You must enter a password.",
+"PASS_MIN_LENGTH": "Your password must have at least 6 characters.",
+"PASS_NOT_MATCH": "Your passwords do not match.",
+"PASS_TWICE": "You must enter your password twice.",
+"USERNAME_MISSING": "You must select a username.",
+"USERNAME_MIN_LENGTH": "Your username must be at least three characters.",
+"PASSWORD_PROB": "There was something wrong with your password.",
+"USERNAME_PROB": "There was something wrong with your username.",
+"ACCT_PROB": "There was something wrong with your account. Have you signed up and has your application been processed?",
+"HAS_USERNAME": "There is already an account associated with this email address. Please go to the login page and ask the system to send your information if you have forgotten.",
+"USERNAME_TAKEN": "That username is already taken. Please select another!",
+"SUCCESSFUL_UPDATE": "Account successfully updated. You may now login to the system!",
+"PROCESSING_ERROR": "There was an error while processing your request. The services may not currently be available."
+}
