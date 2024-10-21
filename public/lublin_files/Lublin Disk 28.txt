@@ -1,0 +1,1405 @@
+Nazwisko (P)	Imie (P)	Nazwisko (D)	Imie (D)	Wydarzenie	Rok	Miesiac	Ojciec	Matka /  Malzonka (P)	Matka /  Malzonka (D)	Wies	Dysk	Folder	Plik	# Rej.  	Badacz	R	Rodzice Pana Mlodego	Rodzice Panny Mlodej	Malzon[ek/ka]	Notatki					
+Familienname (P)	Vorname (P)	Familienname (D)	Vorname (D)	Ereignis	Jahr	Monat	Vater	Mutter oder Braut (P)	Mutter oder Braut (D)	Ort	Diskette	Ordner	Datei	Reg. # 	Extraktor	R	(Eltern des Bräutigams)	(Eltern der Braut)	Ehegatte(n)	Anmerkungen					
+Surname (P)	Given Name (P)	Surname (D)	Given Name (D)	Event Type	Year	Month	Father	Mother or Bride (P)	Mother or Bride (D)	Village	Disk	u	File	Reg. # 	Extractor	R	(Groom's Parents)	(Bride's Parents)	Spouse(s)	Special Notes					
+		Milwicz	Marianna	B	1924	Mar	Wilhelm		Karoline	Zezulin	28	Lublin 1935-1940	00005		K Krueger	R				Bap. 1940					
+		Zielinski	Franz	M	1923	Jan			"Reske, Wanda"	Lublin	28	Lublin 1923	00002-3	1 \ 4	K Krueger		"[Zielinski, Johann & Dabras?, Josefa]"	"[Reske, Gottlieb & Krentz, Augustine?]"		"Alegata (Lublin, Jan 1923) - Akt Zeznania"					
+Kobersztein Szwarz	Jan	Koberstein Schwarz	Johann	D	1919	Feb	Johann	"Reinert, Krystyna"	"Reinert, Christine"	Julianow	28	Lublin 1923	00004	30 \ 7	K Krueger				"Schulz, Lidia"	"Alegata (Chelm, Oct 1919) - Death Certification"					
+Stefan	Gotfryd	Stefan	Gottfried	B	1897	Jan	August	"Kujat, Ernestyna"	"Kujat, Ernestine"	Maliniec	28	Lublin 1923	00005	160 \ 7	K Krueger					"Alegata (Babiak, Jan 1922) - Birth Certification"					
+Bujak	Wanda	Bujak	Wanda	B	1902	Jun	Ludwig	"Sommerfeld, Juljanna"	"Sommerfeld, Julianna"	Michelsdorf	28	Lublin 1923	00006	444 \ 8	K Krueger					"Alegata (Chelm, Jan 1923) - Birth Certification"					
+Felkler	Ferdynand	Felkler	Ferdinand	B	1898	Jun	Friedrich	"Jantz, Helena"	"Jantz, Helene"	Tarnow	28	Lublin 1923	00007	436 \ 8	K Krueger					"Alegata (Chelm, Jan 1923) - Birth Certification"					
+		Thiel	Emil Tugendreich	M	1923	Jan			"Mantik, Olga"	Grabniak	28	Lublin 1923	00008-9	10	K Krueger		"[Thiel, Heinrich & Zielke, Alwine]"	"[Mantik, Daniel & Hoffmann, Marianne]"		"Alegata (Lublin, Jan 1923) - Akt Zeznania"					
+		Bankowski	Boleslaw Bronislaw	M	1923	Feb			"Porzadna, Veronika"	Lublin	28	Lublin 1923	00009-11	325 \ 18	K Krueger		"Bankowski, Karl Boleslaw & [Nzniski], Stanislawa"	"[Porzadna, Josef & Klacek, Anna]"		"Alegata (Warszawa, Feb 1923) - Release from weeks 2 & 3"					
+		Froehlich	Alexander	M	1918	Oct			"Jung, Natalie"	Zawada	28	Lublin 1923	00012	447 \ 25	K Krueger		"Froehlich, Heinrich & [Mantik, Julianne]"	"Jung, Jakob & [Klingbeil, Emilie]"		Alegata (Oct 1918) - Marriage Certification					
+		Mikarski	Vladimir	B	1900	Jan	Ladislaus (Walter?)		"Kowalski, Antonia"		28	Lublin 1923	00013	7 \ 26	K Krueger					"Roman Catholic Alegata (Pohorue, Apr 1923) - Baptismal Certification"					
+Missal	Elzbieta Henryka	Missal	Elisabeth Henriette	B	1902	Mar	Wilhelm Friedrich	"Jelonek, Elzbieta"	"Jelonek, Elisabeth"	Rypin	28	Lublin 1923	00014-16	150 \ 26	K Krueger					"Alegata (Rypin, Apr 1923) - Birth Certification"					
+Kujat	Paulina Magdalena	Kujat	Pauline Magdalene	B	1893	Sep	Ferdinand	"Sachweh, Elzbieta"	"Sachweh, Elisabeth"	Zychlin	28	Lublin 1923	00017	164 \ 28	K Krueger					"Alegata (Konin, Mar 1923) - Birth Certification"					
+		Kuehn	Johann	M	1923	Jun			"Krampitz, Berta"	Juliopol	28	Lublin 1923	00018	42	K Krueger		"[Kuehn, Wilhelm & Telker, Dorothea]"	"[Krampitz, Karl & Dering, Pauline]"		"Alegata (Juliopol, Jun 1923) - Note"					
+		Schulz	Otto	B	1899	Apr	Friedrich		"Euen, Pauline"	Deblin	28	Lublin 1923	00019-20	4 \ 44	K Krueger					"Baptist Alegata (Rudno, Oct 1921) - Birth Certification"					
+		Schulz	Otto	M	1923	Jun			"Mueller, Martha Sophie"	Wloclawek	28	Lublin 1923	00020	44	K Krueger		"Schulz, Friedrich & Euen, Ida Emma Pauline"	"Mueller, Johann & Euen, Emilie Berta"		"Baptist Alegata (Zyrardow, May 1923) - Fulfillment of Marriage Banns"					
+		Skalecki	Antonina	D	1915	Nov	Johann		"Tascher, Josefa"	Lublin	28	Lublin 1923	00021	46	K Krueger				"Beck, Konrad"	"Alegata (Czwartek, 1923) - Death Certification"					
+Becker	Alfred	Becker	Alfred	B	1901	Jul	Wilhelm	"Lausch, Julijanna"	"Lausch, Julianna"	Brzescach?	28	Lublin 1923	00022	145 \ 52	K Krueger					"Alegata (Radom, Jun 1922) - Birth Certification"					
+		Becker	Alfred	M	1923	Jul			"Appel, Rosalie"	Brzesze?	28	Lublin 1923	00023	52	K Krueger		"Becker, Wilhelm & Lausch, Julianne"	"Appel, Josef & Petrich, Emilie"		"Alegata (Radom, Jun 1923) - Fulfillment of Marriage Banns"					
+Skalej	Marta	Skalej	Marta	B	1902	Jun	Wilhelm	"Arndt, Rozalja"	"Arndt, Rosalie"	Walentynow	28	Lublin 1923	00024	147 \ [53]	K Krueger					"Alegata (Radom, Jul 1923) - Birth Certification"					
+		Nikel	Friedrich Wilhelm	M	1923	Jul			"[Wensel], Henriette"	Dratow	28	Lublin 1923	00025	[57]	K Krueger		"[Nikel, Michael & Preuss, Wilhelmine]"	"[Wensel, Wilhelm & Bloch, Emilie]"	"[Rydlewski, Julianne (1st wife)]; Kuehn, [Ludwig] (1st husband)"	"Baptist Alegata (Zezulin, Jul 1923) - Fulfillment of Marriage Banns"					
+Rydlewski	Juljanna	Rydlewski	Julianna	D	1923	Jun	Christoph			Dratow	28	Lublin 1923	00026	4 \ 57	K Krueger				"Nikel, Friedrich Wilhelm"	"Baptist Alegata (Zezulin, Jul 1923) - Death Certification"					
+Mittelstaedt	Henryk	Mittelstaedt	Heinrich	B	1900	Mar	Adolf	"Will, Emilja"	"Will, Emilie"	Marianka	28	Lublin 1923	00027-28	199 \ 60	K Krueger					"Alegata (Chelm, Aug 1923) - Birth Certification"					
+		Mittelstaedt	Heinrich	M	1923	Aug			"Mueller, Wanda"	Nowina	28	Lublin 1923	00028	60	K Krueger		"Mittelstaedt, Adolf & Witt, Emilie"	"Mueller, Adolf & Lorenz, Christine"		"Alegata (Chelm, Aug 1923) - Fulfillment of Marriage Banns"					
+		Hiller	Gustav	D	1918	Oct				"Elisabeth, New Jersey"	28	Lublin 1923	00029	65	K Krueger				"[Tiede, Theophile]"	"Alegata (Elisabeth, NJ, Sep 1922) - Death Certification"					
+Kaminski	Waclaw	Kaminski	Waclaw	B	1869	Mar	Franz	"Wielemski, Juljanna"	"Wielemski, Julianna"	Gora Pulawska	28	Lublin 1923	00030	50 \ 66	K Krueger					"Alegata (Gora Pulawska, May 1923) - Birth Certification"					
+Komer	Emma Aleskandra	Komer	Emma Alexandra	B	1871	May	Wilhelm	"Hintz, Henryka"	"Hintz, Henriette"	Wloclawek	28	Lublin 1923	00031	53 \ 66	K Krueger					"Alegata (Wloclawek, Feb 1923) - Birth Certification"					
+		Kaminski	Waclaw	M	1923	Sep			"Komer, Emma Alexandra"	Pulawy	28	Lublin 1923	00032-34	66	K Krueger		"Kaminski, Franz & [Wielemski, Julianne]"	"Komer, Wilhelm & [Hinz, Henriette]"	"Buchwald (1st husband); Szepelewych, Onisima (2nd husband)"	Alegata (miscellaneous)					
+		Semler	Theophil	M	1923	Sep			"Hoffmann, Emilie"	Wojciechow	28	Lublin 1923	00035	73	K Krueger		"Semler, Ferdinand & Lot, Pauline"	"Hoffmann, Johann & Splett, Julianne"	"[Idler, Natalie] (1st wife); [Hoffmann, August] (1st husband)"	"Alegata (Chelm, Sep 1923) - Fulfillment of Marriage Banns"					
+Idler	Natalja	Idler	Natalie	D	1922	Feb	Julius	"Mozer, Matylda"	"Moser, Mathilde"	"Smolensk, Russland"	28	Lublin 1923	00036	201 \ 73	K Krueger				"Semler, Theophil"	"Alegata (Chelm, Sep 1923) - Death Certification"					
+		Dronski	Felix	B	1889	Oct	Johann		"Slawik, Maria"	Sambor?	28	Lublin 1923	00038	426 \ 74	K Krueger					"Roman Catholic Alegata (St. Stephani, Mar 1920) - Baptismal Certification; #00037 Polish note"					
+Arndt	Natalja	Arndt	Natalie	B	1899	Jul	Emil	"Neumann, Eufrozyna"	"Neumann, Euphrosine"	Bukowski Las	28	Lublin 1923	00039	525 \ 75	K Krueger					"Alegata (Chelm, Sep 1923) - Birth Certification"					
+		Rozek	Julian	M	1923	Oct			"Wolf, Anne Gabriele"	Konskowola	28	Lublin 1923	00040	81	K Krueger		"[Rozek, Johann & Sofianowski, Michalina]"	"[Wolf, Friedrich & Gaede, Kamilla]"	Diko (1st husband?)	"Alegata (Peter & Paul, Moskow, 1923)"					
+Rozek	Juljan	Rozek	Julian	B	1888	Jan	Johann	"Sofjanowski, Michalina"	"Sofianowski, Michalina"	Jozefow	28	Lublin 1923	00041	26 \ 81	K Krueger					"Alegata (Suwalkski, Aug 1905) - Birth Certification"					
+		Librenz	Alexander	M	1923	Nov			"Muth, Leokadia"	Lazy	28	Lublin 1923	00042	15 \ 89	K Krueger		"Librenz, Heinrich & Winkler, Julianne"	"Muth, Emil & Petrich, Karoline"		"Alegata (Wegrow, Nov 1923) - Fulfillment of Marriage Banns"					
+Henke	Teodor	Henke	Theodor	B	1899	Nov	Karl Adolf	"Treichel, Karolina"	"Treichel, Karoline"	Ujazdow	28	Lublin 1923	00043	932 \ 92	K Krueger					"Alegata (Chelm, Nov 1923) - Birth Certification"					
+Grycaj	Piotr	Grycaj	Peter	B	1900	Jan	Johann	"Galaczkiewisz, Katarzyna"	"Galaczkiewicz, Katharina"	Bialobrzegi	28	Lublin 1923	00046	3 \ 94	K Krueger					"Orthodox Alegata (Zamosc, Nov 1923) - Birth Certification; #00044 Polish Note"					
+Vinkler	Augusta Emilja	Winkler	Auguste Emilie	B	1899	Feb	Richard Wladimir	"Fink, Karolina"	"Fink, Karoline"	Wolkowyski	28	Lublin 1923	00047-48	24 \ 94	K Krueger					"Alegata (Wilkowiski, Oct 1923) - Birth Certification; #00045 Polish Note"					
+		Wandelt	Alfons Adolf	M	1918	Aug			"Schoeneich, Sophie"		28	Lublin 1923	00048	163 \ 95	K Krueger		"[Wandelt, Wilhelm & Majochertz?, Natalie]"	"[Schoeneich, Alexander Eduard & Majewski, Wanda Emilie]"		"Alegata (St. Petersburg, Jun 1921) - Marriage Certification"					
+		Wolf	Karl Eduard	M	1924	Feb			"Zipser, Anne Helene"	Konskowola	28	Lublin 1924	00002	1 \ 4	K Krueger		"Wolf, Friedrich & Gaede, Kamilla"	"Zipser, Theodor Julian & Saffran, Olga Amalie"		"Alegata (Chelm, Jan 1924) - Fulfillment of Marriage Banns"					
+Zipser	Anna Helena	Zipser	Anna Helene	B	1896	Dec	Theodor Julian	"Saffran, Olga Amalja"	"Saffran, Olga Amalie"	Annopol	28	Lublin 1924	00003-4	298 \ 4	K Krueger					"Alegata (Chelm, Feb 1924) - Birth Certification"					
+Helberg	Samuel	Helberg	Samuel	B	1900	Jul	Wilhelm	"Guenther, Otylja"	"Guenther, Ottilie"	Kulczyn	28	Lublin 1924	00004	607 \ 9	K Krueger					"Alegata (Chelm, Feb 1924) - Birth Certification"					
+Kisling	Fryderyk	Kiesling	Friedrich	B	1898	Nov	Johann	"Buchholz, Matylda"	"Buchholz, Mathilde"	Bartoszycha	28	Lublin 1924	00005	780 \ 18	K Krueger					"Alegata (Chelm, Feb 1924) - Birth Certification"					
+		Kiesling	Friedrich	M	1924	Feb			"Hirsekorn, Wanda"	Wojciechow	28	Lublin 1924	00006	23 \ 18	K Krueger		"Kiesling, Johann & Buchholz, Mathilde"	"Hirsekorn, Johann & Moltzer, Auguste"		"Alegata (Chelm, Feb 1924) - Fulfillment of Marriage Banns"					
+Frys	Olga	Fris	Olga	B	1905	Sep	Wilhelm	"Barkow, Otylia"	"Barkow, Ottilie"	Marjanow	28	Lublin 1924	00007	85 \ 20	K Krueger					"Alegata (Pultusk, Feb 1924) - Birth Certification"					
+Distelberg	Gotlib	Distelberg	Gottlieb	B	1890	Dec	Jakob	"Mathes, Berta"	"Mathes, Berta"	Wojciechow	28	Lublin 1924	00008	962 \ 21	K Krueger					"Alegata (Chelm, Feb 1924) - Birth Certification"					
+		Beier	Edmund	M	1924	Mar			"Bulitz, Leokadia"	Kulczyn	28	Lublin 1924	00009	26 \ 23	K Krueger		"Beier, Ludwig & Bachmann, Marianne"	"Bulitz, August & Wenzel, Auguste"		"Alegata (Chelm, Mar 1924) - Fulfillment of Marriage Banns"					
+		Buss	Eduard	M	1924	Mar			"Keding, Marta"	Debowiec	28	Lublin 1924	00010	15 \ 24	K Krueger		"Buss, Gottfried & Holtz, Emilie"	"Keding, Ludwig & [Kutschmann], Anna"		"Alegata (Chelm, Feb 1924) - Fulfillment of Marriage Banns"					
+Reh	Adam	Reh	Adam	M	1924	May		"Boss, Krystyna"	"Boss, Christine"	Piaseczno	28	Lublin 1924	00011-12	28	K Krueger		"[Reh, Andreas & Kolb, Christine]"	"[Boss, Ludwig & Becker, Wilhelmine]"	"[Pachal, Karoline (1st wife)]"	"Alegata (Lublin, May 1924) - Akt Zeznania"					
+Mantej	Fryderyk	Mantei	Friedrich	M	1924	Jun		"Zuknik, Wanda"	"Zuknik, Wanda"	Wolka Nadrybska	28	Lublin 1924	00012-13	31	K Krueger		"[Mantei, Ferdinand & Dering, Henriette]"	"[Zuknik, Gustav & Priebe, Henriette]"		"Alegata (Lublin, Jun 1924) - Akt Zeznania"					
+		Fehler	Gustav	M	1924	Jun			"Walter, Leokadia"	Podglebokie	28	Lublin 1924	00013-14	33	K Krueger		"Fehler, Matthias & Gonczak, Christine"	"Walter, August & Harke, Emilie"		"Alegata (Lublin, Jun 1924) - Akt Zeznania"					
+		Ostrowski	Ludwig	M	1924	Jun			"Streich, Martha"	Pogranicze	28	Lublin 1924	00014	32 \ 34	K Krueger		"Ostrowski, August & Abram, Helene"	"Streich, Eduard & Segert, Hulda"		"Alegata (Chelm, Jun 1924) - Fulfillment of Marriage Banns"					
+Ostrowski	Ludwik	Ostrowski	Ludwig	B	1897	Apr	August	"Abram, Helena"	"Abram, Helene"	Pogranicze	28	Lublin 1924	00015	246 \ 34	K Krueger					"Alegata (Chelm, Jun 1924) - Birth Certification"					
+		Krigel	Vincent Michael	B	1876	Sep	Friedrich Wilhelm		"Nitz, Julianna"		28	Lublin 1924	00016	78 \ 36	K Krueger					"Roman Catholic Alegata (Wilga, Jun 1924) - Birth Certification"					
+Henke	Rudolf	Henke	Rudolf	B	1901	Jan	Michael	"Riemer, Wilhelmina"	"Riemer, Wilhelmine"	Wanda (=Wanda Bakus)	28	Lublin 1924	00017-18	5 \ 39	K Krueger					"Alegata (Chelm, Jul 1924) - Birth Certification"					
+Buss	Fryderyk Leopold	Buss	Friedrich Leopold	B	1901	Aug	Julius	"Schalou?, Ewa"	"Schultz?, Eva"	Wolka Tyrzynska	28	Lublin 1924	00018	188 \ 40	K Krueger					"Alegata (Radom, Jul 1924) - Birth Certification"					
+Fitz	Lidja	Fitz	Lidia	B	1898	Aug	Friedrich	"Ladzik, Paulina"	"Ladzik, Pauline"	Wanda (=Wanda Bakus)	28	Lublin 1924	00019-20	573 \ 42	K Krueger					"Alegata (Chelm, Jul 1924) - Birth Certification"					
+		Herzberg	Rudolf	B	1893	Apr	unknown/unbekannt		"Herzberg, Julianna"	Nikolajew	28	Lublin 1924	00020	207	K Krueger					"Alegata (Wlodzimierz, Jun 1923) - Birth Certification"					
+		Partyka	Vladimir	B	1898	Jul	Michael		"Zarzycki, Anna"	Dobromil	28	Lublin 1924	00021	94 \ 43	K Krueger					"Roman Catholic Alegata (Dobromil, Aug 1923) - Baptismal Certification; #00022 Polish Note"					
+Witek	Heronim	Witek	Heronimus	B	1901	Jan	Stanislaus	"Pankow, Franciszka"	"Panek, Franziska"	Firlej?	28	Lublin 1924	00023-25	16 \ 55	K Krueger					"Alegata (Firlej, Nov 1923) - Birth Certification"					
+Kujat	Berta	Kujat	Berta	D	1923	Oct	Daniel	"Altmann, Juljanna"	"Altmann, Julianna"	Zelow	28	Lublin 1924	00026	5 \ 60	K Krueger				"Abram, Alexander"	"Baptist Alegata (Zelow, Oct 1923) - Death Certification"					
+Rode	Gotfryd	Rode	Gottfried	D	1917	Jan	Michael	"Fandrich, Karolina"	"Fandrich, Karoline"	"Serokin?, Russland"	28	Lublin 1924	00027	155 \ 60	K Krueger				"Friedrich, Pauline"	"Alegata (Lublin, Oct 1924) - Death Certification"					
+Wechsel	Adolf	Wechsel	Adolf	B	1903	Mar	Christian	"Lueck, Berta"	"Lueck, Berta"	Bekiesza	28	Lublin 1924	00028	161 \ 61	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Rode	Olga	Rode	Olga	B	1905	Jan	Johann	"Spitzmacher, Matylda Amanda"	"Spitzmacher, Mathilde Amanda"	Nadrybie	28	Lublin 1924	00029	30 \ 61	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Sankowski	Janina Wincetyna	Sankowski	Janina Vincentine	B	1901	May	Boleslaus Waclaw	"Sobieszckowski, Zofia Helena"	"Sobieszckowski, Sophie Helene"	Lublin	28	Lublin 1924	00030-31	296 \ 63	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Nehring	Wilhelm	Nehring	Wilhelm	B	1899	Jun	Friedrich	"Stange, Wilhelmina"	"Stange, Wilhelmine"	Karolew	28	Lublin 1924	00032	32 \ 66	K Krueger					"Alegata (Lowicz, Nov 1922) - Birth Certification"					
+Winkler	Joanna	Winkler	Johanna	B	1907	Nov	Andreas	"Kitzmann, Ernestyna"	"Kitzmann, Ernestine"	Streczyn Nowy	28	Lublin 1924	00033	523 \ 66	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Zabel	Adolf	Zabel	Adolf	B	1890	Feb	Gottfried	"Will, Paulina"	"Will, Pauline"	Nowina	28	Lublin 1924	00034-35	68 \ 67	K Krueger					"Alegata (Chelm, Nov 1924) - Birth Certification"					
+Ikert	Helena	Ikert	Helene	B	1905	Mar	August	"Kopp, Ewa"	"Kopp, Eva"	Cycow	28	Lublin 1924	00035	126 \ 67	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Wesner	Jakob	Wesner	Jakob	B	1897	Feb	David	"Jantz, Paulina"	"Jantz, Pauline"	Cycow	28	Lublin 1924	00036	85 \ 68	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Fenske	Lidja	Fenske	Lidia	B	1907	Jul	Michael Adam	"Tews, Emilja"	"Tews, Emilie"	Cycow	28	Lublin 1924	00037	346 \ 68	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Riemer	Fryderyk	Riemer	Friedrich	B	1901	May	Ludwig	"Ziegenhagel, Emilja"	"Ziegenhagel, Emilie"	Wolka Nadrybska	28	Lublin 1924	00038	209 \ 71	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Splett	Lidja	Splett	Lidia	B	1903	Oct	Gustav	"Krueger, Matylda"	"Krueger, Mathilde"	Garbatowka	28	Lublin 1924	00039	528 \ 71	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+		Frost	Adolf Johann	M	1917	Jul			"Frost, Auguste"	Kobylki	28	Lublin 1924	00040	72	K Krueger		"Frost, Ludwig & Fischer, Philippine"	"Frost, August & Froehlich, Anna"		"Alegata (Lublin, Oct 1924) - Marriage Certification; Marriage in Nieder Eschbach"					
+		Fischer	Eduard Karl	D	1913	Feb	Karl Ferdinand		"Borkenhagen, Auguste Amalie"	Warszawa	28	Lublin 1924	00041	58 \ 74	K Krueger				"Begalke, Lidia"	"Alegata (Warszawa, Feb 1914) - Death Certification"					
+Benke	Robert	Benke	Robert	B	1903	Jan	Johann	"Pinder, Amalja"	"Pinder, Amalie"	Dratowski Las	28	Lublin 1924	00042	31 \ 76	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+Depner	Amalja	Depner	Amalie	B	1902	Oct	Emil	"Benke, Emilja"	"Benke, Emilie"	Rozplucie	28	Lublin 1924	00043	586 \ 76	K Krueger					"Alegata (Lublin, Oct 1924) - Birth Certification"					
+		Wesner	David	B	1880	Sep	Jakob		"Wirch, Anna Maria"	Jadgonew?	28	Lublin 1924	00044	237 \ 77	K Krueger					"Alegata (Radom, May 1906) - Birth Certification"					
+Harke	Michal	Harke	Michael	D	1917	Sep	Johann	"Wensel, Matylda"	"Wensel, Mathilde"	"Kustanai, Russland"	28	Lublin 1924	00045	62 \ 77	K Krueger				"Bachmann, Julianna"	"Alegata (Lublin, Oct 1924) - Death Certification"					
+Schendel	Juljanna	Schendel	Julianna	D	1915	May	Jakob	"Mikolai, Juljanna"	"Mikolai, Julianna"	Roj---?	28	Lublin 1924	00046	148 \ 78	K Krueger				"Pide, Gottlieb"	"Alegata (Lublin, Nov 1924) - Death Certification"					
+Kissmann	Andrzej	Kissmann	Andreas	D	1916	Niv	Gottlieb	"Manski, Juljanna"	"Manski, Julianna"	"Jabloczwic?, Russland"	28	Lublin 1924	00047	141 \ 78	K Krueger				"Kowalski, Rosalie"	"Alegata (Lublin, Nov 1924) - Death Certification"					
+		Roechert	Emil	M	1924	Nov			"Henke, Wanda"	Bekiesza	28	Lublin 1924	00048-49	80	K Krueger		"[Roechert, Ludwig & Guenter, Wilhelmine]"	"[Henke, Michael & Riemer, Wilhelmine]"		"Alegata (Lublin, Nov 1924) - Akt Zeznania"					
+		Henke	Wilhelm	M	1924	Nov			"Guenter, Julianne"	Wola Korybutowa	28	Lublin 1924	00049-50	81	K Krueger		"[Henke, Michael & Riemer, Wilhelmine]"	"[Guenter, Heinrich & Matner, Ernestine]"		"Alegata (Lublin, Nov 1924) - Akt Zeznania"					
+Nachtigall	Wanda	Nachtigal	Wanda	B	1895	Dec	Ludwig	"Luck, Matylda"	"Lueck, Mathilde"	Bielin	28	Lublin 1924	00050	831 \ 82	K Krueger					"Alegata (Chelm, Mar 1920) - Birth Certification"					
+		Geisler	Rudolf	M	1924	Nov			"Jesse, Ottilie"	Piaseczno	28	Lublin 1924	00051-52	84	K Krueger		"[Geisler, Julius & Zerbin, Wilhelmine]"	"[Jesse, Karl & Woltendorf, Emma]"		"Alegata (Lublin, Nov 1924) - Akt Zeznania"					
+		Buchholz	Julius	M	1924	Nov			"Bliesner, Alwine"	Rozplucie	28	Lublin 1924	00052-53	85	K Krueger		"[Buchholz, August & Blum, Auguste Albertine]"	"[Bliesner, Wilhelm & Will, Ottilie]"		"Alegata (Lublin, Nov 1924) - Akt Zeznania"					
+Bartsch	Edward	Bartsch	Eduard	B	1895	Dec	Adolf	"Priebe, Henryeta"	"Priebe, Henriette"	Cycow	28	Lublin 1924	00053	686 \ 86	K Krueger					"Alegata (Lublin, Nov 1924) - Birth Certification"					
+Habke	Lidja	Hapke	Lidia	B	1907	Apr	Gustav	"Winkler, Rozalja"	"Winkler, Rosalie"	Streczyn Nowy	28	Lublin 1924	00054	175 \ 86	K Krueger					"Alegata (Lublin, Nov 1924) - Birth Certification"					
+Riske	Juliusz	Riske	Julius	B	1891	Apr	Ludwig	"Krebs, Paulina"	"Krebs, Pauline"	Antonin	28	Lublin 1924	00055	190 \ 87	K Krueger					"Alegata (Lublin, Nov 1924) - Birth Certification"					
+Daft	Lidja	Daft	Lidia	B	1903	Feb	Ludwig	"Milchner, Paulina"	"Milchner, Pauline"	Cycow	28	Lublin 1924	00056	96 \ 87	K Krueger					"Alegata (Lublin, Nov 1924) - Birth Certification"					
+Lieske	Lidja	Lieske	Lidia	D	1924	Apr	Julius	"Badke, Florentyna"	"Badke, Florentine"	Szczecin	28	Lublin 1924	00057	44 \ 88	K Krueger				"Mueller, Gustav"	"Alegata (Lublin, Nov 1924) - Death Certification"					
+Juengling	Edward	Juengling	Eduard	D	1923	Jul	Andreas	Emilja	Emilie	Zarobka	28	Lublin 1924	00058	117 \ 88	K Krueger				"Priebe, Lidia"	"Alegata (Lublin, Nov 1924) - Death Certification"					
+		Werner	Friedrich	B	1893	Jan	August		"Mueller, Mathilde"	Adamow	28	Lublin 1924	00059	29 \ 89	K Krueger					"Alegata (Lublin, Jan 1913) - Birth Certification"					
+		Heimann	Emma	B	1901	Feb	Daniel		"Skalej, Justine"	Mlodocin	28	Lublin 1924	00060	34 \ 87 [89]	K Krueger					"Alegata (Radom, Dec 1920) - Birth Certification"					
+		Bluemke	Julius	M	1924	Nov			"Feld, Wanda"	Dratowski Las	28	Lublin 1924	00061-62	91	K Krueger		"[Bluemke, Michael & Galster, Hermine]"	"[Feld, Michael & Pretz, Christine]"	"[Lipke, Julia Wilhelmine (1st wife)]"	"Alegata (Lublin, Nov 1924) - Akt Zeznania"					
+Henschel	Gustav	Henschel	Gustav	B	1895	Aug	Friedrich	"Tetzlaw, Emilja Augusta"	"Tetzlaw, Emilie Auguste"	Janow	28	Lublin 1924	00062	522 \ 92	K Krueger					"Alegata (Chelm, Nov 1924) - Birth Certification"					
+		Henschel	Gustav	M	1924	Nov			"Schachtschneider, Martha"	Janow 	28	Lublin 1924	00063	42 \ 92	K Krueger		"Henschel, Friedrich & Tetzlaw, Emilie Auguste"	"Schachtschneider, Michael & Schiewe, Wilhelmine"		"Alegata (Chelm, Nov 1924) - Fulfillment of Marriage Banns"					
+Malek	Jan	Malek	Johann	B	1904	Feb	Simon	"Stadryniak, Jozefa"	"Stadryniak, Josefa"	Lublin	28	Lublin 1924	00064-66	64 \ 93	K Krueger					"Alegata (Katedralnej, Lublin, Dec 1924) - Birth Certification"					
+		Schoenfisch	Hermann	M	1918	Jun			"Zirk, Julianne"	Bielecki	28	Lublin 1924	00066-67	95	K Krueger		"[Schoenfisch, August & Gitzel, Julianne]"	"[Zirk, Gustav & Telker, Henriette]"	"Polewski, [August] (1st husband)"	"Alegata (Lublin, Dec 1924) - Akt Zeznania"					
+		Stuermer	Reinhard	M	1918	Aug			"Wagner, Wanda"	Streczyn Nowy	28	Lublin 1924	00067-69	96	K Krueger		"[Stuermer, Wilhelm & Jaworski, Albertine]"	"[Wagner, Michael & Winkler, Luise]"		"Alegata (Lublin, Dec 1924) - Akt Zeznania"					
+		Pas	Josef	B	1883	Jan	Johann		"Zaek, Marianne"	Zarzecze	28	Lublin 1925	00003-4	19 \ 6	K Krueger					"Alegata (Pilica, Jan 1925) - Birth Certification; #0002 Polish Note"					
+Dabkowski	Wladyslaw Antoni	Dabkowski	Walter Anton	M	1925	Apr		"Jeranek, Irena"	"Jeranek, Irene"	Lublin	28	Lublin 1925	00004-6	11	K Krueger		"Dabkowski, Johann & [Twarogowski], Wanda"	"Jeranek, Rudolf & Kreuz, Karoline"		"Alegata (Lublin, Apr 1925) - Akt Zeznania"					
+Hucaluk	Mikolaj	Hucaluk	Nikolaus	M	1925	Aug		"Schwanke, Natalja"	"Schwanke, Natalie"	Zezulin	28	Lublin 1925	00006-8	15	K Krueger		"[Hucaluk, Andreas & Turczyniak, Anne]"	"Schwanke, [Johann & Berg, Augustine]"	"Schoenknecht, [Daniel] (1st husband)"	"Alegata (Lublin, Aug 1925) - Akt Zeznania"					
+Krueger	Jan Otto	Krueger	Johann Otto	B	1900	Oct	Johann Friedrich	"Haehne, Emilja"	"Haehne, Emilie"	Lodz	28	Lublin 1925	00008	1786 \ 17	K Krueger					"Alegata (Lodz, Jul 1925) - Birth Certification; #0002 Polish Note"					
+		Krueger	Johann [Otto]	M	1925	Sep		"Spreier, Emilja"	"Spreier, Emilie"	Kostopol	28	Lublin 1925	00009	17	K Krueger		"Krueger, Johann Friedrich & Haehne, Emilie"	"Spreier, Gustav & Bauer, Katharine"		"Alegata (Tuczyn, Sep 1925) - Fulfillment of Marriage Banns"					
+		Orlowski	Wilhelm Rudolf	M	1925	Oct		"Dilge, Zofja Helena"	"Duelge, Sophie Helene"	Wolka Siemienska	28	Lublin 1925	00010	22	K Krueger		"[Orlowski, Karl & Martin, Ernestine]"	"[Duelge, Hermann & Tiede, Justine]"		"Alegata (Lukow, Nov 1925) - Fulfillment of Marriage Banns"					
+		Kassner	Gustav	M	1925	Nov		"Schindel, Emilja"	"Schindel, Emilie"	Aleksandrow	28	Lublin 1925	00011	23	K Krueger		"Kassner, Ludwig Johann & Duesterhoeft, Karoline"	"Schendel, Jakob & Muth, Henriette"		"Alegata (Wegrow, Oct 1925) - Fulfillment of Marriage Banns"					
+		Buchstein	Rudolf	M	1925	Nov		"Wedman, Alicja"	"Wedmann, Alice"	Bielany	28	Lublin 1925	00012-16	25	K Krueger		"Buchstein, Karl & Dill, Karoline"	"Wedmann, Gustav & Grunert, Emilie"		"Alegata (Lukow Radawczyk Baptist, Lublin, Nov 1925) - Fulfillment of Marriage Banns and Akt Zeznania"					
+		Hiller	Adolf [Samuel]	M	1925	Dec		"Hiller, Juljanna Otylja"	"Hiller, Julianne Ottilie"	Antoniowka	28	Lublin 1925	00016	26	K Krueger		"[Hiller, Christian & Duelge, Julianne]"	"[Hiller, Edmund & Luetke, Emilie]"		"Alegata (Lukow, Oct 1925) - Fulfillment of Marriage Banns"					
+		Knakowski	Peter	M	1928	Feb			"Bittner, Martha"	Lublin	28	Lublin 1928	00002-4	5	K Krueger		"Knakowski, Josef & Stek, Anne"	"[Bittner, August & Werner, Ottilie]"		"Alegata (Lublin, Feb 1928) - Akt Zeznania"					
+Hunt	Amalja	Hundt	Amalie	B	1900	Dec	Julius	"Drews, Karolina"	"Drews, Karoline"	Kochanow	28	Lublin 1928	00005	302 \ 7	K Krueger					"Alegata (Radom, Feb 1928) - Birth Certification"					
+		Matner	Rudolf	M	1928	Feb			"Kunkel, Mathilde"	Jasieniec	28	Lublin 1928	00006-7	9	K Krueger		"Matner, Christoph & Kaus, Emilie"	"Kunkel, Heinrich & Kaus, Elisabeth"		"Alegata (Cycow, Feb 1928) - Fulfillment of Marriage Banns"					
+		Nikel	Gustav	M	1928	Feb			"Strauch, Emma"	Wolka Siemienska	28	Lublin 1928	00008	14	K Krueger		"Nikel, Ludwig & [Noerenberg], Julianne"	"[Strauch, Gustav & Sonnenberg, Karoline]"		"Alegata (Lukow, Oct 1927) - Fulfillment of Marriage Banns"					
+		Huff	Rudolf	M	1928	Feb			"Kropp, Lidia"	Antoniowka	28	Lublin 1928	00009	15	K Krueger		"Huff, Gottlieb & [Markwart], Justine"	"[Kropp, Peter & Neumann, Marta]"		"Alegata (Chelm, Feb 1928) - Fulfillment of Marriage Banns"					
+		Hein	Gottlieb	M	1928	Feb			"Markwart, Natalie"	Janowica	28	Lublin 1928	00010-11	17	K Krueger		"Hein, Gottlieb & Wensel, Augustine"	"Markwart, Gottfried & Rosentreter, Emma"		"Alegata (Chelm and Cycow, Feb 1928) - Fulfillment of Marriage Banns"					
+		Cham	Stanislaus	B	1901	May	Josef		"Duda, Marianna"	Radom	28	Lublin 1928	00012-15	18	K Krueger					"Roman Catholic Alegata (Radom, Aug 1921) - Birth Certification"					
+		Cham	Stanislaus	M	1928	Apr			"Schmidt, Friederike"	Lublin	28	Lublin 1928	00016-17	18	K Krueger		"[Cham, Josef & Duda, Marianne]"	"[Schmidt, Gregor & Hanert, Auguste]"		"Alegata (Lublin, Apr 1928) - Akt Zeznania"					
+		Schmidt	Friederike	B	1901	Mar	Gregor		"Hanert, Auguste"	Gotowka	28	Lublin 1928	00017-18	208 \ 18	K Krueger					"Alegata (Chelm, Jun 1927) - Birth Certification"					
+Luszczewski	Tadaeusz Jan	Luszczewski	Thaddaeus Johann	B	1903	Mar	Stanislaus	"Majewski, Domicella"	"Majewski, Domicella"	Lublin	28	Lublin 1928	00019	107 \ 19	K Krueger					"Roman Catholic Alegata (Katedralnej, Lublin, Apr 1928) - Birth Certification"					
+		Luszczewski	Thaddaeus Johann	M	1928	Apr			"Krueger, Elwira"	Lublin	28	Lublin 1928	00020-21	747 \ 19	K Krueger					"Alegata (Warszawa, Apr 1928) - Release from weeks 2 & 3"					
+Boss	Edward	Boss	Eduard	B	1906	Jul	Julius	"Fenske, Rozalja"	"Fenske, Rosalie"	Wolka Tyrzynska	28	Lublin 1928	00022	139 \ 25	K Krueger					"Alegata (Radom, Jul 1928) - Birth Certification"					
+		Erber	Rudolf	B	1902		Julius		"Ross, Susanna"	Adamow	28	Lublin 1928	00023-24	57 \ 29	K Krueger					"Alegata (Cycow, Jul 1928) - Birth Certification"					
+		Kolasiewicz	Mieczyslaw Johann	M	1928	Aug			"Reiter, Adelaide Kamilla"	Kamien	28	Lublin 1928	00025-26	31	K Krueger		"Kolasiewicz, Eugenie"	"Reiter, Eduard Sigmund & Maske, Julia"		"Alegata (Kamien, Aug 1928) - Fulfillment of Marriage Banns \ Alegata (Warszawa, Aug 1928) - Release from weeks 2 & 3"					
+Kolasiewicz	Miecislaw Joannes	Kolasiewicz	Mieczyslaw Johann	B	1898	Dec	unknown/unbekannt	"Kolasiewicz, Eugenia"	"Kolasiewicz, Eugenie"	Bruchnal?	28	Lublin 1928	00027-28	45 \ 31	K Krueger					"Roman Catholic Alegata (Bruchnal, Oct 1910 \ Jaworow, Aug 1928) - Baptismal & Birth Certifications"					
+Reiter	Adelaida Kamila	Reiter	Adeleide Kamilla	B	1904	Nov	Eduard	"Maske, Julianna"	"Maske, Julianna"	Rejowiec	28	Lublin 1928	00029	930 \ 31	K Krueger					"Alegata (Chelm, Aug 1928) - Birth Certification"					
+		Tupikowski	Johann	M	1928	Aug			"Jaworski, Luise"	Lublin	28	Lublin 1928	00030	1569 \ 32	K Krueger					"Alegata (Warszawa, Aug 1928) - Release from weeks 2 & 3; #00032-34 Additional relaeses"					
+Tupikowski	Jan	Tupikowski	Johann	B	1894	Mar	Alexander	"Milewski, Seweryna"	"Milewski, Sewerine"	Aleksandrow	28	Lublin 1928	00031	202 \ [32]	K Krueger					"Alegata (Lukow, Aug 1928) - Birth Certification"					
+Jaworski	Ludwika	Jaworski	Luise	B	1899	Sep	Karl	"Schultz, Anna"	"Schultz, Anna"	Warszawa	28	Lublin 1928	00035	616 \ [32]	K Krueger					"Alegata (Warszawa, Jul 1928) - Birth Certification"					
+Karok	Edward	Karok	Eduard	B	1903	Dec	Eduard	"Esslinger, Marjanna"	"Esslinger, Marianna"	Cegielni	28	Lublin 1928	00036	120 \ 33	K Krueger					"Roman Catholic Alegata (Hrubieszow, Aug 1928) - Birth Certification"					
+Paprocki	Marjanna	Paprocki	Marianna	B	1899	May	Martin	"Tatara, Katarzyna"	"Tatara, Katharina"	Kalinowszczyzna	28	Lublin 1928	00037	239 \ 33	K Krueger					"Alegata (Agnienki?, Lublin, Aug 1928) - Birth Certification; #00038 Polish Note"					
+Kaminski	Jozef Gabrjel	Kaminski	Josef Gabriel	M	1915	Nov		"Dobrowski, Halina Melani"	"Dobrowski, Halina Melanie"		28	Lublin 1928	00039-40	36	K Krueger					"Alegata (Warszawa, Jul 1920) - Divorce Certification"					
+		Kaminski	Josef Gabriel	M	1928	Sep			"Wojcik, Stanislawa"	Lublin	28	Lublin 1928	00040	1655 \ 36	K Krueger				"[Dobrowski, Halina Melanie (1st wife, divorced)]"	"Alegata (Warszawa, Sep 1928) - Release from weeks 2 & 3"					
+		Wojcik	Stanislawa	B	1906	Mar	Josef		"Lysakowski, Julianne"	Milejow	28	Lublin 1928	"00041,44-45"	36	K Krueger					"Roman Catholic Alegata (Milejow, Aug 1928) - Birth Certification"					
+		Kaminski	Josef [Gabriel]	B	1891	Mar	Johann		"Wilczinski, Josefa"	Chmiecz--?	28	Lublin 1928	00042-43	26 \ 36	K Krueger					"Alegata (Warszawa, Dec 1926) - Birth Certification"					
+		Klukas	Adolf	M	1928	Sep			"Preuss, Olga"	Komarowka	28	Lublin 1928	00046	37	K Krueger		"Klukas, Gottlieb & Pohl, Marianne"	"Preuss, Gustav & Klar, Emilie"		"Alegata (Cycow, Sep 1928) - Fulfillment of Marriage Banns"					
+Przybylski	Hipolit	Przybylski	Hipolit	B	1889	Feb	Peter	"Wolski, Katarzyna"	"Wolski, Katharina"	Zamosc	28	Lublin 1928	00047-48	28 \ 38	K Krueger					"Roman Catholic Alegata (Zamosc, Aug 1928) - Birth Certification"					
+Grycaj	Piotr	Grycaj	Peter	D	1924	Oct	Johann	"Galaszkiewicz, Kaharina"	"Galaczkiewicz, Katharina"	Bialobrzegi	28	Lublin 1928	00049	188 \ 38	K Krueger				"Winkler, August Emilie"	"Roman Catholic Alegata (Zamosc, Aug 1928) - Death Certification"					
+		Mund	Friedrich	B	1873	Jul	August		"Rutsch, Luise"	Justynow	28	Lublin 1928	00050	5 \ 42	K Krueger					"Baptist Alegata (Lubartow, Oct 1928) - Birth Certification"					
+Rapp	Olga	Rapp	Olga	B	1908	Jan	Martin	"Klingspon, Wilhelmina"	"Klingspohn, Wilhelmine"	Wiczynie	28	Lublin 1928	00051	475 \ 42	K Krueger					"Alegata (Rozyszcze, Oct 1928) - Birth Certification"					
+Kuczborski	Witold Alfred	Kuczborski	Witold Alfred	B	1883	Mar	Gustav	"Czechowiecz, Julja"	"Czechowiecz, Julia"	Sosnowiec	28	Lublin 1928	"00053,56-57"	114 \ 43	K Krueger					"Roman Catholic Alegata (Czeladz, Nov 1928) - Birth Certification"					
+Kuczborski	Witold Alfred	Kuczborski	Witold Alfred	M	1912	Apr		"Mejer, Jawiga Marja Jozefa"	"Meier, Hedwig Maria Josefa"		28	Lublin 1928	00054-55	[43]	K Krueger					"Alegata (Warszawa, Feb 1928) - Divorce Certification; divorced 12 Jul 1922"					
+Drobik	Jadwiga	Drobik	Hedwig	B	1903	Apr	Johann	"Komorkowski, Anna"	"Komorkowski, Anna"	Koluszki	28	Lublin 1928	00058-61	231 \ [43]	K Krueger					"Alegata (Mroga-Dolna, Sep 1925) - Birth Certification"					
+Pinknik	Helena	Pinknik	Helene	B	1897	Sep	Johann	"Marok, Katarzyna"	"Marok, Katharina"	Lublin	28	Lublin 1928	00061-63	482 \ 44	K Krueger					"Roman Catholic Alegata (Pawla, Lublin, Nov 1928) - Birth Certification"					
+		Klimczyk	Stefan	B	1899	Dec	Felix		"Pucholski, Marianne"	Kazimiera Wielka	28	Lublin 1928	00063	165 \ 47	K Krueger					"Roman Catholic Alegata (Kazimiera Wielka, Jan 1925) - Birth Certification"					
+		Klimczyk	Stefan	M	1928	Nov			"Beck, Martha"	Ostrog	28	Lublin 1928	00064	1012 \ 47	K Krueger		"Klimczyk, Felix & Pucholski, Marianne"	"[Beck, Josef & Hermann, Anne]"		"Alegata (Ostrog, Nov 1928) - Fulfillment of Marriage Banns"					
+Beck	Marta	Beck	Marta	B	1897	Mar	Josef	"Hermann, Anna"	"Hermann, Anna"	Lodz	28	Lublin 1928	00066	252 \ 47	K Krueger					"Alegata (Lodz, Dec 1923) - Birth Certification"					
+		Bonkowski	Siegmund Michael	B	1890	Oct	Walter		"Przyluski, Stanislawa"	Naleczow	28	Lublin 1929	"00002,5-6"	195 \ 1	K Krueger					"Alegata (Konopnica, Nov 1928) - Birth Certification"					
+		Bankowski	Siegmund Michael	M	1929	Jan			"Kuntze, Lidia Karoline Marie"	Lublin	28	Lublin 1929	00004	1948 \ 1	K Krueger				"Mikolajenko, [Johann] (1st husband - divorced)"	"Alegata (Warszawa, Dec 1928) - Release from weeks 2 & 3; #0007 Polish Note"					
+Mikolajenko	Jan	Mikolajenko	Johann	M	1921	Nov		"Kuntce, Lidia"	"Kuntze, Lidia [Karoline Maria]"	Piotrkow?	28	Lublin 1929	00003	968 \ 1	K Krueger		"Mikolajenko, Izydora"	"Kuntz, Wilhelm [Gotthard?]"		"Orthodox Alegata (Warszawa, Mar 1928) - Divorce Certification"					
+Kohls	Juljanna	Kohls	Julianna	B	1899	Feb	Jakob	"Ratz, Amalja"	"Ratz, Amalie"	Lukowka	28	Lublin 1929	00008	103 \ 13	K Krueger					"Alegata (Chelm, Apr 1929) - Birth Certification"					
+Bober	Zofja	Bober	Sophie	B	1909	Aug	Simon	"Lawnik, Ewa"	"Lawnik, Eva"	Staroscice	28	Lublin 1929	00009-11	122 \ 14	K Krueger					"Roman Catholic Alegata (Milejow, Apr 1929) - Birth Certification"					
+		Schwanke	Otto August	M	1929	May			"Luetke, Natalie"	Niezychowo	28	Lublin 1929	00011-12	19	K Krueger		"Schwanke, Michael & Stefani, Wilhelmine"	"Luetke, Karl & Huebke, Luise"		"Alegata (Lublin, May 1929) - Akt Zeznania; (Bialosliw, Apr 1929) - Fulfillment of Marriage Banns"					
+		Detke	Viktor Daniel Josef	B	1897	Sep	Albert Theodor		"Menge, Natalie"	Dombrow	28	Lublin 1929	00013	64 \ 20	K Krueger					"Alegata (Sosnow, May 1929) - Birth Certification"					
+Krasnowiecki	Wladyslaw Juljan	Krasnowiecki	Walter Julian	M	1925	Jul		"Birnbaum, Helena"	"Birnbaum, Helene "		28	Lublin 1929	00014-15	4857 \ 20	K Krueger			"[Birnbaum, Abraham & Frenkiel, Eleonore]"		"Alegata (Wilenski, Jul 1928) - Divorce Certification"					
+		Detke	Viktor Daniel Josef	M	1929	May			"Birnbaum, Helene "	Lublin	28	Lublin 1929	00015-16	20	K Krueger		"Detke, Alfred Theodor & Menge, Natalie"	"Birnbaum, Abraham & [Frenkiel], Eleonore"	"Krasnowiecki, [Walter Julian] !st husband - divorced)"	"Alegata (Sosnow, May 1929) - Fulfillment of Marriage Banns; (Warszawa, May 1929) - Release from weeks 2 & 3"					
+		Krusche	Paul Theodor	B	1904	Feb	Paul		"Falzmann, Bronislawa"	Lodz	28	Lublin 1929	00017	144 \ 23	K Krueger					"Alegata (Pabianice, May 1929) - Birth Certification"					
+		Jankowski	Johanna	B	1907	Aug	Paul Georg Leo		"Gorejwa, Marie"	Warszawa	28	Lublin 1929	00018	269 \ 23	K Krueger					"Roman Catholic Alegata (Katedralnej, Lublin, May 1929) - Birth Certification; #00019 Polish Note"					
+		Mundt	Heinrich Karl	B	1903	Nov	Wilhelm		"Garz, Lidia"	Leczyca	28	Lublin 1929	00020	24 \ 27	K Krueger					"Alegata (Leczyca, Jul 1929) - Birth Certification"					
+		Mundt	Heinrich Karl	M	1929	Aug			"Lauter, Irene [Edmunde Amalie]"	Poznan	28	Lublin 1929	00021	27	K Krueger		"Mundt, Wilhelm & Gartz, Lidia"	"Lauter, Thomas & Heinrich, Sophie"		"Alegata (Leczyca, Aug 1929) - Fulfillment of Marriage Banns"					
+		Neiwer	Valentin Michael	B	1895	Feb	Peter		"Lenartowicz, Antonia"	Nawaryi	28	Lublin 1929	00022	55 \ 28	K Krueger					"Roman Catholic Alegata (Nawaryi, Mar 1928) - Baptismal Certification"					
+		Theobald	Therese Katharine	B	1904	Dec	Johann Georg Theobald		"Bollenbach, Katharina Theobald"	Lecowka	28	Lublin 1929	00023	28	K Krueger					"Alegata (Lwow, Aug 1928) - Baptismal Certification"					
+Najwer	Walenty Michal	Neiwer	Valentin Michael	M	1929	Sep			"Theobald, Therese Katharine"	Lwow	28	Lublin 1929	00024-25	28	K Krueger		"[Neimer, Peter & Lenart, Antonia]"	"[Theobald, Johann & Bollenbach, Marie Katharine]"		"Alegata (Lwow, Aug 1929) - Release for Marriage"					
+		Grunert	Rudolf	B	1906	Aug	August		"Gross, Auguste"	Justynow	28	Lublin 1929	00026	9 \ 30	K Krueger					"Baptist Alegata (Lubartow, Sep 1929) - Birth Certification"					
+		Grunert	Rudolf	M	1929	Sep			"Matz, Julianne"	Justynow	28	Lublin 1929	00027	30	K Krueger		"Grunert, August & Gross, Augustine"	"[Matz, Jakob] & Klingbeil, Julianne"		"Baptist Alegata (Radawczyk, Sep 1929) - Fulfillment of Marriage Banns"					
+Gawel	Jozef	Gawel	Josef	B	1898	Mar	Martin	"Ruzyk, Franciszka"	"Ruzyk, Franziska"	Tarkawice	28	Lublin 1929	"00028,30-31"	116 \ 31	K Krueger					"Roman Catholic Alegata (Kock, Aug 1929) - Birth Certification"					
+		Hunger	Ottilie Martha Johanne	B	1902	Feb	Robert		"Schuetzmann, Marta"	Pogon?	28	Lublin 1929	00029	12 \ 31	K Krueger					"Alegata (Sosnow, Aug 1929) - Birth Certification"					
+		Grawon	Rudolf	B	1906	Oct	Gottlieb		"Oelke, Pauline"	Slawin	28	Lublin 1929	00032	22 \ 34	K Krueger					"Baptist Alegata (Zezulin, Oct 1929) - Birth Certification"					
+Kozicki	Kazimiera	Kozicki	Kasimiera	B	1910	Mar	Roman	"Giwerski, Aniela"	"Giwerski, Aniela"	Irene	28	Lublin 1929	00033-34	42 \ 34	K Krueger					"Roman Catholic Alegata (Bobrownik, Oct 1929) - Birth Certification"					
+Estreich	Stanislaw Witold	Estreich	Stanislaus Witold	B	1903	Mar	Wilhelm	"Wawrzyrzak, Kazimiera"	"Wawrzyrzak, Kasimiera"	Fajslawice	28	Lublin 1929	"00035-36,38-39"	60 \ 35	K Krueger					"Roman Catholic Alegata (Fajslawice, Oct 1929) - Birth Certification"					
+Jaeger	Wanda Paulina	Jaeger	Wanda Pauline	B	1905	Jun	Stefan Friedrich	"Blumenberg, Marja Jozefina"	"Blumenberg, Maria Josefine"	Warszawa	28	Lublin 1929	00036	251 \ 35	K Krueger					"Alegata (Warszawa, Sep 1929) - Birth Certification"					
+		Estreich	Stanislaus Witold	M	1929	Oct			"Jaeger, Wanda Pauline"	Lublin	28	Lublin 1929	00037	2138 \ 35	K Krueger					"Alegata (Warszawa, Oct 1929) - Release from weeks 2 & 3"					
+		Kessler	Karl	B	1900	Oct	Johann Ludwig		"Winkler, Wanda"	Wloclawek	28	Lublin 1929	00040	149 \ 36	K Krueger					"Alegata (Wloclawek, Jun 1929) - Birth Certification"					
+		Rajkiewicz	Sophie	B	1905	May	Walter		"Slepowronski, Marie"	Lublin	28	Lublin 1929	00041-43	1205 \ 36	K Krueger					"Roman Catholic Alegata (Czerniejow, Aug 1929) - Birth Certification"					
+		Kessler	Karl	M	1929	Nov			"Rajkiewicz, Sophie"	Lublin	28	Lublin 1929	00043	36	K Krueger		"Kessler, Johann Ludwig & Winkler, Wanda"	"[Rajkiewicz, Walter & Slepowronski, Marie]"		"Alegata (Lublin, Sep 1929) - Release for Marriage"					
+Kitzmann	Ludwik	Kitzmann	Ludwig	B	1903	Apr	Andreas	"Ratter, Eleonora"	"Ratter, Eleonore"	Piliaw?	28	Lublin 1929	00044	57 \ 37	K Krueger					"Alegata (Pilica, Oct 1929) - Birth Certification"					
+Bettin	Ludwik Wilhelm	Bettin	Ludwig Wilhelm	B	1904	Jan	Gottlieb	"Kitzmann, Juljanna"	"Kitzmann, Julianna"	Piliaw?	28	Lublin 1929	00045	15 \ 40	K Krueger					"Alegata (Pilica, Sep 1928) - Birth Certification"					
+Lobarzewski	Witold Grzegerz	Lobarzewski	Witold Gregor	B	1898	May	Andreas	"Jackiewicz, Zofja Aurelja"	"Jackiewicz, Sophie Aurelie"	Zegrzinek	28	Lublin 1930	"00002,4"	78 \ 1	K Krueger					"Roman Catholic Alegata (Zegrze, Jul 1929) - Birth Certification"					
+		Lobarzewski	Witold Gregor	M	1930	Jan			"Haberlau, Irene"	Lublin	28	Lublin 1930	00003	2722 \ 1	K Krueger					"Alegata (Warszawa, Dec 1929) - Release from weeks 2 & 3"					
+		Sturm	Alfred Paul	B	1898	Mar	Karl		"Benkwitz, Auguste"	Posen	28	Lublin 1930	00005	564 \ 9	K Krueger					"Alegata (Poznan, Jan 1930) - Birth Certification"					
+		Mackowiak	Maria	B	1905	Mar	Thomas		"Heinawicz, Konstance"	Castrop	28	Lublin 1930	"00006,8"	196 \ 9	K Krueger					"Alegata (Castrop, Jan 1920) - Birth Certification"					
+		Sturm	Alfred Paul	M	1930	Mar			"Mackowiak, Marie"	Lublin	28	Lublin 1930	00007	417 \ 9	K Krueger					"Alegata (Warszawa, Feb 1930) - Release from weeks 2 & 3"					
+		Duklam	Eduard Franz	M	1924	Apr			"Mallis, Erna Ina Julia"	Lublin	28	Lublin 1930	00009	10	K Krueger					"Alegata (Paris, Apr 1924) - Marriage Certification?"					
+Wacholz	Michal	Wacholz	Michael	B	1906	Apr	Friedrich	"Schoenknecht, Wilhelmina"	"Schoenknecht, Wilhelmine"	Karolin	28	Lublin 1930	00010	91 \ 14	K Krueger					"Alegata (Radom, May 1930) - Birth Certification"					
+		Wacholz	Michael	M	1930	May			"Kunkel, Leokadia"	"Karolin, Radom"	28	Lublin 1930	00011	14	K Krueger		"Wacholz, Friedrich & Schoenknecht, Wilhelmine"	"Kunkel, Friedrich & Richter, Emilie"		"Alegata (Radom, May 1930) - Fulfillment of Marriage Banns"					
+		Winter	Gustav	M	1930	May			"Noerenberg, Natalie"	Jozefow	28	Lublin 1930	00012-13	15	K Krueger		"Winter, Andreas & Strauch, Mathilde"	"[Noerenberg, Ludwig & Luedke, Berta]"		"Alegata (Lublin, May 1930) - Akt Zeznania"					
+		Hartfiel	Adolf	M	1930	Jun			"Ibsch, Wanda"	Radawczyk	28	Lublin 1930	00013-14	17	K Krueger		"Hartfiel, Wilhelm & Klass, Julianne"	"Ibsch, Julius & Klass, Ernestine"		"Alegata (Cycow, Jun 1930) - Fulfillment of Marriage Banns"					
+Bettin	Edward Gotlib	Bettin	Eduard Gottlieb	B	1908	Oct	Gottlieb	"Kitzmann, Juljanna"	"Kitzmann, Julianna"	Piliaw?	28	Lublin 1930	00015	143 \ 18	K Krueger					"Alegata (Pilica, Sep 1929) - Birth Certification"					
+Kitzmann	Julianna	Kitzmann	Julianna	B	1907	Jun	Andreas	"Ratter, Eleonora"	"Ratter, Eleonore"	Piliaw?	28	Lublin 1930	00016	140 \ 18	K Krueger					"Alegata (Pilica, Jun 1930) - Birth Certification"					
+		Zacharzewski	Johann	B	1898	Nov	Johann		"Ziemiec, Malwine"	Szlupowka	28	Lublin 1930	00017	314 \ 19	K Krueger					"Roman Catholic Alegata (Slobodka, Jul 1930) - Birth Certification; #00020 Polish Note"					
+		Preiss	Alicie	B	1898	May	Eduard		"Blank, Emilie"	Kwasno?	28	Lublin 1930	"00018,21"	120 \ 19	K Krueger					"Alegata (Sierpc, Aug 1930) - Birth Certification"					
+		Zacharzewski	Johann	M	1930	Aug			"Preuss, Alicie"	Grodno	28	Lublin 1930	00019	1656 \ 19	K Krueger					"Alegata (Warszawa, Aug 1930) - Release from weeks 2 & 3"					
+		Mueller	Reinhold	M	1931	Jan			"Mueller, Lidia"	Cycow	28	Lublin 1931	00002	5	K Krueger		"Mueller, Jakob & Erdmann, Mathilde"	"Mueller, Gustav & Wels, Wilhelmine"		"Alegata (Cycow, Jan 1931) - Fulfillment of Marriage Banns"					
+Klaklik	Marjan	Klaklik	Marian	B	1895	Jul	Josef	"Pietrykowski, Paulina"	"Pietrykowski, Paulina"	Czestolowna	28	Lublin 1931	00003	790 \ 1	K Krueger					"Alegata (Zygmunta, Dec 1930) - Birth Certification; #00005 Polish Note"					
+		Klaklik	Marian	M	1931	Jan			"Steinert, Janina"	Zakopane	28	Lublin 1931	00004	4 \ 1	K Krueger					"Alegata (Warszawa, Jan 1931) - Release from weeks 2 & 3"					
+Kwasnica	Edward	Kwasnica	Eduard	B	1899	Jun	Josef	"Kuczma, Catharina"	"Kuczma, Katharina"	Zakopane	28	Lublin 1931	00006-8	76 \ 6	K Krueger					"Roman Catholic Alegata (Zakopane, Nov 1930) - Baptismal Certification"					
+		Kwasnica	Eduard	M	1931	Jan			"Schoeneich, Sophie"	Warszawa	28	Lublin 1931	00009-10	x 68 \ 6	K Krueger		"Kwasnica, Josef & Kuczma, Katharine"	"Schoeneich, Alexander & Majewski, Wanda"	"Wandelt, Alfons (1st husband)"	"Alegata (Warszawa, Jan 1931) - Fulfillment of Marriage Banns; (Warszawa, Jan 1931) - Release from weeks 2 & 3"					
+Wandelt	Alfons Adolf	Wandelt	Alfons Adolf	D	1930	Mar	Wilhelm	"Maischatz, Natalja"	"Maischatz, Natalie"	Krundwicach?	28	Lublin 1931	00011	12 \ 6	K Krueger				"Schoeneich, Sophie"	"Alegata (Warszawa, Dec 1930) - Death Certification"					
+Jenke	Artur Andrzej	Jenke	Artur Andreas	B	1904	Dec	Jakob	"Bejer, Emilja"	"Beier, Emilie"	Warszawa	28	Lublin 1931	00012	641 \ 8	K Krueger					"Alegata (Warszawa, Jan 1931) - Birth Certification; #00013 Polish Note"					
+		Litwin	Helene Marie Janina	B	1892	May	Marian Nikolaus		"Zaleski, Olga Wladislawa"	Wybramioka	28	Lublin 1931	00014-15	14 \ 8	K Krueger					"Greek Catholic Alegata (Wybramioka, Jan 1931) - Baptismal Certification"					
+		Jenke	Artur Andreas	M	1931	Feb			"Litwin, Helene Marie Janina"	Kamionka	28	Lublin 1931	00016	173 \ 8	K Krueger					"Alegata (Warszawa, Jan 1931) - Release from weeks 2 & 3"					
+Priebe	Helena	Priebe	Helene	D	1930	May	Friedrich	"Wilde, Emilja"	"Wilde, Emilie"	Zarobka	28	Lublin 1931	00017	82 \ 10	K Krueger				"Remus, Johann"	"Alegata (Cycow, Feb 1931) - Death Certification"					
+		Remus	Johann	M	1931	Feb			"Klingbeil, Olga"	Zarobka	28	Lublin 1931	00018-19	10	K Krueger		"Remus, Adam & Piper, Wilhelmine Friedrike"	"Kling, August & Kufert, Eva"	"Priebe, Helene (1st wife)"	"Alegata (Cycow, Feb 1931) - Fulfillment of Marriage Banns; (Warszawa, Feb 1931) - Release from weeks 2 & 3"					
+Markowicz	Honorata	Markowicz	Honorata	B	1905	Dec	Josef	"Furmanczyk, Barbara"	"Furmanczyk, Barbara"	Wzdol	28	Lublin 1931	00021	198 \ 13	K Krueger					"Alegata (Wzdol, Feb 1931) - Birth Certification"					
+		Patzer	Adolf	M	1931	May			"Wagner, Emilie"	"Jackinowka, Rowne"	28	Lublin 1931	00022	425 \ 15	K Krueger		"Patzer, Christoph & Kiel, Henriette"	"[Wagner, Ludwig & Schmidt, Katharine]"		"Alegata (Wlodzimierz, Apr 1931) - Fulfillment of Marriage Banns"					
+		Patzer	Adolf	B	1903	Sep	Christoph		"Kiel, Henriette"	Apolonji	28	Lublin 1931	00023	617 \ 5	K Krueger					"Alegata (Rozyszcze, Mar 1931) - Birth Certification"					
+Elsner	Emanuel	Elsner	Emanuel	B	1909	Mar	Walter	"Zippel, Emilja"	"Zippel, Emilie"	Lazek	28	Lublin 1931	00024	29 \ 16	K Krueger					"Alegata (Wegrow, May 1931) - Birth Certification"					
+Wutzke	Edmund	Wutzke	Edmund	B	1907	Nov	Albert	"Knopf, Wanda"	"Knopf, Wanda"	Skorodnica	28	Lublin 1931	00025-26	839 \ 20	K Krueger					"Alegata (Chelm, Jun 1931) - Birth Certification"					
+		Andrzejewski	Bronislaw Sergei	M	1918	Feb			"Charchurim, Beatrice"	"Charkow, Russland"	28	Lublin 1931	00026-29	1709 \ 22	K Krueger		"Andrzejewski, Josef & Leszczynski, Antonia"	"Charchurim, Nikolaus"		"Orthodox Alegata (Warszawsko-Chelm, Jun 1931) - Divorce Certification?"					
+		Andrzejewski	Bronislaw Sergei	M	1931	Jun		"Szajerman, Alida"	"Scheuermann, Alida"	Lublin	28	Lublin 1931	00030-31	"278,1238 \ 22"	K Krueger		"Andrzejewski, Josef & Leszczynski, Antonia"	"Scheuermann, Johann & Mantei, Anne Marianne"	"[Charchurim, Beatrice (1st wife?, divorced?)]"	"Orthodox Alegata (Warszawsko-Chelm, Jun 1931) - Fulfillment of Marriage Banns; (Warszawa, Jun 1931) - Release from weeks 2 & 3"					
+Scheierman	Alida	Scheuermann	Alida	B	1894	Mar	Johann	"Mantei, Anna Marjanna"	"Mantei, Anna Marianna"	Zyrardow	28	Lublin 1931	00032	54 \ 22	K Krueger					"Alegata (Zyrardow, Jan 1931) - Birth Certification"					
+Missal	Robert	Missal	Robert	B	1907	Nov	Wilhelm	"Jelenek, Elzbieta"	"Jelenek, Elisabeth"	Rypin	28	Lublin 1931	00033	266 \ 27	K Krueger					"Alegata (Rypin, Jul 1931) - Birth Certification"					
+Wojcieszuk	Zofja	Wojcieszuk	Sophie	B	1905	Apr	Johann	"Golc, Maryanna"	"Goltz, Marianna"	Lublin	28	Lublin 1931	00034-35	197 \ 27	K Krueger					"Roman Catholic Alegata (Katedralnej, Lublin, Jul 1931) - Birth Certification"					
+Ulmer	Elzbieta	Ulmer	Elisabeth	B	1902	Nov	Johann	"Bachmann, Dorota"	"Bachmann, Dorothea"	Stanislawow	28	Lublin 1931	00036	52 \ 28	K Krueger					"Alegata (Stanislawow, Feb 1929) - Birth Certification"					
+Glogowski	Anton	Glogowski	Anton	B	1901	Jan	Johann	"Kotlarski, Anna"	"Kotlarski, Anna"	Wola Zycinska	28	Lublin 1931	00037-39	6 \ [28]	K Krueger					"Alegata (Maluszyn, Aug 1931) - Birth Certification"					
+		Meier	Friedrich	M	1931	Oct			"Wentzel, Wanda Natalie"	Antonin Stary	28	Lublin 1931	00040-41	31	K Krueger					"Alegata (Lublin, Oct 1931) - Akt Zeznania"					
+Matz	Natalja	Matz	Natalie	D	1931	Apr	Johann	"Kotke, Juljanna"	"Kotke, Julianna"	Kulczyn	28	Lublin 1931	00041	33	K Krueger				"Mund, Eduard"	"Alegata (Cycow, Nov 1931) - Death Certification"					
+		Mund	Eduard	M	1931	Nov			"Lokstaedt, Lidia"	Kulczyn	28	Lublin 1931	00042	33	K Krueger		"Mund, Julius & Jeske, Ernestine"	"[Lokstaedt, Gottlieb] & Penno, Luise"	"Matz, Natalie (1st wife)"	"Alegata (Cycow, Nov 1931) - Fulfillment of Marriage Banns"					
+		Tonn	Olga	B	1910	Aug	Gottlieb		"[Labrentz], Theophile"	Rimczen?	28	Lublin 1931	00043	160 \ [34]	K Krueger					"Alegata (Rimczen-Waddakel?, May 1911) - Birth Certification"					
+Wojniarski	Janina Teodorya	Wojniarski	Janina Theodora	B	1908	May	Johann	"Balaban, Katarzyna"	"Balaban, Katharina"	Rury-Bonifraterski	28	Lublin 1931	00043-44	450 \ 35	K Krueger					"Roman Catholic Alegata (Pawla, Lublin, Dec 1931) - Birth Certification"					
+		Gefreiter	Otto	M	1931	Dec		"Cziszko, Fryderyka Joanna"	"Czisko, Friederike Johanne"	Szczuplinki	28	Lublin 1931	00045-46	36	K Krueger			"Cziske, Karl & [Donau, Friederike]"		"Alegata (Lublin, Dec 1931) - Akt Zeznania"					
+Elsner	Henryk	Elsner	Heinrich	B	1907	Jul	Walter	"Zippel, Emilja"	"Zippel, Emilie"	Lazek	28	Lublin 1932	00002	92 \ 3	K Krueger					"Alegata (Wegrow, Jan 1932) - Birth Certification"					
+		Feldt	Waclaw [Gustav]	M	1932	Jun			"Schoeneich, Alexandra"	Lublin	28	Lublin 1932	00003	1080 \ 7	K Krueger				"Krasnopolski, Maria (1st wife)"	"Alegata (Warszawa, Jun 1932) - Release from weeks 2 & 3; Orthodox Alegata (Warszawsko-Chelm, Feb 1932)"					
+Pieczywek	Waclawa Stanislawa	Pieczywek	Waclawa Stanislawa	B	1913	Jan	Waclaw	"Wojtowicz, Zofja"	"Wojtowicz, Sophie"	Lublin	28	Lublin 1932	00005-6	115 \ 9	K Krueger					"Roman Catholic Alegata (Katedralnej, Lublin, Sep 1932) - Birth Certification"					
+Bogulsaw	Wladyslaw	Boguslaw	Walter	B	1905	Dec	Josef	"Madej, Marjanna"	"Madej, Marianna"	Piaski	28	Lublin 1932	00007-8	946 \ 15	K Krueger					"Roman Catholic Alegata (Pawla, Lublin, Sep 1932) - Birth Certification"					
+		Rindfleisch	Emil	M	1932	Nov			"Friedrich, Martha"	Lublin	28	Lublin 1932	00009-10	16	K Krueger				"Ratschun, [Adolf] (1st husband)"	"Alegata (Lublin, Nov 1932) - Akt Zeznania; (Warszawa, Jun 1932) - Release from weeks 2 & 3"					
+Baumgart	Adolf	Baumgart	Adolf	B	1902	Sep	Rudolf	"Bartz, Juljanna Matylda"	"Bartz, Julianna Mathilde"	Swidrach	28	Lublin 1933	00002	135 \ 4	K Krueger					"Alegata (Wegrow, Jan 1933) - Birth Certification"					
+		Baumgart	Adolf	M	1933	Feb			"Steinke, Hulda"	Lukow	28	Lublin 1933	00003	4	K Krueger		"Baumgart, Rudolf & Bartz, Julianne Mathilde"	"Steinke, Albert & Rau, Auguste"		"Alegata (Wegrow, Jan 1933) - Fulfillment of Marriage Banns"					
+		Telker	Eduard	M	1933	Feb			"Teske, Natalie"	Kulczyn	28	Lublin 1933	00004	5	K Krueger		"Telker, Gottlieb & Teske, Pauline"	"Teske, Karl & Roechert, Eva"		"Alegata (Cycow, Feb 1933) - Fulfillment of Marriage Banns"					
+		Noerenberg	Ferdinand	M	1933	Feb			"Guderian, Karoline"	Wola Lisowska	28	Lublin 1933	00005	6	K Krueger		"Noerenberg, Christian & Holtz, Karoline"	"Guderian, Johann & Tederke, Julianne"	"[Guenter, Anne] (1st wife)"	"Alegata (Wola Lisowska, Feb 1933) - Fulfillment of Marriage Banns"					
+Bintz	Ewa	Bintz	Eva	B	1911	Dec	Julius Rudolf	"Eppinger, Natalja Stefanja"	"Eppinger, Natalie Stefanie"	Lubomla	28	Lublin 1933	00006	937 \ 7	K Krueger					"Alegata (Chelm, Feb 1933) - Birth Certification"					
+		Kulik	Anton	M	1933	Feb			"Bintz, Else"	Zawada	28	Lublin 1933	00007-8	7	K Krueger		"Kulik, Martin & Sitarz, Antonia"	"Bintz, Julius Rudolf & Eppinger, Natalie Stefanie"		"Alegata (Chelm, Feb 1933) - Fulfillment of Marriage Banns"					
+Kulik	Anton	Kulik	Anton	B	1903	May	Martin	"Sitarz, Antonina"	"Sitarz, Antonina"	Lazicki	28	Lublin 1933	00010	107 \ 7	K Krueger					"Roman Catholic Alegata (Skierbieszow, Sep 1932) - Birth Certification; #00009 Polish Note"					
+		Weber	Erwin Siegfried	M	1933	May			"Sobieszczanski, Sabine"	Lublin	28	Lublin 1933	00011-12	9	K Krueger					"Alegata (Warszawa, May 1933) - Release from weeks 2 & 3; Akt Zeznania"					
+Weber	Erwin Siegfried	Weber	Erwin Siegfried	B	1909	May	Hermann	"Stark, Elzbieta Berta"	"Stark, Elisabeth Berta"	Tomaszow	28	Lublin 1933	00013	182 \ 9	K Krueger					"Alegata (Tomaszow Maz., May 1933) - Birth Certification"					
+		Keilbart	Christian	M	1916	Sep			"Becker, Barbara"		28	Lublin 1933	00014	105 \ 12	K Krueger		"Keilbart, Michael & [Beck, Dorothea]"	"Becker, Andreas & [Siering, Christine]"		"Alegata (Chakow, Mar 1917) - Marriage Certification; husband was widower"					
+		Cieslewicz	Julius	M	1933	Jun			"Gefreiter, Ida"	Lukow	28	Lublin 1933	00015	13	K Krueger		"Cieslewicz, Peter & Zieba, Antonina"	"Gefreiter, Rudolf & Mueller, Pauline"		"Alegata (Wegrow, May 1933) - Fulfillment of Marriage Banns"					
+		Gefrieter	Ida	B	1907	Oct	Rudolf		"Mueller, Pauline"	Lukow	28	Lublin 1933	00016-17	(15) \ 13	K Krueger					"Alegata (Lukow, May 1933) - Birth Certification"					
+Cieslewicz	Juliusz	Cieslewicz	Julius	B	1900	Feb	[Peter]		"[Zieba, Antonina]"	Lukow	28	Lublin 1933	00016-17	(16) \ 13	K Krueger					"Alegata (Lukow, Apr 1933) - Birth Certification"					
+Lewandowski	Michal	Lewandowski	Michael	B	1904	Aug	Matthias		"Jakobczyk, Agnes"	Charz	28	Lublin 1933	00018-21	208 \ 14	K Krueger					"Alegata (Wawolnica, Jul 1933) - Birth Certification"					
+		Kunkel	Heinrich	M	1933	Jun			"Schultz, Olga"	Mielnicy	28	Lublin 1933	"00022,24"	18	K Krueger		"Kunkel, Friedrich Michael & Richter, Emilie"	"Schultz, Theodor & Koch, Emilie"	"[Weiss, Helene 1st wife)]"	"Alegata (Warszawa, Jun 1933) - Release from weeks 2 & 3; (Wlodzimierz, Jun 1933) - Fulfillment of Marriage Banns"					
+Weiss	Helena	Weiss	Helene	D	1933	May					28	Lublin 1933	00023	6 \ 18	K Krueger				"Kunkel, Heinrich"	"Alegata (Wlodzimierz, Jun 1933) - Death Certification"					
+Kapczynski	Adolf	Kapczynski	Adolf	B	1911	Jul	Julius	"Krebs, Zuzanna"	"Krebs, Susanna"	Bielin	28	Lublin 1933	00025	458 \ 22	K Krueger					"Alegata (Chelm, Sep 1933) - Birth Certification"					
+		Fester	Robert	M	1933	Oct			"Markwart, Helene"	Janow	28	Lublin 1933	00026	26 \ 25	K Krueger		"Fester, August & Mantei, Julia"	"Markwart, Julian & Gurel, Berta"		"Alegata (Kamien, Oct 1933) - Fulfillment of Marriage Banns"					
+Fester	Robert	Fester	Robert	B	1913	Mar	August	"Mantej, Julja"	"Mantei, Julia"	Janow	28	Lublin 1933	00027	69 \ 25	K Krueger					"Alegata (Kamien, Oct 1933) - Birth Certification"					
+Fuhrmann	Robert	Furmann	Robert	B	1898	Jul	Johann	"Krohn, Matylda"	"Krohn, Mathilde"	Parzyca?	28	Lublin 1933	00028	100 \ 26	K Krueger					"Alegata (Ozorkow, Sep 1933) - Birth Certification"					
+Engel	Wanda	Engel	Wanda	B	1908	Nov	Friedrich	"Schulz, Albertyna"	"Schulz, Albertine"	Hulewicz	28	Lublin 1933	00029	992 \ 26	K Krueger					"Alegata (Rozyszcze, Jul 1926) - Birth Certification"					
+		Furmann	Robert	M	1923	Oct			"Engel, Wanda"	Warszawa	28	Lublin 1933	00030	26	K Krueger		"Furmann, Johann & Krohn, Mathilde"	"Engel, Friedrich & Schulz, Albertine"		"Alegata (Warszawa, Aug 1933) - Fulfillment of Marriage Banns"					
+Kolecki	Aleksander	Kolecki	Alexander	B	1885	Dec	Maximillian	"Burzynski, Bronislawa"	"Burzynski, Bronislawa"	Radom	28	Lublin 1933	00031-33	27	K Krueger					"Alegata (Radom, Oct 1933) - Birth Certification"					
+Wutzke	Olga	Wutzke	Olga	B	1915	Sep	Albert	"Knopf, Wanda"	"Knopf, Wanda"	"Aktubinsk, Russland"	28	Lublin 1933	00033	32	K Krueger					"Alegata (Kamien, Oct 1933) - Birth Certification"					
+		Rutsch	Wilhelm	B	1909	Dec	Samuel		"Heimann, Karoline"	Antonin	28	Lublin 1933	00034-35	15 \ 36	K Krueger					"Baptist Alegata (Lubartow, Nov 1933) - Birth Certification"					
+Wutzke	Rudolf	Wutzke	Rudolf	B	1913	Feb	Albert	"Knopf, Wanda"	"Knopf, Wanda"	Tomaszowka	28	Lublin 1933	00035	35 \ 39	K Krueger					"Alegata (Kamien, Nov 1933) - Birth Certification"					
+		Schinkel	Linda Natalie	B	1914	Apr	Theophil		"Arndt, Marta Lidia"	Antonielew?	28	Lublin 1933	00036	18 \ 39	K Krueger					"Alegata (Kielce, Nov 1933) - Birth Certification"					
+Pruchniak	Zofja	Pruchniak	Sophie	B	1897	Feb	Johann	"Mazurkiewicz, Katarzyna"	"Mazurkiewicz, Katharina"	Lublin	28	Lublin 1933	00037-39	111 \ 41	K Krueger					"Roman Catholic Alegata (Katedralnej, Lublin, Dec 1933) - Birth Certification"					
+		Kaufmann	Walter Artur	M	1933	Dec			"Pruchniak, Sophie"	Lublin	28	Lublin 1933	00040-41	41	K Krueger		"Kaufmann, Franz & [Knappe, Amalie]"		"Wojnowicz, Zinaida? (1st wife?)"	"Alegata (Warszawa, Nov 1933) - Release from weeks 2 & 3; Orthodox (Warszawsko-Chelm, Nov 1933) - License"					
+Dziersanowski	Zygmunt Kasimierz	Dziersanowski	Siegmund Kasimir	B	1898	Dec	Walter Leopold	"Rau, Wladyslawa Florentyna"	"Rau, Wladyslawa Florentine"	Lublin	28	Lublin 1933	00042-43	360 \ x	K Krueger					"Roman Catholic Alegata (Katedralnej, Lublin, Mar 1932) - Birth Certification; no corresponding record of marriage"					
+		Mazurek	Franziska	B	1905	Apr	Michael		"Muliak, Marianna"	Kalinowszczyzna	28	Lublin 1934	00002	114 \ 1	K Krueger					"Alegata (Lublin, Nov 1933) - Birth Certification"					
+Henning	Elzbieta	Henning	Elisabeth	B	1914	Feb	Gottlieb		"Mueller, Mathilde"	Mantieus?	28	Lublin 1934	00004	52 \ 8	K Krueger					"Alegata (Rypin, Apr 1934) - Birth Certification; #00003 Polish Note"					
+Bloch	Juliusz	Bloch	Julius	B	1911	May	Wilhelm	"Hiller, Luiza"	"Hiller, Luise"	Ujazdow	28	Lublin 1934	00005	340 \ 8	K Krueger					"Alegata (Chelm, Apr 1934) - Birth Certification"					
+		Bloch	Julius	M	1934	May			"Henning, Elisabeth"	Ujazdow	28	Lublin 1934	00006	8	K Krueger		"Bloch, Wilhelm & Hiller, Luise"	"Henning, Gottlieb & Mueller, Mathilde"		"Alegata (Cycow, May 1934) - Fulfillment of Marriage Banns"					
+Wentzel	Gustaw Friedrich	Wentzel	Gustav Friedrich	B	1908	Jan	Friedrich	"Hartman, Dorota"	"Hartmann, Dorothea"	Srebrny Borku	28	Lublin 1934	00007	9	K Krueger					"Alegata (Paproc Duza, May 1934) - Birth Certification"					
+Krzciewski	Janina	Krzciewski	Janina	D	1932	Mar	Viktor	"Matczynski, Stefanja"	"Matczynski, Stefanie"	Lublin	28	Lublin 1934	00008	42 \ 15	K Krueger				"Kaczmarek, Ignaz Waclaw"	"Roman Catholic Alegata (Pawla, Lublin, Aug 1934) - Death Certification"					
+		Lilgert	Gustav	M	1934	Aug			"Reimer, Olga"	Banachowizna	28	Lublin 1934	00009	16	K Krueger		"Lilgert, Eduard & Fritz, Eva"	"Reimer, Franz & Lilgert, Marianne"		"Alegata (Radzymin, Aug 1934) - Fulfillment of Marriage Banns"					
+		Pide	Edmund	M	1934	Oct			"Keding, Martha"	Zezulin	28	Lublin 1934	00010-11	20	K Krueger		"[Pide, Ludwig & Radke, Julianne]"	"Keding, Ludwig & Stelter, Julianne"		"Alegata (Lublin, Oct 1934) - Akt Zeznania"					
+		Jabs	Julius	M	1934	Nov			"Brandt, Ottilie"	"Tatarczysko, Garwolin"	28	Lublin 1934	00011	26	K Krueger		"Jabs, August & Lengle, Anne"	"Brandt, Wilhelm & Becker, Elisabeth"		"Alegata (Pilica, Nov 1934) - Fulfillment of Marriage Banns"					
+Jabs	Juliusz	Jabs	Julius	B	1909	Jan	August	"Lengle, Anna"	"Lengle, Anna"	"Tatarczysko, Garwolin"	28	Lublin 1934	00012	7 \ 26	K Krueger					"Alegata (Pilica, Nov 1934) - Birth Certification"					
+Heidak	Malgorzata	Heidak	Margarete	B	189? Or 19??	Jan	Martin	"Orzechowski, Marja"	"Orzechowski, Marja"	"Yekaterinburg, Russland"	28	Lublin 1934	00013	16 \ x	K Krueger					"Alegata (Lublin, Apr 1934) - Akt Zeznania; no corresponding marriage"					
+Krysinski	Marta	Krysinski	Marta	B	1909	Oct	Jakob	"Kacak, Jozefa"	"Kacak, Josefa"	Parszaw	28	Lublin 1934	00014-15	1872 \ x	K Krueger					"Roman Catholic Alegata (Wszystki Swietych, Warszawa, Nov 1933) - Birth Certification; no corresponding marriage"					
+Szol	Zygmunt	Scholl	Siegmund	B	1902	Aug	Ludwig	"Laugich, Marja"	"Laugich, Maria"	Grodzisk	28	Lublin 1934	00015-16	404 \ x	K Krueger					"Roman Catholic Alegata (Grodzisk, Dec 1922) - Birth Certification; no corresponding marriage"					
+		Tauder (married name?)	Henriette	D	1936	Jan	Wilhelm		Marianna	Lublin	28	Lublin 1936-1937	00002-4	5	K Krueger				Tauder?	died in Lublin hospital					
+		Senchart	Anna	D	1936	Mar	Hana?		Lidia	Glebokie	28	Lublin 1936-1937	00006-7	134	K Krueger				"Olcacki, Josef?"	died in Lublin hospital					
+		Karuk	Eduard	D	1936	Mar	Johann		Eva	Uciekajka	28	Lublin 1936-1937	00008-9	2245	K Krueger					died in Lublin hospital					
+		Skalski	Julian	D	1936	Mar	Lorenz		Katharina		28	Lublin 1936-1937	00010		K Krueger					Card					
+		Parks?	Luise	D	1936	Apr	August		"[Schultz, Emilie]"		28	Lublin 1936-1937	00011		K Krueger				[Krumrei]	Card; see birth certification #00012					
+		Krumrei	Luise	B	1891	Oct	August		"Schultz, Emilie"	Bekiesza	28	Lublin 1936-1937	00012		K Krueger					"Birth Certification (Oct, 1931); see death record #00011"					
+		Piotrowski	Boleslaw	D	1936	May	Karl		Dorothea		28	Lublin 1936-1937	00013	113	K Krueger					Card					
+		Bligie?	Adam	D	1936	May	Ludwig		Christine	Lublin	28	Lublin 1936-1937	00014	339	K Krueger					Card					
+		Fergin	Anna	D	1936	May	Walter		Emilie	Lublin	28	Lublin 1936-1937	00015	389	K Krueger					Card					
+		Horn (married name?)	Christine	D	1936	Jun	Johann		Ester	Lublin	28	Lublin 1936-1937	00016	153	K Krueger				Horn?	Card					
+		Weissberg? (married name?)	Franziska	D	1936	Aug	Nechemjara?		Balbina		28	Lublin 1936-1937	00017	792	K Krueger				Weissberg?	Card					
+		Duesterhoeft	Hermann	D	1936	Sep	Hermann		"Wermann, Anna"	Lublin	28	Lublin 1936-1937	00018-19	883	K Krueger					died in Lublin hospital; 10y					
+		Hoffmann	Janina	D	1936	Oct	Josef		"Jung, Anna"	Lublin	28	Lublin 1936-1937	"00020,22"	957	K Krueger				"Brylow?, Kasimir"	Card; died in Lublin hospital					
+		Bryl?	Josef Kasimir	D	1936	Oct	Kasimir		Janina	Lublin	28	Lublin 1936-1937	00021	961	K Krueger					Card					
+		Orlowski	Stanislaus Franz Jakob	D	1936	Nov	Vincent		Kasimira	Lublin	28	Lublin 1936-1937	00023	1093	K Krueger					Card					
+		Federko (married name?)	Wilhelmine	D	1936	Dec				Lublin	28	Lublin 1936-1937	00024-25		K Krueger				Federko?	Burial notice					
+		[Jung]	Anna Margarete	D	1937	Jan	Jakob		Margarete	Tatary	28	Lublin 1936-1937	00026	82	K Krueger				"Hoffmann, [Josef]"	Card					
+		Handwerker	Josef	D	1937	Jan	Jakob		"Beczkowski, Julianna"	Rozplucie	28	Lublin 1936-1937	00027-28	1574	K Krueger					44y					
+		Redler (married name?)	Maria	D	1937	Feb	Karl		Eleonore	Lublin	28	Lublin 1936-1937	00029		K Krueger				Redler?	Card; 86y					
+		Hoeppner	Ferdinand	D	1937	Feb	Friedrich		"[Muench, Anna] Rosalie"		28	Lublin 1936-1937	00030-32	241	K Krueger				"Holland, Justine"	Card; 48y					
+		Hoeppner	Maria	D	1937	Feb	Friedrich		"Felske, Emilie"	Zakrzew	28	Lublin 1936-1937	00033	20	K Krueger				Blech	Card					
+		Kunkel (married name)	Elisabeth	D	1937	Feb	Friedrich		Anna Dorothea		28	Lublin 1936-1937	00034	315	K Krueger				Kunkel?	Card					
+		Gur	Franziska	D	1937	Mar	Heinrich		Franziska	Lublin	28	Lublin 1936-1937	00035	428	K Krueger					Card; infant					
+		Koehler	Rosalie	D	1937	Apr				Pulawy	28	Lublin 1936-1937	00036		K Krueger										
+		Tederko	Johann Karl	D	1937	Jun	Johann		"Swirkow?, Rosalie"	Lublin	28	Lublin 1936-1937	00037-41	837	K Krueger					49y					
+		Kijok	Heinrich	D	1937	Jun	Maurice?		Amelia	Lublin	28	Lublin 1936-1937	00042	855	K Krueger					Card					
+		Bluege (married name?)	Emilie	D	1937	Jun	Johann		Justine	Lublin	28	Lublin 1936-1937	00043	882	K Krueger				Bluege?	Card					
+		Kijok (married name)	Julia	D	1937	Jun				Kocia Gora	28	Lublin 1936-1937	00044	89	K Krueger				Kijok?	Card					
+		Bertram	Heinrich	D	1937	Jul	Johann		Wanda	Lublin	28	Lublin 1936-1937	00045-46	1028	K Krueger					Card; died in Lublin hospital					
+		Riewe?	Ottilie	D	1937	Aug				Lubartow	28	Lublin 1936-1937	00047		K Krueger				Goltz	Note					
+		Schleitz? (married name?)	Julia	D	1937	Aug	Friedrich		Mathilde		28	Lublin 1936-1937	00048	1204	K Krueger				Schlietz?	Card					
+		Adamson	Peter	D	1937	Sep	Adam		Anna		28	Lublin 1936-1937	00049-51	1288	K Krueger				"Ofelski, Konstance"	Card					
+		Buzin	Alexander	M	1937	Jan			"Martin, Natalie"	Kulczyn	28	Lublin 1937	00002	2	K Krueger		"Buzin, Ernst & Beier, Ottilie"	"Martin, Rudolf & Arndt, Olga"		"Alegata (Cycow, Jan 1937) - Fulfillment of Marriage Banns"					
+Miroslaw	Anna	Miroslaw	Anna	B	1909	Aug	Anton	"Syrok, Anna"	"Syrok, Anna"	Wojciechow	28	Lublin 1937	00003-6	190 \ 3	K Krueger					"Alegata (Lublin, Jan 1937) - Birth Certification"					
+		Rahn	Edmund	M	1937	May			"Lokstaedt, Natalie"	Brzezce	28	Lublin 1937	00006	14	K Krueger		"Rahn, Julius & Gluth, Julianne"	"Lokstaedt, Gottlieb & Penno, Luise"		"Alegata (Radom, May 1937) - Fulfillment of Marriage Banns"					
+Rahn	Edmund	Rahn	Edmund	B	1907	Jun	Julius	"Gluth, Juljanna"	"Gluth, Julianna"	Brzezce	28	Lublin 1937	00007	115 \ 14	K Krueger					"Alegata (Radom, May 1937) - Birth Certification"					
+		Gorniak	Marianna Anna	B	1918	Sep	Michael		"Muchowski, anna"	Siewalce	28	Lublin 1937	00008	210 \ 15	K Krueger					"Roman Catholic Alegata (Chodel, Jun 1937) - Birth Certification"					
+		Goett	Eduard Karl	M	1937	Jun			"Poratynski, Helene Josefa"	Wlodzimierz	28	Lublin 1937	00009-11	16	K Krueger		"[Goett, Wilhelm & Fedynce, Rosalie]"	"Poratynski, Johann & Rylski, Sophie"		"Reformed Alegata (Wilno, Jun 1937) - Fulfillment of Marriage Banns"					
+		Goett	Eduard Karl	M	1920	Jul			"Gley, Stanislawa Viktoria"	Lwow	28	Lublin 1937	00012-13	16	K Krueger		"[Goett, Wilhelm & Fedynce, Rosalie]"			"Reformed Alegata (Wilno, Mar 1937) - Divorce Certification"					
+Poratynski	Helena Jozefa	Poratynski	Helene Josefa	B	1909	Dec	Johann	"Rylska, Zofia"	"Rylski, Sophie"	Lwow	28	Lublin 1937	00013-15	16	K Krueger					"Alegata (Lwow, Apr 1937) - Birth Certification"					
+Goett	Edward	Goett	Eduard	B	1898		Wilhelm	"Fedyna, Rozalia"	"Fedyna, Rosalie"	Wilno	28	Lublin 1937	00016	16	K Krueger					"Reformed Alegata (Wilno, Apr 1937) - Birth Certification"					
+		Neumann	Johann	M	1937	Sep			"Distelberg, Wanda"	Plouszowice	28	Lublin 1937	00017	24	K Krueger		"Neumann, Karl & Weiss, Amalie"	"Distelberg, Emanuel & Froehlich, Lidia"		"Baptist Alegata (Radawczyk, Sep 1937) - Fulfillment of Marriage Banns"					
+		Neumann	Johann	B	1896	Jun	Karl		"Weiss, Amalie"	Radawczyk	28	Lublin 1937	00018	11 \ 24	K Krueger					"Baptist Alegata (Radawczyk, Sep 1937) - Birth Certification"					
+		Trzcinski	Genowefa	B	1913	Mar	Stanislaus		"Cichonski, Stanislawa"	Lublin Piaski	28	Lublin 1937	00019	323 \ 25	K Krueger					"Roman Catholic Alegata (Pawla, Lublin, Sep 1937) - Birth Certification"					
+		Mueller	Siegmund	M	1937	Oct			"Androniak, Stanislawa"	Lublin	28	Lublin 1937	00021-22	26	K Krueger		"[Mueller, Johann & Lehmann, Pauline]"	"Androniak, Michael & Renn, Wladislawa"		"Alegata (Lublin, Oct 1937) - Akt Zeznania; #00023 Polish Note"					
+		Lieske	Emanuel	M	1937	Nov			"Guenter, Margarete"	Bogdanka	28	Lublin 1937	00024	51 \ 29	K Krueger		"Lieske, Michael & Schmidtke, Karoline"	"Guenter, Adolf & Kiel, Alwine"		"Alegata (Cycow, Oct 1937) - Fulfillment of Marriage Banns"					
+		Werner	Emil	M	1938	Jan			"Meier, Marianne"	Holendry Kuzminskie	28	Lublin 1938-1940	00002	1	K Krueger		"Werner, Karl & Mueller, Euphrosine"	"Meier, Johann & Schubert, Julianne"		"Alegata (Radom, Jan 1938) - Fulfillment of Marriage Banns"					
+Werner	Emil	Werner	Emil	B	1919	Mar	Karl	"Mueller, Eufrozyna"	"Mueller, Euphrosine"	Holendry Kuzminskie	28	Lublin 1938-1940	00003	43 \ 1	K Krueger					"Alegata (Radom, Jan 1938) - Birth Certification"					
+Wutzke	Wanda	Wutzke	Wanda	B	1921	Feb	Albert	"Knopf, Wanda"	"Knopf, Wanda"	Tomaszowka	28	Lublin 1938-1940	00004	60 \ 6	K Krueger	R				"Alegata (Kamien, Jan 1938) - Birth Certification"					
+		Freund	Eduard	M	1938	Apr			"Martin, Elfriede"	"Zabierzew, Radom"	28	Lublin 1938-1940	00005	8	K Krueger		"Freund, Heinrich & Betker, Amalie"	"Martin, Michael & Bollenbon, Katharine"		"Alegata (Radom, Apr 1938) - Fulfillment of Marriage Banns"					
+Freund	Eduard	Freund	Eduard	B	1909	Jul	Heinrich	"Betker, Amalja"	"Betker, Amalie"	"Zabierzew, Radom"	28	Lublin 1938-1940	00006	163 \ 8	K Krueger					"Alegata (Radom, Apr 1938) - Birth Certification"					
+		Zarlok	Franz	M	1938	Jun			"Plesner, Johanna Anna"	Kulik	28	Lublin 1938-1940	00007	40 \ [12]	K Krueger		"Zarlok, Paul & Zmuda, Susanne"	"Plesner, Johann & Biala, Theodore"		"Alegata (Cycow, Jun 1938) - Fulfillment of Marriage Banns"					
+Zarlok	Franciszek	Zarlok	Franz	B	1916	Dec	Paul	"Zmuda, Zuzanna"	"Zmuda, Susanna"	Ustron	28	Lublin 1938-1940	00008	91 \ [12]	K Krueger					"Alegata (Ustron, Jun 1930) - Birth Certification"					
+Plesner	Joanna Anna	Plesner	Johanna Anna	B	1904	Mar	Johann	"Bialas, Theodora"	"Bialas, Theodore"	Stanislawow	28	Lublin 1938-1940	00009	746 \ [12]	K Krueger					"Alegata (Chelm, Jun 1938) - Birth Certification; #00010 Polish note from Cycow"					
+		Specht	Mathilde	B	1907	Nov	Konrad		"Damm, Julianna"	Kolomyi	28	Lublin 1938-1940	00011-12	235 \ 11	K Krueger					"Alegata (Kolomyi, Mar 1937) - Birth Certification"					
+		Lewandowski	Walter	M	1938	Jun			"Specht, Mathilde"	Lublin	28	Lublin 1938-1940	00004-5	11	K Krueger		"Lewandowski, Vincent & Babicz, Katharine"	"Specht, Konrad & Damm, Julianne"		"Alegata (Lublin, Jun 1938) - Akt Zeznania"					
+Lewandowski	Wladyslaw	Lewandowski	Walter	B	1915	Mar	Vincent	"Bibicz, Katarzyna"	"Bibicz, Katharina"		28	Lublin 1938-1940	00014-15	3	K Krueger					"Roman Catholic Alegata (Potok, Apr 1937) - Birth Certification"					
+		Bachmann	Ernst	M	1938	Jul			"Krebs, Adele"	Cycow	28	Lublin 1938-1940	00016	13	K Krueger		"Bachmann, Gustav & Welke, Lidia"	"Krebs, Julius & Dering, Helene"		"Alegata (Cycow, Jul 1938) - Fulfillment of Marriage Banns"					
+Bachmann	Wasza	Bachmann	Wasza	B	1904	Jun	Emil	"Mundt, Juljanna"	"Mund, Julianna"	Plouszowice	28	Lublin 1938-1940	00017-19	1 \ 15	K Krueger					"Baptist Alegata (Zezulin, Jun 1938) - Birth Certification"					
+		Mundt	Wilhelm	M	1938	Nov			"Noerenberg, Olga"	Debina	28	Lublin 1938-1940	00020	17	K Krueger		"Mundt, Friedrich & Zich, Berta"	"Noerenberg, Ferdinand & Guenter, Anna"		"Baptist Alegata (Radawczyk, Nov 1938) - Fulfillment of Marriage Banns"					
+		Mundt	Wilhelm	B	1911	Sep	Friedrich		"Zich, Berta"	Marcinow	28	Lublin 1938-1940	00021-22	4 \ 17	K Krueger					"Baptist Alegata (Lubartow, Nov 1938) - Birth Certification"					
+		Hundt	Alexei	M	1938	Dec			"Schultz, Emilie"	Leokadiow	28	Lublin 1938-1940	00023	19	K Krueger		"Hundt, Gottlieb & Stein, Ottilie"	"Schultz, Theodor & Koch, Emilie"		"Alegata (Radom, Dec 1938) - Fulfillment of Marriage Banns"					
+Hundt	Aleksy	Hundt	Alexei	B	1912	Jan	Gottlieb	"Stein, Otylja"	"Stein, Ottilie"	Janow	28	Lublin 1938-1940	00024	17 \ 19	K Krueger					"Alegata (Radom, Dec 1938) - Birth Certification"					
+		Hornung	Kurt	B	1918	Oct	Kurt Hans Hieronymus		"Wieckowski, Konstance"	Lublin	28	Lublin 1938-1940	00025-29	289	K Krueger					Birth Certification					
+		Hornung	Anneliese	B	1916	Dec	Kurt Hans Hieronymus		"Wieckowski, Konstance"	Lublin	28	Lublin 1938-1940	00026-29	289	K Krueger					Birth Certification					
+Schulz	Edmund	Schulz	Edmund	B	1920	May	Jakob	"Schendel, Olga"	"Schendel, Olga"	Rozplucie	28	Lublin 1938-1940	00031	104 \ 2	K Krueger	R				"(Lublin, Jan 1939) - Birth Certification"					
+Pekrul	Adela	Pekrul	Adele	B	1921	Apr	Daniel	"Kamenc, Lidia"	"Kamenz, Lidia"	Wladyslawow	28	Lublin 1938-1940	00032	121	K Krueger	R				"(Chelm, Feb 1940) - Birth Certification"					
+Ristau	Edward	Ristau	Eduard	B	1918	Oct	Friedrich Wilhelm	"Hintz, Natalja"	"Hintz, Natalie"	Bukowski Las	28	Lublin 1938-1940	00034	95	K Krueger					"(Chelm, Oct 1939) - Birth Certification"					
+Wendt	Emma	Wendt	Emma	B	1921	Mar	Karl	"Pusz, Anna"	"Pusch, Anna"	Kulczyn	28	Lublin 1938-1940	00035	116	K Krueger	R				"(Chelm, Dec 1939) - Birth Certification"					
+		Stuermer	Adelheid	B	1926	Jan	Reinhard		"Wagner, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00001	1	B Bergmann	R									
+		Steinke	Anna Hilda	B	1926	Jan	Emil		"Krueger, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00002	2	B Bergmann	R									
+		Heger	Waldemar	B	1926	Jan	Gottlieb		"Bittner, Amanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00003	3	B Bergmann	R									
+		Winter	Leo	B	1925	Oct	unknown/unbekannt		"Winter, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00004	4	B Bergmann	R									
+		Gesell	Alexander	B	1926	Feb	Eduard		"Peczerski, Anna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00005	5	B Bergmann	R									
+		Bloch	Natalie	B	1926	Jan	Wilhelm		"Klukas, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00006	6	B Bergmann	R									
+		Klukas	Waldemar	B	1926	Feb	unknown/unbekannt		"Klukas, Justine"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00007	7	B Bergmann	R			"Klukas, August gest. 1920"						
+		Jess	Dina	B	1926	Mar	Gustav		"Lueck, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00008	8	B Bergmann	R									
+		Nehring	Ewald	B	1926	Apr	Wilhelm		"Winkler, Johanna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00009	9	B Bergmann	R									
+		Tews	Eduard	B	1926	Jun	Leonard		"Hapke, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00010	10	B Bergmann	R									
+		Kitzmann	Olga	B	1926	Jun	Rudolf		"Hapke, Marta"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00011	11	B Bergmann	R									
+		Hapke	Reinhold	B	1926	Jun	Johann		"Krueger, Ottilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00012	12	B Bergmann										
+		Wiese	Lina	B	1926	Jul	Wilhelm		"Krebs, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00013	13	B Bergmann	R									
+		Bloch	Friedrich Samuel	B	1926	Jul	Rudolf		"Welke, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00014	14	B Bergmann	R									
+		Ewald	Erich	B	1926	Apr	Martin		"Dorok, Hulda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00015	15	B Bergmann	R									
+		Zelmer	Rudolf	B	1926	Jun	Friedrich		"Kohls, Helena"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00016	15/56	B Bergmann	R									
+		Bittner	Arthur	B	1926	Oct	Sigismund		"Krebs, Alwine"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00017	16/359	B Bergmann										
+		Klatt	Alexander	B	1926	Nov	Emil		"Huff, Amalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00018	17/415	B Bergmann	R									
+		Huff	Mina	B	1926	Nov	Karl		"Klatt, Adele"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00019	18/55	B Bergmann	R									
+		Oraschewski	Lydia	B	1927	Jan	Julius		"Tinn, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00020	19/54	B Bergmann	R									
+		Krebs	Emma	B	1927	Jan	Ludwig		"Pust, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00021	20/64	B Bergmann	R									
+		Rapp	Leo	B	1927	Jan	Emil		"Winkler, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00022	21/65	B Bergmann	R									
+		Noerenberg	Leokadia	B	1927	May	August		"Sehring, Margarete"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00023	23/175	B Bergmann	R									
+		Distelberg	Natalie	B	1927	May	Gottlieb		"Klingbeil, Berta"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00024	24/244	B Bergmann	R									
+		Zepik	Lydia	B	1927	Apr	Johann		"Hanisch, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00025	25/284	B Bergmann	R									
+		Wandel	Adolf Leo Kurt	B	1927	May	Ludwig		"Schendel, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00026	26/246	B Bergmann	R									
+		Klatt	Siegmund	B	1927	Mar	Alexander		"Bittner, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00027	27/243	B Bergmann	R									
+		Neukampf	Adele	B	1927	Apr	Gustav		"Winkler, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00028	28/285	B Bergmann	R									
+		Zepik	Arthur	B	1927	Jun	Adam		"Bluemke, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00029	29/245	B Bergmann	R									
+		Heger	Emil	B	1927	Jun	Gottlieb		"Bittner, Amanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00030	30/283	B Bergmann	R									
+		Hapke	Lydia	B	1927	Aug	Johann		"Krueger, Ottilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00031	32/291	B Bergmann										
+		Milnikel	Martha	B	1927	Aug	Friedrich Wilhelm		"Riemer, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00032	33/292	B Bergmann	R									
+		Stuermer	Agathe	B	1927	Aug	Reinhard		"Wagner, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00033	34/346	B Bergmann	R									
+		Distelberg	Gerhard	B	1927	Sep	August		"Nehring, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00034	35/366	B Bergmann	R									
+		Bloch	Immanuel	B	1927	Sep	Wilhelm		"Klukas, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00035	36/367	B Bergmann	R									
+		Bittner	Erich	B	1927	Sep	Sigismund		"Krebs, Alwine"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00036	37/368	B Bergmann	R									
+		Fluegel	Waldemar	B	1927	Oct	Gustav		"Ziemer, Emilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00037	38/369	B Bergmann	R									
+		Ewald	Erwin	B	1927	Sep	Martin		"Dorok, Hulda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00038	39/415	B Bergmann	R									
+		Hapke	Andreas	D	1926	Jul	Gustav		"Armbrust, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00039	10	B Bergmann				"Tews, Olga"	35j					
+		Wiese	Lina	D	1926	Jul	Wilhelm		"Krebs, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00040	11	B Bergmann					2w					
+		Tews	Eduard	D	1926	Aug	Leonard		"Hapke, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00041	12	B Bergmann										
+		Taron	Waldemar	B	1924	Apr	Rudolf		"Kriese, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00042	11	B Bergmann	R									
+		Apell	Artur	B	1920	Jan	unknown/unbekannt		"Apell, Emilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00043	1	B Bergmann	R									
+		Zepik	Ida	B	1929	Jan	Adam		"Bluemke, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00047	39	B Bergmann	R									
+		Gesell	Adolf	B	1929	Feb	August		"Well, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00048	106	B Bergmann	R									
+		Tews	Ewald	B	1930	Mar	Gustav		"Krueger, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00049	108	B Bergmann										
+		Gesell	Johanna	B	1930	Feb	Emil		"Zuknik, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00050	110	B Bergmann	R									
+		Kitzmann	Reinhold	B	1930	Apr	Rudolf		"Hapke, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00051	208	B Bergmann	R									
+		Klatt	Edwin	B	1930	Apr	Alexander		"Bittner, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00052	221	B Bergmann	R									
+		Hapke	Johanna	B	1930	May	Johann		"Krueger, Ottilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00053	224	B Bergmann										
+		Nehring	Albert	B	1930	Jul	Wilhelm		"Winkler, Johanna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00054	283	B Bergmann	R									
+		Zirk	male	D	1930	Apr	Johann		"Hanusch, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00055	328	B Bergmann					birth record					
+		Arndt	Reinhold	B	1930	May	August		"Hapke, Kristina"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00056	311	B Bergmann	R									
+		Huff	Martha	B	1930	Aug	Karl		"Klatt, Adele"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00057	312	B Bergmann	R									
+		Hapke	Hirlanda	B	1930	Sep	Emanuel		"Albrecht, Martha Therese"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00058	327	B Bergmann										
+		Hanisch	Herta	B	1930	Oct	Edmund		"Teske, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00059	341	B Bergmann	R									
+		Milnikel	Otto	B	1930	Nov	Friedrich Wilhelm		"Riemer, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00060	420	B Bergmann	R									
+		Engel	Talita	B	1930	Nov	Sigismund		"Rahn, Eleonora Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00061	408	B Bergmann	R									
+		Jedan	Neli	B	1930	Nov	Adolf		"Krueger, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00062	406	B Bergmann										
+		Krebs	Reinhold	D	1930	Mar	Emil		"Klingbeil, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00063	42	B Bergmann					"5m, 20t"					
+		Klatt	Edwin	D	1930	May	Alexander		"Bittner, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00064	93	B Bergmann					"2w,4t"					
+		Arndt	Reinhold	D	1930	May	August		Kristina	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00065	141	B Bergmann										
+		Gesell	Johanna	D	1930	May	Emil		"Zuknik, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00066	97	B Bergmann					"3m,2t"					
+		Gesell	stillborn male	D	1930	Jul	Johann		"Hanusch, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00067	152	B Bergmann					"2m, 18t"					
+		Kitzmann	Reinhold	D	1930	Aug	Rudolf		"Hapke, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00068	136	B Bergmann					"4m, 8t"					
+		Hapke	Hirlanda	D	1930	Sep	Emanuel		"Albrecht, Martha Therese"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00069	164	B Bergmann					"3w,3t"					
+		Zirk	Lydia	D	1930	Nov	Johann		"Hanusch, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00070	184	B Bergmann					"3j, 6m, 18t"					
+		Jedan	Neli	D	1930	Dec	Adolf		"Krueger, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00071	183	B Bergmann					4w					
+		Gesell	Arthur	B	1933	Dec	August		"Krebs, Mathilde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00074	23	B Bergmann	R									
+		Jess	Ida	B	1934	Feb	Gustav		"Lueck, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00075	58	B Bergmann	R									
+		Bittner	Josef	B	1934	Feb	Emil		"Griciuk, Nadiezda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00076	57	B Bergmann										
+		Erber	Blandine	B	1934	Feb	Emil		"Krumrei, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00077	76	B Bergmann	R									
+		Tiede	Emma	B	1934	Jan	Ludwig		"Schiewe, Maria"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00078	101	B Bergmann	R									
+		Krebs	Martha	B	1934	Mar	Alexander		"Klingbeil, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00079	102	B Bergmann	R									
+		Kitzmann	Olga	B	1934	Apr	Gustav		"Distelberg, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00080	153	B Bergmann										
+		Engel	Waldemar	B	1934	Jun	Sigismund		"Rahn, Eleonora Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00081	202	B Bergmann	R									
+		Link	Johann 	B	1934	Feb	Johann		"Schimmel, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00082	216	B Bergmann	R									
+		Heger	Rudolf	B	1934	Apr	Gottlieb		"Bittner, Amanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00083	248	B Bergmann	R									
+		Kiesling	Elsa	B	1934	Jul	Leonard		"Lenk, Alwine"	Adamow	28	Neu-Straczyn 1926 – 1940	00084	217	B Bergmann	R									
+		Seemann	Otto	B	1934	Jul	Emil		"Jeske, Wanda"	Adamow	28	Neu-Straczyn 1926 – 1940	00085	249	B Bergmann	R									
+		Matis	Sigismund	B	1934	Jul	Rudolf		"Malert, Wanda"	Adamow	28	Neu-Straczyn 1926 – 1940	00086	265	B Bergmann	R									
+		Klatt	Lina	B	1934	Aug	Johann Emil		"Huff, Amalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00087	281	B Bergmann	R									
+		Krebs	Lina	B	1934	Sep	Ludwig		"Gust, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00088	293	B Bergmann										
+		Kuehn	Robert	B	1934	Jan	Adolf		"Gesell, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00089	304	B Bergmann	R									
+		Pacholke	Johanna	B	1934	Oct	Edmund		"Zepik, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00090	308	B Bergmann	R									
+		Kulitz	Frieda	B	1934	Oct	Edmund		"Klatt, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00091	309	B Bergmann	R									
+		Bittner	Josef	D	1934	Mar	Emil		"Griciuk, Nadiezda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00092	38	B Bergmann					"1m,1t"					
+		Kitzmann	Olga	D	1934	Apr	Gustav		"Distelberg, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00093	60	B Bergmann					17t					
+		Nehring	Hugo	D	1934	May	Wilhelm		"Winkler, Johanna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00094	65	B Bergmann					"1j,3m,6t"					
+		Krebs	Lena	D	1934	May	Ludwig		"Gust, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00095	66	B Bergmann					"4j,10m,18t"					
+		Heger	Rudolf	D	1934	Jul	Gottlieb		"Bittner, Amanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00096	97	B Bergmann					"1j,3m,10t"					
+		Erdmann	Martha	D	1934	Oct	Adolf		"Schuk, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00097	121	B Bergmann					"17j,4m,8t"					
+		Winter	Michael	D	1934	Dec	Christian		"Winkler, Ernestine"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00098	34	B Bergmann				"Noerenberg, Pauline"	"56j,3m"					
+		Heimann	Reinhold	B	1934	Dec	Adolf		"Tews, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00101	21	B Bergmann	R									
+		Schulz	Hildegard	B	1934	Dec	Gottfried		"Daase, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00102	22	B Bergmann										
+		Krebs	Lydia	B	1934	Aug	Emil		"Klingbeil, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00103	23	B Bergmann	R									
+		Hanisch	Artur	B	1935	Jan	Edmund		"Schielke, Ottilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00104	58	B Bergmann	R									
+		Hapke	Richard	B	1935	Jan	Emmanuel		"Albrecht, Martha Therese"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00105	220	B Bergmann										
+		Arndt	Frieda Lina	B	1935	Feb	Hermann		"Skalej, Emilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00106	95	B Bergmann	R									
+		Bittner	Emmanuel	B	1935	Feb	Emil		"Hriciuk, Nadiezda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00107	118	B Bergmann										
+		Erdmann	Emma	B	1935	Apr	Adolf		"Schulz, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00108	143	B Bergmann	R									
+		Strauch	Elfriede	B	1935	Jun	Johann		"Wedemann, Adelgunde"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00109	222	B Bergmann	R									
+		Link	Karl	B	1935	Jan	Johann   		"Schimmel, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00110	223	B Bergmann	R									
+		Kuehn	Emma	B	1935	Aug	Adolf		"Gesell, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00111	289	B Bergmann	R									
+		Nehring	Talita	B	1935	Sep	Wilhelm		"Winkler, Johanna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00112	290	B Bergmann	R									
+		Fenske	Josef	B	1935	Nov	Rudolf		"Winkler, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00113	374	B Bergmann	R									
+		Winkler	Reinhold	B	1935	Nov	Julius		"Wolter, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00114	375	B Bergmann	R									
+		Distelberg	Elfriede	B	1935	Dec	August		"Nehring, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00115	395	B Bergmann	R									
+		Klatt	Alicia	B	1933	Dec	Adolf		"Grib, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00116	396	B Bergmann										
+		Schulz	Hildegard	D	1935	Mar	Gottfried		"Daase, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00117	36	B Bergmann					"2m,15t"					
+		Maties	Berta Karolina	D	1935	Mar	Albert		"Kopysske, Alwine"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00118	41	B Bergmann				"Distelberg, Jakob"	"67j,2m,24t"					
+		Bittner	Emmanuel	D	1935	Mar	Emil		"Hriciuk, Nadiezda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00119	46	B Bergmann					20t					
+		Skalej	Talita	D	1935	Mar	Julius		"Bester, Anastasia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00120	52	B Bergmann					"1j,6m,25t"					
+fehlt 		Pacholke	Theophile	D	1935	May	Heinrich		"Gatzke, Emilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00121	38	B Bergmann				"Huff, Michael"	69j					
+		Winkler	Natalie	D	1935	Nov	Johann    		"Hundt, Ottilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00122	149	B Bergmann				"Fenske, Rudolf"	"23j,24t"					
+		Klatt	Karl	D	1935	Dec	Gottlieb		"Lining, Karoline"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00123	184	B Bergmann				"Klatt, Emma"	"85j,8m,3t"					
+		Bluemke	Helene	B	1936	Jan	Julius		"Heimann, Amalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00126	22	B Bergmann	R									
+		Bulitz	Edwin	B	1935	Dec	Edmund		"Klatt, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00127	44	B Bergmann	R									
+		Skalej	Adolina	B	1936	Jan	Julius		"Besler, Anastasia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00128	58	B Bergmann	R									
+		Klatt	Gerhard	B	1936	Jan	Johann Emil		"Huff, Amalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00129	59	B Bergmann	R									
+		Zabel	Friedrich    	B	1936	Jan	Edmund		"Schedler, Hulda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00130	60	B Bergmann	R									
+		Hapke	Guido	B	1936	Feb	Emmanuel		"Albrecht, Martha Therese"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00131	120	B Bergmann										
+		Lohr	Talita	B	1936	Apr	Sigismund		"Fluegel, Martha"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00132	125	B Bergmann	R									
+		Bittner	Johann 	B	1936	May	Emil		"Hriciuk, Nadiezda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00133	185	B Bergmann										
+		Milnikel	Bruno	B	1936	May	Friedrich Wilhelm		"Riemer, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00134	206	B Bergmann	R									
+		Engel	Sigismund	B	1936	May	Sigismund		"Rahn, Eleonore Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00135	207	B Bergmann	R									
+		Gernand	Lydia	B	1936	Jun	Eduard		"Arndt, Maria"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00136	230	B Bergmann	R									
+		Erber	Helmut	B	1936	Jul	Emil		"Krumrich, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00137	237	B Bergmann	R									
+		Jedan	Adoline	B	1936	Jul	Adolf		"Streich, Olga"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00138	253	B Bergmann	R									
+		Huff	Wanda	B	1936	Jul	Karl		"Klatt, Adele"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00139	254	B Bergmann	R									
+		Bittner	Ewald	B	1936	May	Sigismund		"Krebs, Alwine"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00140	255	B Bergmann										
+		Matis	Helene	B	1936	Aug	Rudolf		"Mahlert, Wanda"	Adamow	28	Neu-Straczyn 1926 – 1940	00141	266	B Bergmann										
+		Pacholke	Maria	B	1936	Jul	Edmund		"Zepik, Emma"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00142	293	B Bergmann	R									
+		Kassner	Alexander	B	1936	Sep	Eduard		"Meier, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00143	326	B Bergmann										
+		Steinke	Erika	B	1936	Oct	Julius		"Hellberg, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00144	386	B Bergmann	R									
+		Bluemke	Helene	D	1936	Jan	Julius		"Heimann, Amalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00145	3	B Bergmann										
+		Hapke	Guido	D	1936	Apr	Emmanuel		"Albrecht, Martha Therese"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00146	53	B Bergmann					"1m,16t"					
+		Bittner	Johann  	D	1936	May	Emil		"Hriciuk, Nadiezda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00147	44	B Bergmann					3w					
+		Klatt	Alicia	D	1936	Jul	Adolf		"Gripp, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00148	96	B Bergmann					"7m,12t"					
+		Klingbeil	Eduard	D	1936	Oct	August		"Streich, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00149	124	B Bergmann					22j					
+		Gust	Olga	D	1936	Nov	Ferdinand		"Sommerfeld, Luise"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00150	127	B Bergmann				"Krebs, Ludwig"	34j					
+		Kassner	Alexander	D	1936	Dec	Eduard		"Meier, Lydia"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00151	141	B Bergmann					2m					
+		Matis	Helene	D	1936	Dec	Rudolf		"Mahlert, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00152	49	B Bergmann					4m					
+		Arndt	Talita	B	1940	Jan	Hermann		"Skalej, Emilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00155	60	B Bergmann	R									
+		Link	stillborn female	D	1940	Mar	Johann    		"Schimmel, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00156	108	B Bergmann					birth record					
+		Klukas	Gustav	B	1940	Feb	Hermann		"Tiede, Helene"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00157	126	B Bergmann	R									
+		Winkler	Wanda	D	1940	Feb	Johann          		"Hundt, Ottilie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00158	18	B Bergmann				"Rapp, Emil"	"49j,5m"					
+		Steinke	Eduard	D	1940	Feb	Emil		"Krueger, Natalie"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00159	28	B Bergmann					"21j,9m,4t"					
+		Link	stillborn female	D	1940	Mar	Johann          		"Schimmel, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00160	41	B Bergmann										
+		Kohls	Helene	D	1940	Mar	Jakob		"Schafrik, Susanne"	Streczyn Nowy	28	Neu-Straczyn 1926 – 1940	00161	42	B Bergmann				"Zelmer, Friedrich"	"54j,5 "					
+		Matis	Artur	B	1938	Dec	Rudolf		"Malert, Wanda"	Adamow	28	Neu-Straczyn 1939	00002	152	B Bergmann	R									
+		Hapke	Edwin	B	1938	Dec	Emanuel		"Albrecht, Marta Terese"	Streczyn Nowy	28	Neu-Straczyn 1939	00003	153	B Bergmann										
+		Pacholke	Gerhard	B	1939	Mar	Edmund		"Lepitz, Emma"	Streczyn Nowy	28	Neu-Straczyn 1939	00004	154	B Bergmann	R									
+		Dohr	Irma	B	1939	Feb	Sigismund		"Fluegel, Marta"	Streczyn Nowy	28	Neu-Straczyn 1939	00005	155	B Bergmann	R									
+		Link	Marta	B	1939	Jan	Johann		"Schimmel, Julianna"	Streczyn Nowy	28	Neu-Straczyn 1939	00006	156	B Bergmann	R									
+		Kitzmann	Erwin	B	1939	Apr	Gustav		"Distelberg, Lidia"	Streczyn Nowy	28	Neu-Straczyn 1939	00007	157	B Bergmann	R				addendum #00008					
+		Hein	Gertrud	B	1939	May	Friedrich		"Schinkel, Regina"	Streczyn Nowy	28	Neu-Straczyn 1939	00009	158	B Bergmann	R									
+		Tiede	Ella	B	1939	May	Ludwig		"Schiewe, Maria"	Streczyn Nowy	28	Neu-Straczyn 1939	00010	159	B Bergmann	R									
+		Winkler	Lidia	B	1939	Aug	Julius		"Wolter, Maria"	Streczyn Nowy	28	Neu-Straczyn 1939	00011	160	B Bergmann	R									
+		Marks	Gerhard	B	1939	Jul	Eduard		"Stein, Elsa"	Streczyn Nowy	28	Neu-Straczyn 1939	00012	161	B Bergmann	R									
+		Kasner	Richard	B	1938	Oct	Eduard		"Meier, Lidia"	Streczyn Nowy	28	Neu-Straczyn 1939	00013	162	B Bergmann	R									
+		Heger	Ella	B	1939	Jul	Gottlieb		"Bittner, Amanda"	Streczyn Nowy	28	Neu-Straczyn 1939	00014	164	B Bergmann	R									
+		Klatt	Helmut	B	1939	Sep	Herrmann		"Schinkel, Helene"	Streczyn Nowy	28	Neu-Straczyn 1939	00015	165	B Bergmann	R									
+		Milnikel	Friedrich Wilhelm	D	1939	Jan	Wilhelm		"Albrecht, Matilde"	Streczyn Nowy	28	Neu-Straczyn 1939	00016	60	B Bergmann				"Riemer, Leokadia"	"36j,2m,10t Geb. 21.11.1902"					
+		Pacholke	Emil	D	1939	Mar	Heinrich		"Matz, Emilie"	Streczyn Nowy	28	Neu-Straczyn 1939	00017	61	B Bergmann				"Mueller, Julianna"	"84j, Birth: Germany"					
+		Matis	Artur	D	1939	Apr	Rudolf		"Mahlert, Wanda"	Streczyn Nowy	28	Neu-Straczyn 1939	00018	62	B Bergmann										
+		Arndt	Helmut	D	1939	May	Eduard		"Rien, Leokadia"	Streczyn Nowy	28	Neu-Straczyn 1939	00019	63	B Bergmann										
+		Schedler	Sigismund	D	1939	Oct	Samuel		"Krebs, Matilde"	Streczyn Nowy	28	Neu-Straczyn 1939	00020	68	B Bergmann										
+		Scheffler	Gustav	B	1930	Feb	Daniel		"Lenz, Rosalie"	Nowina	28	Nowina 1930-1939	00003	19	B Bergmann	R									
+		Kock	August	B	1930	Feb	Gustav		"Zabel, Hulda"	Nowina	28	Nowina 1930-1939	00004	20	B Bergmann	R									
+		Jasper	Sigismund	B	1930	Mar	Friedrich		"Nering, Emilie"	Nowina	28	Nowina 1930-1939	00005	21	B Bergmann	R									
+		Neumann	Adele	B	1930	Apr	Ludwig		"Steinberg, Friederike"	Nowina	28	Nowina 1930-1939	00006	22	B Bergmann	R									
+		Mittelstaedt	Lydia	B	1930	May	unknown/unbekannt		"Mittelstaedt, Wanda"	Nowina	28	Nowina 1930-1939	00007	23	B Bergmann	R									
+		Scheffler	Leon	B	1930	Jul	August		"Krahn, Lydia"	Nowina	28	Nowina 1930-1939	00008	24	B Bergmann	R									
+		Karmel	Reinhold	B	1930	Nov	Adolf		"Rode, Lydia"	Nowina	28	Nowina 1930-1939	00009	25	B Bergmann	R									
+		Redel	Eugene	B	1930	Dec	Adolf		"Klingbeil, Matilda"	Nowina	28	Nowina 1930-1939	00010	26	B Bergmann	R									
+		Kock	Josef	D	1930	Nov	Johann		"Buelke, Karoline"	Nowina	28	Nowina 1930-1939	00011	5	B Bergmann				"Ikert, Julianna"	68j					
+		Scheffler	Gustav	D	1930	Feb	Daniel		"Lenz, Rosalie"	Nowina	28	Nowina 1930-1939	00012	6	B Bergmann										
+		Steinberg	Hermann	D	1939	Oct	Johann			Nowina	28	Nowina 1930-1939	00015	125	B Bergmann					77j					
+		Koch	Edmund	B	1938	Oct	unknown/unbekannt		"Koch, Leokadia"	Nowina	28	Nowina 1930-1939	00016	439	B Bergmann	R									
+		Rode	Friedrich	B	1938	Dec	Sigmund		"Braun, Adelgunde"	Czerniejow	28	Nowina 1930-1939	00017	10	B Bergmann	R									
+		Scheffler	Eugenie	B	1939	Apr	August		"Krahn, Lydia"	Nowina	28	Nowina 1930-1939	00018	125	B Bergmann	R									
+		Milnikel	Reinhold	B	1939	Aug	Karl		"Hiller, Auguste"	Nowina	28	Nowina 1930-1939	00019	217	B Bergmann	R									
+		Schmidt	Edmund	B	1939	Oct	Eduard		"Mantei, Anna"	Lowiszow	28	Nowina 1930-1939	00020	236	B Bergmann	R									
+		Mittelstaedt	Ida	B	1939	Dec	Emil		"Hintz, Helena"	Lowiszow	28	Nowina 1930-1939	00021	21	B Bergmann	R									
+Cybart		Ziebart	Emil	B	1883	Aug	Karl		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00002	1	B Bergmann					Compilation Table					
+		Goltz	Michael	B	1883	Sep	Friedrich	"Schmidtke, Kristine"	"Schmidtke, Christine"	Nadrybie	28	Nadrybie 1883-1890	00002	2	B Bergmann					Compilation Table					
+		Haff	Hulda	B	1883	Oct	August		"Freitern, Renate"	Nadrybie	28	Nadrybie 1883-1890	00002	3	B Bergmann					Compilation Table					
+		Rode	Matilde	B	1883	Oct	Friedrich		"Remus, Eva"	Nadrybie	28	Nadrybie 1883-1890	00002	4	B Bergmann					Compilation Table					
+		Groth	Emilie	B	1883	Dec	Johann		"Krueger, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00003	1	B Bergmann					Compilation Table					
+		Bloch	Mathilde	B	1884	Jan	Ferdinand		"Kuehn, Emilie"	Kobylki	28	Nadrybie 1883-1890	00003	2	B Bergmann					Compilation Table					
+		Dreger	August	B	1884	Jan	August		"Ziechin, Julianne"	Zezulin	28	Nadrybie 1883-1890	00003	3	B Bergmann					Compilation Table					
+		Draim	Ferdinand	B	1884	Feb	August		"Makus, Eleonora"	Kobylki	28	Nadrybie 1883-1890	00003	4	B Bergmann					Compilation Table					
+		Harch	Tilde	B	1884	Feb	Karl Friedrich		"Reich, Justine"	Bogdanka	28	Nadrybie 1883-1890	00004	1	B Bergmann					Compilation Table					
+		Hein	Bertha	B	1884	Feb	Johann		"Ratke, Ernestine"	Zezulin	28	Nadrybie 1883-1890	00004	2	B Bergmann					Compilation Table					
+		Dreger	Emilie	B	1884	Mar	Ludwig		"Schmidtke, Wilhelmine"	Kobylki	28	Nadrybie 1883-1890	00004	3	B Bergmann					Compilation Table					
+		Kitzmann	Gustav	B	1884	Mar	Christian		"Pide, Florentine"	Kobylki	28	Nadrybie 1883-1890	00004	4	B Bergmann					Compilation Table					
+		Stelter	Gottlieb	B	1884	Apr	Gottlieb		"Groth, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00005	1	B Bergmann					Compilation Table					
+		Pusch	Ida	B	1884	May	Wilhelm		"Sich, Rosalie"	Rozplucie	28	Nadrybie 1883-1890	00005	2	B Bergmann					Compilation Table					
+		Lisak	August	B	1884	Jun	Samuel		"Schiewe, Henriette"	Kobylki	28	Nadrybie 1883-1890	00005	3	B Bergmann					Compilation Table					
+		Krueger	Marianna	B	1884	Jul	Wilhelm		"Schmidt, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00006	1	B Bergmann					Compilation Table					
+		Moeller or Thuel	Gustav	B	1884	Oct	unknown/unbekannt		"Thuel, Elisabeth"	Kobylki	28	Nadrybie 1883-1890	00009	1	B Bergmann					Datei 63 # 1					
+		Rep	Marianna	B	1884	Dec	unknown/unbekannt		"Rep, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00009	2	B Bergmann					Datei 64 # 2					
+		Groth	Ferdinand	B	1884	Dec	Ferdinand		"Schmidt, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00010	3	B Bergmann					Datei 65 # 3					
+Cybart		Ziebart	Karl Ludwig	B	1885	Jan	Karl		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00010	4	B Bergmann					Datei 66 # 4					
+Korzyske		Korschiske	Ludwig	B	1885	Apr	Karl          		"Rogan, Auguste"	Nadrybie	28	Nadrybie 1883-1890	00011	5	B Bergmann					Datei 67 # 5					
+		Janke	Emilie	B	1885	Sep	Andreas		"Jabs, Susanne"	Nadrybie	28	Nadrybie 1883-1890	00011	6	B Bergmann					Datei 68 # 6					
+		Schmaltz	Julianna	B	1885	Oct	Friedrich		"Becker, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00012	7	B Bergmann					Datei 69 # 7					
+		Proehl	stillborn female	D	1885	Dec	Ernst	"Schtelter, Wilhelmine"	"Stelter, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00013	8	B Bergmann					"birth record, Datei 70 # 8"					
+		Proehl	Wanda	B	1886	Jan	Johann		"Taron, Luise"	Nadrybie	28	Nadrybie 1883-1890	00013	9	B Bergmann					Datei 71 #9					
+		Heppner	Josef	B	1886	Jan	Friedrich		"Fenske, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00014	10	B Bergmann					Datei 72 # 10					
+Cybart		Ziebart	Johann	B	1886	Jan	Johann		"Mantei, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00014	11	B Bergmann					Datei 73 # 11					
+		Jaeger	Wanda	B	1886	Feb	Karl		"Schmidt, Ernestine"	Kaniwola	28	Nadrybie 1883-1890	00015	12	B Bergmann					Datei 74 # 12					
+		Kluemm	Anna	B	1886	Jun	Gottlieb		"Richter, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00015	13	B Bergmann										
+Cybart		Ziebart	Wanda	B	1886	Sep	Karl             		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00016	14	B Bergmann										
+		Rode	Michael	B	1886	Sep	Friedrich		"Remus, Eva"	Nadrybie	28	Nadrybie 1883-1890	00016	15	B Bergmann										
+		Groth	Gottlieb	B	1886	Oct	Ferdinand		"Schmidt, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00017	16	B Bergmann										
+		Proehl	Adolf	B	1886	Dec	Ernst	"Schtelter, Wilhelmine"	"Stelter, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00017	17	B Bergmann										
+		Krueger	Anna	B	1886	Dec	Wilhelm		"Schmidt, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00018	18	B Bergmann										
+		Groth	Ferdinand	B	1887	Jan	Ludwig		"Schmidt, Luise"	Nadrybie	28	Nadrybie 1883-1890	00018	19	B Bergmann										
+		Becker	Wanda	B	1887	Mar	Ferdinand		"Riemer, Anna"	Nadrybie	28	Nadrybie 1883-1890	00019	20	B Bergmann										
+		Proehl	Gustav	B	1887	Mar	Johann		"Taron, Luise"	Nadrybie	28	Nadrybie 1883-1890	00019	21	B Bergmann										
+Cybart		Ziebart	Pauline	B	1887	Apr	Michael		"Heppner, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00020	22	B Bergmann										
+		Herzog	Karoline	B	1887	Aug	unknown/unbekannt		"Herzog, Marianna"	Nadrybie	28	Nadrybie 1883-1890	00020	23	B Bergmann					mother married Krebs; born out of wedlock					
+		Gesse	Lucian	B	1887	Oct	Alexander		"Pusch, Pauline"	Nadrybie	28	Nadrybie 1883-1890	00021	24	B Bergmann										
+		Proehl	Ottilie	B	1888	Mar	Ernst	"Schtelter, Wilhelmine"	"Stelter, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00021	26	B Bergmann										
+Korzyske		Korschiske	Wilhelm	B	1887	Nov	Karl		"Rogan, Auguste"	Nadrybie	28	Nadrybie 1883-1890	00022	25	B Bergmann										
+Cybart		Ziebart	Gustav	B	1888	Mar	Karl                         		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00023	27a	B Bergmann										
+Cybart		Ziebart	Wanda	B	1888	Apr	Johann		"Mantei, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00023	27b	B Bergmann										
+Schteinke		Steinke	Adolf	B	1888	May	Theodor		"Duelge, Ernestine Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00024	28	B Bergmann										
+		Braun	Ferdinand	B	1888	Jul	August		"Krause, Emilie"	Wolka Nadrybska	28	Nadrybie 1883-1890	00024	29	B Bergmann										
+		Becker	Wilhelmine	B	1888	Dec	Ferdinand		"Riemer, Anna"	Nadrybie	28	Nadrybie 1883-1890	00025	30	B Bergmann										
+		Pusch	Josef	B	1889	Jan	unknown/unbekannt		"Pusch, Pauline"	Nadrybie	28	Nadrybie 1883-1890	00025	1	B Bergmann					mother married Gesse; born out of wedlock					
+		Proehl	Wilhelmine	B	1889	Mar	Johann		"Taron, Luise"	Nadrybie	28	Nadrybie 1883-1890	00026	2	B Bergmann										
+		Groth	Julian 	B	1889	Mar	Ferdinand		"Schmidt, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00026	3	B Bergmann										
+		Rep	Johann	B	1889	May	unknown/unbekannt		"Rep, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00027	4	B Bergmann										
+		Groth	Julianna	B	1889	Jun	Ludwig		"Schmidt, Luise"	Nadrybie	28	Nadrybie 1883-1890	00028	5	B Bergmann										
+Cybart		Ziebart	Gustav	B	1889	Jul	Michael		"Heppner, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00028	7	B Bergmann										
+		Rode	Julius	B	1889	Jul	Friedrich		"Remus, Eva"	Nadrybie	28	Nadrybie 1883-1890	00029	6	B Bergmann										
+		Schmaltz	Alexander	B	1889	Aug	Ferdinand		"Ziebart, Anna"	Nadrybie	28	Nadrybie 1883-1890	00030	8	B Bergmann										
+		Hase	Friedrich	B	1889	Oct	Wilhelm		"Depner, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00030	10	B Bergmann										
+Schtelter		Stelter	Lene	B	1889	Oct	Gottlieb		"Groth, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00031	9	B Bergmann										
+Cybart		Ziebart	Luise	B	1889	Dec	Karl		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00032	11	B Bergmann										
+		Herzog	Wanda	B	1890	Jan	Ludwig		"Stelter, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00033	1	B Bergmann										
+		Krueger	Karoline	B	1890	Jan	Wilhelm		"Schmidt, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00033	2	B Bergmann										
+Korzyske		Korschiske	Ferdinand	B	1890	Feb	Karl		"Rogan, Justine"	Nadrybie	28	Nadrybie 1883-1890	00034	3	B Bergmann										
+		Proehl	Wanda	B	1890	Feb	Ernst		"Stelter, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00034	4	B Bergmann										
+		Becker	August	B	1890	Mar	Ferdinand		"Riemer, Anna"	Nadrybie	28	Nadrybie 1883-1890	00035	5	B Bergmann										
+		Harmel	Adolf	B	1890	Sep	August		"Renn, Luise"	Nadrybie	28	Nadrybie 1883-1890	00035	7	B Bergmann										
+		Repp	Wanda	B	1890	May	unknown/unbekannt		"Repp, Hulda Mathilde"	Nadrybie	28	Nadrybie 1883-1890	00036	6	B Bergmann										
+		Groth	Ernst	D	1884	Dec				Nadrybie	28	Nadrybie 1883-1890	00037	2 	B Bergmann					59j					
+		Panter or Schmaltz	Augustine	D	1885	Jan			"Panter, Luise"	Nadrybie	28	Nadrybie 1883-1890	00037	3	B Bergmann					"3j, 6m"					
+		Harch	Tilde	D	1885	Feb	Karl Friedrich		"Reich, Justine"	Nadrybie	28	Nadrybie 1883-1890	00038	4	B Bergmann										
+		Seifert	Johann Ferdinand	D	1885	Feb	Johann		"Piper, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00038	5	B Bergmann					"6j,11m20t"					
+Cybart		Ziebart	Emil 	D	1885	Feb	Karl		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00039	6	B Bergmann					"1j,5m,3w"					
+Cybart		Ziebart	Alwine	D	1885	Mar	Karl		"Hirsekorn, Julianna"	Nadrybie	28	Nadrybie 1883-1890	00039	7	B Bergmann					"10j,3m,3w"					
+		Repp	Friedrich	D	1885	Mar	unbekannt		"Repp, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00040	8	B Bergmann					"1j,10m5t"					
+Korzyske		Korschiske	Johann	D	1885	Mar	Karl		"Rogan, Auguste"	Nadrybie	28	Nadrybie 1883-1890	00040	9	B Bergmann					"2j,6m"					
+		Mendach	Johanna	D	1885	Mar	Johann		"Schrener, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00041	10	B Bergmann					"2j,9m,9t"					
+		Becker	August	D	1887	Nov	Ferdinand		"Piper, Anna Regina"	Nadrybie	28	Nadrybie 1883-1890	00041	14	B Bergmann				"Piper, Emilie"	54j					
+		Panter   	Luise	D	1886	Mar	Kasper		"Tocke, Karoline"	Nadrybie	28	Nadrybie 1883-1890	00042	11	B Bergmann				Schmaltz	44j					
+		Felske	Emilie	D	1887	Feb				Nadrybie	28	Nadrybie 1883-1890	00043	12	B Bergmann				"Heppner, Friedrich"	43j					
+		Gesse	Lucian	D	1887	Nov	Alexander		"Pusch, Pauline"	Nadrybie	28	Nadrybie 1883-1890	00044	13	B Bergmann					5t					
+		Piper	Emilie	D	1888	Feb	Ernst		Charlotte	Nadrybie	28	Nadrybie 1883-1890	00045	15	B Bergmann				"Becker, August"	52j					
+		Steinke	Alexander	D	1888	Jun	Theodor		"Duelge, Ernstine Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00045	17	B Bergmann					"2j,6m"					
+		Steinke	Adolf	D	1888	May	Theodor		"Duelge, Ernstine Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00046	16	B Bergmann					4j					
+Cybart		Ziebart	Pauline	D	1888	Jun	Michael		"Heppner, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00047	18	B Bergmann					"1j,2m"					
+		Schmaltz	Julianna	D	1888	Nov	Friedrich		"Becker, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00047	19	B Bergmann					4j					
+Cybart		Ziebart	Wanda	D	1889	Jan	Johann		"Mantei, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00048	1	B Bergmann					"8m,2w,4t"					
+		Groth	Ferdinand	D	1888	Dec	Ludwig		"Schmidt, Luise"	Nadrybie	28	Nadrybie 1883-1890	00048	20	B Bergmann					2j 					
+		Proehl	Wanda	D	1889	Jan	Johann		"Taron, Luise"	Nadrybie	28	Nadrybie 1883-1890	00050	2	B Bergmann					3j 					
+Cybart		Ziebart	Johann	D	1889	Feb	Johann		"Mantei, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00051	3	B Bergmann					3j 					
+		Becker	Wilhelmine	D	1889	Dec	Ferdinand		"Riemer, Anna"	Nadrybie	28	Nadrybie 1883-1890	00052	6	B Bergmann					3w					
+		Heppner	Josef	D	1889	Feb	Friedrich		"Felske, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00052	4	B Bergmann					3j 					
+		Schrener	Luise	D	1889	Apr				Nadrybie	28	Nadrybie 1883-1890	00053	5	B Bergmann				"Proehl, Ferdinand"	71j					
+		Repp	Johann	D	1890	Mar	unknown/unbekannt		"Repp, Henriette"	Nadrybie	28	Nadrybie 1883-1890	00054	8	B Bergmann					9m					
+		Proehl	Wilhelmine	D	1890	Jan	Johann		"Taron, Luise"	Nadrybie	28	Nadrybie 1883-1890	00055	7	B Bergmann					10m					
+		Groth	Olga	D	1890	Apr	Johann		"Krueger, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00056	10	B Bergmann					8m 					
+		Schmaltz	Ferdinand	D	1890	Mar	Friedrich		"Becker, Emilie"	Nadrybie	28	Nadrybie 1883-1890	00056	9	B Bergmann					9w					
+		Piper	Luise Henriette	D	1890	Jul	Peter		"Korschiske, Wilhelmine"	Nadrybie	28	Nadrybie 1883-1890	00058	11	B Bergmann				"Seifert, Johann"	56j					
+		Gesse	Josef	D	1890	Aug	Alexander		"Pusch, Pauline"	Nadrybie	28	Nadrybie 1883-1890	00058	12	B Bergmann					2j 					
+		Mantei	Wilhelm	D	1890	Sep				Nadrybie	28	Nadrybie 1883-1890	00060	13	B Bergmann				"Schilke, Emilie"						
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

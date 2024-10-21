@@ -1,0 +1,84 @@
+<div class="main-content">
+    <h1 class="centered-content">Advanced Search - VKP Marriage Records </h1>
+    <h2>Volhynia, Kiev and Podolia Lutheran Parishes</h2>
+    <p>See the <a href="#/databases.html" target="_blank">Databases</a> page for explanatory information about the VKP database.</p>
+    <p>This database is an index of:</p>
+  
+    <ul>
+      <li>Marriages for the parishes of Zhitomir, Rozyszcze, Heimtal (all in Volhynia), Kiev, and Podolia for years 1833 to 1885, with some years missing, extracted from FHL microfilms of St. Petersburg Archive records.</li>
+      <li>Marriages for Rozyszcze parish for the missing years 1865, 1870, 1871, 1880 and 1884 and the years 1886 to 1895 extracted from FHL microfilms of register books held in AGAD.</li>
+      <li>Marriages for Rozyszcze parish for the years 1862 to 1909, excepting 1907, extracted from online scans of the AGAD register books, along with links to the online scans.</li>
+      <li>Marriages for Wladimir-Wolynsk parish for the years 1891 to 1894 and indexes only for 1895 to 1899.</li>
+      <li>Marriages for Tutschin kantorate for the years 1849 to 1888 with some years and parts of years missing.</li>
+    </ul>
+  
+    <p><strong>Note:</strong> In most cases, only the names of the groom and bride and the date of marriage are given in this index and in the corresponding St. Petersburg Archive microfilms. However, the register books of Rozyszcze, Wladimir-Wolynsk, and Lutzk parishes held in AGAD contain full marriage records which may be viewed in the FHL microfilms 2380026 to 2380029 and 2380036, and also online at <a href="http://www.agad.gov.pl/inwentarze/KsEA439x.xml" target="_blank">http://www.agad.gov.pl/inwentarze/KsEA439x.xml</a> For Tutschin kantorate, full marriage records are given in microfilm 2380034. These full marriage records contain information not in the index including ages, resident places, birth places, and parents' names of bride and groom. The recently added (November 2016) Rozyszcze entries from AGAD online scans contain the names of the parents and/or the previous spouse of the groom and bride and the ages of the groom and bride as well as clickable links to the online scans.</p>
+  
+    <p><span>SGGEE Members</span> - This page allows you to do partial name searches such as searching for "chu" in the middle of a name. Note that this advanced search is not available on the public version of this database.</p>
+  
+    <p>You can also search the <a href="#/members/StPeteBirthMember.html">Birth</a> and <a href="#/members/StPeteDeathMember.html">Death</a> databases.</p>
+    <p>&nbsp;</p>
+  
+    <h2>Using the Search Tool</h2>
+    <p>We encourage you to review <a href="#/members/SearchInstruct.html">instructions</a> for using our search tool, especially if this is your first time. They will provide hints and tips for optimizing your search, thereby ensuring a better chance of getting results.</p>
+  
+    <form id="StPeteMarriageMembers" action="/sggee/SGGEESearch" method="post" name="StPeteMarriageMembers">
+  
+      <div class="form-section">
+        <input id="groom_last" name="groom_last" placeholder="Groom Surname" type="text" size="22">
+        <input id="groom_first" name="groom_first" placeholder="Groom Given Name" type="text" size="24">
+        <input id="year" name="year" placeholder="Event Year" type="text" size="17">
+      </div>
+  
+      <div class="form-section">
+        <input id="bride_last" name="bride_last" placeholder="Bride Surname" type="text" size="22">
+        <input id="bride_first" name="bride_first" placeholder="Bride Given Name" type="text" size="24">
+        <input id="place" name="place" placeholder="Place" type="text" size="17">
+      </div>
+  
+      <div class="flex-row-container">
+        <div class="form-section">
+            <label class="radio-option">
+                <input name="search_type" value="normal" checked="checked" type="radio">
+                <span>Normal Search</span>
+            </label>
+            <label class="radio-option">
+                <input name="search_type" value="advanced" type="radio">
+                <span>Case Sensitive / Advanced Search</span>
+            </label>
+            <label class="radio-option">
+                <input name="search_type" value="exact" type="radio">
+                <span>Exact Match</span>
+            </label>
+        </div>
+
+        <div class="form-section">
+            <span>Sort results by</span>
+            <select name="sort_by" size="1">
+                <option value="0">Surname</option>
+                <option value="1">Given Name</option>
+                <option value="3">Death Date</option>
+                <option value="4">Death Place</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="centered-content">
+        <span>Number of results to display per page:</span>
+        <select name="numToReturn" size="1">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="25">25</option>
+            <option selected="selected" value="50">50</option>
+        </select>
+    </div>
+  
+    <div class="centered-content">
+        <button name="search_and_display_db_button" value="Search the Database" type="submit">Search</button>
+    </div>
+  
+    </form>
+  </div>
+  

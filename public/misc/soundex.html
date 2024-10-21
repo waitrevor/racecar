@@ -1,0 +1,30 @@
+<div class="main-content">
+    <h1 class="centered-content">Modified D-M Soundex Description </h1>
+    <p></p>
+    <p>Soundex indexing is a means of encoding sounds from a name or word into a numeric code. Essentially letters or letter combinations with similar sounds are encoded by the same digit. This page is not intended to provide a detailed description of how Soundex indexing is implemented. Interested readers can refer to the links below for an in depth treatment of this topic. This page is primarily to inform SGGEE membership how we have modified the Soundex systems referred to below to more effectively search surnames in our genealogical databases.
+    </p><p>The Daitch-Mokotoff Soundex (D-M Soundex) system was first developed in 1985 by Gary Mokotoff by modifying the U.S. Soundex used by the U.S. National Archives. Mokotoff had engineered a system that better handles the phonetics of Jewish names from 
+								<st1:place w:st="on">
+									Europe 
+								</st1:place>
+								. Randy Daitch later improved Mokotoff’s system by adding some additional rules to the algorithm making it still more applicable to names from eastern Europe. The D-M Soundex system is now used widely by organizations that deal with Jewish genealogy. As such the D-M Soundex tends to favor Polish and Slavic phonetics accommodating many multi-consonant letter strings found in these languages as single sounds. When the D-M Soundex is used on German names many unrelated false hits are obtained making this system relatively impractical for our purposes.</p>
+							<p>The Soundex system that we have engineered is a modification of the D-M Soundex system. Essentially three major changes were made as follows.  Numbers in square brackets below [ ] refer to further footnotes at the end of this page.</p>
+							<p>1) The encoding of letters and letter combinations was altered and expanded to better reflect phonetics used in the German language. Some accommodations were retained for individual letters or combinations in Polish phonetics (such as for C and Z or combinations including these letters) since our databases often have Polish names or German names spelled with Polish phonetics. Importantly, many of the complex letter strings found only in town names but not surnames were removed. This made available a digit which is now used for letters F / V / W and letter combinations producing this general sound thus separating it from the B / P sound class. The net result of these changes would prevent equalities like Schmidt = Janot [1] or Benke = Wanke [2].</p>
+							<p>2) In other Soundex systems vowels are generally ignored unless at the beginning of a name or when a string of three vowels is found. Placement of vowels provides critical information for how names are pronounced and their positions are encoded in our Soundex. This modification prevents equalities like Belke = Bloch [3].</p>
+							<p>3) The D-M Soundex produces a 6-digit code for each name. Since our Soundex does not ignore vowels this has been expanded to an 8-digit code to accommodate longer names. This will prevent equalities such as Finkelman = Finkelstein [4].</p>
+							<p>When using our Soundex utility, please remember it is only a tool to help you find other possibilities for how a name may be used or spelled in the databases. Some false hits will still occur, but they are greatly reduced relative to the results using the D-M Soundex. Likewise, some legitimate alternative spellings may not be displayed. If you notice spellings that you would expect to show up please send an email detailing your experience to the  <a href="mailto:webmaster@sggee.org">Webmaster</a> as we can still tweak our Soundex to make it more effective in handling certain letter combinations.</p>
+							<p>&nbsp;</p>
+	<p><u>Links to Soundex References</u>.</p>
+							<p><a href="http://www.avotaynu.com/soundex.htm">Daitch-Mokotof Soundex</a></p>
+	<p><a href="http://en.wikipedia.org/wiki/Soundex">Wikipedia Soundex Page</a> (good summary of the development and variations of Soundex indexing)</p>
+							<p><a href="http://www.archives.gov/research/census/soundex.html">U.S. National Archives and Records Administration</a> page on Soundex Indexing&nbsp;&nbsp;&nbsp;</p>
+	<p>&nbsp;</p>
+	<p><u>Footnotes</u></p>
+							<p>1 - In the D-M Soundex, J can be encoded like the Y sound in “Yes” or the J sound in “Jet” in which case it would be encoded as equal with an S. The latter usage is never found in German (or almost never barring the Americanization of the German language) accounting for the false hit observed above by the D-M Soundex.</p>
+							<p>2 – This example shows how F / V / W are clearly different than B / P and should be encoded differently.</p>
+							<p>3 – When ignoring vowels, Belke becomes “BLK” while Bloch becomes “BL[CH]” where [CH] is encoded the same as G / H / K.</p>
+							<p>4 – When vowels are encoded, the name Finkel is fully encoded by 6 digits whereas additional digits are needed to distinguish Finkelman from Finkelstein. Generally 8 digits should suffice to select reasonable hits on longer names.</p>
+							<p><u></u></p>
+							<p></p>
+<p></p>
+  </div>
+  

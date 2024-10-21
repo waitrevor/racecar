@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2880 2880">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        stroke-width: 199.1px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #00afaa;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-width: 99.4px;
+      }
+
+      .cls-5 {
+        stroke-width: 200px;
+      }
+
+      .cls-5, .cls-2 {
+        fill: #00afaa;
+      }
+
+      .cls-2 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-size: 800px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <rect class="cls-5" x="511.3" y="2418.8" width="1862.2" height="361.8"/>
+      <path class="cls-3" d="M1438.5,96.2c-401.1,0-726.3,323.5-726.3,722.6v1592.8h1452.4V818.7h.1c0-399.1-325.2-722.6-726.3-722.6Z"/>
+      <rect class="cls-4" x="937.7" y="1871.1" width="1013.6" height="53.9"/>
+      <rect class="cls-4" x="937.7" y="1511.9" width="1013.6" height="53.9"/>
+      <g class="cls-1">
+        <g class="cls-1">
+          <text class="cls-2" transform="translate(853.2 1340.1)"><tspan x="0" y="0">RIP</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
